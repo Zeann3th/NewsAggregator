@@ -1,14 +1,14 @@
 package webcrawling;
 
 import posts.Post;
-import java.util.ArrayList;
+import java.util.List;
 
 public abstract class Crawler {
 
     // Attributes
 
     private String subject;
-    private ArrayList<Post> postList;
+    private List<Post> postList;
 
     // Methods
 
