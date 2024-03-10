@@ -14,11 +14,11 @@ public class Post {
     private String articleDetailedContent;
     private String creationDate;
     private ArrayList<String> associatedTags;
-    private Author author;
+//    private Author author;
     private String category;
 
     // Methods
-    //TODO: Fix constructor
+    //TODO: Fix constructor, adding Author
 
     public Post() {}
 
@@ -33,7 +33,7 @@ public class Post {
         this.articleDetailedContent = articleDetailedContent;
         this.creationDate = creationDate;
         this.associatedTags = associatedTags;
-        this.author = author;
+//        this.author = author;
         this.category = category;
     }
 
@@ -69,9 +69,9 @@ public class Post {
         this.associatedTags = associatedTags;
     }
 
-    public void setAuthor(Author author) {
-        this.author = author;
-    }
+//    public void setAuthor(Author author) {
+//        this.author = author;
+//    }
 
     public void setCategory(String category) {
         this.category = category;
@@ -109,9 +109,9 @@ public class Post {
         return associatedTags;
     }
 
-    public Author getAuthor() {
-        return author;
-    }
+//    public Author getAuthor() {
+//        return author;
+//    }
 
     public String getCategory() {
         return category;
@@ -126,7 +126,7 @@ public class Post {
         System.out.println("Detailed article content: " + articleDetailedContent);
         System.out.println("Creation date: " + creationDate);
         System.out.println("Associated tags: " + associatedTags);
-        System.out.println("Author's name: " + author.getName());
+//        System.out.println("Author's name: " + author.getName());
         System.out.println("Category: " + category);
     }
 }

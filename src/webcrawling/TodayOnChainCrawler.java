@@ -35,10 +35,9 @@ public class TodayOnChainCrawler extends Crawler{
         List<String> articleLinks = new ArrayList<>();
         for (WebElement article : articles) {
             articleLinks.add(article.getAttribute("href"));
-            System.out.println(article.getAttribute("href"));
-
         }
-
+        System.out.println("Tìm thấy " + articles.toArray().length + " kết quả!!");
+        // Lấy dữ liệu ở từng bài báo
         List<Post> postlist = new ArrayList<>();
         for (String articleLink : articleLinks) {
             driver.get(articleLink);
