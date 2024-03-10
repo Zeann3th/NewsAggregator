@@ -1,6 +1,6 @@
 package posts;
 
-import java.util.ArrayList;
+import java.util.List;
 
 public class Post {
 
@@ -13,7 +13,7 @@ public class Post {
     private String articleSummary;
     private String articleDetailedContent;
     private String creationDate;
-    private ArrayList<String> associatedTags;
+    private List<String> associatedTags;
     private Author author;
     private String category;
 
@@ -24,7 +24,7 @@ public class Post {
 
     public Post(String articleLink, String websiteSource, String articleType, String articleTitle,
                 String articleSummary, String articleDetailedContent, String creationDate,
-                ArrayList<String> associatedTags, Author author, String category) {
+                List<String> associatedTags, Author author, String category) {
         this.articleLink = articleLink;
         this.websiteSource = websiteSource;
         this.articleType = articleType;
@@ -65,7 +65,7 @@ public class Post {
         this.creationDate = creationDate;
     }
 
-    public void setAssociatedTags(ArrayList<String> associatedTags) {
+    public void setAssociatedTags(List<String> associatedTags) {
         this.associatedTags = associatedTags;
     }
 
@@ -105,7 +105,7 @@ public class Post {
         return creationDate;
     }
 
-    public ArrayList<String> getAssociatedTags() {
+    public List<String> getAssociatedTags() {
         return associatedTags;
     }
 

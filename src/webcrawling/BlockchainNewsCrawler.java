@@ -23,7 +23,6 @@ public class BlockchainNewsCrawler extends Crawler {
         // NORMAL sẽ đợi cho cả trang web load hết, rất lâu...
 
         WebDriver driver = new EdgeDriver(edgeOptions);
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 
         driver.get("https://blockchain.news/");
@@ -46,24 +45,24 @@ public class BlockchainNewsCrawler extends Crawler {
         for (String articleLink : articleLinks) {
             driver.get(articleLink);
             // Author hay tác giả
-            Author author_i = new Author();
+            Author currentAuthor = new Author();
             driver.get(driver.findElement(By.className("entry-cat")).getAttribute("href"));
-            author_i.setName(driver.findElement(By.tagName("h1")).getText());
-            author_i.setLastPost(driver.findElement(By.cssSelector(".thumbnail-attachment.profile-post-image > a")).getAttribute("href"));
+            currentAuthor.setName(driver.findElement(By.tagName("h1")).getText());
+            currentAuthor.setLastPost(driver.findElement(By.cssSelector(".thumbnail-attachment.profile-post-image > a")).getAttribute("href"));
             driver.navigate().back();
             // Thuộc tính bài viết
-            Post post_i = new Post();
-            post_i.setArticleTitle(driver.findElement(By.cssSelector(".title > b")).getText());
-            post_i.setAuthor(author_i);
-            post_i.setCreationDate(driver.findElement(By.className("entry-date")).getAttribute("datetime"));
-            post_i.setArticleLink(articleLink);
-            post_i.setWebsiteSource("Blockchain News");
-            post_i.setArticleType("Article");
-            post_i.setArticleSummary(driver.findElement(By.className("text-size-big")).getText());
-            post_i.setArticleDetailedContent(driver.findElement(By.className("textbody")).getText());
-            post_i.setCategory(driver.findElement(By.className("entry-label")).getText());
-            postList.add(post_i);
-            post_i.display();
+            Post currentPost = new Post();
+            currentPost.setArticleTitle(driver.findElement(By.cssSelector(".title > b")).getText());
+            currentPost.setAuthor(currentAuthor);
+            currentPost.setCreationDate(driver.findElement(By.className("entry-date")).getAttribute("datetime"));
+            currentPost.setArticleLink(articleLink);
+            currentPost.setWebsiteSource("Blockchain News");
+            currentPost.setArticleType("Article");
+            currentPost.setArticleSummary(driver.findElement(By.className("text-size-big")).getText());
+            currentPost.setArticleDetailedContent(driver.findElement(By.className("textbody")).getText());
+            currentPost.setCategory(driver.findElement(By.className("entry-label")).getText());
+            postList.add(currentPost);
+//            currentPost.display();
             driver.navigate().back();
         }
         driver.quit();
