@@ -5,12 +5,12 @@ public class Author {
     // Attributes
     private String name;
     private String dateOfBirth;
-    private Post lastPost;
+    private String lastPost;
 
     // Methods
     //TODO: Fix constructor
     public Author() {}
-    public Author(String name, String dateOfBirth, Post lastPost) {
+    public Author(String name, String dateOfBirth, String lastPost) {
         this.name = name;
         this.dateOfBirth = dateOfBirth;
         this.lastPost = lastPost;
@@ -21,7 +21,7 @@ public class Author {
     public void setDateOfBirth(String dateOfBirth) {
         this.dateOfBirth = dateOfBirth;
     }
-    public void setLastPost(Post lastPost) {
+    public void setLastPost(String lastPost) {
         this.lastPost = lastPost;
     }
     public String getName() {
@@ -30,7 +30,7 @@ public class Author {
     public String getDateOfBirth() {
         return dateOfBirth;
     }
-    public Post getLastPost() {
+    public String getLastPost() {
         return lastPost;
     }
 }
