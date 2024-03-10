@@ -6,7 +6,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import posts.Author;
 import posts.Post;
@@ -18,10 +17,6 @@ import java.util.List;
 public class BlockchainNewsCrawler extends Crawler {
     @Override
     public void crawl() {
-
-    }
-
-    public static void main(String[] args) {
         EdgeOptions edgeOptions = new EdgeOptions();
         edgeOptions.setPageLoadStrategy(PageLoadStrategy.EAGER);
         // EAGER sẽ chỉ quan tâm đến những thành phần html của trang web nên hoạt động nhanh hơn NORMAL.
@@ -34,7 +29,6 @@ public class BlockchainNewsCrawler extends Crawler {
         driver.get("https://blockchain.news/");
         WebElement loadMoreButton = driver.findElement(By.xpath("//*[@id=\"btnLoadMore\"]"));
         for (int i = 0; i <= 10; i++) {
-//            wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\"btnLoadMore\"]")));
             try {
                 Thread.sleep(5000); // milliseconds
             } catch (InterruptedException e) {
