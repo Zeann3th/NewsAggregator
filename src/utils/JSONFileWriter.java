@@ -4,17 +4,13 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 import posts.Post;
 
-import java.io.BufferedWriter;
-import java.nio.file.Files;
-import java.nio.file.Paths;
+
+import java.io.FileWriter;
 import java.util.List;
 
 public class JSONFileWriter {
     public void writeFile(List<Post> postList) {
-        try {
             JSONArray jArray = new JSONArray();
-            // Create a writer for the output file
-            BufferedWriter writer = Files.newBufferedWriter(Paths.get("json/data.json"));
             for (Post post : postList) {
                 JSONObject currentPost = new JSONObject();
                 currentPost.put("article_link", post.getArticleLink());
@@ -33,12 +29,16 @@ public class JSONFileWriter {
                 currentPost.put("associated_tags", post.getAssociatedTags());
                 currentPost.put("category", post.getCategory());
 
-                writer.write(currentPost.toString());
+                jArray.put(currentPost);
             }
-            writer.close();
-        }
-        catch (Exception e) {
-            e.printStackTrace();
-        }
+            try {
+                FileWriter writer = new FileWriter("json/data.json");
+                writer.write(jArray.toString());
+                writer.close();
+                System.out.println("Dữ liêu đã được viết thành công!!!");
+            }
+            catch (Exception e) {
+                e.printStackTrace();
+            }
     }
 }

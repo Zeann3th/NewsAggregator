@@ -1,0 +1,945 @@
+[
+  {
+    "article_title": "DeFi protocol Unizen to provide \u2018immediate reimbursement\u2019 after $2.1M hack",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/unizen-hack-immediate-refund",
+      "name": "Ezra Reguerra"
+    },
+    "article_detailed_content": "Decentralized finance (DeFi) protocol Unizen announced that it would reimburse its users who lost 750,000 or less \u201cas soon as humanly possible\u201d after the platform got compromised, losing about $2.1 million in user funds.\nOn March 9, blockchain analytics firm PeckShield flagged an \u201capprove issue\u201d with the DeFi platform, reporting that over $2 million had already been drained. The security firm urged users to revoke the approvals from the trade aggregator to avoid further loss. Security company SlowMist estimated the exploit losses to be around $2.1 million and noted that the attacker swapped the Tether (USDT) for the stablecoin Dai (DAI).\nA day later, the DeFi protocol sent an on-chain message to the hacker, offering a 20% bounty in exchange for returning the remaining stolen funds. The protocol also said they are already working with law enforcement and forensic experts to determine the hacker\u2019s identity.\nOn-chain message sent by Unizen to the hacker. Source: Etherscan\nWhile the bounty negotiations are still ongoing, the DeFi protocol was quick to refund victims of the hack. On March 11, the company announced it would make 99% of the affected users whole as soon as possible.\n\u201cReimbursement for the rest of those will be given to the same wallets affected starting immediately. While we intend to start distributions today, we are going through each distribution individually in a slow, careful and methodical manner,\u201d they wrote.\nRelated: Crypto phishers stole $47M last month, impersonators on X to blame\nAccording to the announcement, Unizen founder and CEO Sean Noga loaned funds to the company to refund the hack victims. Users who lost below $750,000 will get their funds back, with refunds starting on March 11.\nThe company will return funds in USDT or USD Coin (USDC). However, for those who lost more than $750,000, the DeFi protocol said they would handle the issue on a case-to-case basis. Along with the announcement, the company also shared a video guide teaching users how to review and revoke approvals within the platform to avoid further losses. \nUnizen chief technology officer Martin Granström also said on X they have already collected enough evidence for a post-mortem report and are working with third-party firms on the matter. The executive announced that they would share an incident report soon and promised to invest more in security in the future.\nMagazine: DeFi\u2019s billion-dollar secret: The insiders responsible for hacks",
+    "article_summary": "DeFi protocol Unizen announced that it will issue an immediate refund to users who lost their funds to an exploit this weekend.",
+    "creation_date": "2024-03-11",
+    "associated_tags": [
+      "#Blockchain",
+      "#Security",
+      "#Hackers",
+      "#Cybersecurity",
+      "#Hacks",
+      "#DeFi"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/unizen-hack-immediate-refund",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Bitcoin halving: What\u2019s different this time around?",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/bitcoin-halving-different-this-time",
+      "name": "Brayden Lindrea"
+    },
+    "article_detailed_content": "Bitcoin\u2019s supply and demand dynamic will be even more favorable than after previous halvings in 2012, 2016 and 2020, thanks to the recent launch of spot Bitcoin exchange-traded funds (ETFs) in the United States.\nBitcoin (BTC) halvings cut miner rewards in half every 210,000 blocks, which is approximately every 48 months.\nThe next halving event will occur at block 840,000 \u2014 expected to take place on April 20 \u2014 and will see mining rewards reduced from 6.25 BTC ($418,800) to 3.125 BTC ($209,400).\nHistory shows Bitcoin\u2019s price starts ticking upward to break previous all-time highs about four or five months after the halving.\nOn May 11, 2020, during the previous halving, Bitcoin was priced at $8,750. It surged 430% five months later, from $11,500 to $61,300 by mid-March 2021.\nIn doing so, it smashed the previous all-time high of $19,665 on Dec. 16, 2017.\nBitcoin\u2019s change in price between May 11, 2020 and March 15, 2021. Source: CoinGecko\nAnalysts have primarily attributed this to spot Bitcoin ETFs, which have caused a radical change in Bitcoin\u2019s supply and demand dynamic, according to Jaran Mellerud, a founder and chief strategist at Hashlab Mining, who recently spoke with Cointelegraph.\nSpot Bitcoin ETF issuers are scooping up 2,450 BTC each day while only 900 BTC are mined, Mellerud noted.\n\u201cThis number will fall to 450 BTC post-halving in late April [where the ETFs will be] sweeping up BTC at a rate five times higher than BTC\u2019s post-halving supply growth. This huge imbalance between supply and demand will lead to a continuous but volatile upward grind of the BTC price.\u201d\nMellerud comments on Bitcoin\u2019s supply and demand imbalance. Source: Jaran Mellerud on X\nThis will multiply Bitcoin\u2019s demand at a time when the halving will reduce its supply, said Mellerud, who expects Bitcoin\u2019s price to rise substantially higher as a result.\nSouce: Matt Hougan on X\nBitcoin is now more decentralized and secure\nThe health of the Bitcoin network has also strengthened, according to Mellerud, who noted that Bitcoin\u2019s hash rate is five times higher than it was at the last halving.\n\u201cIt now requires five times more computing power and associated electricity supply, electrical infrastructure, and mining hardware to attack the network.\u201d\nThe network was already tremendously secure at the time of the 2020 halving, but now it is basically impenetrable, Mellerud added.\nRelated: Bitcoin mining battles 2023 \u2014 Surging hash rates test industry limits\nMellerud noted that Bitcoin\u2019s hash rate is now more widely distributed than at the time of the last halving, where Chinese miners controlled a large share of the network.\n\u201cThis geographic decentralization is continuing as miners migrate to Africa and Latin America to take advantage of cheaper electricity prices,\u201d he said.\nSouce: Alex Gladstein on X\nExchange or buy BTC\nDisclaimer: The information contained on this widget is not intended as, and shall not be understood or construed as legal, tax, investment, financial, or other advice. Nothing contained on this widget constitutes a solicitation, recommendation, endorsement, or offer by Cointelegraph or any third party service provider to buy or sell any cryptoassets or other financial instruments. We advise you to spend only what you can afford to lose, and always seek independent financial advice if you are in doubt. You should not purchase any cryptoassets if you do not fully understand the nature of your purchase and the risks involved. We recommend that you refer to the issuer\u2019s/ advertiser\u2019s t&c and help/ support pages for more information.\nAd",
+    "article_summary": "Fewer Bitcoin entering circulation after the halving will be met with increased demand from spot Bitcoin ETF issuers, leading to a \u201ccontinuous, but volatile upward grind\u201d in price, a mining analyst says.",
+    "creation_date": "2024-03-11",
+    "associated_tags": [
+      "#Bitcoin",
+      "#Blockchain",
+      "#Mining",
+      "#Bitcoin Mining",
+      "#Halving",
+      "#Bitcoin Halving"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/bitcoin-halving-different-this-time",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "A \u2018simple\u2019 hard fork could subvert a quantum attack on Ethereum: Vitalik Buterin",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/large-corporations-wirehouses-prepare-bitcoin-etf-bitwise",
+      "name": "Tom Mitchelhill"
+    },
+    "article_detailed_content": "Ethereum is already \u201cwell-positioned\u201d to mitigate the impact of a massive quantum computing attack on the network, according to Ethereum co-founder Vitalik Buterin.\nIn a March 9 post to Ethereum Research, Buterin discussed what would happen if a \u201cquantum emergency\u201d happened as early as tomorrow.\n\u201cSuppose that it is announced tomorrow that quantum computers are available, and bad actors already have access to them and are able to use them to steal users\u2019 funds,\u201d Buterin postulated.\n\u201cI argue that actually, we are already well-positioned to make a pretty simple recovery fork to deal with such a situation.\u201d\n\u201cThe blockchain would have to hard fork and users would have to download new wallet software, but few users would lose their funds,\u201d he added.\nButerin explained that the process of such a hard fork would involve rolling back the Ethereum network to the point where it is clear that \u201clarge-scale theft\u201d was occurring and disabling all traditional transactions from that point.\nEthereum developers would then add a new transaction type \u2014 which forms part of the Ethereum Improvement Proposal (EIP) 7560 \u2014 to allow transactions from smart contract wallets.\nButerin\u2019s breakdown of the EIP required to prevent a quantum-related exploit on Ethereum. Source: Ethereum Research\nWhen a user makes a transaction from their Ethereum wallet, the signature of that transaction reveals the public key, and in a \u201cpost-quantum world,\u201d this would see the user\u2019s private key revealed as well.\nThe new transaction type that forms the core part of the quantum-resist EIP would leverage Winternitz signatures and zero-knowledge proof technologies known as \u201cSTARKs\u201d to ensure that existing wallets are switched to new validation code, he added.\nAn anonymous user shared an illustrated diagram of Buterin\u2019s theoretical EIP. Source: Ethereum Research\nThis validation code leverages ERC-4337 account abstraction \u2014 the underlying technology of smart contract wallets \u2014 to prevent private keys from being displayed while signing transactions in the future, rendering these accounts immune from a quantum attack.\nRelated: Ethereum leans into rollup-centric future as Dencun hard fork looms\nAccording to Buterin, users who have never approved a transaction from an Ethereum wallet are \u201calready safe\u201d from any potential quantum-related exploit, as only the wallet address has ever been made publicly available.\nHe also added that the infrastructure needed to implement such as hard fork \u201ccould in principle start to be built tomorrow.\u201d\nThe advent of quantum computing has been a long-feared inflection point for the crypto industry, as a computer capable of breaking blockchain encryption could see once-untouchable user funds stolen in large volumes and at rapid rates.\nHowever, most computer scientists and developers believe that quantum computing is still a ways off, with Google and IBM engineers estimating that quantum computing won\u2019t be sufficiently developed until 2029 at the earliest.\nMagazine: Google to fix diversity-borked Gemini AI, ChatGPT goes insane: AI Eye",
+    "article_summary": "The technology required to make Ethereum immune from a quantum attack could be developed starting \u201ctomorrow,\u201d said Buterin.",
+    "creation_date": "2024-03-11",
+    "associated_tags": [
+      "#Blockchain",
+      "#Security",
+      "#Ethereum",
+      "#Supercomputer",
+      "#Fork",
+      "#Hard Fork",
+      "#Cybersecurity",
+      "#Quantum Computing"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/simple-hard-fork-subvert-quantum-attack-ethereum-vitalik-buterin",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Binance exit sparks fears and opportunities in Nigeria\u2019s crypto community",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/binance-exit-sparks-fears-and-opportunities-in-nigerias-crypto-community",
+      "name": "Amaka Nwaokocha"
+    },
+    "article_detailed_content": "Local cryptocurrency stakeholders have lamented the current ban on Binance naira operations in Nigeria, stating it will affect the livelihoods of many Nigerians and could increase youth unemployment in the country.\nIn separate interviews with Cointelegraph, local crypto stakeholders said the delisting of Nigerian naira-related services from Binance will lead to the rise of new crypto exchanges, which will fill the vacuum created by Binance\u2019s exit by complying with local regulations.\nNathaniel Luz, the CEO of Flincap \u2014 a liquidity platform for crypto exchanges \u2014 said that several Nigerian traders who make a living from trading peer-to-peer on Binance are now affected. However, Luz said that some are trading on WhatsApp and Telegram groups.\nAccording to the chief marketing officer of Flincap, Oladotun Wilfred Akangbe, the continuing uncertainty surrounding cryptocurrency regulation in Nigeria and the decision to halt Binance operations can undermine the confidence of many people in the space. He added that it could lead to massive fear, uncertainty and doubt in Nigeria\u2019s crypto space.\nIn an official statement on its website, Binance said it would automatically convert naira balances to Tether (USDT) from March 8 at 8:00 am UTC and cease support for naira deposits from March 5 at 2:00 pm.\nWithdrawals have not been allowed since March 8 at 6:00 am, and the conversion rate is 1 USDT for 1,515.13 naira. Binance\u2019s peer-to-peer platform delisted all naira trading pairs in late February.\nRelated: Binance temporarily suspends Solana network withdrawals, citing \u2018increased volume\u2019\nOn Feb. 27, the governor of the Central Bank of Nigeria argued that crypto exchanges in Nigeria were suspected of handling illicit transactions, pointing to \u201csuspicious flows\u201d of funds at Binance.\nAs the suspicions of Binance\u2019s alleged illicit operations in Nigeria intensified, the Nigerian House of Representatives Committee on Financial Crimes called Binance CEO Richard Teng to appear before the committee before March 4.\nIn 2023, Nigeria\u2019s Securities and Exchange Commission stated that Binance Nigeria wasn\u2019t registered or regulated by it, making its operations in Nigeria illegal. In December 2023, the Central Bank of Nigeria reversed its stance on crypto assets, advising banks to ignore the previous ban on crypto transactions.\nMagazine: The DeFi bots pumping Solana\u2019s stablecoin volume",
+    "article_summary": "According to local crypto stakeholder Nathaniel Luz, Nigeria\u2019s crypto ecosystem will see the rise of new crypto exchanges that will fill the vacuum created by Binance\u2019s exit.",
+    "creation_date": "2024-03-10",
+    "associated_tags": [
+      "#Blockchain",
+      "#Cryptocurrencies",
+      "#Government",
+      "#Nigeria",
+      "#Cryptocurrency Exchange",
+      "#Tokens",
+      "#Binance",
+      "#Regulation"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/binance-exit-sparks-fears-and-opportunities-in-nigerias-crypto-community",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "MakerDAO implements temporary fee adjustments amid market volatility",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/binance-exit-sparks-fears-and-opportunities-in-nigerias-crypto-community",
+      "name": "Amaka Nwaokocha"
+    },
+    "article_detailed_content": "MakerDAO, the organization responsible for the development of the Maker (MKR) token, has approved an \u201cExecutive Vote\u201d to introduce temporary fee adjustments to strengthen the protocol due to heightened market volatility and bullish sentiment resulting in a reduction in reserves for its Dai (DAI) stablecoin.\nThe suggestion comes in response to a rapid decrease in the Dai supply from $5 billion to $4.4 billion in the last seven days, as outlined in the proposal from BA Labs, a member of Maker\u2019s Stability Advisory Council.\nScreenshot of MakerDAO executive vote announcement on X. Source: MakerDAO\nIn the proposal, MakerDAO intends to expedite the approval process for a stablecoin stability measure if users choose to redeem a portion of the $1.1 billion in real-world assets (RWA) available on the protocol. Despite Dai being overcollateralized, using RWA vehicles as collateral poses potential liquidity issues if Dai\u2019s selling continues.\n The proposal reads:\n\u201cLiquid stablecoin reserves and reserves deployed to RWAs are more than sufficient to sustain the increasing pressure generated by the potential bullish market sentiment. The issue lies in the liquidity crunch inherent in the exposure toward stablecoins deployed through RWAs.\u201d \nAlthough Maker DAO\u2019s ecosystem is currently stable, it deems it necessary to anticipate potentially unpredictable user actions. The proposed measures include changes to Maker Vaults, the SparkLend DAI Borrow Rate, the Peg Stability Module (PSM), the Dai Savings Rate and the Governance Security Module (GSM) Pause Delay.\nRelated: Wyoming passes law granting DAOs legal status\nThe adjustments include raising the stability fees on different collateral assets registered on the platform from 15% to 17.25%. In addition, it plans to increase the SparkLend DAI Borrow annual percentage yield from the current 6.7% to 16%. The slate of changes was approved to go into effect from March 10 at 7:55 pm UTC.\nMakerDAO also plans to adjust the PSM to provide a cooldown for debt ceiling increases to drop from 24 to 12 hours. Other measures that will be implemented include incrementing the Dai Savings Rate to 15% and the GSM Pause Delay from 48 hours to 16 hours for swifter implementation of future adjustments.\nWhile these adjustments are temporary, there is no automatic process for reverting the fees. GFX Labs, a blockchain research and development company, expressed on the proposal\u2019s discussion page that the changes were in the right direction but raised concerns about their magnitude, fearing potential market dislocations and disruptions.\nMagazine: Are DAOs overhyped and unworkable? Lessons from the front lines",
+    "article_summary": "The adjustments include changes to Maker Vaults, SparkLend DAI Borrow Rate, the PSM, the Dai Savings Rate (DSR), and the Governance Security Module (GSM) Pause Delay.",
+    "creation_date": "2024-03-10",
+    "associated_tags": [
+      "#Blockchain",
+      "#Decentralization",
+      "#DAO",
+      "#DeFi",
+      "#MakerDAO"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/makerdao-implements-temporary-fee-adjustments-amid-market-volatility",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Wyoming passes law granting DAOs legal status",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/arbitrum-dao-removes-proposal-fund-tornado-cash-devs",
+      "name": "Ana Paula Pereira"
+    },
+    "article_detailed_content": "Wyoming Governor Mark Gordon has signed a bill into law establishing a legal framework for the formation and management of decentralized autonomous organizations (DAOs). \nThe bill was sponsored by the legislature\u2019s Select Committee on Blockchain, Financial Technology and Digital Innovation Technology and introduces a legal status for decentralized unincorporated nonprofit associations (DUNAs) based in the state.\nThis is huge news for DAOs.\n\nRegistering as a DUNA legal entity will enable DAOs to engage in legal contracts with other entities and provide legal protection to individual DAO members. Other legal entities available to DAOs fall short on these metrics.\n\nLearn more from\u2026 https://t.co/j16Zr3xkw1\n\u2014 Ross Shuel | shuel.eth (@0xShuel) March 8, 2024\nThe document enacted on March 7 outlines the requirements for forming a DUNA, covers the roles of smart contracts and offers provisions over the legal responsibilities of the association and its members. According to the new law, a DUNA is a separate legal entity from its members, meaning that the DAO can be held liable without implicating its individual members. \n\u201cA person is not liable for a breach of a decentralized unincorporated nonprofit association\u2019s contract merely because the person is a member, administrator, authorized to participate in the management of the affairs of the nonprofit association or considered as a member by the nonprofit association.\u201d\nA DAO is an entity with no central leadership. The decision-making process is bottom-up, with a community governed by a set of rules enforced by a blockchain. Giving a DAO legal existence enables a decentralized entity to establish contracts with third parties, open bank accounts, pay taxes and meet informational reporting requirements.\nNonprofit status\nIn an analysis on March 8, venture capital firm a16z crypto asserted that there is a \u201cfundamental misunderstanding of the nonprofit designation provided by the new law.\nAccording to Miles Jennings, a16z\u2019s general counsel, and David Kerr, principal at Cowrie law firm, a Wyoming-based DAO is not prohibited from engaging in for-profit activities.\n\u201cUnder Wyoming law, both the UNA and the DUNA are able to engage in for-profit activities. This would include the operation of a decentralized exchange protocol, a decentralized social media protocol, you name it.\u201d\nDAOs are also allowed to pay compensation to their members, including in exchange for participation in the governance process, reads the analysis. \u201cWyoming\u2019s approach supports the web3 ethos, while still enabling cash flows to digital asset holders. This is a significant breakthrough.\u201d\nMagazine: Are DAOs overhyped and unworkable? Lessons from the front lines",
+    "article_summary": "The new regulation enables decentralized autonomous organizations to establish contracts with third parties, open bank accounts, pay taxes and provide liability protection to its members.",
+    "creation_date": "2024-03-08",
+    "associated_tags": [
+      "#Blockchain",
+      "#Law",
+      "#Business",
+      "#DAO",
+      "#United States"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/wyoming-passes-law-granting-dao-legal-status",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "TCG World partners with Chooky Records to bring Busta Rhymes, others to the metaverse",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/tcg-world-partners-chooky-records-nft-web3-busta-rhymes-metaverse",
+      "name": "Tristan Greene"
+    },
+    "article_detailed_content": "TCG World, an online virtual community sandbox, recently partnered with Chooky Records, a blockchain music label, to bring hit music from O.T., Elesia Iimura and Busta Rhymes to the metaverse.\nThe first product of the two companies\u2019 collaboration will be the official launch of the hit recording artists\u2019 \u201cChooky\u201d video to the TCG World metaverse. According to a press release from TCG World, this marks the animated video\u2019s first appearance in the metaverse at large.\nSource: @OfficialTCGCoin on X.\nAs Cointelegraph reported, TCG World launched in 2021 as a metaverse featuring virtual real estate, Web3 collectibles, and a landscape where pretty much everything could be traded as a nonfungible token (NFT). At the time of its launch, it claimed to be the first 4K VR low poly game and the largest on the BNB Smart Chain blockchain.\nChooky Records is a nontraditional record label that combines digital music with NFTs to create hybrid, tokenized entertainment experiences. It found success in 2023 when the song \u201cChooky,\u201d by Nigerian recording artist O.T. and Australian/Japanese artist Elesia Iimura became a viral hit.\nBusta Rhymes, a platinum-selling recording artist whose legendary career has produced hit songs in five different decades \u2014 including his critically praised appearance on A Tribe Called Quest\u2019s seminal hip hop track \u201cScenario\u201d \u2014 lent his vocals and likeness to the \u201cChooky\u201d track for its November 2023 audio visualization and the TCG World metaverse experience. \nWhile Chooky Records is a relative newcomer to the independent music scene, its infrastructure has garnered praise throughout the music community. According to the Chooky Records white paper:\n\u201cChooky allows for artists to not be confined in 360 deals with one off contracts, higher % entitlement to royalties, a high % split from the royalty sharing NFTs, event management, promotion, access to high caliber marketing resources and introductions to some of the most high-profile artists in the industry.\u201d\nRelated: What\u2019s the missing piece for mainstream Web3 adoption?",
+    "article_summary": "The legendary hip hop artist who once rapped on A Tribe Called Quest\u2019s seminal hit \u201cScenario\u201d is now in the metaverse.",
+    "creation_date": "2024-03-08",
+    "associated_tags": [
+      "#Blockchain",
+      "#Music",
+      "#Metaverse",
+      "#NFT"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/tcg-world-partners-chooky-records-nft-web3-busta-rhymes-metaverse",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "ShapeShift settles pre-DAO SEC case, Uniswap hits 2-year high: Finance Redefined",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/shapeshift-settles-pre-dao-sec-case-uniswap-hits-2-year-high-finance-redefined",
+      "name": "Prashant Jha"
+    },
+    "article_detailed_content": "Cryptocurrency exchange ShapeShift has settled a lawsuit with the United States Securities and Exchange Commission (SEC). The case dates back to 2021, before it became a decentralized autonomous organization (DAO).\nUniswap\u2019s (UNI) token blasted to two-year highs amid the marketwide bullish surge, and Solana proponents believe it needs a breakthrough consumer app to rival the Ethereum network.\nExperts weigh in on how pump-and-dump schemes harm the crypto industry, and the total value locked (TVL) in DeFi crosses $100 billion for the first time in three years.\nSolana needs Firedancer, \u201cChatGPT moment\u201d to rival ETH, proponents say\nA major upgrade on Solana aimed at increasing transaction processing in 2024, paired with a potential breakthrough consumer app, could be all that\u2019s needed for Solana to finally live up to its moniker as an \u201cEthereum killer.\u201d\nThat\u2019s what Solana\u2019s proponents believe amid a fresh wave of on-chain activity, increasing developer count and a growing number of users, boosted partly by a memecoin-led resurgence in December 2023.\nContinue reading\nDeFi pump-and-dump schemes rake in millions, harm industry credibility\nThe cryptocurrency space is often compared to the Wild West, and while it has been maturing to resemble the world of traditional finance more closely, in the DeFi space, the \u201cwild\u201d ethos remains, with freewheeling trading activity often leading to pump-and-dump schemes and wash trading.\nPump-and-dump schemes usually consist of an actor or group of actors manipulating investors with false claims, excitement and fear of missing out to make them buy tokens. At the same time, they covertly dump their stakes at higher prices.\nContinue reading\nUniswap hits two-year high as fee share proposal deadline approaches\nUniswap\u2019s UNI, the governance token of the Uniswap DEX, has rallied 46% to trade above $17, levels last seen in January 2022.\nUNI\u2019s performance is accompanied by a 120% leap in trading volume over the last 24 hours to $1.18 billion. Its market capitalization has increased by 44% over the past week to $9.4 billion, making it the 16th-largest cryptocurrency by market capitalization.\nContinue reading\nShapeShift settles SEC securities charges dating to its pre-DAO days\nCryptocurrency exchange ShapeShift submitted a settlement offer to the SEC, accepting the agency\u2019s cease and desist order and agreeing to pay a penalty. The exchange ceased the operations in question in 2021 when the exchange converted into a DAO.\nAccording to SEC allegations, ShapeShift operated an online platform structured as a crypto \u201cvending machine\u201d from 2014 to January 2021. ShapeShift served as the \u201cmarket maker\u201d and counterparty for the trades, enabling it to generate revenue on the price spread of trades.\nContinue reading\nDeFi market overview\nData from Cointelegraph Markets Pro and TradingView shows that DeFi\u2019s top 100 tokens by market capitalization had a bullish week, with most trading in the green on the weekly charts. The TVL in DeFi protocols breached $100 billion for the first time in three years.\nThanks for reading our summary of this week\u2019s most impactful DeFi developments. Join us next Friday for more stories, insights and education regarding this dynamically advancing space.",
+    "article_summary": "Amid a marketwide bullish run, Uniswap\u2019s UNI token has reached a new two-year high.",
+    "creation_date": "2024-03-08",
+    "associated_tags": [
+      "#Blockchain",
+      "#Cryptocurrencies",
+      "#Business",
+      "#DeFi",
+      "#Uniswap",
+      "#DEX"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/shapeshift-settles-pre-dao-sec-case-uniswap-hits-2-year-high-finance-redefined",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "What\u2019s the missing piece for mainstream Web3 adoption?",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/whats-the-missing-piece-for-mainstream-web3-adoption",
+      "name": "Janina Winter"
+    },
+    "article_detailed_content": "Web3\u2019s growth presents challenges for newcomers who find navigating various subsectors and DApps confusing. A unified platform would simplify the onboarding process, enhancing clarity and promoting faster adoption of Web3 use cases.\nWeb3, encompassing decentralized finance (DeFi), blockchain gaming, and digital currencies, is rapidly evolving. However, its fragmented nature mirrors the chaos of the early internet before the dot-com bubble. The lack of interoperability between decentralized networks and poor communication across different Web3 sectors contribute to this disarray.\nToday\u2019s Web3 lacks a unifying ecosystem, causing the market to fracture into multiple, independently evolving use cases. Crypto enthusiasts have to use various decentralized applications (DApps) and platforms to perform multiple transactions and interact with the different sectors of Web3. However, this isn\u2019t a sustainable growth model for the Web3 industry and is more of a deterrent rather than a benefit when it comes to crypto adoption.\nA one-stop shop platform could be a good start for beginners who can try various Web3 use cases from a single starting point. Such a unified experience would provide clarity and a smooth gateway to the Web3 world, acting as a Google-like aggregator for these diverse sectors.\nThe rise of super apps in Web3\nRecognizing the need for a more integrated approach, some Web3 players are moving beyond the hype. Legion Network is emerging as a notable example among these. As a one-stop shop for Web3, Legion Network addresses the complexity of the industry and reaches new audiences. It brings together essential Web3 use cases, including a proprietary crypto wallet with comprehensive portfolio tracking, DeFi swaps and bridges, engaging play-to-earn/win games, captivating quests with prize rewards, a launchpad for emerging projects and a unique SocialFi experience that fosters community engagement.\nUsers can download Legion's super app, which is available on the App Store and the Google Play Store. The app has grown significantly since its launch, with over 5 million downloads, an average rating of 4.2 stars from 215,000 reviews, and nearly 500 million game plays. These metrics underscore the app\u2019s popularity and effectiveness in engaging and retaining a diverse user base.\nHere\u2019s a detailed breakdown of the key features that distinguish Legion Network in the Web3 landscape:\nCrypto wallet and asset management: Legion Network offers a fully noncustodial wallet supporting over 15,000 tokens across over 40 blockchains. It allows seamless integration with decentralized exchanges (DEXs) for swapping and bridging and provides features for crypto portfolio tracking and display for nonfungible tokens (NFTs), focusing on user security and ease of use.\nStaking program and Bolts system: Legion Network\u2019s innovative staking program exemplifies their commitment to a sustainable ecosystem. It rewards users with increased access to services based on their staking level, promoting a more active and engaged community.\nMoreover, Legion Network has effectively gamified every aspect of its app. Through Bolts, users earn rewards for their interactions, allowing them to unlock perks across all services. This approach ensures equitable access to the app\u2019s features, regardless of users\u2019 ability to make in-app purchases.\nPlay-to-earn/win games and quests: Gaming and quests are integral to the Legion experience, aligning with the play-to-earn and play-to-win models. Users can complete tasks and quests to win prizes and rewards, sometimes in collaboration with partners.\nThis gamification extends throughout the app with the SocialFi aspect and a raffle system where users can use Bolts earned from platform engagement to enter and win prizes, underscoring the Legion Network ecosystem\u2019s emphasis on gamification.\nLaunchpad for emerging projects: Legion Network\u2019s launchpad introduces users to new blockchain projects, fostering innovation within the Web3 space.\nLearning hub: Integral to Legion\u2019s super app is Empower Academy, a comprehensive learning experience centered around blockchain technology, cryptocurrencies and various aspects of the Legion Network ecosystem. The educational platform offers CPD-certified courses and a unique earn-while-you-learn system.\nPersonalized user experience and community building: Legion enhances user engagement by allowing customization of profiles and showcasing NFT collections, staking ranks and wallet stats. The Ambassador Program and the new Groups and Clans feature foster deeper community connections.\nLegion Network\u2019s Bluemoon, a social metaverse with NFT marketplace integrations, prioritizes immersive experiences. The platform caters to creators and businesses, providing a user-friendly infrastructure to build custom metaverse spaces while seamlessly facilitating NFT trading all within a single platform.\nIs a super app the future of Web3?\nThanks to a combination of all major blockchain and Web3 elements, including DeFi, NFTs, gaming, cryptocurrencies, social and the metaverse, Legion Network aims to create an easy access point for everyone new to crypto space and transit users from a Web2 to a Web3 mindset.\nLearn more about Legion Network\nDisclaimer. Cointelegraph does not endorse any content or product on this page. While we aim at providing you with all important information that we could obtain in this sponsored article, readers should do their own research before taking any actions related to the company and carry full responsibility for their decisions, nor can this article be considered as investment advice.",
+    "article_summary": "Web3 has been growing fast, but the fragmented industry still hinders mainstream adoption.",
+    "creation_date": "2024-03-08",
+    "associated_tags": [
+      "#Blockchain",
+      "#Adoption",
+      "#Metaverse",
+      "#DeFi",
+      "#Web3"
+    ],
+    "category": "USE CASE",
+    "article_link": "https://cointelegraph.com/news/whats-the-missing-piece-for-mainstream-web3-adoption",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Arbitrum DAO votes on $1M fund for Tornado Cash devs' legal defense",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/arbitrum-dao-removes-proposal-fund-tornado-cash-devs",
+      "name": "Ana Paula Pereira"
+    },
+    "article_detailed_content": "The Arbitrum DAO is voting to fund the legal defense costs of Tornado Cash\u2019s developers. If approved, the community would donate up to 600,000 ARB tokens in the first year, worth nearly $1.3 million at the time of writing. \nA proposal submitted on March 7 by pseudonymous delegate DK seeks to fund a \u201crobust legal defense\u201d for Roman Storm and Alexey Pertsev, the developers behind the crypto mixer Tornado Cash. In addition, the funds could be used for public relations and advocacy efforts promoting awareness around privacy-preserving technologies and legal burdens for developers.\n\u201cBy rallying support for their legal fund, we aim to safeguard not only the future of privacy-preserving technologies but also the broader principles of innovation, decentralization, and individual sovereignty within our industry.\u201d\nThe proposal sets three tiers for voting under different funding levels, ranging from 200,000 to 600,000 ARB. To date, more than 80% of the votes have been cast for the highest tier. The deadline for voting is March 14.\nThe accusations against Tornado Cash and its founders revolve around the platform\u2019s alleged role in laundering over $1 billion in illicit funds, including money linked to the North Korean hacking organization Lazarus Group. As a result, Tornado Cash has been subject to significant legal actions, including its addition to the United States sanctions lists, effectively banning residents in the country from using the service and sparking controversy within the cryptocurrency community.\nProposal open for vote\nSupporters of Tornado Cash argue that the platform merely provides software for decentralized money transmission and does not directly engage in money transmission itself, which challenges the basis of the charges against its developers. According to the crypto advocacy group Coin Center, the Financial Crimes Enforcement Network (FinCEN) guidelines state that an anonymizing software provider should not be considered a money transmitter.\nStorm and Pertsev face several charges from U.S. authorities, including conspiracy to commit money laundering, conspiracy to commit sanctions violations, and conspiracy to operate an unlicensed money-transmitting business.\nThe first two charges can each carry a maximum sentence of 20 years in prison, while the charge for operating an unlicensed money-transmitting business is punishable by up to five years in prison.\n\u201cThese [legal] challenges not only threaten the developers\u2019 ability to continue their work but also undermine the fundamental principles of decentralization and individual freedom upon which projects with privacy-preserving technologies are built.\u201d\nThe community proposal comes just a few days after the crowdfunding platform GoFundMe canceled a fundraiser dedicated to collecting legal fees for Storm and Pertsev, citing a breach of their terms of service that could \u201cexpose GoFundMe, its employees or Users to any harm or liability of any type.\u201d\nMagazine: Tornado Cash 2.0 \u2014 The race to build safe and legal coin mixers\nExplore more articles like this\nSubscribe to the Law Decoded newsletter\nA weekly summary of the latest news in crypto legislation and regulations. Delivered every Monday\nSubscribe\nBy subscribing, you agree to our Terms of Services and Privacy Policy",
+    "article_summary": "The Arbitrum community is voting on a proposal to fund a \u201crobust legal defense\u201d for Tornado Cash developers Roman Storm and Alexey Pertsev.",
+    "creation_date": "2024-03-08",
+    "associated_tags": [
+      "#Blockchain",
+      "#United States",
+      "#Regulation",
+      "#Tornado Cash"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/arbitrum-dao-vote-1-million-fund-tornado-cash-devs-legal-defense",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Lowering developer friction is key for mass-scaling blockchain applications \u2014 Polygon co-founder",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/bitcoin-breaks-new-high-above-71-000",
+      "name": "Zoltan Vardai"
+    },
+    "article_detailed_content": "Building blockchain infrastructure that attracts developers is key for mass scaling blockchain applications, Anurag Arjun, the founder of Avail and co-founder of Polygon, told Cointelegraph in an exclusive interview on March 7.\n\u201cLowering developer friction is very important. If you look at the first mobile apps that were built when the initial infrastructure came out, those were very simplistic sort of apps. It took a lot of years of experimentation to build something like Uber or Instagram.\u201d\nArjun added that building developer-focused scaling solutions like layer-2 rollups will be necessary to advance blockchain-based decentralized applications (DApps). He said:\n\u201cThe real utility of [scaling solutions] is if developers can quickly work with this infrastructure to actually create useful scale apps that go mainstream, for example, right again right now.\u201d\nAverage monthly active developers decreased 24% to 22,411 in 2023, compared to 2022, according to a Jan. 17 report by Electric Capital. The firm attributes this drop to a record number of new developers who joined in 2022. The report notes:\n\u201cWhile developers overall are down 24%, the most valuable segment of developers (2+ year tenure who contribute the most code) continues to steadily grow.\u201d\nWhen asked about the future of blockchain scalability, Arjun said that he expects to see hundreds of application-specific rollups that will be united under a user experience-friendly app layer, much like today\u2019s Web2 shopping experiences that simplify online purchases.\n\u201cWhen you click on the buy button on [Amazon], it opens up a payment page, but the user doesn\u2019t know all the complexity behind the process,\u201d said Arjun, adding that Web3 infrastructure will need to simplify the user experience in a similar way to attract more mainstream users.\nArjun is also the co-founder of Web3 data availability and consensus layer, Avail, which closed a $27 million seed funding round on Feb. 26, led by Founders Fund and Dragonfly.\nThe funds will be deployed to help accelerate the unification of Web3 by bolstering the developments of the firm\u2019s three core products, also known as the \u201cAvail Trinity:\u201d the data availability layer, the nexus unification layer and the fusion security layer.\nRelated: Ethena becomes highest earning DApp in crypto",
+    "article_summary": "Building developer-centric scaling solutions is key for the next \u201cbreakout\u201d blockchain app, Polygon\u2019s Anurag Arjun told Cointelegraph.",
+    "creation_date": "2024-03-08",
+    "associated_tags": [
+      "#Blockchain",
+      "#Adoption",
+      "#Scalability",
+      "#DeFi",
+      "#zk-Rollup"
+    ],
+    "category": "INTERVIEW",
+    "article_link": "https://cointelegraph.com/news/lowering-friction-key-mass-scaling-blockchain-polygon-founder",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "What do Bitcoin\u2019s all-time highs mean for crypto industry expectations in 2024?",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/what-bitcoin-s-all-time-highs-mean-expectations-2024",
+      "name": "Ray Salmond"
+    },
+    "article_detailed_content": "The long-awaited Bitcoin (BTC) price all-time high finally happened on March 5 after the world\u2019s first cryptocurrency rallied above $69,000. \nAnd there we have it. We are officially in a bull market.\nDuring the last bull market, developers, projects and artists all shared their lofty goals and ideas of how crypto and blockchain would revolutionize the entire world. While some of that happened, in reality, a lot was left unachieved.\nSo, now that market conditions have finally improved, everyone has another chance at delivering on what was promised. The Agenda co-hosts Jonathan DeYoung and Ray Salmond\u2019s assumption is that with better market conditions and profitable balance sheets, blockchain projects should have sufficient runway to build the products and services that hope to solve a lot of the world\u2019s problems.\nOn episode 31 of The Agenda, Salmond and DeYoung share their views on the significance of Bitcoin\u2019s price hitting a new all-time high and what this could mean for crypto in 2024.\nBitcoin\u2019s phoenix moment is a sign of a maturing asset and market\nOnce one gets past the excitement and fixation surrounding Bitcoin hitting new all-time price highs, a more contemplative mood sets in, wherein the significance of the milestone is considered.\nWhen asked about what BTC price going to the moon means in the larger scheme of things, Salmond suggested that it is \u201ca sign of maturity,\u201d especially considering that:\n\u201cThe ETFs are kind of like buyers of infinite demand, right? They\u2019re like purchasers of infinite demand. Every day for the last two or three weeks, they\u2019ve been buying $500 million minimum of Bitcoin daily, or $450 million daily. Even today, as Bitcoin price sold off after hitting a new all-time high, ETFs like IBIT from BlackRock traded like 1 billion shares.\u201d\nDeYoung expressed his perspective that, unlike previous bull markets, social chatter from non-crypto bros pales in comparison to what was seen in 2017 and 2020 and that he found himself somewhat surprised not to be looking at his portfolio value every five minutes:\n\u201cI\u2019m here for something deeper. So yeah, now that the price is back, I feel like I\u2019m a bit detached from that. And I also think that we\u2019re just \u2014 I mean, you can correct me if you disagree \u2014 but I feel like we\u2019re just still so early into this bull run that I feel like getting super hyped up about hitting $69,000 is a bit premature, I guess.\u201d\n2024 will be more about results than ideas\nSalmond and DeYoung agreed that in 2024, blockchain and crypto\u2019s success is more likely to be defined by builders\u2019 ability to deliver useful products and services instead of the value of their tokens. DeYoung said:\n\u201cI hope that it means that some of the people that are riding the wave up will then take some of their money and throw it into the more passion projects. Like they made their money with the [...] hype plays, maybe the bigger projects that make a little cash. Now they\u2019ve got an extra few ETH lying around, and they can throw it into their friend\u2019s passion project and help that get off the ground, or the kind of cool, unique use cases.\u201d\nDeYoung suggested that the synergy between crypto and artificial intelligence will continue to strengthen as the need to verify data and media becomes more necessary. According to DeYoung, blockchains seem perfectly purposed for cataloging and authenticating data, and he expects that they will play a critical role in media and possibly in government in the coming years.\nRelated: Bitcoin accumulation phase ends as ETFs fuel new $100K BTC price target\nSalmond, on the other hand, is hopeful that music nonfungible tokens (NFTs) will become a trendy industry again in 2024:\n\u201cYou know, the market blew up two years ago. So, I thought the phoenix of NFTs would be music NFTs. I really thought that that was the one kind of subsector of the industry that made the most sense and would have the most growth \u2014 it would just be easy to kind of bridge between Web3, blockchain and the traditional music industry. And there were so many platforms and people that were fundraising to the tune of tens of millions of dollars for music NFTs that I\u2019m surprised nothing has happened.\u201d\nSalmond conceded that perhaps the timing of his high expectations lack patience, something that he explained is critical in the fintech space:\n\u201cOne thing I\u2019ve learned investing in Ethereum, Bitcoin maybe, but really Ethereum and some of the other, Ethereum-like coins \u2014 one thing I\u2019ve learned about tech companies is you don\u2019t expect results at the end of one year, or even at the end of two years, or even at the end of three years. You expect the payoff and the result at the end of five or 10 years. Like ETH is clearly a five-to-10-year investment.\u201d\nTo hear more from Jonathan and Ray\u2019s conversation on The Agenda \u2014 including juicy details about upcoming episode guests \u2014 listen to the full episode on Cointelegraph\u2019s Podcasts page, Apple Podcasts or Spotify. And don\u2019t forget to check out Cointelegraph\u2019s full lineup of other shows!\nMagazine: Is measuring blockchain transactions per second (TPS) stupid in 2024? Big Questions\nThis article is for general information purposes and is not intended to be and should not be taken as legal or investment advice. The views, thoughts, and opinions expressed here are the author\u2019s alone and do not necessarily reflect or represent the views and opinions of Cointelegraph.",
+    "article_summary": "We\u2019re in a bull market. Now what? Jonathan and Ray share their thoughts, ideas and expectations for the crypto market in 2024.",
+    "creation_date": "2024-03-08",
+    "associated_tags": [
+      "#Blockchain",
+      "#Cryptocurrencies",
+      "#Bitcoin Price",
+      "#SEC",
+      "#ETF",
+      "#Adoption",
+      "#Podcast",
+      "#Web3",
+      "#NFT",
+      "#The Agenda"
+    ],
+    "category": "PODCAST",
+    "article_link": "https://cointelegraph.com/news/what-bitcoin-s-all-time-highs-mean-expectations-2024",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Optimism offloads $90M worth of tokens in private deal",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/unizen-hack-immediate-refund",
+      "name": "Ezra Reguerra"
+    },
+    "article_detailed_content": "Optimism Foundation \u2014 the organization behind the Ethereum layer-2 blockchain Optimism \u2014 announced a private sale of about 19.5 million of its governance tokens. \nOptimism (OP) tokens are worth about $4.62 on the market, making the number of tokens sold worth around $90 million at the time of writing. While the foundation is offloading a large number of tokens, it mentioned in the announcement that the sale included a vesting period of two years, prohibiting the buyer from selling the tokens before then.\nWithin the vesting period, the Optimism Foundation highlighted that the buyer can still use the tokens for governance participation. The foundation wrote:\n\u201cDuring the lock-up, the purchaser will be able to delegate the tokens to unaffiliated third parties for participation in governance.\u201d\nThe organization also explained that the tokens were from an \u201cunallocated portion of the OP token treasury.\u201d The foundation said these assets are part of the organization\u2019s original working budget, which is 30% of the initial OP token supply.\nThe foundation informed the community that the OP tokens will be sent in several transactions in the coming days. Optimism assured the community that these were planned transactions, suggesting they were the tokens sold in the private sale.\nRelated: $900M in vested tokens set to be released in February\nOptimism did not disclose the details of the sale or the buyer, as the transaction was private. This sparked some discussions on X, with some viewing the sale negatively while others defended the foundation.\nEthereum advocate Anthony Sassano said that while he loves Optimism and has invested in it, private sales without transparency leave \u201ca bad taste\u201d in his mouth. Meanwhile, other community members argued that the team behind Optimism has to earn a living, too.\nCommunity members discussing the Optimism private sale. Source: 0xBoboShanti on X.\nThis is not the first time Optimism has conducted a private sale of its tokens. On Sept. 21, 2023, the network transferred 116 million OP tokens, worth about $160 million at the time, after a private sale it conducted.\nAt the time, some observers feared the sale would affect prices negatively. However, the tokens were also subjected to a two-year lockup, meaning they did not immediately impact the token\u2019s price.\nMagazine: Zhu Su pumps Milady to $19K, Alchemy Pay crypto bank, HK tokens: Asia Express\nExchange or buy ETH\nDisclaimer: The information contained on this widget is not intended as, and shall not be understood or construed as legal, tax, investment, financial, or other advice. Nothing contained on this widget constitutes a solicitation, recommendation, endorsement, or offer by Cointelegraph or any third party service provider to buy or sell any cryptoassets or other financial instruments. We advise you to spend only what you can afford to lose, and always seek independent financial advice if you are in doubt. You should not purchase any cryptoassets if you do not fully understand the nature of your purchase and the risks involved. We recommend that you refer to the issuer\u2019s/ advertiser\u2019s t&c and help/ support pages for more information.\nAd",
+    "article_summary": "Optimism also sold 116 million OP tokens in another private sale held back in September 2023.",
+    "creation_date": "2024-03-08",
+    "associated_tags": [
+      "#Blockchain",
+      "#Ethereum",
+      "#Layer2",
+      "#Governance Token"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/optimism-offloads-tokens-private-deal",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Cloud-based app taps into Solana to bring life to old devices",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/virtual-smartphone-launches-solana",
+      "name": "Gareth Jenkinson"
+    },
+    "article_detailed_content": "Mobile device users in emerging economies and those hampered by outdated hardware could tap into a new virtual smartphone application running on Solana\u2019s blockchain and decentralized cloud infrastructure.\nAphone debuted in the Solana ecosystem on March 7 as a web-based virtual smartphone that gives users access to various Web3 and conventional applications. APhone ecosystem development and growth lead Jennifer Booze unpacked details of the service in correspondence with Cointelegraph following its launch.\nCointelegraph tested Aphone\u2019s virtual device, which features several Web3 DApps and conventional mobile applications. Source: Aphone\nAphone looks and feels like an Android smartphone and is platform-agnostic, meaning it can operate on a browser, Android or Apple device. Booze says it functions more like an operating system with its interface, features and underlying technology rather than replacing a device\u2019s operating system.\n\u201cIt\u2019s a cloud smartphone environment that users can access through their current devices, leveraging decentralized cloud computing to run Web3 applications smoothly without needing local hardware upgrades,\u201d Booze explains.\nThe team envisions the virtual device as a means of onboarding users to Web3 applications and protocols previously hindered by the hardware limitations of devices.\nRelated: Solana Saga fetches up to $5K on eBay as Bonk frenzy causes sell-out\nAphone\u2019s service bypasses the hardware limits of older smartphone models by operating on a decentralized cloud-based graphics processing unit (GPU) computing infrastructure, Aethir. Aphone\u2019s interface and its applications run on the cloud service, which allows users to access apps and games that the physical device would not be able to handle.\nBooze said the virtual device\u2019s primary use case is to drive access to the broader Web3 ecosystem as smartphones become increasingly ubiquitous in emerging markets alongside the proliferation of mobile internet access.\n\u201cBy leveraging Aethir\u2019s decentralized cloud technology, APhone enables these users to experience advanced Web3 applications, NFTs, DeFi platforms, blockchain games and run multiple smartphones on a single device.\u201d\nThe virtual alternative to buying a new smartphone will cost users $20 a year. Prospective users can buy an Aphone nonfungible token (NFT), which is minted and burned on the Solana blockchain, giving users access to the virtual device.\nThe device will also provide access to several decentralized physical infrastructure networks (DePIN) operating on Solana. This includes Helium, which rewards users for providing network coverage and validating transactions.\nRelated: \u2018107,000 GPUs on the waitlist\u2019 \u2014 Io.net beta launch attracts data centers, GPU clusters\nCointelegraph asked why Aphone needs to operate on blockchain infrastructure and the purpose of its native PHONE token. Booze said that operating on Solana offers high transaction speeds, lower costs and enhanced security and decentralization.\n\u201cThese features support a seamless Web3 experience, including managing NFTs, tokens, and accessing DApps. Aethir\u2019s infrastructure enables the powerful processing capabilities required for demanding Web3 applications, making the integration of blockchain technology essential for APhone\u2019s operation,\u201d Booze adds.\nThe device\u2019s native token is set to be used for governance and rewards incentivization mechanisms to drive user engagement and participation.\nAs Cointelegraph previously explored, DePINs are making their mark as resources to power artificial intelligence tools, which are becoming increasingly valuable. Recently developed DePIN platform IO.net will allow users to source GPU computing power for AI and machine learning, with Solana\u2019s blockchain used to process and facilitate millions of microtransactions to data centers and hardware providers.\nMagazine: The DeFi bots pumping Solana\u2019s stablecoin volume",
+    "article_summary": "A new virtual smartphone application has launched on Solana\u2019s blockchain and Aethir\u2019s decentralized cloud infrastructure aimed at users with outdated hardware and those in emerging economies.",
+    "creation_date": "2024-03-08",
+    "associated_tags": [
+      "#Blockchain",
+      "#Adoption",
+      "#Smartphone",
+      "#Cloud Services",
+      "#mobile tech",
+      "#GPU",
+      "#Solana"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/virtual-smartphone-launches-solana",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Metaverses could be a hub for distributing copyrighted work illegally \u2014 UK researchers",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/unizen-hack-immediate-refund",
+      "name": "Ezra Reguerra"
+    },
+    "article_detailed_content": "Researchers in the United Kingdom have studied the viability of current intellectual property (IP) laws and their application to new technologies like the metaverse. In the study, the researchers identified the shortcomings of existing laws and presented their recommendations. \nOn March 7, the U.K. government published an externally commissioned research report titled \u201cIP and Metaverse.\u201d The report dove into the existing literature on IP laws and how they can apply to the metaverse. Within the study, the researchers concluded that there are metaverse-specific IP issues, such as IP governance in an interoperable environment and regulating technologies like the blockchain and artificial intelligence (AI) within virtual worlds.\nAccording to the report, many legal challenges come with interoperability, including the unauthorized dissemination of copyrighted work. The researchers highlighted that the lack of interoperability has been important in preventing people from illegally distributing copyrighted material. With interoperability being a key feature in a metaverse, the researchers believe this could pose a challenge in governing the use and circulation of copyrighted work.\nMeanwhile, blockchain\u2019s inherent characteristics, such as immutability or being \u201ctamper-proof,\u201d also pose a challenge to enforcing IP laws. The researchers wrote:\n\u201cBlockchain\u2019s inherent resistance to change or correction undermines the ability to flexibly manage or update IP rights. This is an issue which becomes especially worrisome in the context of ownership disputes, as well as for navigating the termination of agreements and rights if licensors or rightholders seek to leave the Metaverse.\u201d\nHowever, AI use in the potential metaverse governance of IP also poses some anticipated challenges. The researchers argued that algorithmic management of infringements is \u201cextremely vulnerable to misuse\u201d because of the absence of human oversight to guarantee the legitimacy of enforcement.\nRelated: Majority of social media posts about metaverse show positive sentiment\nApart from this, AI-generated content also brings up another challenge for IP enforcement in the metaverse. According to the study, reliance on AI tools has the potential to invalidate claims of inventorship in content. The research highlighted examples and cases that showed that \u201conly works partially assisted by AI\u201d are able to be protected by IP laws.\nBecause of the anticipated issues in IP governance within the metaverse, the researchers concluded that there\u2019s a need for clarity on a \u201cplethora of key issues.\u201d This includes legal issues on copyrights, trademarks, patents, designs, user-generated content, virtual property and nonfungible tokens (NFTs) within the metaverse. Because of this, the researchers believed that it\u2019s necessary to formulate IP approaches for addressing governance and enforcement issues for a metaverse.\nMagazine: Doctor Who materializes in Web3: Tony Pearce\u2019s journey in time and space",
+    "article_summary": "Researchers concluded that it is necessary to formulate approaches for addressing the enforcement and governance of IP issues in the metaverse.",
+    "creation_date": "2024-03-08",
+    "associated_tags": [
+      "#Blockchain",
+      "#Law",
+      "#United Kingdom",
+      "#AI",
+      "#Metaverse"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/metaverse-intellectual-property-challenges-uk-researchers",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "AI tokens are more hype than value right now, says Coinbase analyst",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/india-earmarks-1-25-b-ai-growth",
+      "name": "Arijit Sarkar"
+    },
+    "article_detailed_content": "While technologists continue to explore artificial intelligence (AI) use cases in all business verticals, a Coinbase research report suggests that AI-related tokens may be over-hyped right now, at least in the short and medium term. \nThe rising popularity of generative AI spurred niche crypto sub-ecosystems over the last couple of years. However, Coinbase research analyst David Han believes that the rapid changes in AI \u201cmake us cautious\u201d of the long-term sustainability of most AI tokens.\nOne of the primary challenges with crypto AI projects lies within the core of both technologies. While crypto projects often aim for decentralization, the current AI offering relies heavily on centralized components and data sources, argues Han.\nIn addition, most projects in the niche have failed to attract investors \u2014 resulting in under-indexed capital allocation.\nThe report highlights two opportunities for the crypto AI ecosystem \u2014 improving the blockchain data for creating human-readable transactions and analysis and helping decentralize the predominantly centralized AI infrastructure. However, Han said:\n\u201cA decentralized AI future, as it is currently envisioned by many in the crypto industry, is not guaranteed \u2014 in fact, the future of the AI industry itself is still largely undetermined.\u201d\nDespite the negative outlook, many AI tokens haverecently outperformed Bitcoin (BTC) and major stocks such as Nvidia and Microsoft. Coinbase attributed this to the market sentiment built by the broader crypto market and supported by related AI news headlines.\nAI tokens have a wide distribution of returns on days where BTC traded negatively. Source: coinbase.bynder.com\nThe crypto AI narrative could grow even stronger amid the continued constructive crypto market and the outperforming AI sector. However, Coinbase suggests that driving \u201cmeaningful adoption\u201d will require more than just decentralizing AI components.\nIt is important to note that the AI ecosystem is currently in its nascency and will have to \u201cunderstand the underlying trading narrative\u201d at the very least, eventually providing a comparable alternative to today\u2019s crypto assets.\nRelated: Coinbase shares climb after-hours as exchange fixes site jitters\nComplimenting Coinbase\u2019s suggestion for meaningful developments in the crypto AI sphere, Ethereum co-founder Vitalik Buterin recently said AI could becrucial to eradicating bugs buried deep within its code.\nEthereum co-founder Vitalik Buterin shares optimism about using AI to fix blockchain bugs. Source: Vitalik Buterin on X\nOn Feb. 19, Buterin shared his excitement for AI-powered auditing to identify and fix buggy code in the Ethereum network, describing it as the \u201cbiggest technical risk\u201d to the network.\nAI tokens cumulatively hold a market capitalization of $51.18 billion as of March 8, according to Crypto.com data. These tokens serve AI-based projects, applications and services, such as decentralized AI marketplaces, AI-powered trading algorithms and AI-driven decentralized autonomous organizations, to name a few. \nMagazine: Is measuring blockchain transactions per second (TPS) stupid in 2024? Big Questions",
+    "article_summary": "While some crypto-AI tokens continue to deliver profitable trades, the long-term sustainability of the ecosystem will require more than just decentralizing AI components.",
+    "creation_date": "2024-03-08",
+    "associated_tags": [
+      "#Blockchain",
+      "#Coinbase",
+      "#Decentralization",
+      "#AI",
+      "#Tokens",
+      "#Tokenomics"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/crypto-ai-tokens-value-overstated-coinbase-research",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Web3 social app tackles fake accounts with an innovative engagement system",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/noncustodial-lending-and-crypto-debit-card-with-finma-compliance-launches",
+      "name": "Nihatcan Yanik"
+    },
+    "article_detailed_content": "Rising concerns over fake accounts and bots on social media platforms have underscored the limitations of Web2 technologies. Phaver introduces a Web3 social app with a gamified system to combat botting and incentivize genuine user engagement.\nSocial media has a fake account problem, and a 2018 survey highlighted a growing concern among parents of teens \u2014 with over 65% alarmed by fake accounts and bots on social media.\nThe discovery of 1,305 bot accounts on X (formerly Twitter) that spread political disinformation during a critical Republican debate and a Donald Trump interview have underscored the extent of the problem and its potential to disrupt the fabric of democratic discourse.\nIndiana University also conducted research that uncovered a bot network of 1,140 ChatGPT-powered X accounts that stole images to create fake profiles and engaged with each other through replies and tweets using advanced artificial intelligence (AI).\nThe battle against bots and fake accounts in social media\nFor traditional social networks, addressing this crisis of user authenticity is a daunting task. Over 47% of 2022\u2019s web traffic was bot-generated, with 30% being harmful bots. Emerging as a potential solution with blockchain, Web3 offers mechanisms to ensure the authenticity of every participant on a specific platform.\nPhaver, a Web3 social app, introduces a gamified solution to fight against bot accounts and incentivize users to build a reputation on social media. By implementing a level system similar to loyalty tiers in airline programs, Phaver aims to discourage detrimental practices plaguing the current social media landscape, such as farming and multi-accounting.\nPhaver aims to build a more meritocratic and user-owned internet. Source: Phaver\nUsers accumulate a credibility score akin to status miles, which determines their level within the app. Phaver\u2019s system penalizes harmful behaviors and rewards genuine engagement and credibility building with points \u2014 comparable to reward miles \u2014 instead of merely increasing follower numbers. Monthly redemption based on levels further disincentivizes abuse, promoting a healthier digital ecosystem. Users can increase their reputation, for example, by connecting various NFTs from a combination of wallets to their Phaver profile.\nFrom Web2 limitations to Web3 opportunities\nThe platform enhances the user experience with perks for different levels, including benefits within the app, such as increased Phaves (akin to super-likes) and the ability to post sponsored content, along with external rewards like access to partner whitelists. Designed to ensure a balanced supply-demand in the market, Phaver\u2019s mechanism also offers benefits to early adopters, aiding the network\u2019s growth.\nBy the end of 2023, Phaver\u2019s innovative system had attracted over 100,000 wallets, connecting NFTs worth more than $100 million. With the uniqueness of profiles in higher levels reaching 99.9%, the platform showcases its effectiveness in fostering a genuine and engaged community.\nPhaver lets users opt in and out of the on-chain Lens posting depending on their needs. Source: Phaver\nPhaver has integration with the Lens Protocol, a Web3 social graph on the Polygon blockchain, and CyberConnect, a Web3 social network, to create a decentralized social platform where users can securely store their content on-chain.\nBy leveraging these technologies, Cointelegraph Accelerator participant Phaver safeguards user data against centralized control and ensures users can move seamlessly between apps without losing their content and followers.\nThe platform raised $7 million in funding and has shown robust traction, boasting over 250,000 unique app installs and more than 50,000 daily active users, with retention rates surpassing Web2 standards. According to Phaver, users in Korea average 6 hours weekly on the platform.\nToday, we are excited to announce that Phaver has raised $7M Seed financing round to accelerate further the adaptation of web3 social. 🦄 https://t.co/fVAIJ3LDmG pic.twitter.com/nNMJVcfQ2p\n\u2014 Phaver 🦄 (@phaverapp) October 5, 2023\nThe rise of bot networks and traditional platforms\u2019 inability to discern between genuine and artificial accounts have highlighted the limitations of Web2 technologies. In response, the emergence of Web3 proposes a foundational shift for social media platforms, leveraging blockchain to authenticate user identities and interactions with the goal of restoring trust and authenticity in digital communities.\nLearn more about Phaver\n#Blockchain\n#Twitter\n#Decentralization\n#Social Media\n#Web3\n#Cointelegraph Accelerator\nDisclaimer. Cointelegraph does not endorse any content or product on this page. While we aim at providing you with all important information that we could obtain in this sponsored article, readers should do their own research before taking any actions related to the company and carry full responsibility for their decisions, nor can this article be considered as investment advice.",
+    "article_summary": "Blockchain technology can address the pervasive issue of inauthentic users on social media.",
+    "creation_date": "2024-03-07",
+    "associated_tags": [
+      "#Blockchain",
+      "#Twitter",
+      "#Decentralization",
+      "#Social Media",
+      "#Web3",
+      "#Cointelegraph Accelerator"
+    ],
+    "category": "SPOTLIGHT",
+    "article_link": "https://cointelegraph.com/news/web3-social-app-tackles-fake-accounts-with-an-innovative-engagement-system",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Showcase your talent: Web3 hackathon at BlockShow festival",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/how-music-industry-battling-ai-deepfakes",
+      "name": "Savannah Fortis"
+    },
+    "article_detailed_content": "The BlockShow x BlockDown Festival is set to host a hackathon, a 48-hour chain-agnostic event designed to showcase the talents of local Web3 developers and entrepreneurs in Hong Kong on May 8\u20139, 2024. The event is co-organized with Epic Web3, which has eight years of experience hosting conferences, communities and hackathons. In 2023, it organized and ran 10 events for Web3 developers.\nThe BlockShow x BlockDown Festival is a global Web3 community with a vibrant mix of builders, industry pioneers, thought leaders and entrepreneurs dedicated to making valuable industry events fun and engaging.\nAddy Crezee, founder of BlockShow by Cointelegraph, said:\n\u201cThe event we are bringing to Hong Kong on May 8\u20139 is bundled with a number of engaging and valuable activities, and a hackathon is definitely one of them. Developers are the fuel of Web3, and we are super excited to contribute with talents and new projects coming out after these 48 hours. Join us this May!\u201d\nFor more information about the hackathon and how to enter, click here.\nBuild and pitch, win and celebrate\nThe hackathon offers two tracks for participants to compete in. The first is \u201cstartup,\u201d where developers compete to launch innovative products contributing to mass adoption. The second is \u201ctooling and infra,\u201d which aims to build for the Web3 developer community.\nEpic ETH Infra Day in Istanbul, November 2023. Source:\nThe hackathon will begin on May 7, with the official kick-off and opening of the event before the technical workshops, mentoring sessions and project development begin the following day on May 8. The final day of the event, May 9, will include a pitching workshop and the submission of the projects. A pitching competition and awards ceremony for the best entries will close out the event.\nFor more information about the hackathon and how to enter, click here.\nParticipants will have the chance to win prizes for their successful submissions and funding for their projects of up to $50,000. As an added incentive, taking part in the hackathon will come with a dev pass, giving free access to the BlockShow X BlockDown event.\nGET YOUR TICKETS HERE TO ATTEND THE BLOCKSHOW X BLOCKDOWN FESTIVAL!\nAlex Pisarevski, the founder of EpicWeb3, said:\n\u201cAt Epic Web3, we have a lot of experience in organizing events for developers, and BlockShow and BlockDown do conferences at the highest level, bringing the best speakers from around the world. I\u2019m sure this partnership will bring the best hackathon experience to Hong Kong.\u201d\nThe submission requirements include an open-source code repository URL with publicly accessible code and an open-source license. A text description of the project\u2019s features, functionality and chosen track is also required, along with a demonstration video of no more than three minutes.\nAll submissions must be in English, and at least one representative from each competing team must attend the hackathon in person.\nThose interested in participating can find more information and register for the event here and at DoraHacks.\nErhan Korhaliller, founder and CEO of EAK Digital and BlockDown Festival, said:\n\u201cWith the wild price movement in the markets, it\u2019s important for the industry to remember that fostering education for developers and providing them with the latest Web3 tools and technology is pivotal to the sustainability of Web3 as an industry. We look forward to welcoming developer talent to take part in the hackathon at BlockShow x BlockDown.\u201d\nCo-organized by Cointelegraph and EAK Digital, the BlockShow X BlockDown Asia 2024 event is expected to host 100 media outlets, industry speakers and more than 5,000 attendees. There will also be a gaming zone, gamification experiences, and Startup Connect, which will be an opportunity for investors and startups in the Web3 and cryptocurrency industry to find each other.\nGET YOUR TICKETS HERE TO ATTEND THE BLOCKSHOW X BLOCKDOWN FESTIVAL!",
+    "article_summary": "Join the Hackathon co-organized with Epic Web3 in Hong Kong on May 8-9, 2024, as part of the BlockShow x BlockDown Festival, co-organized by Cointelegraph and EAK Digital.",
+    "creation_date": "2024-03-07",
+    "associated_tags": [
+      "#Blockchain",
+      "#Hong Kong",
+      "#Asia",
+      "#Event",
+      "#Adoption",
+      "#BlockShow"
+    ],
+    "category": "BLOCKSHOW",
+    "article_link": "https://cointelegraph.com/news/hackathon-blockshow-blockdown-2024-hong-kong",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Singaporean fintech launches USDC-powered Visa card with Swiss bank Fiat24",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/singaporean-fintech-launches-usdc-powered-visa-card-swiss-bank-fiat24",
+      "name": "Zhiyuan Sun"
+    },
+    "article_detailed_content": "Singaporean fintech SafePal has made an investment into Swiss bank Fiat24 and jointly launched a crypto Visa card and in-app banking service with US Coin (USDC) as the default deposit currency. \nAccording to the March 7 announcement, the feature will be live on version 4.5.0 of the SafePal mobile wallet, subject to approval from Apple\u2019s App Store and Google Play. \"Unlike typical Visa cards, the transactions on-chain on [USDC] Arbitrum provide a transparent, immutable ledger with faulty transfers reversible\u2014but faulty transfers can still be reversed with our banking system,\" said Yang Lan, co-founder of Fiat24.\nMeanwhile, Veronica Wong, CEO and co-founder of SafePal, explained that after users create a USDC mobile wallet, the funds can then be sent to accounts at traditional financial institutions. In addition, users can swap crypto across more than 40 blockchains into their bank accounts and use fiat money, like the U.S. dollar, euro, or Swiss Franc, for transactions and expenses. Developers further stated:\n\"After creating the bank accounts in the SafePal mobile wallet, the credentials are minted as NFTs on Arbitrum (an Ethereum Layer 2 rollup), ensuring all related transactions are securely and transparently recorded on-chain. The crypto Visa cards are also linked to third-party payment platforms like Paypal, Google Pay, Apple Pay, and Samsung Pay, enhancing the convenience for users.\"\nSafePal currently operates as a self-custody wallet and claims it has approximately 10 million users worldwide. Shortly after the crypto winter of 2021-2022, the firm's CEO Veronica Wong told Cointelegraph that \"the malpractice of centralized platforms has indeed catalyzed the adoption of self-custody solutions. This should not just be a temporary surge of interest, but a key impetus to strengthen the adoption of self-management for assets.\"\nSince the collapse of centralized finance entities such as FTX and Celsius, self-custody wallets have been rising in popularity. On Dec. 7, 2023, Jack Dorsey\u2019s Block launched a self-custody wallet solution with access in over 95 countries. On Aug. 10, 2023, cross-chain wallet BitKeep changed its name to Bitget Wallet after securing a $30 million investment from the exchange to grow its multichain swap platform. \nRelated: How to set up and create an Ethereum wallet",
+    "article_summary": "After the creation of the bank account, credentials are minted as NFTs on Arbitrum network.",
+    "creation_date": "2024-03-07",
+    "associated_tags": [
+      "#Blockchain",
+      "#Cryptocurrencies",
+      "#Singapore",
+      "#Business",
+      "#Mobile Wallet",
+      "#Self Custody"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/singaporean-fintech-launches-usdc-powered-visa-card-swiss-bank-fiat24",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "UAE\u2019s RAK DAO and Tencent Cloud ink deal to boost crypto startups",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/unizen-hack-immediate-refund",
+      "name": "Ezra Reguerra"
+    },
+    "article_detailed_content": "Tencent Cloud, the cloud services arm of the Chinese conglomerate Tencent, signed a memorandum of understanding (MoU) with the United Arab Emirates\u2019 crypto-focused free economic zone to facilitate startup growth through several initiatives.\nOn March 7, the Ras Al Khaimah Digital Asset Oasis (RAK DAO) announced the signing of an MoU with Tencent Cloud to explore \u201cavenues for mutual growth.\u201d Initially, the deal includes facilitating the growth of startups registered at the RAK DAO, a dedicated crypto zone located in Ras Al Khaimah, one of the UAE\u2019s seven emirates.\nTencent Cloud executives sit with Sheikh Saud at the signing ceremony. Source: RAK DAO on Instagram\nThe memorandum includes the establishment of a Tencent Cloud training center within RAK DAO for skill development and education. The deal also includes internship opportunities for companies licensed in RAK DAO and its partners within the Tencent Cloud ecosystem.\nSheikh Saud bin Saqr Al Qasimi, the Ruler of Ras Al Khaimah, described the MoU signing as a significant milestone for the emirate. The Ras Al Khaimah ruler welcomed Tencent Cloud and said that the collaboration would solidify Ras Al Khaimah\u2019s position as a technology hub.\nMeanwhile, Tencent Cloud CEO Dowson Tong expressed that the goal of the collaboration is to set new benchmarks in the Web3 space and to \u201cunlock new opportunities in the digital economy.\u201d\nRelated: China\u2019s most valuable company pivoting to AI as gaming profits falter\nA \u201cfree-trade zone\u201d in the UAE is where entrepreneurs can have 100% ownership of their businesses in the country. These areas have their own regulatory frameworks and tax schemes, independent of the mainland, except for the UAE\u2019s criminal law.\nRAK DAO is a free-trade zone launched in 2023 to provide a dedicated area for virtual asset companies. The area is dedicated to virtual asset service providers focused on Web3 technologies like the metaverse, blockchain, nonfungible tokens, decentralized applications and decentralized autonomous organizations.\nThe UAE free-trade zone has also started collaborating with various companies in the crypto ecosystem. In July 2023, it signed an MoU with the HBAR Foundation to assist ecosystem members in leveraging the Hedera blockchain.\nMagazine: Tencent\u2019s AI leviathan, $83M scam busted, China\u2019s influencer ban: Asia Express",
+    "article_summary": "The memorandum of understanding includes the establishment of a Tencent Cloud training center for skill development and education at RAK DAO.",
+    "creation_date": "2024-03-07",
+    "associated_tags": [
+      "#Blockchain",
+      "#UAE",
+      "#China",
+      "#Business",
+      "#Tencent"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/tencent-cloud-uae-deal-boost-crypto-startups",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Greek stock exchange eyes Sui blockchain for on-chain fundraising tool",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/how-music-industry-battling-ai-deepfakes",
+      "name": "Savannah Fortis"
+    },
+    "article_detailed_content": "The Greek stock exchange announced that it is considering launching its new tool, the electronic book building (EBB), on the Sui blockchain ecosystem. \nIn a blog post on March 6, Sui revealed that the EBB will be developed in collaboration between the Athens Exchange Group (ATHEX) and Mysten Labs, the original contributor to the Sui ecosystem.\nATHEX\u2019s EBB would be a new fundraising future, which would allow early-stage and mature companies to list transferable securities. Sui would host ATHEX securities, which would be minted as digital certificates if played out.\n\u201cIn this form they would be protected by strong security and transferable, with a transparent chain of custody,\u201d the post read. It highlighted that while blockchain technology seems to be a \u201cnatural fit\u201d for stock market-related mechanisms, the EBB deployment on Sui would be one of the first to utilize the technology in such a way.\nEBB would be deployed as a blockchain-based \u201cmeta-layer\u201d over the current trading order routing system on ATHEX. According to the blog post, the tool would offer liquidity for business proposals for companies looking to fundraise.\nThe announcement said the project collaboration is still in the evaluation phase and hinges on performance and ATHEX choosing blockchain technology to host its new tool.\nRelated: Facebook, Instagram go down on Super Tuesday, take Meta stock price with them\nThe Sui Network is a layer-1 blockchain ecosystem that launched its mainnet in May 2023, and focuses on digital asset ownership. \nA few months after its mainnet launch, it took steps to simplify Web3 logins for users on its Sui-powered apps by allowing logins using Google, Facebook, and Twitch login details via a new zkLogin (Zero Knowledge login) feature.\nSince its launch it has built up a reputation for being able to handle high transaction volumes while still maintaining low fees.\nIn February of 2024 the Sui Foundation launched a Blockchain Academy with United Arab Emirates-based school, the American University of Sharjah, to increase student awareness of blockchain technology and its usability for creating applications and platforms.\nThe Sui Foundation managing director Greg Siourounis told Cointelegraph in an interview that he sees the goal of this university initiative as being to educate people on blockchain usabili while providing the right tools.\nMagazine: Is measuring blockchain transactions per second (TPS) stupid in 2024? Big Questions",
+    "article_summary": "The Greek stock exchange, ATHEX, is eying the deployment of its new fundraising mechanism on the Sui blockchain ecosystem.",
+    "creation_date": "2024-03-07",
+    "associated_tags": [
+      "#Blockchain",
+      "#Business",
+      "#Adoption",
+      "#Greece",
+      "#Stocks",
+      "#Stock Exchange"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/greek-stock-exchange-sui-blockchain-on-chain-fundraising",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Nigerian central bank hires Gluwa to advance eNaira through credit profiles",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/philippine-central-banker-reveals-details-wcbdc-pilot-project",
+      "name": "Derek Andersen"
+    },
+    "article_detailed_content": "The Central Bank of Nigeria (CBN) has complete a memorandum of understanding with Gluwa Nigeria to promote the usage of the eNaira central bank digital currency (CBDC). Gluwa is a blockchain-based financial platform that has been active in Nigeria for several years.\nAs an agent partner of the CBN, Gluwa will integrate its Credal technology into the eNaira platform, according to a statement sent to Cointelegraph. It plans to enable the creation of \u201ccredit reputations\u201d for unbanked users, thus furthering financial inclusion. The credit profiles it will create will be \u201caccessible across borders\u201d and increase the CBDC\u2019s effectiveness:\n\u201cThe integration of Credal is anticipated to streamline loan origination, management, settlement, and credit assessment processes for local fintech lenders.\u201d\nThis is the latest of many attempts by the CBN to boost eNaira usage. The eNaira is the world\u2019s second-oldest CBDC, launched in October 2021. As of mid-2023, less than 1% of Nigerians with bank accounts had eNaira wallets, and less than 1.5% of wallet holders were active in a week.\nRelated: Nigerian central bank adds NFC upgrade to eNaira for contactless payments\nCredit ratings are a sore point in Africa. Only 20% to 30% of Africans have a credit score, leaving the remainder of its people \u201cinvisible\u201d to lenders. Other blockchain-based solutions offered to provide Africans with credit histories use soulbound nonfungible tokens (NFTs) and capture information from low-value peer-to-peer transactions.\nMany of the payment solutions available in Africa, including Gluwa, depend on the use of mobile phones in place of traditional financial infrastructure.\nSource: @kbwofficial\nGluwa has been active in Nigeria since at least 2022 when it cooperated with the Lagos regional government to tokenize agricultural assets. It made a well-publicized pitch to the Nigerian government to advise it on cryptocurrency policy in April 2023. The Nigerian government has often been at odds with cryptocurrency exchanges.\nBinance will cease operations with the naira on March 8 after Nigerian government criticism of crypto exchanges singled it out in February.\nGluwa founder and CEO Tae Oh is also the head of the Creditcoin Network, which, like Gluwa, is a layer-1 blockchain. Creditcoin creates a public ledger of credit history and on-chain loan performance.\nMagazine: Bitcoin in Senegal: Why is this African country using BTC?",
+    "article_summary": "The pioneering African CBDC has few users, but creating credit histories for them will promote financial inclusion.",
+    "creation_date": "2024-03-07",
+    "associated_tags": [
+      "#Blockchain",
+      "#Nigeria",
+      "#Adoption",
+      "#Naira",
+      "#CBDC"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/nigerian-central-bank-hires-gluwa-enaira-credit-profiles",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Cryptography startup Zama raises $73M to protect data privacy",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/bitcoin-ath-memes-celebrating-price-peaks",
+      "name": "Helen Partz"
+    },
+    "article_detailed_content": "French cryptography startup Zama is moving forward with ambitious plans to enable computation on encrypted data without decryption by securing $73 million in a Series A funding round.\nLed by major industry investors Multicoin Capital and Protocol Labs, the raise aims to promote the use of Zama\u2019s Fully Homomorphic Encryption (FHE) technology, CEO Rand Hindi announced on March 7.\nDescribed by Hindi as the \u201choly grail of cryptography,\u201d Zama\u2019s FHE aims to make data privacy a standard feature on the internet while still enabling information processing in operations like cloud computing.\n\u201cImagine you have a secret message that you want to keep hidden, but you also need someone else to do some math with it without ever seeing the actual message,\u201d Zama\u2019s chief technology officer Pascal Paillier told Cointelegraph.\nFHE is like a \u201cmagical box\u201d where you can put your secret message, Paillier noted, adding that users are able to lock the box once the message is inside. He stated:\n\u201cThe magic part is that someone else can still do the math on the locked box, without ever opening it or seeing your secret. When they're done, you can unlock the box and see the result of the math, with your message still safe and secret inside.\u201d\nA visualization of Zama's FHE technology. Source: Zama\nAccording to Paillier, Zama has already onboarded several significant clients since its foundation in 2020, including Shiba Inu, which is using Zama\u2019s tech to \u201cconstruct an entire network state.\u201d SHIB adopted a new FHE-enabled privacy infrastructure in late February 2024, aiming to improve on-chain privacy.\nRelated: Sam Altman\u2019s Worldcoin ordered to stop collecting data in Spain\n\u201cBy making FHE more accessible and efficient for developers to use, Zama wants to eventually empower businesses to leverage cloud computing and other technologies without compromising on privacy,\u201d Paillier said. This approach involves creating user-friendly tools, libraries, or platforms that integrate FHE into everyday digital services, making it easier for firms to adopt this advanced encryption without needing specialized knowledge, he added.\nZama CTO also emphasized that the company\u2019s solution has made a breakthrough in terms of a tradeoff between on-chain transparency and off-chain privacy.\nDevelopers can deploy the \u201cbest of both worlds,\u201d or execute confidential smart contracts on encrypted data without sacrificing either confidentiality or composability, Paillier noted.\nMagazine: Real-life Doge at 18: Meme that\u2019s going to the moon",
+    "article_summary": "Multicoin Capital and Protocol Labs led a $73 million raise for a new cryptography startup which aims to make the \u201centire internet encrypted end-to-end.\u201d",
+    "creation_date": "2024-03-07",
+    "associated_tags": [
+      "#Blockchain",
+      "#Business",
+      "#Smart Contracts",
+      "#Privacy",
+      "#Internet",
+      "#Encryption"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/zama-73-million-raise-data-privacy",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Is Tesla buying Bitcoin again? BTC wallet data sparks curiosity",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/shapeshift-settles-pre-dao-sec-case-uniswap-hits-2-year-high-finance-redefined",
+      "name": "Prashant Jha"
+    },
+    "article_detailed_content": "Tesla\u2019s Bitcoin holdings have become a topic of discussion in the crypto community again after cryptocurrency data analytics platform Arkham Intelligence added Tesla\u2019s Bitcoin wallet tracking feature to its dashboard. Tesla\u2019s wallet now holds about 11,509 BTC at the time of writing, 1,789 more than the 9,720 BTC it reported during its last earnings report.\nTesla Bitcoin wallet. Source: Arkham\nThe Elon Musk-led Tesla bought $1.5 billion worth of Bitcoin in February 2021, near the peak of the last bull run, and it announced plans to accept Bitcoin payments for its cars. However, the firm\u2019s Bitcoin (BTC) adoption was short-lived, with the company first selling about 10% of its holdings in March 2021. In the second quarter of 2022, the electric car maker sold approximately 75% of its Bitcoin reserves.\nA timeline of Tesla\u2019s Bitcoin holdings and sales:\nFebruary 2021: Bought $1.5 billion worth of Bitcoin\nMarch 2021: Sold 4,320 BTC\n2022: Sold 29,160 BTC\n2023: There was no change in the balance of 9,720 BTC\nMusk has had a love/hate relationship with Bitcoin. In 2021, he expressed optimism about BTC, announcing plans for Tesla to store its own Bitcoin using on-chain wallets. However, within weeks, Musk dropped plans to receive BTC for Tesla cars, citing environmental concerns about Bitcoin mining.\nRelated: Why Solana will prevail despite Ethereum ETFs\nOne user on X was curious whether Tesla has started repurchasing Bitcoin or whether the recent change in figures is due to an accounting error. Another user suggested that the company might have started buying BTC after the last earnings call and could report the newly purchased BTC in its next call. Tesla and Musk have yet to comment on whether Tesla is buying BTC.\nBesides Tesla, Musk\u2019s other company, SpaceX, also holds Bitcoin on its balance sheet after MicroStrategy co-founder and executive chairman Michael Saylor convinced Musk to add Bitcoin to his company\u2019s balance sheet. MicroStrategy holds 193,000 BTC, making it the largest institutional holder of BTC in the world.\nDuring a panel discussion at the Bitcoin Atlantis conference on March 1, Saylor argued that AI and exchange-traded funds would usher in a decade-long \u201cgold rush\u201d for Bitcoin. \nMagazine: MakerDAO\u2019s plan to bring back \u2018DeFi summer\u2019 \u2014 Rune Christensen",
+    "article_summary": "Some users speculated that Tesla might be buying Bitcoin and could reveal it during its next earnings call, while others believe it could be an accounting error.",
+    "creation_date": "2024-03-07",
+    "associated_tags": [
+      "#Bitcoin",
+      "#Blockchain",
+      "#Bitcoin Price",
+      "#Adoption",
+      "#Tesla",
+      "#Elon Musk"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/tesla-buying-bitcoin-btc-wallet-curiosity",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Ethereum leans into rollup-centric future as Dencun hard fork looms",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/virtual-smartphone-launches-solana",
+      "name": "Gareth Jenkinson"
+    },
+    "article_detailed_content": "Layer-2 protocols scaling the Ethereum blockchain are set to benefit from significantly reduced rollup costs when the Dencun hard fork hits mainnet. Still, end-users might not reap the full benefit immediately.\nPolygon Labs VP of Product David Silverman tells Cointelegraph that Ethereum\u2019s latest hard fork, which features several improvement proposals (EIPS), will take a few weeks to fully implement by rollup protocols:\n\u201cWithin about a month and a half or two months, every single L2 that wants to use blob space as a rollup will be moved over, and then users will see the full benefit.\u201d\nRelated: Ethereum devs expect 10x lower rollup costs as Dencun upgrade hits testnets\nThe Dencun hard fork incorporates a total of nine different EIPs. The name of the upgrade is a combination of the Cancun upgrade of Ethereum\u2019s execution layer and the Deneb upgrade on the consensus layer.\nWhat does EIP-4844 do?\nSilverman explains that a major focal point of the hard fork is EIP-4844, which changes how Ethereum rollups store data on mainnet. Several layer-2 rollups aggregate and process transactions off-chain and submit a summary proof of these transactions to the Ethereum blockchain.\n\u201cThere\u2019s only one type of storage in Ethereum currently \u2014 call data storage on the execution layer. It\u2019s permanent, meaning if I post something, whether it\u2019s the image for an NFT or transaction data for a rollup, all Ethereum nodes must store that state forever,\u201d Silverman explains.\nEIP-4844 creates a new way for rollups to add cheaper data to blocks by introducing the blob space. Using call data for storage was expensive because all Ethereum nodes must process the data that lives on-chain indefinitely.\nRelated: Make Ethereum cheap again: \u2018Blobs\u2019 to be launched via Dencun upgrade on March 13\nProto-danksharding, named after the researchers who proposed EIP-4844, allows rollups to send and attach data blobs to blocks. The data is not accessible to the Ethereum Virtual Machine and is deleted automatically after a fixed period of time, estimated to be 18 days. Silverman explains:\n\u201cThe idea with these blobs in EIP-4844 is to create this brand new section of storage that I can\u2019t actually execute. I can\u2019t touch them inside of the Ethereum EVM but Ethereum, the protocol, guarantees its storage for a certain timeframe.\u201d\nSilverman adds that because blobs are stored temporarily, they\u2019re drastically cheaper for rollups and allow for the same security guarantees.\nRollup benefits won\u2019t be immediate\nProto-danksharding has been a hot topic in the Ethereum community, given its impact on the cost of rollup data storage in the future. Various layer-2 developers have touted rollup costs to be reduced by 10 to 50 times, but Silverman said the true impact will only be realized once Dencun hits the mainnet.\nDencun is set to hit the Ethereum mainnet on March 13. Source:  Tim Beiko on X.\nThe Polygon Labs vice president of Product notes that the impact will not be immediate. The Dencun hard fork is scheduled for March 13, after which rollups will have to do their own updates before taking advantage of the new storage space:\n\u201cEach rollup has to go through their own governance and upgrade procedures to change their contracts, to move from pointing to call data to point to the new blob space.\u201d\nSilverman says that Polygon has been working hard to expedite its own implementation of EIP-4844. At the same time, conversations with counterparts at Optimism, zkSync and Arbitrum indicate that L2s are eager to take advantage of the hard fork as quickly as possible.\nEthereum leans into rollup-centric future\nDencun also represents the realization of Ethereum\u2019s shift toward a layer-2-centric scaling approach. Silverman says Ethereum is looking to \u201cslow down and ossify\u201d its core components while leaving innovation and user-level focus to L2s.\n\u201cThis is an Ethereum roadmap item that says, as opposed to the base chain being responsible for scaling, rollups are really where the future is. We\u2019re going to make changes to make them cheaper and more attractive to users and be the standard-bearer for Ethereum,\u201d Silverman said.\nMajor rollup players have even begun to coordinate among themselves with the formation of Roll Call, where these layer 2s meet, discuss and produce improvement proposals.\n\u201cThese are changes that will only ever be on L2. Changes to the EVM that are not coming to mainnet Ethereum, things like new forms of account abstraction, new pre-compiles, new opcodes,\u201d Silverman adds.\nRelated: Key elements to watch on the Ethereum network roadmap\nDencun might not immediately impact rollup costs, but Silverman does expect some fanfare when the hard fork is finalized. Silverman said:\n\u201cEthStaker always does a great stream. You\u2019ll see some fun experiments at launch as well. Developers at ETH Denver said they\u2019ll be doing ETH blob Ordinals to clog up the blob space.\u201d\nAs the staggered implementation of EIP-4844 by rollups occurs, the ecosystem will begin to see the true impact of proto-danksharding. Silverman also believes that the more L2s joining the blob space will gradually lessen the impact of its cost reduction.\nMagazine: Is measuring blockchain transactions per second (TPS) stupid in 2024? Big Questions",
+    "article_summary": "Ethereum\u2019s next set of hard forks is anticipated to benefit layer-2 scaling protocols significantly by reducing storage costs.",
+    "creation_date": "2024-03-07",
+    "associated_tags": [
+      "#Blockchain",
+      "#Ethereum",
+      "#Adoption",
+      "#Hard Fork",
+      "#Scalability",
+      "#Ether Price",
+      "#Layer2",
+      "#Ethereum Price",
+      "#Polygon"
+    ],
+    "category": "INTERVIEW",
+    "article_link": "https://cointelegraph.com/news/ethereum-rollup-centric-dencun-hard-fork",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "\u2018Only a few\u2019 Ethereum L2s will survive the next 5 years: Manta co-founder",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/large-corporations-wirehouses-prepare-bitcoin-etf-bitwise",
+      "name": "Tom Mitchelhill"
+    },
+    "article_detailed_content": "Of the 44 active Ethereum layer-2 (L2) blockchains in existence today, \u201conly a few\u201d will still be around in five years, said Kenny Li, co-founder and chief operating officer of Manta Pacific.\nAccording to data from L2Beat, there are currently a total of 44 active Ethereum L2 networks, boasting a combined total value locked (TVL) of $36.92 billion, with Arbitrum standing in first place with $14.5 billion TVL.\nHowever, Li claims the future is only properly paved for \u201cmodular\u201d blockchains such as Manta, Celestia and Cosmos.\nCritics of this viewpoint, however, argue the term is simply a \u201cmarketing stunt\u201d and the success of a network has nothing to do with its approach to development and scalability.\n\u2018Monolithic\u2019 BTC and ETH killers\nSpeaking to Cointelegraph, Li argues the flood of new L2s on the Ethereum network is charting the same path as \u201cforks\u201d of the Bitcoin and Ethereum networks in the past \u2014 none of which \u201csurvived.\u201d\nThere are 44 active Ethereum L2s with a combined TVL of $36 billion. Source: L2Beat\n\u201cWith all of the Bitcoin forks \u2014 Bitcoin Cash and BSV \u2014 they all took an existing technology and forked it,\u201d Li explained.\n\u201cThey said: \u2018You know what? We\u2019re going to make these minor changes to it. And by making these minor changes to it, we\u2019re going to create something that\u2019s \u2018better than Bitcoin,\u2019\u201d Li said, adding:\n\u201cFast forward to 2024, it\u2019s just Bitcoin. There\u2019s no other Bitcoin fork community that has any comparable metrics, any comparable community that even comes close to the original Bitcoin.\u201d\nLi added that the same thing played out with Ethereum in 2016 when new networks such as EOS and NEO attempted to position themselves as \u201cEthereum killers\u201d by offering alternative Ethereum Virtual Machine and VM environments that tried to make slight tweaks to the pre-existing Ethereum ecosystem.\nIn Li\u2019s view, the central issue with all of the Bitcoin and Ethereum \u201cforks\u201d was that they were all built \u201cmonolithically,\u201d meaning that they didn\u2019t allow for the quick integration and adoption of new technology that showed up as time went on.\n\u201cThey all built monolithically, and what happened to them, right? Fast forward again to 2024, Ethereum is the dominant player,\u201d Li said.\n\u201cWill we see this many L2s in five years or so? I don\u2019t think so. Only a few will survive.\u201d\nModular blockchains are networks that export their primary tasks: execution, settlement, consensus and data availability to external blockchains, which proponents say offer greater design flexibility.\nIn contrast, monolithic blockchains prioritize a single-system architecture, which handles all tasks within a single layer of the network.\nSome, however, don\u2019t see any reason to debate \u201cmodular vs. monolithic\u201d at all.\nMaybe it\u2019s all a \u2018marketing stunt\u2019\nAustin Federa, head of strategy at the Solana Foundation, described the relatively new debate around the two terms as a \u201cmarketing stunt\u201d introduced by Celestia.\nWhile many understand Ethereum\u2019s more \u201cmodular\u201d architecture \u2014 relying on L2s to complete specific tasks \u2014 as standing in direct contrast to the \u201cmonolithic\u201d nature of other higher-throughput networks, such as Solana or Avalanche, Federa disagrees with the use of the term entirely.\n\u201cWe have to remember that the modular-versus-monolithic debate is all a marketing stunt,\u201d said Federa. \u201cCelestia created this distinction between modular and monolithic. It\u2019s not a natural distinction, and there\u2019s nothing organic about it.\u201d\nLi claims that Manta \u2014 launched on Jan. 18 \u2014 could be described as the \u201cfirst and largest\u201d modular layer-2 network on Ethereum, as it uses Optimism\u2019s OP stack and utilizes Celestia for data availability (though Ethereum co-founder Vitalik Buterin would say that makes it a \u201cvalidium\u201d and not a genuine L2).\nAt the time of publication, Manta is the fourth-largest L2 network in terms of TVL, only recently overtaken by the new L2 Blast, which launched its mainnet on March 1.\nManta Pacific is the fourth-largest Ethereum L2 by TVL. Source: L2Beat\n\u201cWe don\u2019t build in a monolithic way. We haven\u2019t built anything in terms of core architecture just by ourselves,\u201d Li explained.\nRelated: Bitcoin layer 2s among catalysts of this bull cycle, Bitcoin OG says\n\u201cWe\u2019re taking a very modular approach, which means that we\u2019re able to essentially plug and play different technologies that are available at different times so we can continue to adapt to changing demands,\u201d Li added.\nFedera, however, argues that there\u2019s no need to make a distinction between the two approaches.\n\u201cThe truth is, there is no such thing as a modular system, and there\u2019s no such thing as a monolithic system.\u201d\nFedera explained that a monolithic network is simply an \u201cintegrated\u201d blockchain where tasks are handled in a single layer, whereas \u201cmodular\u201d \u2014 or \u201cfragmented\u201d networks \u2014 complete the same functions across several layers and don\u2019t actually contribute considerably to the success or outcomes of a given network.\n\u201cIt\u2019s like how the terms \u2018pro-life\u2019 and \u2018pro-choice\u2019 are, are two positive spins on something, right? Like, no one is actually anti-life or anti-choice, right? This is all just marketing terminology to put forward a certain narrative that people want to talk about.\u201d\n\u201cI think that setting up these things as being at odds with one another is not a particularly useful or accurate way to think about these systems. They\u2019re just different software architecture choices that are not actually that different at the end of the day,\u201d Federa said.\nMagazine: Web3 Gamer: Sweatcoin says shaking is faking, MotoDEX review, Gods Unchained 2024\nExchange or buy ETH\nDisclaimer: The information contained on this widget is not intended as, and shall not be understood or construed as legal, tax, investment, financial, or other advice. Nothing contained on this widget constitutes a solicitation, recommendation, endorsement, or offer by Cointelegraph or any third party service provider to buy or sell any cryptoassets or other financial instruments. We advise you to spend only what you can afford to lose, and always seek independent financial advice if you are in doubt. You should not purchase any cryptoassets if you do not fully understand the nature of your purchase and the risks involved. We recommend that you refer to the issuer\u2019s/ advertiser\u2019s t&c and help/ support pages for more information.\nAd",
+    "article_summary": "Manta\u2019s Kenny Li argues that only blockchains with a \u201cmodular\u201d approach stand a chance of survival, but critics say the whole debate is just a marketing stunt.",
+    "creation_date": "2024-03-07",
+    "associated_tags": [
+      "#Blockchain",
+      "#Cryptocurrencies",
+      "#Ethereum",
+      "#Adoption",
+      "#Scalability",
+      "#Solana",
+      "#Layer2",
+      "#Arbitrum"
+    ],
+    "category": "INTERVIEW",
+    "article_link": "https://cointelegraph.com/news/ethereum-l2s-modular-vs-monolothic-debate-manta-interview",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "MEXC says \u2018clawbacks\u2019 only affect delinquent traders as users report missing funds",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/mexc-says-clawbacks-only-affect-delinquent-traders-as-users-report-missing-funds",
+      "name": "Christopher Roark"
+    },
+    "article_detailed_content": "Crypto exchange MEXC has denied claims that it \u201csteals\u201d customers\u2019 profits back when they have unusually large profits. In a recent X post, the exchange stated that \u201cusers engaging in normal trading activities will not be affected\u201d by its clawback policies, which it claims are in place to protect the exchange against alleged market manipulation. Meanwhile, some customers say that funds were unjustly deleted from their accounts on the exchange.\nMEXC is the 11th-largest centralized crypto exchange by trading volume, according to CoinMarketCap, with approximately $1.3 billion worth of spot trading volume each day. The exchange is especially well known for its perpetual futures trading platform, which does over $7 billion in daily volume.\nIn a conversation with Cointelegraph in February, an MEXC user with the screen name \u201cAl Gore Rhythms\u201d claimed that MEXC froze his account and deleted some of his funds after several crypto perpetual futures trades. According to him, his trades of BONK, ICP (ICP), SATS and GROK altcoin perpetuals were up by 380% to 2,200% when his account suddenly stopped working. Login attempts then produced error messages stating that his account had been restricted due to \u201crisk control.\u201d\nMEXC error message. Source: Al Gore Rhythms\nAccording to the user, he later discovered that an alleged amount of $33,658 had been deducted from his spot account. This deduction was allegedly not recorded on his transaction history, although his balance showed that it had been reduced from $75,054.54 to $41,396.54.\nSeeking help from customer service, Al Gore Rhythms opened a ticket asking why the funds had been deducted. In response, MEXC representatives allegedly told him that the exchange had \u201ctaken measures to recover the losses incurred\u201d due to \u201cabnormal trading activities\u201d from his account.\nAlleged email from MEXC. Source: Al Gore Rhythms\nIn response, AI Gore Rhythms asked for a transaction record showing the amount deducted, which he told the exchange he needed for \u201ctax purposes.\u201d He claims the exchange refused to give him this information and later deleted his entire transaction history. The user showed Cointelegraph a video of his transaction history, which displayed only blank pages. He also produced what he claimed was a screenshot of the transaction history from before it was deleted.\nCointelegraph could not independently confirm the allegations, or whether the video and screenshot were from the same account.\nRelated: RiskOnBlast suspected to be first rug pull on Blast after $1M presale\nAccording to AI Gore Rhythms, he sought further information from MEXC\u2019s customer service and was told that the funds were taken to cover \u201cthe losses of the mexc.\u201d\nAlleged conversation between customer service and user. Source: Al Gore Rhythms\nAnother user, Coach K Crypto, also claims that MEXC deducted funds from his account unjustly. According to a Feb. 27 X post from The Gold Pod co-host Mason Versluis, Coach K Crypto claimed that $330,000 was taken from his MEXC account \u201cdue to abnormal profit,\u201d which the MEXC customer service representative allegedly called a \u201ccrawback,\u201d seemingly mispelling \u201cclawback.\u201d\nIn a reply to the post, MEXC claimed that the exchange\u2019s risk control policy does not affect ordinary users who engage in \u201cnormal trading activities.\u201d A spokesperson for the exchange also said there is an appeals process for users who feel this policy has led to unjust deductions.\nCointelegraph was also contacted in February by a different MEXC user from Pakistan who claimed the exchange had frozen his trades and caused them to become liquidated. According to the user, who wished to remain anonymous, the freeze stopped him from closing his trade, resulting in trading losses that otherwise would have been prevented.\nHe claimed the exchange offered to pay him $3,000 in compensation in exchange for deleting his X posts that complained about the incident. However, the exchange allegedly withdrew this offer when his posts aged and stopped receiving as many views. This user did not produce a screenshot of the offer being made.\nRelated: Hong Kong issues warning over imposter crypto exchange posing as MEXC\nCrypto trader Hashmoney told a similar story in a Jan. 4 thread on X. Hashmoney claimed that when their account was frozen, \u201cI was not able to hedge my positions, reduce the margin or do anything at all.\u201d In response, they \u201crequested the customer support that they may keep withdrawals restricted but shall at least allow me to trade so I can prevent my balance from liquidating.\u201d\nHowever, MEXC customer service allegedly only allowed Hashmoney to add to their position for 30 minutes and did not allow them to close it out. As a result, \u201cMy whole futures account was liquidated taking away 11000$+ and [the] rest was deducted in daily fees as I was not allowed to hedge my positions,\u201d the user wrote. Hashmoney alleged that they still had $600 remaining in the account but could not withdraw it due to the freeze.\nMEXC replied to Hashmoney\u2019s thread, claiming an investigation was underway and asking the user to contact customer service for an update. Hashmoney claimed they would update the thread when they obtained a resolution. No update has since been posted at the time of publication.\nCointelegraph contacted MEXC for comment but did not receive a response by the time of publication. A blog post on the exchange\u2019s official website claims that \u201cabnormal trading behavior\u201d consists of activities such as placing multiple orders and canceling them (often called \u201cspoofing\u201d) or using multiple accounts to artificially inflate volume by trading between them. Al Gore Rhythms claimed that he did not own multiple accounts and did not engage in spoofing.\nSimilar allegations against MEXC were made by multiple users in December. At the time, MEXC claimed that the allegations were misinformation. \u201cSocial media is rife with misinformation, and certain individuals purposely distort facts for personal agendas,\u201d a representative stated. The representative also claimed that clawbacks are only implemented after \u201cstrict review, in accordance with user agreements.\u201d",
+    "article_summary": "A growing number of traders have complained of funds being deducted from their MEXC accounts, but the exchange argues that such complaints are \u201cmisinformation.\u201d",
+    "creation_date": "2024-03-06",
+    "associated_tags": [
+      "#Blockchain",
+      "#Cryptocurrencies",
+      "#Business",
+      "#Cryptocurrency Exchange",
+      "#Scams",
+      "#Trading",
+      "#Regulation"
+    ],
+    "category": "INVESTIGATION",
+    "article_link": "https://cointelegraph.com/news/mexc-says-clawbacks-only-affect-delinquent-traders-as-users-report-missing-funds",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "MicroStrategy raises convertible notes offering to $700M amid stock rally",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/singaporean-fintech-launches-usdc-powered-visa-card-swiss-bank-fiat24",
+      "name": "Zhiyuan Sun"
+    },
+    "article_detailed_content": "Corporate Bitcoin (BTC) investor MicroStrategy is seeking to sell $700 million in convertible notes, up from $600 million announced just days prior, amid an ongoing cryptocurrency bull market.\nAccording to details disclosed on March 6, the 2030 MicroStrategy convertible notes will bear an interest rate of 0.625% per annum with a conversion price of $1,497.68 per share, representing a premium of 21% compared with its current trading price of $1,234.48 at the time of publication. \n\u201cHolders of notes may require MicroStrategy to repurchase their notes on September 15, 2028, or upon the occurrence of certain events that constitute a fundamental change under the indenture governing the notes at a repurchase price equal to 100% of the principal amount of the notes to be repurchased, plus any accrued and unpaid interest,\u201d the firm said.\nThe notes are only available to accredited or institutional investors. MicroStrategy may redeem the notes for cash after March 22, 2027, if its common stock is trading consistently above 30% of the set conversion price.\nMicroStrategy expects to raise $684.3 million net from the sale, or $782.0 million if purchasers exercise their options, and use the proceeds to purchase additional Bitcoin or for corporate expenses.\nThe company currently holds 193,000 BTC acquired at an average price of $31,544, representing a balance of $12.9 billion and a return of 112% since inception. Simultaneously, the company\u2019s stock has returned 429.2% as part of the broader Bitcoin bull market. \nMichael Saylor, chairman and co-founder of MicroStrategy, is an avid Bitcoin enthusiast who first incorporated the digital asset into the firm\u2019s corporate asset allocation strategy in August 2020. Since then, MicroStrategy has consistently added BTC to its corporate treasury every quarter. During a panel discussion at the Bitcoin Atlantis conference on March 1, Saylor argued that AI and exchange-traded funds would usher in a decade-long \u201cgold rush\u201d for Bitcoin. \nRelated: Bitcoin price hits $72K in South Korea as \u2018Kimchi premium\u2019 returns",
+    "article_summary": "The firm had previously announced a $600 million convertible raise on March 4.",
+    "creation_date": "2024-03-06",
+    "associated_tags": [
+      "#Bitcoin",
+      "#Blockchain",
+      "#Cryptocurrencies",
+      "#Business",
+      "#MicroStrategy"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/microstrategy-raises-convertible-notes-offering-700-million-amid-stock-rally",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Sam Altman\u2019s Worldcoin ordered to stop collecting data in Spain",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/tcg-world-partners-chooky-records-nft-web3-busta-rhymes-metaverse",
+      "name": "Tristan Greene"
+    },
+    "article_detailed_content": "The Spanish Agency for the Protection of Data (AEPD) ordered Worldcoin to stop collecting and processing data in Spain on March 6, issuing a temporary order banning operations for a period of three months. \nWorldcoin is a product/service developed by Tools for Humanity, a firm founded by OpenAI co-founder and CEO Sam Altman. Its mission, according to the Worldcoin white paper, is to create a \u201cglobally inclusive identity and financial network, owned by the majority of humanity\u201d with the stated goal of creating \u201ca potential path to AI-funded universal basic income.\nThe AEPD order claims the agency is investigating complaints that users in Spain aren\u2019t able to withdraw consent and that Worldcoin has allegedly collected data from minors.\nPer a translation via Microsoft:\n\u201cThe AEPD, which demands the cessation of the collection and processing of special categories of personal data as well as the blocking of those already collected, has received several complaints denouncing, among other aspects, insufficient information, the collection of data from minors or that the withdrawal of consent is not allowed.\u201d\nWorldcoin sent Cointelegraph the following statement from Data Protection Officer Jannick Preiwisch:\n\"World ID was created to give people access, privacy and protection online. It is the most privacy preserving and safest solution for asserting humanness in the age of AI, and we are always willing to engage with regulators, examine their feedback and answer their questions.\"\nThe statement from Worldcoin continues:\n\"For months we have been engaged with Bavarian data protection authority (BayLDA), who are the lead supervisory authority under the GDPR for Worldcoin Foundation and Tools for Humanity. The Spanish data protection authority (AEPD) is circumventing EU law with their actions today, which are limited to Spain and not the broader EU, and spreading inaccurate and misleading claims about our technology globally.\"\n\"Our efforts to engage with the AEPD and provide them with an accurate view of Worldcoin and World ID have gone unanswered for months. We are grateful to now have the opportunity to help them better understand the important facts regarding this essential and lawful technology.\"\nThe Spanish authorities\u2019 injunction comes just a little over a month after Hong Kong\u2019s Office of the Privacy Commissioner for Personal Data (PCPD) conducted an investigation into Worldcoin.\nAs Cointelegraph reported, PCPD executed search warrants on Worldcoin offices in Hong Kong in January, citing concerns over data privacy.\nThe controversy surrounding Worldcoin stems from its use of biometric scanning devices called \u201corbs.\u201d Worldcoin users sign up for the service by downloading an app. They\u2019re then directed to the nearest facility containing an orb, where they must submit to have their eye scanned. As human irises are unique to each individual, this method of biometric verification is generally considered more accurate than fingerprinting and other common identification techniques.\nOnce verified, user identities are tied to their unique biometric data, where they can be verified independently using Worldcoin\u2019s services. Those who sign up for the service and activate their accounts in the WorldApp application are given a payment in Worldcoin\u2019s WLD token.\nRelated: Worldcoin soars 140% in a week as wallet app hits 1M daily users\nSource: @Worldcoin on X\nAccording to Tools for Humanity, Worldcoin has 4 million verified users as of March 5, 2024.\nUpdate 6 March, 10:59 AM PST: Added statement from Worldcoin. ",
+    "article_summary": "After hitting 1 million daily users on WorldApp, Worldcoin is running into regulatory roadblocks.",
+    "creation_date": "2024-03-06",
+    "associated_tags": [
+      "#Blockchain",
+      "#Altcoin",
+      "#Spain",
+      "#Worldcoin",
+      "#Regulation"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/sam-altman-worldcoin-ordered-stop-collecting-data-biometric-spain",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Aethir aims to be the Airbnb for spare GPU \u2014 Co-founder",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/bitcoin-breaks-new-high-above-71-000",
+      "name": "Zoltan Vardai"
+    },
+    "article_detailed_content": "Aethir aims to become the AirBnB of spare graphics processing units (GPUs), Dan Wang, the co-founder and chief business officer of Aethir, told Cointelegraph in an exclusive interview.\n\u201c[Aethir] is a bit like Airbnb, where there are spare vacation homes that are being underutilized, and there\u2019s obviously a demand for some of that unused vacation home time. [\u2026] So, at the very base level, we service as a kind of Airbnb for GPU computing.\u201d\nBacked by Nvidia, Aethir is building a decentralized, enterprise-grade GPU cloud infrastructure network for artificial intelligence (AI) and gaming applications.\n\u201cOverall GPU utilization is quite low,\u201d said Wang, adding that Aethir\u2019s intelligent routing feature aims to bolster this, by matching the type of computing demand with the right type of GPU power.\nHigher GPU utilization could lead to more advanced AI use cases due to the decreased cost of computing power, according to Aethir\u2019s Wang. He said:\n\u201cWhat we foresee happening is a virtuous cycle. The more utilization that we can find for all this GPU computing that\u2019s out there, the higher the utilization, and they can lower their service fees because they\u2019re getting back the invested capital.\u201d\nAethir is preparing to launch its initial node offering, starting March 14, while the public node sale will take place on March 20.\nAethir initial node offering announcement. Source: Aethir, Impossible Finance\nRelated: Bitcoin price hits a new all-time high\nWhile there is a major global GPU shortage, a significant part of this issue is due to the underutilization of older GPU models, according to Aethir\u2019s Wang. He said:\n\u201cThere are a lot of older generation GPUs that are severely underutilized, [\u2026] but they haven\u2019t found consistent steady use case and demand for it to be fully utilized.\u201d\nChipmaker Nvidia has previously struggled to meet the demand for its GPUs, which are popular among gaming customers and cryptocurrency miners. Nvidia first started having GPU supply issues in 2017, as the bull run of that year attracted more people to crypto mining. After cooling off somewhat in the following years, the GPU shortage emerged once again in 2020 and has shown no signs of abating.\nRelated: Bitcoin price hits $72K in South Korea as \u2018Kimchi premium\u2019 returns",
+    "article_summary": "The Nvidia-backed firm expects higher GPU utilization to lead to more advanced AI use cases.",
+    "creation_date": "2024-03-06",
+    "associated_tags": [
+      "#Blockchain",
+      "#NVidia",
+      "#Adoption",
+      "#GPU"
+    ],
+    "category": "INTERVIEW",
+    "article_link": "https://cointelegraph.com/news/aethir-aims-airbnb-spare-gpu-cofounder",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Hut 8 closes Bitcoin mining site, citing surging energy costs",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/singaporean-fintech-launches-usdc-powered-visa-card-swiss-bank-fiat24",
+      "name": "Zhiyuan Sun"
+    },
+    "article_detailed_content": "Bitcoin miner Hut 8 is closing its mining site in Drumheller, Alberta, Canada, due to power disruptions and surging energy costs.\nAccording to the March 6 announcement, Hut 8's Drumheller mining facility, which mines approximately 1.4% of the firm's Bitcoin (BTC) but at the cost of around 11% of its hash rate, will be closed effective immediately.\n\"Following a comprehensive analysis, we have determined that the profitability of Drumheller has been impacted significantly by various factors, including elevated energy costs and underlying voltage issues,\" Asher Genoot, CEO of Hut 8, said in a statement. Effectively immediately, all of the company's Bitcoin miners will be relocated to its Medicine Hat, Alberta, Canada facility. \"Hut 8 will maintain its lease at the site and the option value of re-energizing the site if market conditions improve,\" its staff wrote.\nA combination of factors, such as high energy costs, alongside record mining difficulty and the anticipated Bitcoin halving, which will reduce mining rewards by 50%, have resulted in sector stagnation. According to data compiled by Energyrates.ca, electricity prices per kilowatt hour (kWh) have increased by 1,000% in Alberta, Canada, since 2017. The provincial government has also restricted new cryptocurrency mining projects due to concerns over their power use. \nFor the first nine months of 2023, Hut 8\u2019s revenue fell by 57% year-over-year to CA$ 55,184 ($40,757), largely due to falling Bitcoin prices at the time. In terms of hash rate, Hut 8 currently accounts for 1.3% of the Bitcoin network\u2019s overall processing power.\n On Jan. 19, Hut 8 stock fell by more than 23% in a single day after allegations surfaced from short sellers accusing the company\u2019s partner USBTC of legal trouble in a $725 million merger deal. Hut 8 has since stated that the report \"is filled with inaccuracies, misrepresented data, speculative claims, and unfounded character attacks.\" On February 8, the firm's former CEO, Jaime Leverton, resigned. \nRelated: Bitcoin price retraces from $69K ATH as BTC hodlers take profit",
+    "article_summary": "The Drumheller, Alberta, mining site produces an annualized rate of 48 Bitcoins per year.",
+    "creation_date": "2024-03-06",
+    "associated_tags": [
+      "#Bitcoin",
+      "#Blockchain",
+      "#Cryptocurrencies",
+      "#Mining",
+      "#Canada",
+      "#Business",
+      "#Bitcoin Mining",
+      "#Hash Rate"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/hut-8-closes-bitcoin-mining-site-citing-surging-energy-costs",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Binance to make crypto smell good with new fragrance for Women\u2019s Day",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/how-music-industry-battling-ai-deepfakes",
+      "name": "Savannah Fortis"
+    },
+    "article_detailed_content": "The blockchain ecosystem and popular cryptocurrency exchange Binance revealed its latest move to encourage more women to participate in the industry by blending high-end goods with finance through its new luxury fragrance, Crypto. \nOn March 6, Binance\u2019s female marketing leaders announced their attempts to broaden the company\u2019s inclusivity efforts, focusing on attracting the attention of women with a marketing campaign starring the luxury scent in time for International Women\u2019s Day on March 8.\nThe Crypto fragrance was initially part of a series of luxury advertisements for the company\u2019s inclusivity campaign, \u201cCrypto is Yours.\u201d Binance said the strategy draws \u201cinspiration from the conventions of beauty advertising\u201d while challenging the \u201cnorm\u201d of the crypto space.\nRachel Conlan, the chief marketing officer at Binance, said drawing from her own experience in the crypto space, she\u2019s seen the \u201cinvaluable contributions\u201d of women firsthand.\n\u201cWe\u2019re here to tell women everywhere: Don\u2019t be a bystander. Break those glass ceilings, challenge existing narratives and become part of this digital transformation that\u2019s set to redefine global finance.\u201d\nShe added it\u2019s not just a scent but a message to women that \u201cthey have a significant role to play in the crypto revolution.\u201d\nBinance said that the \u201ccore component\u201d of the initiative is to encourage more women to explore the crypto industry. It plans to also reward the first 5,000 women who complete one of their beginner crypto courses with $25 in Tether (USDT).\nRelated: Binance temporarily suspends Solana network withdrawals, citing \u2018increased volume\u2019\nConlan emphasized that crypto is universal and all individuals should be empowered to participate in the space.\nIn 2023, in the lead up to International Women\u2019s Day, Cointelegraph spoke with Binance\u2019s co-founder He Yi, who, as a woman, advised those looking to get into the space to \u201cforget gender\u201d and focus on mindset to make it in Web3. \nBinance isn\u2019t the only crypto platform seeking to cater to the women demographic in 2024. On Jan. 16, the cryptocurrency exchange Bitget pledged to allocate $10 million to go toward women-led Web3 startups through the Blockchain4Her initiative that promotes gender diversity and inclusivity in the industry.\nAccording to a Jan. 11 report from Bitget Research, women-led or created startups received only $1.77 billion of the $27.85 billion in Web3 venture capital funding between the first quarter of 2022 and the third quarter of 2023, accounting for roughly 6.43%. \nFemale-led Web3 startups comprised less than 9% of all startups in the space, which speaks to the efforts of many of the major industry players to encourage participation by women.\nMagazine: Owner of seven-trait CryptoPunk Seedphrase partners with Sotheby\u2019s: NFT Collector",
+    "article_summary": "Binance\u2019s latest inclusion campaign encouraging women\u2019s participation in the crypto industry is fronted by a new luxury fragrance called Crypto and accompanied by incentives to participate in crypto courses.",
+    "creation_date": "2024-03-06",
+    "associated_tags": [
+      "#Blockchain",
+      "#Business",
+      "#Women",
+      "#Binance"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/binance-crypto-smell-good-fragrance-women-day",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "TON continues to attract Web3 firms as Telegram Ad Platform goes live",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/virtual-smartphone-launches-solana",
+      "name": "Gareth Jenkinson"
+    },
+    "article_detailed_content": "The TON blockchain, which powers Telegram\u2019s new advertising platform, continues to attract significant investment from Web3 players looking to tap into its 800 million monthly active user base.\nMirana Ventures is the latest firm to invest in the TON ecosystem after acquiring $8 million of the network's native Toncoin token. The investment is set to be used in ongoing product developments involving the TON Foundation, Bybit and Ethereum layer 2 Mantle Network.\nThe Telegram Ad Platform, built on the TON blockchain, officially went live in March 2024. The platform allows Telegram channel owners worldwide to receive financial rewards, exclusively selling advertising and sharing revenue with channel owners in Toncoin.\nInformation shared with Cointelegraph outlines Bybit\u2019s increasing involvement in the TON ecosystem over the past year. The cryptocurrency exchange carried out a cashback program and staking involving Toncoin in 2023.\nRelated: Telegram ad platform to launch via TON blockchain\nIt\u2019s understood that around 130,000 users of messaging app Telegram were responsible for generating over $22 million in trading volume through the initiatives. Bybit intends to use Telegram\u2019s advertising platform to tap into its massive monthly active user base.\nTON was initially developed by Telegram, but a subsequent legal battle with the United States Securities and Exchange Commission saw the messaging application abandon its development efforts in May 2020.\nA small group of open-source developers then took over the project, which led to the establishment of the TON Foundation in May 2021. TON Space is the self-custodial wallet within Telegram that allows users to manage Toncoin tokens and native collectibles.\nTON Space is the native Web3 wallet available to Telegram users to manage Toncoin tokens and digital collectibles. Source: TON Space\nAlongside Mirana Ventures\u2019 investment, the TON Foundation announced that TON Space is connecting Telegram users to Mantle Network by integrating TON-based MNT tokens. This is set to allow Mantle Network users to access gamified campaigns and advertising offerings within Telegram.\nRelated: Animoca\u2019s Yat Siu bullish on TON partnership as Bitcoin sets strong foundation for 2024\nA statement from Mirana Ventures managing partner David Toh highlights the growth potential of the partnership between Mirana, Mantle, Bybit and TON:\n\u201cThe Open Network, as the native blockchain and wallet tech stack in Telegram, the centerpiece communications infrastructure of crypto and Web3, is uniquely positioned to help accelerate mass adoption.\u201d\nTON Foundation president Steve Yun said that several industry players want to gain early mover advantage by allocating capital and tapping into the TON ecosystem and its embedded connection to Telegram.\nAs previously reported, Web3 investment firm Animoca Brands became the largest TON validator with an undisclosed investment. Animoca co-founder Yat Siu exclusively told Cointelegraph that the investment involved purchasing an undisclosed amount of Toncoin, which was then staked as part of the validator agreement.\nMagazine: Owner of seven-trait CryptoPunk Seedphrase partners with Sotheby\u2019s: NFT Collector",
+    "article_summary": "Mirana Ventures invests $8 million into The Open Network ecosystem as Bybit looks to tap into Telegram\u2019s recently launched advertising platform.",
+    "creation_date": "2024-03-06",
+    "associated_tags": [
+      "#Blockchain",
+      "#Altcoin",
+      "#Investments",
+      "#Adoption",
+      "#Telegram",
+      "#TON",
+      "#Cryptocurrency Investment"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/ton-telegram-attract-web3-investors-ad-platform",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Lena Network\u2019s Candy token falls 87% after $2.9M rug pull",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/bitcoin-breaks-new-high-above-71-000",
+      "name": "Zoltan Vardai"
+    },
+    "article_detailed_content": "Recently launched liquidity protocol Lena Network\u2019s Candy (CANDY) token fell over 87% after the protocol suffered a rug pull of 753 Ether, worth $2.9 million at publication time.\nThe Candy token fell 87% to $0.38 as of 12:48 am UTC, from a daily high of $3.08, recorded at 5:45 am, according to Dexscreener data.\nCANDY/USDT, all-time chart, Source: Dexscreener\nThe Candy token fell after on-chain data showed that the Lena Network deployer address had transferred 753.11 Ether (ETH) to an address associated with OKX exchange on March 6, at 2:30 am, according to Etherscan.\nThe rug pull occurred a few hours before Lena Network announced that it had officially renounced the ownership of the token contract, according to a March 6 X post. The protocol has yet to respond to the incident at the time of publication.\nLena Network nnouncement. Source: LENA Network on X\nRelated: OrdiZK bridge vanishes in alleged $1.4M rug pull: CertiK\nLena Network raised a total of over 850 ETH ($3.2 million) for its Candy initial farm offering, which ended on March 3, according to the protocol\u2019s announcement. The Candy token went live earlier on March 6 before declining sharply.\nRug pulls and hacks are a growing concern in the crypto space. Over $200 million worth of cryptocurrency has been lost to hacks and rug pulls in 2024 year-to-date (YTD) across 32 individual incidents, according to a Feb. 29 research report by blockchain security firm Immunefi.\nThe over $200 million loss YTD represents a 15.4% increase compared to January and February 2023, when $173 million of digital assets were stolen.\nFebruary saw over $67 million worth of crypto stolen across 12 specific hack and fraud incidents. This represents a nearly 50% decrease from January, which recorded $133 million worth of stolen crypto.\nA total of $1.8 billion was lost to crypto hacks and scammers in 2023, of which 17% can be attributed to the North Korean Lazarus Group, according to a Dec. 28, 2023, report by Immunefi.\nRelated: Bitcoin price hits $72K in South Korea as \u2018Kimchi premium\u2019 returns",
+    "article_summary": "The rug pull occurred hours after the Candy token\u2019s launch.",
+    "creation_date": "2024-03-06",
+    "associated_tags": [
+      "#Blockchain",
+      "#Cryptocurrencies",
+      "#Scams",
+      "#Hacks",
+      "#DeFi"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/lena-network-candy-falls-87-2-9-million-rug-pull",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "India hosts 8M gov\u2019t docs across 5 blockchains",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/india-earmarks-1-25-b-ai-growth",
+      "name": "Arijit Sarkar"
+    },
+    "article_detailed_content": "Nearly eight million government-issued verifiable documents are currently hosted across five blockchains owned and operated by India\u2019s National Informatics Centre (NIC), a government agency. \nThe NIC, which operates under India\u2019s Ministry of Electronics and Information Technology, launched a new website showcasing its various blockchain initiatives. According to the information provided, 7.93 million documents \u2014 including but not limited to education, property, judiciary and drug logistics \u2014 are currently hosted on the blockchain.\nA list showing the type of documents India hosts on the blockchain. Source: blockchain.gov.in\nIndia primarily uses three blockchain platforms to develop the products: Hyperledger Fabric, Hyperledger Sawtooth and Ethereum. The five blockchain products currently used in India are certificate chain, document chain, drug logistics chain, judiciary chain and property chain, as shown below.\nBlockchain projects were made live by the Indian government. Source: blockchain.gov.in\nThe documents come from six states and three government departments, which include the Central Board of Secondary Education, the Ministry of Consumer Affairs and the Ministry of Justice.\nThe departments using blockchain technology have enabled verification services around property ownership, birth and death certificates, and a supply chain management system for medicines and educational certificates.\nIndia is also working on proof-of-concept blockchains dedicated to land records, blood banks, backtracking goods and services tax and a public distribution ystem. In 2023, Hindustan Petroleum, one of India\u2019s largest oil and gas companies, partnered with the blockchain software firm Zupple Labs to integrate its blockchain-based digital credentialing technology into the purchase order system.\nRelated: India tells tech firms approval is needed before releasing new \u2018unreliable\u2019 AI tools\nIndia\u2019s motive behind blockchain implementations is to counter the country\u2019s long-standing problem with document forgery. By using blockchain, the Indian government digitally issues verifiable and immutable certificates that cannot be altered or misused by bad actors.\nLocal governments drive India\u2019s nation-wide blockchain implementation drive. Source: NASSCOM\nDespite the reluctance to legitimize cryptocurrencies fully, India has generally accepted blockchain technology, and numerous state and local governments contribute to the nation\u2019s blockchain adoption drive.\nMagazine: Owner of seven-trait CryptoPunk Seedphrase partners with Sotheby\u2019s: NFT Collector",
+    "article_summary": "India primarily makes use of three blockchain platforms for the development of the products \u2014 Hyperledger Fabric, Hyperledger Sawtooth and Ethereum.",
+    "creation_date": "2024-03-06",
+    "associated_tags": [
+      "#Blockchain",
+      "#Government",
+      "#Adoption",
+      "#India",
+      "#Verification",
+      "#Indian Government"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/india-8m-govt-docs-blockchains",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "UK regulations will allow stablecoins and CBDCs to coexist, says former BoE fintech lead",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/virtual-smartphone-launches-solana",
+      "name": "Gareth Jenkinson"
+    },
+    "article_detailed_content": "A coordinated approach between His Majesty's Treasury, the Bank of England (BoE) and the Financial Conduct Authority (FCA) could help the United Kingdom develop regulations that allow cryptocurrencies, stablecoins and central bank digital currencies (CBDCs) to coexist.\nCointelegraph spoke exclusively to Varun Paul, who formerly served as the head of Fintech at the BoE, about the U.K.\u2019s efforts to establish regulations that support the use of cryptocurrencies and stablecoins while maintaining investor protection and financial stability.\nPaul, now the senior director for CBDCs and financial market infrastructure at Fireblocks, says the U.K. is closing the gap with the European Union\u2019s Markets in Crypto-Assets Regulation (MiCA), which he describes as the most advanced regulatory framework globally.\nRelated: FTX collapse, Binance\u2019s US settlement provide strong case for MiCA regulations\n\u201cThere was a period where the FCA said we\u2019re not going to regulate crypto in any way because we don\u2019t want to endorse it. As a result, the U.K. fell behind Europe, but it\u2019s catching up fast,\u201d Paul explains.\nThe U.K. Treasury published its final proposal in October 2023, outlining its plans to regulate the sector, with companies offering cryptocurrency-related activities to be authorized by the FCA.\n\u201cYou could see the latest set of publications as trying to position the U.K. level with the EU and encourage innovation so that London is seen as a Fintech center and a crypto hub. It\u2019s recognition that the FCA, Treasury and the Bank of England can\u2019t stay quiet on this subject any longer,\u201d Paul adds.\nAdvantage of coordination\nWhile the U.K. may have been slow in developing a framework that oversees the broader cryptocurrency space and the systemic role of stablecoins, Paul believes the country stands to gain from a cooperative regulatory approach.\nThe Fireblocks CBDC director says the development of regulations has been quicker in the country, given the U.K. does not have to coordinate rules between different states like the EU has had to. The dovetail approach of the Treasury, BoE and FCA has also lent a hand in creating rules that balance fostering innovation and financial stability:\n\u201cBecause of the coordination between those three authorities, it has the potential to be more comprehensive in giving a set of rules to facilitate stablecoins, allowing tokenized deposits for banks as well as central bank digital currencies.\u201d\nPaul highlights that the FCA\u2019s regime currently oversees the management and use of stablecoins in the U.K. as well as smaller cryptocurrency and Fintech operators. Meanwhile, \u201clarger, systemically important\u201d operators would fall under the radar of the BoE and its Prudential Regulation Authority.\nStablecoins remain a base asset in the crypto ecosystem\nStablecoins have become an essential cog in the cryptocurrency ecosystem. The market capitalization of Tether (USDT) recently surpassed $100 billion, becoming the most-used stablecoin worldwide.\nUSDT\u2019s market capitalization surpassed $100 billion on March 24. Source: CoinMarketCap\nPaul says that dollar-backed stablecoins continue to be used as a gateway to access the broader cryptocurrency ecosystem and will remain so until other blockchain-based digital forms of money are available that rival their ubiquity:\n\u201cEurope and the U.K. are saying we need to have a form of money denominated in euros and sterling, and we have the opportunity to say what that looks like.\u201d\nThe transparency of Tether\u2019s reserves for circulating USDT has often been criticized by mainstream commentators, and Paul says this narrative remains a concern for the U.K.\u2019s regulators.\n\u201cFrom the very outset, the U.K. regime said if you\u2019re going to call yourself a stablecoin, it must be redeemable at par and held in liquid assets. That\u2019s something that the Financial Policy Committee and the Bank of England said many years back,\u201d he adds.\nNevertheless, its policymakers are keenly aware of the demand for cryptocurrencies and digital money that can be used to purchase them, as Paul explains:\n\u201cLet\u2019s have a regime that encourages a safe form of digital assets that\u2019s backed by pounds rather than have a parallel to USDT in the U.K.\u201d\nWhat also needs to be considered is the use cases for stablecoins, tokenized assets and CBDCs between different institutions.\nStablecoins and CBDCs operating in tandem\nPaul authored a white paper published in November 2023 for Fireblocks, which considers the potential of a smart contract-managed system that allows a central bank to issue a CBDC as a base asset for commercial bank tokenized deposits and stablecoins.\nThe paper outlines how a country can have a consistent set of money, which protects and preserves this concept of uniformity. Paul says that users don\u2019t really mind what form of money they\u2019re using, just like they don\u2019t mind today that they\u2019re using banknotes, credit cards or e-money.\nSpecific use cases will ultimately decide between the need for stablecoins and CBDCs. Crypto-natives may feel more comfortable using USDT, while older generations may lean toward centralized digital currencies issued by trusted financial institutions.\n\u201cSome people will be for the most trusted, risk-free money. Others will go for forms of money that allow them to enter DeFi [decentralized finance], for example. Others use a particular digital currency to pay their taxes. For that reason, you will need and see various options integrating and working together,\u201d Paul concludes.\nSpecific use cases will ultimately decide between the need for stablecoins and CBDCs. Crypto-natives may feel more comfortable using USDT, while older generations may lean toward centralized digital currencies issued by trusted financial institutions. \nThe U.K.\u2019s Economic Secretary to the Treasury, Bim Afolami, recently indicated that the government is working toward passing legislation regulating stablecoins and cryptocurrency staking by the end of 2024. \nMagazine: How the digital yuan could change the world\u2026 for better or worse",
+    "article_summary": "United Kingdom policymakers are adopting a coordinated approach to establish regulations allowing cryptocurrencies, stablecoins and CBDCs to coexist.",
+    "creation_date": "2024-03-06",
+    "associated_tags": [
+      "#Blockchain",
+      "#Cryptocurrencies",
+      "#Bitcoin Regulation",
+      "#Adoption",
+      "#United Kingdom",
+      "#Stablecoin",
+      "#CBDC",
+      "#Regulation"
+    ],
+    "category": "INTERVIEW",
+    "article_link": "https://cointelegraph.com/news/uk-regulations-allow-stablecoins-cbdcs-coexist",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Bitcoin price retraces from $69K ATH as BTC hodlers take profit",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/shapeshift-settles-pre-dao-sec-case-uniswap-hits-2-year-high-finance-redefined",
+      "name": "Prashant Jha"
+    },
+    "article_detailed_content": "Bitcoin\u2019s (BTC) price recorded a new all-time high of $69,000 on March 5; however, the time above $69,000 was short-lived as the BTC price experienced a flash crash and briefly fell below $60,000. The price crash was attributed to heavy selling from hodlers as several whales and dormant accounts woke up to take profits.\nAccording to data from CryptoQuant, crypto exchanges witnessed a three-day streak of BTC inflows worth $525 million, suggesting traders were moving their BTC from cold storage onto exchanges to take profit in anticipation of the all-time high (ATH).\nOne case that intrigued the crypto community was a dormant whale that awoke after 14 years to deposit 1,000 BTC ($67.1 million) onto Coinbase when BTC\u2019s price was trading at $67,116. The whale mined this Bitcoin in 2010 when the price was below $0.28, suggesting that the whale has made more than $60 million in profit.\nWhile Bitcoin hodlers took profit on their holdings, leverage traders were less lucky, with more than $1 billion in leveraged positions liquidated due to price volatility, making it the largest liquidation day since the previous cycle top.\nRelated: Crypto derivatives\u2019 daily trading volumes reach record highs\nThe Bitcoin binary spending indicator also indicates that several Bitcoin hodlers made a profit as BTC\u2019s price hit $69,000. The binary spending indicator shows the movement of BTC funds over the years based on their supply timeline.\nBitcoin spending. Source: Checkonchain\nBitcoin also recorded the highest selling volume on Coinbase on a daily candle since the FTX crash, indicating heavy selling.\nBitcoin selling volume on Coinbase. Source: TradingView\nDespite the recent selling and price flash crash, not everyone wants to sell. According to CryptoQuant data, 45% of Bitcoin hasn\u2019t moved in over three years, while 11% has not been touched for five to seven years.\nBitcoin holdings age band. Source: CryptoQuant\nCrypto analysts deemed the recent flash crash healthy for the market, as it wiped out high volatility and reset the high funding rates. The funding rate represents the difference between the futures and spot markets. High funding rates indicate over-optimism in the market dominated by long traders.\nFunding rate analysis. Source: Miles Deutscher on X\nBitcoin\u2019s price has also recovered above $66,000 within 24 hours, only 4% away from its all-time high.\nMagazine: Wolf Of All Streets worries about a world where Bitcoin hits $1M: Hall of Flame\nExchange or buy BTC\nDisclaimer: The information contained on this widget is not intended as, and shall not be understood or construed as legal, tax, investment, financial, or other advice. Nothing contained on this widget constitutes a solicitation, recommendation, endorsement, or offer by Cointelegraph or any third party service provider to buy or sell any cryptoassets or other financial instruments. We advise you to spend only what you can afford to lose, and always seek independent financial advice if you are in doubt. You should not purchase any cryptoassets if you do not fully understand the nature of your purchase and the risks involved. We recommend that you refer to the issuer\u2019s/ advertiser\u2019s t&c and help/ support pages for more information.\nAd",
+    "article_summary": "A dormant whale from 2010 woke up to sell 1,000 BTC at $69,000 ATH, racking in $68 million in profits.",
+    "creation_date": "2024-03-06",
+    "associated_tags": [
+      "#Bitcoin",
+      "#Blockchain",
+      "#Bitcoin Price",
+      "#Adoption",
+      "#Bitcoin Mining",
+      "#Cryptocurrency Exchange",
+      "#Bitcoin Futures"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/bitcoin-retraces-ath-btc-hodlers-profit",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Major content update arrives to Web3 action RPG with 50K monthly users",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/noncustodial-lending-and-crypto-debit-card-with-finma-compliance-launches",
+      "name": "Nihatcan Yanik"
+    },
+    "article_detailed_content": "Big Time Studios marries engaging gameplay with a crypto-based economy in its Web3 game, Big Time, emphasizing a player-first approach by rewarding participation with in-game collectibles and tokens.\nWeb3 gaming seeks to attract users by presenting engaging gameplay and a player-focused in-game economy powered by crypto. The balance between gameplay and blockchain aspects is crucial to onboard players from broader demographics.\nIf the integration of the crypto economy is too shallow, it risks underutilizing the potential benefits, such as digital asset ownership and the ability to trade the items you\u2019ve crafted. Game developers must observe the impact of economic activities on the gaming experience and adjust accordingly to prevent one aspect from diminishing the other.\nAs Web3 gaming evolves and shifts toward better gameplay and interaction, new titles arrive with more advanced features, combining the most popular gaming genres.\nBuilding a game for players\nBig Time Studios, a Web3 game studio, recently concluded the pre-alpha preseason of its flagship title, Big Time \u2014 a free-to-play Web3 game. The multiplayer game combines action and role-playing elements reminiscent of Diablo with worlds akin to those in World of Warcraft, offering players a blend of intense combat and vast exploration.\nThrough procedurally generated dungeons, players can engage in battles, complete various objectives and gather resources critical for crafting nonfungible tokens (NFTs). The collectibles are earned directly in-game, emphasizing Big Time\u2019s commitment to a player-centric approach.\nThe invite-only preseason heightened anticipation and laid the groundwork for the game\u2019s progression to closed and open beta phases while incorporating player feedback to refine the gaming experience.\nCrafting a player-first economy\nBig Time\u2019s in-game economy is centered around its native token, BIGTIME. It enables players to earn, refine, craft and upgrade items. Players can expedite crafting times and gain access to Prestige Portals, which offer higher drop rates for in-game collectibles, using BIGTIME tokens.\nBig Time adopts a fair token release strategy, where tokens are earned through gameplay, ensuring a level playing field. It also helps with balanced gameplay by preventing non-players from purchasing their way to in-game advantages.\nBig Time Studios distributed over 250 million BIGTIME tokens to 21,000 users so far. The game saw engagement from more than 68,000 players with an average of 10,000 daily active users. In GAM3S.GG Awards 2023, Big Time brought home three awards, including Best Multiplayer Game, Best RPG and Best Adventure Game.\nThe game also attracted 2,600 Twitch streamers, amassing over 940,000 watched hours on the streaming platform. Big Time\u2019s four Mystery Box sales events sold out within hours, which has generated over $9 million in revenue.\n⚔️ Round 3 of the $BIGTIME Leaderboard is in FULL SWING! ⚔️\n\nWho will come out on top? 😎 pic.twitter.com/FLR9cmW7NI\n\u2014 Big Time (@playbigtime) February 8, 2024\n\u201cWe are a game company, first and foremost,\u201d said Ari Meilich, CEO of Big Time Studios. He underlined their priority of delivering \u201can amazing game with immersive gameplay,\u201d adding that:\n\u201cThis approach has differentiated us, and in light of its recent successes, signals we\u2019re taking Web3 gaming in the right direction.\u201d\nBig Time is set to expand in 2024 with the introduction of player vs. player (PvP) combat alongside new content, dungeons and character abilities. The expansion marks the game\u2019s initial venture into PvP, featuring high-value portals with exceptional loot and challenges. Players will compete in arenas against other parties and creatures, vying for maximum rewards.\nThe game offers access to its early-access version for users joining the Big Time Discord community or contacting its Twitch streamers.\nLearn more about Big Time\nDisclaimer. Cointelegraph does not endorse any content or product on this page. While we aim at providing you with all important information that we could obtain in this sponsored article, readers should do their own research before taking any actions related to the company and carry full responsibility for their decisions, nor can this article be considered as investment advice.",
+    "article_summary": "Balancing engaging gameplay with a crypto-based economy is critical in Web3 gaming to ensure enjoyment doesn\u2019t succumb to a pay-to-win mentality.",
+    "creation_date": "2024-03-06",
+    "associated_tags": [
+      "#Blockchain",
+      "#Adoption",
+      "#Games",
+      "#Blockchain Game",
+      "#Web3",
+      "#Gaming"
+    ],
+    "category": "SPOTLIGHT",
+    "article_link": "https://cointelegraph.com/news/major-content-update-arrives-to-web3-action-rpg-with-50k-monthly-users",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Lotte subsidiary partners with Aptos to build Web3 hub",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/india-earmarks-1-25-b-ai-growth",
+      "name": "Arijit Sarkar"
+    },
+    "article_detailed_content": "South Korean advertising firm Daehong Communications, a subsidiary of Lotte Group, has partnered with Aptos Foundation to undertake Web3-powered strategic global expansion. \nThe partnership between Daehong and Aptos marks the commencement of the creation of a Web3 hub for Lotte, a South Korean multinational conglomerate corporation that oversees roughly 90 business units. In an announcement shared with Cointelegraph, Daehong revealed plans to introduce loyalty programs, NFT-based profile picture projects, and entertainment, among other initiatives within Lotte Group\u2019s Web3 hub.\nDaehong also laid the groundwork for upcoming nonfungible token projects and use cases for other subsidiaries of Lotte Group. Future Web3 initiatives will include loyalty programs for improving fan engagement and new payment services that aid collectibles preservation and eradicating counterfeit tickets.\nIn addition, Daehong intends to enhance the value of Web3 projects through global expansion, starting with an ecosystem collaboration between NFT and digital collectible projects BellyGom and the South Korean national football B team, Baeho Eleven. In this initiative, some of the BellyGom NFTs will be transferred to Aptos, allowing users to receive rewards from the project via the Aptos mainnet.\nUsers will be able to repurpose the rewards to purchase goods available on Aptos. The blockchain will also power Baekho Eleven\u2019s official loyalty program during the Qatar Asian Cup.\nAptos provides blockchain services to the public while focusing on creating valuable usability. The ecosystem is home to over $400 million in investments from top investors such as a16z, Jump Crypto, Apollo Global, Franklin Templeton, Dragonfly, PayPal Ventures and Coinbase Ventures. It has a current market capitalization of $3.7 billion.\nRelated: Aptos token rises 11.6% after Microsoft deal to marry AI with blockchain\nLast year, Aptos\u2019 new user base increased by 900% after the blockchain partnered with Indian social media platform Chingari. The app was previously powered by Solana but migrated to Aptos seeking an enhanced user experience following Solana\u2019s ongoing but temporary network outages.\nAptos network activity prior to partnering with Chingari. Source: Aptos Analytics\nSumit Ghosh, co-founder and CEO of Chingari, told Cointelegraph that the integration with Aptos has enabled instant on-chain features, such as virtual gifts, leading to a surge of new users in recent weeks.\nMagazine: Owner of seven-trait CryptoPunk Seedphrase partners with Sotheby\u2019s: NFT Collector",
+    "article_summary": "The partnership is aimed at creating a Web3 hub for Lotte, a South Korean multinational conglomerate corporation that oversees roughly 90 business units.",
+    "creation_date": "2024-03-06",
+    "associated_tags": [
+      "#Blockchain",
+      "#Adoption",
+      "#Web3",
+      "#Fan Tokens",
+      "#Aptos"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/lotte-partners-aptos-build-web3-hub",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Astar Network launches Astar zkEVM on Polygon AggLayer",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/tcg-world-partners-chooky-records-nft-web3-busta-rhymes-metaverse",
+      "name": "Tristan Greene"
+    },
+    "article_detailed_content": "Astar Network, a blockchain firm based in Japan, launched Astar zkEVM on March 5, becoming the first layer-2 chain to integrate into Polygon\u2019s AggLayer.\nAstar zkEVM is a zero-knowledge layer-2 chain designed to enable cross-chain transactions between the Astar and Polygon blockchains. It\u2019s integrated through AggLayer, a protocol that supports multichain smart contracts via aggregate zero-knowledge proofs (ZK-proofs), essentially making the chains seemingly operate for end-users as though they\u2019d merged into a single network.\nAccording to a blog post from Polygon Labs, AggLayer brings \u201cuniform cryptographic security and atomic composability across aggregated chains without sacrificing sovereignty,\u201d which is to say that transactions remain immutable throughout the entire process of crossing chains.\nIn a press release seen by Cointelegraph, Sota Watanabe, founder of Astar Network, said the move came as part of Japan\u2019s national tech strategy:\n\u201cOur integration in the AggLayer and continuous investment in development solidifies Astar zkEVM\u2019s position as Japan\u2019s web3 authority for innovation, entertainment, and retail dApps, positioning Astar at the forefront of Japan\u2019s web3 expansion in the enterprise, retail, and government sectors, accelerating the growth of web3.\u201d\nAs Cointelegraph reported, AggLayer was announced just a little over a month ago with the goal of easing friction for users across chains.\nPolygon Labs compared the result to an end-user experience more in line with the internet. Instead of manually connecting, recovering and restaging assets to facilitate cross-chain movement, AggLayer basically does the connecting and converting behind the scenes. This works much like today\u2019s Web2 experience, where users click on a link and all the handshaking between sites and across domains occurs in the background.\nSandeep Nailwal, co-founder of Polygon, said in a statement that the onset of the AggLayer era was an important milestone:\n\u201cToday is an important first step to welcome communities to a seamless multichain ecosystem. With Astar and numerous other ZK-powered chains onboarding soon, Polygon CDK and AggLayer are poised to bring internet-scale capabilities to the world of crypto.\u201d\nRelated: Institutional investors execute on-chain AVAX tokenized loan",
+    "article_summary": "The new zero-knowledge layer-2 chain is the first to be integrated into AggLayer.",
+    "creation_date": "2024-03-06",
+    "associated_tags": [
+      "#Blockchain",
+      "#Japan",
+      "#Sidechains",
+      "#Integration",
+      "#Polygon"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/astar-network-launches-blockchain-astar-zx-evm-polygon-agg-layer",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Fetch.ai announces GPU rewards for tokenholders after $100M infrastructure investment",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/singaporean-fintech-launches-usdc-powered-visa-card-swiss-bank-fiat24",
+      "name": "Zhiyuan Sun"
+    },
+    "article_detailed_content": "Crypto artificial intelligence project Fetch.ai, built on Cosmos, is allocating $100 million to an infrastructure program, dubbed Fetch Compute, that will expand the tools, computing power and training capabilities of developers alongside providing GPU credits for its users.\nAccording to the March 5 announcement, Fetch Compute will deploy Nvidia H200, H100 and A100 GPUs to create a platform that developers and users can utilize for computing power, with financing coming from the Fetchi.AI ecosystem fund.\n\u201cThe move is expected to accelerate the pace of innovation within the fetch.ai ecosystem by providing the capacity to explore complex models and solutions,\u201d the project wrote. In addition, \u201cUsers staking Fetch.ai\u2019s native coin $FET will earn Fetch Compute Credits as rewards which they can then use to pay for GPU utilization on the Fetch Compute network\" starting on March 7.\nHumayun Sheikh, CEO of Fetch.ai, commented: \u201cBy marrying substantial compute resources with our unique compute credit system, we\u2019re ensuring that our community has the support and tools necessary to bring their visionary AI projects to life.\" Currently, Fetch.ai's infrastructure is comprised of the search-based AI DeltaV platform, which leverages large language models and AI agents to match users with computing services.\nIntroducing: Fetch Compute ️\n\nFollowing a $100M investment in our infrastructure, we have secured the future for our growing ecosystem with a decentralized computing platform, offering advanced AI-focused @nvidia #GPUs ⚡\n\nBut wait, there's more for $FET stakers! pic.twitter.com/i9FYkJnkLZ\n\u2014 Fetch.ai (@Fetch_ai) March 5, 2024\nOn Feb. 26, Cointelegraph reported that AI tokens have been rallying alongside chip-maker Nvidia\u2019s breakout Q4 2024 earnings. During the quarter, Nvidia announced revenue and earnings of $22.1 billion and $12.3 billion, respectively, representing year-over-year increases of 265% and 769% amid accelerated demand for computing and generative AI. Subsequent to the announcement, Fetch.ai tokens have returned more than 230% and currently trade at $1.78. \nLast month, Fetch.ai secured a partnership with Deutsch Telecom for the latter to join as a corporate partner and a validator for the Fetch blockchain.\nRelated: AI tokens record double-digit gains as market cap doubles in a month",
+    "article_summary": "The incentive program will be available to FET stakers starting March 7.",
+    "creation_date": "2024-03-05",
+    "associated_tags": [
+      "#Blockchain",
+      "#Cryptocurrencies",
+      "#Altcoin",
+      "#Cosmos",
+      "#DeFi"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/fetch-ai-announces-gpu-rewards-token-holders-after-100-million-infrastructure-investment",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Tokenizing the future with Lionel Messi: How RWA can help save the planet",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/a-crypto-trading-platform-develops-its-own-fiat-on-ramp-as-a-gateway-to-web3",
+      "name": "Serkan Keskin"
+    },
+    "article_detailed_content": "Football superstar Lionel Messi has joined forces with Planet Refi to showcase the first series of Join The Planet RWA series inspired by his signature left boot.\nAmong the many trends that sprouted from blockchain and Web3, real-world asset (RWA) and its tokenization has become the fastest to find footing in the broader business world. With its promise of digital assets linked to their real-world counterparts, the RWA trend is expected to grow into a $16 trillion market by 2030.\nNumerous creators and businesses from a wide-range of rootings, including the art scene, real estate industry and traditional asset management, have started exploring the opportunities presented by creating \u201cdigital twins\u201d or physical assets, fragmentation them and then making each part easily tradable and traceable thanks to blockchain technology.\nRWA tokenization presents immense potential to disrupt traditional business. Source: Boston Consulting Group\nBut it\u2019s doesn\u2019t stop at creators and established businesses \u2014 even celebrities looks for ways to contribute to a better world by using RWA tokenization as a way to promote environmental sustainability.\nLionel Messi becomes an RWA ambassador\nPlanet Refi, a Web3 platform with a focus on RWA tokenization, has recently unveiled its long-teased sustainability project by the hands of Lionel Messi, the football player who is commonly called the GOAT as the short version of \u201cGreatest of All Time.\u201d\n🔥RWA game changer in #Web3🔥\nLimited First Edition - Breaking the internet with the Messi backed RWA 🐐⚽️ $PLANET #PlanetRWA\n\nA thread 🧵🔽 pic.twitter.com/TyWy9IXQVf\n\u2014 Planet (@PlanetReFi) March 3, 2024\nMessi unboxed the Join The Planet RWA, revealing his signature left boot as the real-world asset that Planet Refi\u2019s RWA tokenization platform\u2019s first major project. According to the announcement, the Limited First Edition of the Join The Planet RWA series will consist of collectibles inspired by the iconic left boot.\nThe Mystery Box teased by Messi turned out to be his iconic left boot. Source: Planet Refi\nThe real-world assets linked to the collection are crafted from materials recycled from the Parana River in Messi\u2019s hometown in Argentina, highlighting the team\u2019s efforts on environmental sustainability. Planet says the materials\u2019 journey from the river debris to users\u2019 hands is fully documented and audited for transparency and traceability. An exclusive presale for the Limited First Edition of Join The Planet RWA is slated for March 15, 2024, and users can reserve their spot in the queue from the official website.\nMystery Boxes for PLANET holders\nAside from the RWA, Planet\u2019s ecosystem offers Mystery Boxes with digital collectibles acting as NFTs with hidden JTP RWA. Users can mint their Mystery Box, which offers special perks for the holders of PLANET \u2014the native token used in the Planet ecosystem. Planet Refi will plant one tree for each Mystery Box sold. If the user buys a Mystery Box with their PLANET token, they will receive 2 boxes instead of one.\nPLANET token holders will also be eligible for the upcoming staking program, which promises to distribute 10% of the total revenue generated -with a $100 million annual target- through the Planet Refi platform to stakers. Holders of PLANET will get a 30% discount on reserving and buying their collectibles from the JTP RWA series.\n♻️ Embracing sustainability, the groundbreaking RWA is crafted from debris cleaning the Paraná River in Messi's hometown. These collectible cleats radiate authenticity, featuring the GOAT Lionel Messi's signature. 🐐\n\nGet 30% off your RWA purchase using $PLANET tokens.\nReserve\u2026 pic.twitter.com/ke5x1ftr55\n\u2014 Planet (@PlanetReFi) March 5, 2024\nThrough its business model and practices, Planet aims to integrate the dynamism of Web3 with the robustness of RWA. The goal, as the Planet team explained, is \u201cto create a synergy that unlocks unprecedented yields and fosters sustainable growth on track to generate $100 million in revenue within the first operational year.\u201d\nWeb3 grows to address environmental concerns\nPlanet Refi has already announced a number of key partnerships to grow its ecosystem, including BNB Chain, Chainlink, Binance Oracle, Venus Protocol, Core and Zignaly, with more partnerships, including Polygon, underway. The Planet Refi team said in the announcement that it has created a sustainable $100 million annual revenue model to showcase its commitment to sustainability and revenue generation.\n🌐The $PLANET ecosystem is a strategic masterpiece, geared towards our ambitious goal of creating a $100M ARR project. 🚀 Fueled by a self-reliant business model, inspired by the transformative Flywheel Model at @amazon. Exciting times ahead as we get ready for the #RWA Reveal.\u2026 pic.twitter.com/byFAs1Wyov\n\u2014 Planet (@PlanetReFi) February 24, 2024\nTaking a cue from Amazon\u2019s successful \u201cFlywheel\u201d business model, Planet Refi seeks to address the revenue generation challenges of Web3 while also contributing to environmental sustainability with its PLANET token.\nWhat\u2019s in store for the project\nThe team\u2019s utility roadmap for the PLANET token includes unique RWA series, exclusive discounts, buyback and burn initiatives, which saw the burning of over 3.6 billion PLANET tokens, and gamified rewards for the community where events like the River Rescue game saw over 400,000 plays with 60,000 winners. A recent community raffle also resulted in the distribution of $100,000 in prizes.\nThe company aims to expand its ecosystem through partnerships with influencers and celebrities who share a passion for preserving the planet, utilizing the potential of blockchain to disrupt the $16 trillion RWA market.\nFind out more about Planet Refi\nDisclaimer. Cointelegraph does not endorse any content or product on this page. While we aim at providing you with all important information that we could obtain in this sponsored article, readers should do their own research before taking any actions related to the company and carry full responsibility for their decisions, nor can this article be considered as investment advice.",
+    "article_summary": "RWA tokenization promises to revolutionize multiple industries and grow into a $16 trillion market by 2030, with support from high-profile figures like Lionel Messi.",
+    "creation_date": "2024-03-05",
+    "associated_tags": [
+      "#Blockchain",
+      "#Assets",
+      "#Adoption",
+      "#Sport",
+      "#Tokens",
+      "#Web3"
+    ],
+    "category": "SPOTLIGHT",
+    "article_link": "https://cointelegraph.com/news/tokenizing-the-future-with-lionel-messi-how-rwa-can-help-save-the-planet",
+    "website_source": "Coin Telegraph"
+  },
+  {
+    "article_title": "Memecoins rally as Bitcoin recovers to all-time high",
+    "article_type": "Article",
+    "author": {
+      "last_post": "https://cointelegraph.com/news/singaporean-fintech-launches-usdc-powered-visa-card-swiss-bank-fiat24",
+      "name": "Zhiyuan Sun"
+    },
+    "article_detailed_content": "After nearly three years, Bitcoin (BTC) briefly recovered to its all-time high above $69,000 on March 5.\n\u201cThis is a truly historic moment for the asset and the crypto industry as a whole,\u201d said Kraken managing director Jonathon Miller in an email to Cointelegraph, adding:\n\u201cA combination of factors has sparked excitement around this asset class and contributed to Bitcoin achieving this landmark: the recent U.S. spot Bitcoin ETF approvals, renewed focus on the upcoming [Bitcoin] halving event, and a wave of interest in crypto more broadly as mainstream attention has returned.\u201d\nSimilarly, Bitcoin\u2019s 56% year-to-date gain has ignited interest in various memecoins. According to data compiled by Ryan Lee, chief analyst at Bitget Research, altcoins such as Floki and Baby Doge have returned anywhere between 80% to 289% in the past week alone, with an 840% increase in trading volume during the same period.\n\u201cThe rapid rise of assets such as Bitcoin and Ethereum has resulted in a spill-over effect, propelling the entire meme sector upwards,\u201d said Lee. \u201cOne significant factor contributing to the surge in these memecoins is their deployment on Ethereum and Solana chains, typically priced in ETH and SOL on decentralized exchange platforms. The upward trend in ETH and SOL prices consequently drives the price appreciation of meme coins.\u201d\nThe same day, Solana memecoin Dogwifhat (WIF) saw a wild run-up in anticipation of its Binance listing, with a gain of 400% in the past week alone. According to blockchain analytics firm Lookonchain, one trader allegedly made $4.3 million on WIF by spending 20 SOL (SOL) ($1,156) on Nov. 24, 2023, four days after WIF went online.\nWe found that @blockgraze made ~$4.36M on $WIF with only 20 $SOL($1,156), a gain of 3,773x!\n\nHe spent 20 $SOL($1,156) to buy 7.4M $WIF on Nov 24, 2023 (4 days after $WIF went online).\n\nThen sold 5.06M $WIF for $1.09M, with 2.35M $WIF($3.27M) left.https://t.co/zSCaLgF0dI pic.twitter.com/klMEzjXU66\n\u2014 Lookonchain (@lookonchain) March 5, 2024\nDespite high prices, development activity continues to heat up within the Bitcoin ecosystem. As told by Bitcoin venture capital fund 9.Bit, one prominent layer-1 solution on Bitcoin, Bitmap, has created a BRC-420 metaverse protocol native to the network.\n\u201cAfter purchasing bitmap land, users can buy avatars, pets, game assets, background music from the BRC-420 Marketplace and use them in Bitmap apps,\u201d wrote 9.Bit's founder. Another feature created by Bitmap, Merlin Chain, allows BRC-420 assets to be swapped between nonfungible and fungible tokens. The project currently has a market capitalization of $180 million. \nRelated: What the Bitcoin halving means for the network\u2019s energy consumption concerns",
+    "article_summary": "The BTC price has returned to levels last seen in November 2021.",
+    "creation_date": "2024-03-05",
+    "associated_tags": [
+      "#Bitcoin",
+      "#Blockchain",
+      "#Cryptocurrencies",
+      "#Adoption",
+      "#Memecoin"
+    ],
+    "category": "NEWS",
+    "article_link": "https://cointelegraph.com/news/memecoins-rally-bitcoin-recovers-all-time-high",
+    "website_source": "Coin Telegraph"
+  }
+]
