@@ -1,5 +1,5 @@
 import posts.Post;
-import utils.JSONFileWriter;
+import util.JSONFileWriter;
 import webcrawling.CoinTelegraphCrawler;
 import webcrawling.Crawler;
 

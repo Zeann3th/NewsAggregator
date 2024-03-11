@@ -21,5 +21,7 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="json" level="project" />
+    <orderEntry type="library" name="mongodb.driver.sync" level="project" />
+    <orderEntry type="library" name="mongodb.crypt" level="project" />
   </component>
 </module>
