@@ -62,9 +62,10 @@ public class BlockchainNewsCrawler extends Crawler {
             currentPost.setArticleDetailedContent(driver.findElement(By.className("textbody")).getText());
             currentPost.setCategory(driver.findElement(By.className("entry-label")).getText());
             postList.add(currentPost);
-//            currentPost.display();
+            currentPost.display();
             driver.navigate().back();
         }
         driver.quit();
+        setPostList(postList);
     }
 }

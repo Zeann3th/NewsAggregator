@@ -7,10 +7,17 @@ public abstract class Crawler {
 
     // Attributes
 
-    private String subject;
     private List<Post> postList;
 
     // Methods
 
     public abstract void crawl();
+
+    public List<Post> getPostList() {
+        return postList;
+    }
+
+    public void setPostList(List<Post> postList) {
+        this.postList = postList;
+    }
 }
