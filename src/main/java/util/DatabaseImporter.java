@@ -13,7 +13,7 @@ import java.util.List;
 public class DatabaseImporter {
     public static void main(String[] args) throws IOException {
         // Nối tới database
-        String uri = "mongodb+srv://WriteUser:mongo-write112@cluster0.lsmwbun.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+        String uri = "<<connectionString here>";
         MongoClient mongoClient = MongoClients.create(uri);
         MongoDatabase db = mongoClient.getDatabase("WebData");
         MongoCollection<Document> collection = db.getCollection("articles");
@@ -26,7 +26,7 @@ public class DatabaseImporter {
             for (Document doc : documents) {
                 collection.insertOne(doc);
             }
-            System.out.println("Đã đẩy lên database");
+            System.out.println("Đã đẩy lên database...");
         }
         catch (MongoException e) {
             e.printStackTrace();
