@@ -9,7 +9,6 @@ import java.util.List;
 
 public class JSONFileWriter {
     public void writeFile(List<Post> postList) {
-        JSONObject jsonFile = new JSONObject();
         JSONArray jArray = new JSONArray();
         for (Post post : postList) {
             JSONObject currentPost = new JSONObject();
@@ -31,10 +30,9 @@ public class JSONFileWriter {
 
             jArray.put(currentPost);
         }
-        jsonFile.put("articles", jArray);
             try {
-                FileWriter writer = new FileWriter("src/main/resources/data.json");
-                writer.write(jsonFile.toString());
+                FileWriter writer = new FileWriter("src/main/resources/data/data.json");
+                writer.write(jArray.toString());
                 writer.close();
                 System.out.println("Dữ liêu đã được viết thành công!!!");
             }

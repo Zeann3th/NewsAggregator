@@ -25,11 +25,11 @@ public class CoinTelegraphCrawler extends Crawler {
         for (int i = 0; i <= 10; i++) { // Lấy ra tầm 60 bài báo
             // "Lăn chuột" để xuống cuối trang
             jse.executeScript("window.scrollBy(0,10000)", "");
-//            try {
-//                Thread.sleep(10000); // milliseconds
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
+            try {
+                Thread.sleep(6000); // milliseconds
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
         }
         List<WebElement> articles = driver.findElements(By.className("post-card-inline__figure-link"));
         List<String> articleLinks = new ArrayList<>();

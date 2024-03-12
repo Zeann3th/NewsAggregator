@@ -1,7 +1,5 @@
 package webcrawling;
 
-import org.apache.commons.logging.Log;
-import org.apache.commons.logging.LogFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
@@ -32,7 +30,7 @@ public class BlockchainNewsCrawler extends Crawler {
             try {
                 Thread.sleep(5000); // milliseconds
             } catch (InterruptedException e) {
-                Log logger = LogFactory.getLog(this.getClass().getName());
+                e.printStackTrace();
             }
             loadMoreButton.click();
         }
