@@ -1,4 +1,4 @@
-package posts;
+package newsaggregator.posts;
 
 import java.util.List;
 

@@ -1,8 +1,8 @@
-package util;
+package newsaggregator.jsonfilewriter;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
-import posts.Post;
+import newsaggregator.posts.Post;
 
 import java.io.FileWriter;
 import java.util.List;
@@ -30,14 +30,14 @@ public class JSONFileWriter {
 
             jArray.put(currentPost);
         }
-            try {
-                FileWriter writer = new FileWriter("src/main/resources/data/data.json");
-                writer.write(jArray.toString());
-                writer.close();
-                System.out.println("Dữ liêu đã được viết thành công!!!");
-            }
-            catch (Exception e) {
-                e.printStackTrace();
-            }
+        try {
+            FileWriter writer = new FileWriter("src/main/resources/data/data.json");
+            writer.write(jArray.toString());
+            writer.close();
+            System.out.println("Dữ liêu đã được viết thành công!!!");
+        }
+        catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 }

@@ -1,4 +1,4 @@
-package webcrawling;
+package newsaggregator.webcrawling;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.PageLoadStrategy;
@@ -6,8 +6,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
-import posts.Author;
-import posts.Post;
+import newsaggregator.posts.Author;
+import newsaggregator.posts.Post;
 
 import java.time.Duration;
 import java.util.ArrayList;

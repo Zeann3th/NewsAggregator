@@ -1,10 +1,10 @@
-package webcrawling;
+package newsaggregator.webcrawling;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
-import posts.Author;
-import posts.Post;
+import newsaggregator.posts.Author;
+import newsaggregator.posts.Post;
 
 import java.time.Duration;
 import java.util.ArrayList;

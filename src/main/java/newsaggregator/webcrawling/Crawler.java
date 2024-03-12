@@ -1,6 +1,6 @@
-package webcrawling;
+package newsaggregator.webcrawling;
 
-import posts.Post;
+import newsaggregator.posts.Post;
 
 import java.util.List;
 
