@@ -2,7 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-src/main/resources/.dbconfig.properties
+src/main/resources/dbconfig.properties
 
 ### Eclipse ###
 .apt_generated
