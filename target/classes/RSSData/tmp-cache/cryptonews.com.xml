@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cryptonews</title>
+	<atom:link href="https://cryptonews.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cryptonews.com/</link>
+	<description></description>
+	<lastBuildDate>Fri, 15 Mar 2024 07:59:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>Hong Kong Gears Up for e-HKD: Phase Two Pilot Seeks CBDC Use Cases</title>
+		<link>https://cryptonews.com/news/hong-kong-gears-up-for-e-hkd-phase-two-pilot-seeks-cbdc-use-cases.htm</link>
+		
+		<dc:creator><![CDATA[Hassan Shittu]]></dc:creator>
+		<pubDate>Fri, 15 Mar 2024 08:07:28 +0000</pubDate>
+				<category><![CDATA[Blockchain News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[e-HKD]]></category>
+		<category><![CDATA[HKMA]]></category>
+		<category><![CDATA[Hong Kong]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183926</guid>
+
+					<description><![CDATA[<p><span data-preserver-spaces="true">Hong Kong's central bank, the Hong Kong Monetary Authority (HKMA), announced today the launch of the second phase of its e-HKD pilot program.</span></p>
+<p>The post <a href="https://cryptonews.com/news/hong-kong-gears-up-for-e-hkd-phase-two-pilot-seeks-cbdc-use-cases.htm">Hong Kong Gears Up for e-HKD: Phase Two Pilot Seeks CBDC Use Cases</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span data-preserver-spaces="true">Hong Kong&#8217;s central bank, the Hong Kong Monetary Authority (HKMA), announced today the launch of the second phase of its e-HKD pilot program.</span></p>
+<p><span data-preserver-spaces="true">They also invite industry participants to propose potential use cases for the central bank digital currency (CBDC). This initiative aims to delve deeper into the potential of a central bank digital currency (CBDC) for the region.</span></p>
+<h2><strong><span data-preserver-spaces="true">HKMA Launches Second Phase of e-HKD Pilot and Invites Industry Participation</span></strong></h2>
+<p><span class="replacer"></span><br />
+<span data-preserver-spaces="true"><a href="https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/03/20240314-4/">Announced on March 14</a>, the HKMA&#8217;s second phase of the e-HKD pilot aims further to explore the potential of a digital Hong Kong dollar, focusing on areas such as programmability, tokenization, and atomic settlement. </span></p>
+<p><span data-preserver-spaces="true">The HKMA expressed its intention to explore new use cases for the e-HKD while also revisiting promising applications identified during the first phase, which concluded in October 2023. The initial phase </span><a class="editor-rtfLink" href="https://cryptonews.com/news/digital-hong-kong-dollar-pilot-plan-to-enter-second-phase-next-year.htm" target="_blank" rel="noopener"><span data-preserver-spaces="true">successfully tested</span></a><span data-preserver-spaces="true"> the e-HKD for various domestic retail purposes, including programmable payments, settlement of tokenized assets, and offline transactions.</span></p>
+<p><span data-preserver-spaces="true">The HKMA highlighted that the upgraded <a href="https://cryptonews.com/news/hong-kong-sandbox-stablecoin-issuers-test-operations.htm">e-HKD sandbox</a> will benefit from </span><span data-preserver-spaces="true">Project Ensemble</span><span data-preserver-spaces="true">, a recently launched initiative focused on wholesale CBDCs. The regulatory sandbox is an essential mechanism in the HKMA’s work to improve the network around CBDCs, enabling the smooth integration of the e-HKD with the current financial system. </span></p>
+<p><span data-preserver-spaces="true">This collaboration aims to &#8220;accelerate the development and testing of use cases&#8221; for participants while examining interoperability between the e-HKD and other forms of digital currency. The e-HKD sandbox infrastructure will be central to the eventual introduction and integration of digital currency into Hong Kong’s financial market.</span></p>
+<p><span data-preserver-spaces="true">According to the HKMA&#8217;s pilot page, the second phase of the e-HKD pilot is expected to run until mid-2025. Organizations interested in contributing to the program are invited to submit applications by May 17. The HKMA noted the extensive participation of major financial institutions and payment providers during the first phase.</span></p>
+<p><span data-preserver-spaces="true">Participants will have the opportunity to test and evaluate proposed use cases during this time. The HKMA&#8217;s guidelines for participation include criteria such as innovation, impact on consumer experience, readiness for market testing, compliance with regulations, and maximizing the use of e-HKD in Hong Kong.</span></p>
+<h2><strong><span data-preserver-spaces="true">Hong Kong&#8217;s e-HKD Pilot Program Attracts Key Players from Financial and Payment Sectors</span></strong></h2>
+<p><span class="replacer"></span><br />
+<span data-preserver-spaces="true">Key players from different sectors, such as major financial institutions and payment firms that participated in the first phase, will be crucial in this investigation. Some of the names on the list for the first phase included major financial institutions and payment firms such as Alipay, Bank of China, HSBC, Hang Seng Bank, China Construction Bank, Industrial and Commercial Bank of China, Mastercard, Visa, Boston Consulting Group, and ZA Bank.</span></p>
+<p><span data-preserver-spaces="true">The HKMA launched the e-HKD pilot program in November 2022 to evaluate the commercial viability of an in-house CBDC as part of its “Fintech 2025” strategy. Phase one was dedicated to studying e-HKD in six areas: full-fledged payments, programmable payments, offline payments, tokenized deposits, and settlement of Web3 transactions and tokenized assets.</span></p>
+<p><span data-preserver-spaces="true">Research on <a href="https://cryptonews.com/news/hong-kong-uncertain-on-e-hkd-issuance-says-retail-cbdc-needs-more-study.htm">Hong Kong&#8217;s central bank digital currency (CBDC)</a> places the region among over 100 jurisdictions globally exploring CBDCs&#8217; potentials and advantages. This worldwide interest in CBDCs signifies a growing recognition of digital currencies&#8217; capacity to enhance the efficiency, security, and inclusivity of financial systems.</span></p>
+<p><span data-preserver-spaces="true">As the e-HKD pilot advances, the knowledge acquired will not only enhance Hong Kong&#8217;s financial framework but also contribute to a wider global comprehension of CBDCs. The results of this pilot have the potential to shape the adoption and regulation of digital currencies worldwide, establishing precedents for forthcoming endeavors in digital finance.</span></p>
+<p>The post <a href="https://cryptonews.com/news/hong-kong-gears-up-for-e-hkd-phase-two-pilot-seeks-cbdc-use-cases.htm">Hong Kong Gears Up for e-HKD: Phase Two Pilot Seeks CBDC Use Cases</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cimg.co/wp-content/uploads/2024/03/15041236/1710475955-1710475859872_processed.jpg" length="146826" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>Renewed Interest from Ultra High Net-Worth Individuals Injects Fresh Energy into Crypto VC Space: Struck Capital Founder</title>
+		<link>https://cryptonews.com/news/crypto-vc-space-renewed-interest-ultra-high-net-worth-individuals-struck-capital.htm</link>
+		
+		<dc:creator><![CDATA[Shalini Nagarajan]]></dc:creator>
+		<pubDate>Fri, 15 Mar 2024 07:59:25 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Crypto investing]]></category>
+		<category><![CDATA[Venture Capital]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183948</guid>
+
+					<description><![CDATA[<p>The crypto VC space is seeing renewed interest from high net-worth individuals and family offices after a year of relative quiet, according to Struck Capital founding partner Adam Struck.</p>
+<p>The post <a href="https://cryptonews.com/news/crypto-vc-space-renewed-interest-ultra-high-net-worth-individuals-struck-capital.htm">Renewed Interest from Ultra High Net-Worth Individuals Injects Fresh Energy into Crypto VC Space: Struck Capital Founder</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The crypto VC space is seeing renewed interest from high net-worth individuals and family offices after a year of relative quiet, according to Struck Capital founding partner Adam Struck.</p>
+<p class="p1">Struck highlighted in an interview with Cryptonews Thursday that US Spot <a href="https://cryptonews.com/coins/bitcoin/">Bitcoin</a> ETFs have rapidly altered the VC industry&#8217;s mindset. Significant involvement from institutions like <a href="https://cryptonews.com/news/blackrock-and-fidelitys-bitcoin-etfs-rank-among-top-10-in-terms-of-inflows-in-january-attracting-4-8b.htm">BlackRock and Fidelity</a> has played a key role.</p>
+<p>“Most of our Limited Partners that we&#8217;re speaking to… they are realizing that crypto as a whole is an asset class,” he said. “It&#8217;s something that should be maybe a small part of a very diversified portfolio. And the fact that the SEC is legitimizing it with Spot ETF approval, it&#8217;s dramatically changed sentiment. So we are noticing much more pull from LPs.”</p>
+<p>Struck manages a $115m fund focused on <a href="https://struckcapital.com/crypto/">investing in crypto-native tech companies</a> rather than cryptocurrencies themselves. Some companies in <a href="https://struckcapital.com/portfolio/?filter=crypto">Struck’s crypto portfolio</a> include 1inch, Algorand, CoinFLEX, Liquify, and Shardeum.</p>
+<p>Despite many investors stepping back during a prolonged downturn last year, he remained committed to his strategy.</p>
+<p>Currently, many partners are recognizing the importance of having exposure to cryptocurrency. So, they are actively seeking fund managers who have navigated both bullish and bearish markets with a calm and prudent approach, Struck said.</p>
+<p>“It’s a very nice time to be a fund manager in the space,” he added.</p>
+<h2>Struck Capital&#8217;s Quest for Improved User Experience and Security</h2>
+<p><span class="replacer"></span><br />
+Looking ahead, Struck is on the lookout for exceptional founders with unique insights and driven by the right motivations when building their ventures.</p>
+<p>“We’re gonna pay attention to things like tokenomics and vesting periods,” he said. “And we want to make sure that they&#8217;re not just trying to launch an unnecessary token to get rich quick and do some sort of pump-and-dump type situation.”</p>
+<p>The VC fund is specifically interested in modular blockchains. These specialize in specific functions rather than attempting to cover all aspects. Struck has already invested in Eclipse Labs, a company in this sector that <a href="https://cryptonews.com/news/eclipse-labs-raises-50m-for-blockchain-scaling-solution-ahead-of-mainnet-launch.htm">recently raised $50m</a>.</p>
+<p class="p2">What aspects of modular blockchains have caught his attention? He explained that instead of relying solely on one Layer-1 blockchain to address all aspects of the blockchain trilemma (scalability, security, and decentralization), it may be more effective to borrow different features from various blockchains and integrate them into a Layer-2 capacity.</p>
+<p>Struck further broke down key areas his fund is interested in. Core infrastructure is where companies could focus their efforts, he said.</p>
+<p>“We’re constantly looking for projects that are leveraging new ecosystem proposals to make the user interface and user experience more intuitive. Just easier for people to use,” he said.</p>
+<p>“So companies that are leveraging things like machine learning models and AI to try and stay a step ahead of the hackers and just make the infrastructure more safe for the average person to use.”</p>
+<h2>Enduring Impact of Spot Bitcoin ETFs on BTC Prices</h2>
+<p><span class="replacer"></span><br />
+Regarding Bitcoin’s long-term trajectory, Struck pointed to fundamental principles of supply and demand.</p>
+<p>He said that Spot Bitcoin ETFs will remain a significant price influencer. When large entities like Fidelity or BlackRock introduce a Bitcoin ETF, they must purchase thousands of Bitcoin to back it up, driving demand and potentially impacting prices.</p>
+<p>“The ETFs alone, from my perspective, are generating extreme buy pressure and that&#8217;s increasing the price substantially,” he said. He also mentioned rumors about the Saudis or Emiratis considering purchasing substantial amounts of Bitcoin. If true, this could contribute to pushing the price even higher.</p>
+<p>The post <a href="https://cryptonews.com/news/crypto-vc-space-renewed-interest-ultra-high-net-worth-individuals-struck-capital.htm">Renewed Interest from Ultra High Net-Worth Individuals Injects Fresh Energy into Crypto VC Space: Struck Capital Founder</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cimg.co/wp-content/uploads/2024/03/15061112/1710483071-1710482985217_processed.jpg" length="115006" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>SEC Charges 17 Individuals in $300 Million Ponzi Scheme Disguised as Crypto Trading Platform CryptoFX</title>
+		<link>https://cryptonews.com/news/sec-charges-17-individuals-in-300-million-crypto-ponzi-scheme.htm</link>
+		
+		<dc:creator><![CDATA[Ruholamin Haqshanas]]></dc:creator>
+		<pubDate>Fri, 15 Mar 2024 07:46:23 +0000</pubDate>
+				<category><![CDATA[Altcoin News]]></category>
+		<category><![CDATA[Crypto Regulation]]></category>
+		<category><![CDATA[Securities and Exchange Commission]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183987</guid>
+
+					<description><![CDATA[<p><span data-preserver-spaces="true">The SEC has taken legal action against 17 individuals involved in an alleged $300 million Ponzi scheme operating under the name CryptoFX, a cryptocurrency trading platform. </span></p>
+<p>The post <a href="https://cryptonews.com/news/sec-charges-17-individuals-in-300-million-crypto-ponzi-scheme.htm">SEC Charges 17 Individuals in $300 Million Ponzi Scheme Disguised as Crypto Trading Platform CryptoFX</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span data-preserver-spaces="true">The US Securities and Exchange Commission (SEC) has taken legal action against 17 individuals involved in an alleged $300 million Ponzi scheme operating under the name CryptoFX, a cryptocurrency trading platform. </span></p>
+<p><span data-preserver-spaces="true">The SEC&#8217;s </span><a class="editor-rtfLink" href="https://www.sec.gov/files/litigation/complaints/2024/comp-pr2024-35.pdf" target="_blank" rel="noopener"><span data-preserver-spaces="true">charges shed light</span></a><span data-preserver-spaces="true"> on a fraudulent operation that targeted Latino investors, promising them financial prosperity and guaranteed returns through crypto and foreign exchange investments.</span></p>
+<p><span data-preserver-spaces="true">CryptoFX was officially registered as a crypto trading platform in Houston in February 2020. </span></p>
+<p><span data-preserver-spaces="true">However, suspicions surrounding its activities led the SEC to file an emergency action in September 2022, seeking to halt the platform&#8217;s operations. </span></p>
+<p><span data-preserver-spaces="true">Nearly 18 months later, on March 14, the SEC identified and charged 17 individuals believed to be the masterminds behind the Ponzi scheme.</span></p>
+<h2><span data-preserver-spaces="true">CryptoFX Exploited Latino Investors</span></h2>
+<p><span class="replacer"></span><br />
+<span data-preserver-spaces="true">According to Gurbir S. Grewal, director of the SEC&#8217;s Division of Enforcement, CryptoFX exploited Latino investors, offering them the illusion of risk-free investments in cryptocurrencies and non-fungible tokens (NFTs) that would purportedly lead to life-changing wealth.</span></p>
+<p><span data-preserver-spaces="true">The scheme specifically targeted crypto investors within the Latino community across multiple U.S. states and two foreign countries.</span></p>
+<p><span data-preserver-spaces="true">The SEC&#8217;s investigation revealed that the individuals associated with CryptoFX misused investors&#8217; funds, diverting them for personal gain instead of making legitimate investments in cryptocurrencies and NFTs. </span></p>
+<p><span data-preserver-spaces="true">The allure of the booming crypto market during the time further enticed investors to participate in the scheme.</span></p>
+<p><span data-preserver-spaces="true">In response, the SEC has filed charges against the principal architects and perpetrators of the Ponzi scheme, alleging violations of various sections of the Securities and Exchange Act. </span></p>
+<p><span data-preserver-spaces="true">The regulatory body is seeking not only the disgorgement or return of the misappropriated funds but also civil penalties for the individuals&#8217; misconduct.</span></p>
+<p><span data-preserver-spaces="true">In a separate development, the SEC recently announced a postponement in its decision regarding the approval of options trading on spot Bitcoin exchange-traded funds (ETFs). </span></p>
+<p><span data-preserver-spaces="true">The agency&#8217;s deferral grants an additional 45 days, up until April 24, to finalize its decision on the matter, which holds significant implications for the crypto industry and institutional adoption of Bitcoin.</span></p>
+<h2><span data-preserver-spaces="true">SEC Files Multiple Charges Against Crypto Platforms </span></h2>
+<p><span class="replacer"></span><br />
+<span data-preserver-spaces="true">Over the past year, the SEC has filed numerous lawsuits against crypto firms, with SEC Chair Gary Gensler consistently asserting that most cryptocurrencies should be classified as securities.</span></p>
+<p><span data-preserver-spaces="true">For one, the agency initiated a civil case </span><a class="editor-rtfLink" href="https://cryptonews.com/news/sec-and-cftcs-lawsuits-against-sam-bankman-fried-put-on-hold-by-us-judge-heres-why.htm" target="_blank" rel="noopener"><span data-preserver-spaces="true">against Sam Bankman-Fried</span></a><span data-preserver-spaces="true">, co-founder of FTX. </span></p>
+<p><span data-preserver-spaces="true">In addition to the case against Bankman-Fried, the SEC filed lawsuits against other major crypto players, including </span><a class="editor-rtfLink" href="https://cryptonews.com/news/sec-sues-binance-cz-over-blantant-disregard-of-its-rules.htm" target="_blank" rel="noopener"><span data-preserver-spaces="true">Binance, its CEO Changpeng Zhao</span></a><span data-preserver-spaces="true">, and </span><a class="editor-rtfLink" href="https://cryptonews.com/news/crypto-exchange-coinbase-sues-sec-demands-court-compel-response-rulemaking-petition-heres-latest.htm" target="_blank" rel="noopener"><span data-preserver-spaces="true">Coinbase</span></a><span data-preserver-spaces="true">.</span></p>
+<p><span data-preserver-spaces="true">More recently, a federal judge ruled that the SEC&#8217;s </span><a class="editor-rtfLink" href="https://cryptonews.com/news/genesis-gemini-file-for-dismissal-of-secs-earn-program-lawsuit-heres-latest.htm" target="_blank" rel="noopener"><span data-preserver-spaces="true">lawsuit against crypto firms Gemini and Genesis</span></a><span data-preserver-spaces="true"> will proceed in court. </span></p>
+<p><span data-preserver-spaces="true">The judge’s decision comes after Gemini and Genesis attempted to have the lawsuit, which alleges the sale of unregistered securities through the Gemini Earn program dismissed.</span></p>
+<p>The post <a href="https://cryptonews.com/news/sec-charges-17-individuals-in-300-million-crypto-ponzi-scheme.htm">SEC Charges 17 Individuals in $300 Million Ponzi Scheme Disguised as Crypto Trading Platform CryptoFX</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cimg.co/wp-content/uploads/2024/03/15074046/1710488445-1710404090-1710404039036_processed.jpg" length="91061" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>Arbitrum Seeks DAO Approval for $400 Million Gaming Ecosystem Fund</title>
+		<link>https://cryptonews.com/news/arbitrum-seeks-dao-approval-for-400-million-gaming-ecosystem-fund.htm</link>
+		
+		<dc:creator><![CDATA[Hongji Feng]]></dc:creator>
+		<pubDate>Fri, 15 Mar 2024 06:38:09 +0000</pubDate>
+				<category><![CDATA[DeFi News]]></category>
+		<category><![CDATA[Arbitrum]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183953</guid>
+
+					<description><![CDATA[<p>Arbitrum Foundation proposes a $400 million gaming catalyst fund to the DAO for community endorsement, aiming to invigorate its blockchain gaming ecosystem over two years.</p>
+<p>The post <a href="https://cryptonews.com/news/arbitrum-seeks-dao-approval-for-400-million-gaming-ecosystem-fund.htm">Arbitrum Seeks DAO Approval for $400 Million Gaming Ecosystem Fund</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The Arbitrum Foundation has unveiled a proposal for a $400 million Gaming Catalyst Fund, targeting the expansion and enhancement of its blockchain gaming sector.</p>
+<p>In a detailed <a href="https://forum.arbitrum.foundation/t/catalyze-gaming-ecosystem-growth-on-arbitrum/22368">proposal</a> published on the community forum, the Arbitrum Foundation outlined its vision for the fund. The initiative, designed to enrich Arbitrum&#8217;s gaming landscape, is currently seeking endorsement from the <a href="https://cryptonews.com/news/best-crypto-dao-projects.htm">Decentralized Autonomous Organization</a> (DAO) to roll out over a span of two years.</p>
+<h2>Arbitrum&#8217;s Proposed Gaming Fund</h2>
+<p><span class="replacer"></span><br />
+Arbitrum&#8217;s endeavors in <a href="https://cryptonews.com/news/simplified-kyc-means-defi-compliance-without-compromising-on-privacy.htm">decentralized finance</a> contrast with its emerging presence in <a href="https://cryptonews.com/news/blockchain-based-game-metalcore-receives-5-million-in-latest-funding-round.htm">gaming</a>, trailing behind competitors in terms of games and player engagement. The Gaming Catalyst Program (GCP) is believed to effectively attract builders and retain talent.</p>
+<p>“The GCP aims to provide support and resources to game developers interested in building on the Arbitrum network,” the proposal reads. “This includes access to funding, mentorship, and other forms of assistance to expedite the development process.”</p>
+<p>The program is set to use the platform’s resources to support experienced professionals and high-potential gaming projects. This approach would encourage the development of quality games within the ecosystem.</p>
+<p>To participate in the program, the developers must be approved and included in the whitelist by a community council. The approved projects will be “subject to a robust set of checks and balances.”</p>
+<p>The requested $400 million fund, or 200 million <a href="https://cryptonews.com/news/arbitrum-to-unlock-2-32-billion-in-vested-arb-tokens-on-march-16.htm">ARB</a>, will be distributed for builder onboarding and growth (160 million ARB) and infrastructure bounties (40 million ARB).</p>
+<h2>Goals, KPIs, and Scheduled Votes</h2>
+<p><span class="replacer"></span><br />
+The proposal also detailed that goals for the initiative encompass receiving 200-300 applications from game developers interested in building on the network.</p>
+<p>Success measures include achieving a 20% share of all new web3 games on Arbitrum, leading net migrations from other Layer 2 platforms, and facilitating the launch of over 25 Orbit projects.</p>
+<p>The proposal was drafted by Daniel “Djinn” Peng, co-founder of Vela Exchange, and Karel Vuong, co-founder of Treasure.</p>
+<p>The initiative will get a snapshot vote on March 15 for general delegate agreement and feedback with the tally vote and ratification scheduled in April 2024. The community will then proceed with council member elections, venture team formation, and roll out grant applications till May.</p>
+<p>The post <a href="https://cryptonews.com/news/arbitrum-seeks-dao-approval-for-400-million-gaming-ecosystem-fund.htm">Arbitrum Seeks DAO Approval for $400 Million Gaming Ecosystem Fund</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cimg.co/wp-content/uploads/2024/03/15062045/1710483644-1710483632645_processed.jpg" length="141004" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>Over $520M in Longs Liquidated as Bitcoin Price Drops Below $68,000</title>
+		<link>https://cryptonews.com/news/over-520m-in-longs-liquidated-as-bitcoin-price-drops-below-68000.htm</link>
+		
+		<dc:creator><![CDATA[Jai Pratap]]></dc:creator>
+		<pubDate>Fri, 15 Mar 2024 04:51:00 +0000</pubDate>
+				<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin Price]]></category>
+		<category><![CDATA[spot Bitcoin ETF]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183932</guid>
+
+					<description><![CDATA[<p>Bitcoin is trading below $68,000, nearly 7.5% down in the last 24 hours. The price correction triggered massive liquidations as the entire network saw over $657 million positions liquidated in the last 24 hrs.</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://cryptonews.com/news/over-520m-in-longs-liquidated-as-bitcoin-price-drops-below-68000.htm">Over $520M in Longs Liquidated as Bitcoin Price Drops Below $68,000</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The price of the leading cryptocurrency Bitcoin faced a deep correction from its all-time highs during early Asian hours on Friday. Bitcoin is trading below $68,000, nearly 7.5% down in the last 24 hours. The price correction triggered massive liquidations as the entire network saw over $657 million positions liquidated in the last 24 hrs.</p>
+<p>As per <a href="https://www.coinglass.com/LiquidationData">Coinglass data</a>, over $522 million in longs and $137 million in short positions have been liquidated in the last 24 hrs. Out of which $216 million in BTC longs were liquidated. Most liquidations happened on Binance and OKX with $248 million and $236 million, respectively.</p>
+<p>The second-largest cryptocurrency in market cap Ethereum also dropped below $4,000 today. Currently trading at $3,700, ETH is down nearly 7.3% in the last 24 hrs.</p>
+<figure id="attachment_183933" aria-describedby="caption-attachment-183933" style="width: 1621px" class="wp-caption alignnone"><img fetchpriority="high" decoding="async" class="wp-image-183933 size-full" src="https://cimg.co/wp-content/uploads/2024/03/15043812/1710477492-coinglass-liquidations.jpg" alt="Bitcoin Liquidations" width="1621" height="862" srcset="https://cimg.co/wp-content/uploads/2024/03/15043812/1710477492-coinglass-liquidations.jpg 1621w, https://cimg.co/wp-content/uploads/2024/03/15043812/1710477492-coinglass-liquidations-300x160.jpg 300w, https://cimg.co/wp-content/uploads/2024/03/15043812/1710477492-coinglass-liquidations-1024x545.jpg 1024w, https://cimg.co/wp-content/uploads/2024/03/15043812/1710477492-coinglass-liquidations-768x408.jpg 768w, https://cimg.co/wp-content/uploads/2024/03/15043812/1710477492-coinglass-liquidations-1536x817.jpg 1536w, https://cimg.co/wp-content/uploads/2024/03/15043812/1710477492-coinglass-liquidations-150x80.jpg 150w" sizes="(max-width: 1621px) 100vw, 1621px" /><figcaption id="caption-attachment-183933" class="wp-caption-text">Source: Coinglass</figcaption></figure>
+<h2>Bitcoin Spot ETFs Record $132M in Net Inflow</h2>
+<p><span class="replacer"></span><br />
+The total net inflow of Bitcoin spot ETFs on March 14 was $132 million. Grayscale ETF GBTC had a single-day net outflow of $257 million. The Bitcoin spot ETF with the largest single-day net inflow on the day was the BlackRock ETF IBIT, with a net inflow of $345 million, as per <a href="https://sosovalue.xyz/zh/assets/etf">SoSoValue data</a>.</p>
+<p>The current total historical net inflow of IBIT has reached $12.37 billion. Followed by VanEck ETF HODL, the single-day net inflow is approximately $137 million, and the current total historical net inflow of HODL is at $364 million. As of press time, the total net asset value of Bitcoin spot ETFs is $57.86 billion, the ETF net asset ratio (market value as a proportion of the total market value of Bitcoin) reached 4.16%, and the historical cumulative net inflow has reached $11.96 billion.</p>
+<p>On March 12, spot Bitcoin ETFs recorded a staggering <a href="https://cryptonews.com/news/bitcoin-etfs-see-record-1b-inflows-as-btc-price-remains-at-all-time-highs.htm">$1.05 billion in net inflows</a>, highest single-day net inflow since the launch date.</p>
+<p>The post <a href="https://cryptonews.com/news/over-520m-in-longs-liquidated-as-bitcoin-price-drops-below-68000.htm">Over $520M in Longs Liquidated as Bitcoin Price Drops Below $68,000</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cimg.co/wp-content/uploads/2024/03/15044637/1710477997-1710477975066_processed.jpg" length="135962" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>Cordial Systems Launches Cordial Treasury Naming Jump Crypto as a Client</title>
+		<link>https://cryptonews.com/news/cordial-systems-launches-cordial-treasury-with-jump-crypto.htm</link>
+		
+		<dc:creator><![CDATA[Tanzeel Akhtar]]></dc:creator>
+		<pubDate>Fri, 15 Mar 2024 04:00:56 +0000</pubDate>
+				<category><![CDATA[Cryptonews Deals]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Cordial Systems]]></category>
+		<category><![CDATA[Crypto Custody]]></category>
+		<category><![CDATA[Jump Crypto]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183908</guid>
+
+					<description><![CDATA[<p>Cordial Systems, a venture-backed blockchain infrastructure company, has launched Cordial Treasury with several clients including Jump Crypto, the digital-asset unit of Jump Trading.</p>
+<p>The post <a href="https://cryptonews.com/news/cordial-systems-launches-cordial-treasury-with-jump-crypto.htm">Cordial Systems Launches Cordial Treasury Naming Jump Crypto as a Client</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cordialsystems.com">Cordial Systems, </a>a blockchain infrastructure company which builds custody products, has launched Cordial Treasury with several clients including Jump Crypto, the digital-asset unit of Jump Trading.</p>
+<p>In an announcement, Cordial Systems said, that Cordial Treasury is a self-hosted product that allows financial institutions to independently manage their digital asset operations in-house.</p>
+<p>&#8220;Cordial Systems have been a critical partner as we have scaled our digital asset business,” said Alex Davies, the CTO of Jump Trading, in a press release.</p>
+<p>“Being able to enforce precisely defined policies from our digital asset control framework via independently controlled software with large numbers both of internal users and external chains has allowed us to safely keep up with fast-moving business requirements and stay at the forefront of the industry,&#8221; said Davies.</p>
+<h2>Jump Uses Cordial Treasury as Proprietary Tech Stack</h2>
+<p><span class="replacer"></span><br />
+Cordial Treasury gives its clients a bespoke private blockchain custody a method used to secure crypto assets. Its technology is self-administered by the customer&#8217;s team and designed to allow clients to run the service in their own data centre or private cloud.</p>
+<p><a href="https://cryptonews.com/news/jump-trading-allegedly-supported-terra-before-it-collapsed-new-sec-filings-show.htm">Jump Trading</a> said it is using Cordial Treasury as part of its &#8220;proprietary technology stack.&#8221; This technical term refers to software developed and owned by a company or organization which is not available for public use or modification. Having a proprietary tech stack can provide companies with a competitive advantage in maintaining control over their own technology infrastructure.</p>
+<p>For many firms operating in the digital assets space being able to demonstrate controls to safeguard customer assets is crucial and a regulatory requirement.</p>
+<p>&#8220;Cordial Treasury is an important part of our tooling that we rely on daily,&#8221; said Armani Ferrante, CEO of Backpack, in a statement.</p>
+<p>&#8220;As a regulated institution under VARA, it is important that Backpack has demonstrable controls to safeguard our customer assets and evidence our proof of reserves. Cordial Treasury is an important part of our tooling that we rely on daily,&#8221; adds Ferrante.</p>
+<p>The post <a href="https://cryptonews.com/news/cordial-systems-launches-cordial-treasury-with-jump-crypto.htm">Cordial Systems Launches Cordial Treasury Naming Jump Crypto as a Client</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cimg.co/wp-content/uploads/2024/02/21132457/1708521897-blockchain-technology.jpg" length="43618" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>El Salvador to Store ‘Big Chunk’ of Bitcoin Holdings in Physical Vault</title>
+		<link>https://cryptonews.com/news/el-salvador-store-big-chunk-bitcoin-holdings-physical-vault.htm</link>
+		
+		<dc:creator><![CDATA[Shalini Nagarajan]]></dc:creator>
+		<pubDate>Fri, 15 Mar 2024 03:26:25 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[El Salvador]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183911</guid>
+
+					<description><![CDATA[<p>El Salvador intends to move a substantial portion of its Bitcoin holdings to a cold wallet. This wallet would be housed in a physical vault within the country, President Nayib Bukele revealed Friday.</p>
+<p>The post <a href="https://cryptonews.com/news/el-salvador-store-big-chunk-bitcoin-holdings-physical-vault.htm">El Salvador to Store ‘Big Chunk’ of Bitcoin Holdings in Physical Vault</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>El Salvador intends to move a substantial portion of its <a href="https://cryptonews.com/coins/bitcoin/">Bitcoin</a> holdings to a cold wallet. This wallet would be housed in a physical vault within the country, President Nayib Bukele revealed Friday.</p>
+<p>“You can call it our first Bitcoin piggy bank,” he said in an X post.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">We&#39;ve decided to transfer a big chunk of our <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> to a cold wallet, and store that cold wallet in a physical vault within our national territory.</p>
+<p>You can call it our first <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> piggy bank <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f1f8-1f1fb.png" alt="🇸🇻" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>It&#39;s not much, but it&#39;s honest work <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/dqzedykxT1">pic.twitter.com/dqzedykxT1</a></p>
+<p>&mdash; Nayib Bukele (@nayibbukele) <a href="https://twitter.com/nayibbukele/status/1768425845163503738?ref_src=twsrc%5Etfw">March 14, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Cold wallets, or hardware wallets, offer a secure way to store private keys offline. Placing a cold wallet in a physical vault enhances security by shielding it from physical risks such as theft or fire.</p>
+<h2>El Salvador&#8217;s Bitcoin Holdings Hit $407M</h2>
+<p><span class="replacer"></span><br />
+As per Bukele&#8217;s statement, El Salvador&#8217;s bitcoin holdings were valued at about $407m as of Thursday.</p>
+<p>His announcement comes as <a href="https://cryptonews.com/news/bitcoin-record-high-72k-signals-strong-crypto-rebound.htm">Bitcoin hit a new record above $72,000</a> this week. The recent surge is fueled by various factors, including the introduction of Spot Bitcoin ETFs in the US and the anticipated Bitcoin Halving in April.</p>
+<p>Further, El Salvador&#8217;s Bitcoin investment is yielding impressive returns. The <a href="https://cryptonews.com/news/el-salvadors-bitcoin-investment-strategy-proves-lucrative-as-profits-surge-by-70.htm">country has reaped substantial profits</a> compared to its initial purchase price. Its crypto treasury has soared to over $74m in profit after the recent surge in Bitcoin&#8217;s value, according to the <a href="https://nayibtracker.com/">Bukele Tracker</a>.</p>
+<h2>Bitcoin Embrace Leading to Wealth Surge</h2>
+<p><span class="replacer"></span><br />
+That&#8217;s not all. Industry experts foresee El Salvador, despite being one of Central America&#8217;s smallest yet most densely populated nations, potentially emerging as <a href="https://cryptonews.com/news/el-salvador-may-become-one-of-the-worlds-richest-countries-due-to-bitcoin-holdings.htm">one of the wealthiest globally</a> due to its significant Bitcoin holdings.</p>
+<p>The country&#8217;s Bitcoin journey began in Sept. 2021, when it made history by becoming the first to adopt Bitcoin as legal tender. Later, on Nov. 16, 2022, Bukele declared that the government would begin buying 1 BTC daily.</p>
+<p>Venture capitalist Tim Draper predicted recently: “Within maybe 30 or 40 years, El Salvador will have gone from the poorest, most crime ridden country, to maybe one of the richest, most innovative countries in the world, just in that period of time. And this is just because they embraced Bitcoin.”</p>
+<p>The post <a href="https://cryptonews.com/news/el-salvador-store-big-chunk-bitcoin-holdings-physical-vault.htm">El Salvador to Store ‘Big Chunk’ of Bitcoin Holdings in Physical Vault</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cimg.co/wp-content/uploads/2024/03/15030954/1710472194-1710472148528_processed.jpg" length="130654" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>Russian Lawmakers – Failure to Regulate Crypto Hurting Russian Economy</title>
+		<link>https://cryptonews.com/news/russian-lawmakers-failure-to-regulate-crypto-hurting-russian-economy.htm</link>
+		
+		<dc:creator><![CDATA[Tim Alper]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 23:30:09 +0000</pubDate>
+				<category><![CDATA[Blockchain News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Crypto Regulation]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183354</guid>
+
+					<description><![CDATA[<p>Russian lawmakers have criticized Moscow over its “failure” to regulate the crypto sector, claiming that inaction harms the nation’s economy.</p>
+<p>The post <a href="https://cryptonews.com/news/russian-lawmakers-failure-to-regulate-crypto-hurting-russian-economy.htm">Russian Lawmakers – Failure to Regulate Crypto Hurting Russian Economy</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Russian lawmakers have criticized <a href="https://cryptonews.com/news/putin-signs-cbdc-digital-assets-payments-bill-into-law.htm">Moscow</a> over its “failure” to regulate the crypto sector, claiming that inaction harms the nation’s economy.</p>
+<p>Per the media outlets <a href="https://www.finam.ru/publications/item/v-gosdume-zayavili-o-neobkhodimosti-prinyatiya-zakona-o-regulirovanii-kriptovalyuty-20240313-1130/" target="_blank" rel="noopener">Finam</a> and <a href="https://www.pravda.ru/news/economics/1971610-vasserman/" target="_blank" rel="noopener">Pravda</a>, lawmakers spoke about the matter on March 13.</p>
+<p>One MP blasted Moscow for failing to recognize tokens as a valid payment tool. And another called for a system of crypto declarations for public officials.</p>
+<h2>Russian Lawmakers Divided Over Issue of Crypto Regulation?</h2>
+<p><span class="replacer"></span><br />
+Artem Kiryanov, the Deputy Chairman of the State Duma Committee on Economic Policy, and the head of the Russian Union of Taxpayers, said it had become “necessary to pass a law” to “regulate the cryptocurrency sector.”</p>
+<figure id="attachment_183356" aria-describedby="caption-attachment-183356" style="width: 1135px" class="wp-caption alignnone"><img decoding="async" class="size-full wp-image-183356" src="https://cimg.co/wp-content/uploads/2024/03/14115054/1710417054-kiryanov.jpg" alt="Artem Kiryanov, the Deputy Chairman of the State Duma Committee on Economic Policy and the head of the Russian Union of Taxpayers." width="1135" height="655" srcset="https://cimg.co/wp-content/uploads/2024/03/14115054/1710417054-kiryanov.jpg 1135w, https://cimg.co/wp-content/uploads/2024/03/14115054/1710417054-kiryanov-300x173.jpg 300w, https://cimg.co/wp-content/uploads/2024/03/14115054/1710417054-kiryanov-1024x591.jpg 1024w, https://cimg.co/wp-content/uploads/2024/03/14115054/1710417054-kiryanov-768x443.jpg 768w, https://cimg.co/wp-content/uploads/2024/03/14115054/1710417054-kiryanov-150x87.jpg 150w" sizes="(max-width: 1135px) 100vw, 1135px" /><figcaption id="caption-attachment-183356" class="wp-caption-text">Artem Kiryanov, the Deputy Chairman of the State Duma Committee on Economic Policy and the head of the Russian Union of Taxpayers. (Source: Vaily Kozhenov/Dzen)</figcaption></figure>
+<p>Kiryanov was speaking at a media event that focused on the “financial status of Bitcoin in Russia,” and explained:</p>
+<blockquote><p>“Currently, a large part of the Russian black and ‘gray’ markets make use of cryptoassets. We must adopt a law that regulates the use of these cryptoassets.”</p></blockquote>
+<p>The lawmaker was critical of previous attempts to police the sector. He claimed that bills proposed in the State Duma “do not treat cryptocurrency as a means of payment.” Kiryanov added:</p>
+<blockquote><p>“In Russia, we do not allow for the idea that people can pay for goods and services with cryptocurrency.”</p></blockquote>
+<p>However, this week reports claimed that top Russian policymakers have admitted crypto regulation <a href="https://cryptonews.com/news/russian-crypto-regulation-may-have-to-wait-until-2025.htm">may not roll out until 2025</a>.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Two years after the Kremlin’s invasion of Ukraine, many in Russia have reason to feel the wartime economy is working well for them in a setback for Western sanctions designed to pit the populace against Putin <a href="https://t.co/x70WAYV15X">https://t.co/x70WAYV15X</a></p>
+<p>&mdash; Bloomberg (@business) <a href="https://twitter.com/business/status/1768143575810752864?ref_src=twsrc%5Etfw">March 14, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Citizens Confused by Crypto, CBDCs, MP Claims</h2>
+<p><span class="replacer"></span><br />
+Kiryanov added that many citizens were becoming unsure as to whether the Central Bank’s <a href="https://cryptonews.com/news/russian-central-bank-chief-outlines-next-steps-for-digital-ruble.htm">digital ruble</a> is also a “cryptoasset.”</p>
+<p>The Committee Deputy Chairman said that the Russian CBDC “cannot be compared with cryptocurrency, since these are different types of asset.” He concluded:</p>
+<blockquote><p>“Confusion has arisen on this matter.  It will continue to dog us for some time. Some think that we have cryptocurrency and a digital ruble, and that they are the same thing. They are not the same. The digital ruble is another aspect of the ruble.”</p></blockquote>
+<p><iframe title="What to know about Russia’s upcoming presidential election" width="640" height="360" src="https://www.youtube.com/embed/mSmDVWucGf8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<h2>Crypto Declarations Could Build Trust, Says Lawmaker</h2>
+<p><span class="replacer"></span><br />
+Meanwhile, State Duma lawmaker and political pundit Anatoly Wasserman said politicians should consider creating a system for declaring crypto holdings and transfers.</p>
+<p>Wasserman noted that cash payments raise suspicions about Russian lawmakers, and said that crypto declarations would be “the best way” to remove these.</p>
+<p>And Wasserman explained that it was now easy to check bank-related payments, but said the same “cannot be said about cryptocurrency.”</p>
+<p>The independent lawmaker for the Moscow Preobrazhensky Constituency said that politicians could create “a protocol for monitoring” crypto holdings.</p>
+<p>Russia’s <a href="https://cryptonews.com/news/russia-fatf-rating-downgraded-due-to-insufficient-crypto-regulation.htm">failure to police the crypto sector has already cost it a FATF compliance rating downgrade</a> this year.</p>
+<p>The post <a href="https://cryptonews.com/news/russian-lawmakers-failure-to-regulate-crypto-hurting-russian-economy.htm">Russian Lawmakers – Failure to Regulate Crypto Hurting Russian Economy</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cimg.co/wp-content/uploads/2024/03/14114936/1710416975-1710408308810_processed.jpg" length="137617" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>Top Crypto Gainers Today on DEXTools – BABYSTRK, HUSKY, DRAI</title>
+		<link>https://cryptonews.com/news/top-crypto-gainers-today-on-dextools-babystrk-husky-drai.htm</link>
+		
+		<dc:creator><![CDATA[Joel Frank]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 23:24:16 +0000</pubDate>
+				<category><![CDATA[Altcoin News]]></category>
+		<category><![CDATA[DEXTools]]></category>
+		<category><![CDATA[shticoin]]></category>
+		<category><![CDATA[Top crypto]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183848</guid>
+
+					<description><![CDATA[<p>With the bulls clearly still in control of the broader crypto market, traders hunting for top crypto gainers today continue to flock to on-chain shitcoin markets in the hope of turning quick exponential profits.</p>
+<p>The post <a href="https://cryptonews.com/news/top-crypto-gainers-today-on-dextools-babystrk-husky-drai.htm">Top Crypto Gainers Today on DEXTools – BABYSTRK, HUSKY, DRAI</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_146249" aria-describedby="caption-attachment-146249" style="width: 1200px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="size-full wp-image-146249" src="https://cryptonews.com/wp-content/uploads/2023/12/1703898503-dextools.jpg" alt="Top Crypto Gainers Today on DEXTools" width="1200" height="686" srcset="https://cryptonews.com/wp-content/uploads/2023/12/1703898503-dextools.jpg 1200w, https://cryptonews.com/wp-content/uploads/2023/12/1703898503-dextools-300x172.jpg 300w, https://cryptonews.com/wp-content/uploads/2023/12/1703898503-dextools-1024x585.jpg 1024w, https://cryptonews.com/wp-content/uploads/2023/12/1703898503-dextools-768x439.jpg 768w, https://cryptonews.com/wp-content/uploads/2023/12/1703898503-dextools-150x86.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /><figcaption id="caption-attachment-146249" class="wp-caption-text">Top Crypto Gainers Today on DEXTools</figcaption></figure>
+<p>With the bulls clearly still in control of the broader crypto market, traders hunting for top crypto gainers today continue to flock to on-chain shitcoin markets in the hope of turning quick exponential profits.</p>
+<p><a href="https://cryptonews.com/coins/bitcoin/">Bitcoin</a> (BTC) has been pumping hard in the weeks since the <a href="https://cryptonews.com/news/navigating-spot-bitcoin-etfs-in-the-us-what-you-need-to-know.htm">launch of US spot Bitcoin ETFs</a>.</p>
+<p><a href="https://cryptonews.com/news/bitcoin-etfs-see-record-1b-inflows-as-btc-price-remains-at-all-time-highs.htm">BlackRock’s IBIT ETF</a> has been leading the charge, and set a new volume record on Thursday.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr"><a href="https://twitter.com/search?q=%24IBIT&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$IBIT</a> had almost $4 billion in volume today.</p>
+<p>Some crazy numbers.</p>
+<p>Today was one of the highest volume days since <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> ETFs were launched. <a href="https://t.co/nWjWMEW2RH">pic.twitter.com/nWjWMEW2RH</a></p>
+<p>&mdash; Rajat Soni, CFA (@rajatsonifnance) <a href="https://twitter.com/rajatsonifnance/status/1768382299882611051?ref_src=twsrc%5Etfw">March 14, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Indeed, volumes have been swelling exponentially in the past few weeks. March volumes have already crushed January and February volumes, Bloomberg ETF analyst Eric Balchunas reported.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Here&#39;s monthly volume for the ten btc ETFs. March is only half over but has already smashed the numbers from Feb and Jan w/ $65b. <a href="https://t.co/UpZ6pFgQgt">pic.twitter.com/UpZ6pFgQgt</a></p>
+<p>&mdash; Eric Balchunas (@EricBalchunas) <a href="https://twitter.com/EricBalchunas/status/1768373227405865151?ref_src=twsrc%5Etfw">March 14, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>As institutional money continues to poor in, Bitcoin could yet hit $100,000 before the April halving.</p>
+<p>That means it could easily see gains of 50% from here.</p>
+<p>But that’s nowhere near enough for many traders, who are looking to secure gains in the 50-100x region.</p>
+<p>And the only place where a trader has any real shot of making such gains is by finding a diamond in the rough in the on-chain <a href="https://cryptonews.com/cryptocurrency/best-shitcoins-buy/">shitcoin</a> markets.</p>
+<p>On-chain markets refer to the market for digital assets that have been issued directly on top an existing blockchain.</p>
+<p>For example, the <a href="https://cryptonews.com/price-predictions/shiba-inu-price-prediction/">Shiba Inu (SHIB)</a> token is issued on <a href="https://cryptonews.com/news/ethereum-news/">Ethereum</a> as an <a href="https://cryptonews.com/guides/best-erc20-wallets.htm">ERC-20</a> token.</p>
+<p>These tokens can then be traded on decentralized exchanges, and also perhaps on centralized exchanges if they get big enough.</p>
+<p>They are often referred to as shitcoin markets because virtually anyone can issue a token at any time.</p>
+<p>As a result, these on-chain markets are replete with scams and pump-and-dump schemes.</p>
+<p>Here are a few of the top crypto gainers today on Ethereum that traders will be monitoring.</p>
+<h2><strong>Top Crypto Gainers Today</strong></h2>
+<p><span class="replacer"></span></p>
+<h3><strong>BabySTRK ($BABYSTRK)</strong></h3>
+<p>A shitcoin called BabySTRK ($BABYSTRK) has pumped up 67,000% since launching on Thursday, as per <a href="BabySTRK%20($BABYSTRK)">DEXTools</a>.</p>
+<p>Its market cap was last around $2.6 million, with close to $300,000 in liquidity and already 65 holders.</p>
+<p>That’s not bad stuff for a first day of trade. Plus its smart contract appears squeeky clean, as per DEXTools’ smart contract audit.</p>
+<p>Still, there are no zero-risk investments in the shitcoin market. Investors must always do their due diligence.</p>
+<h3><strong>HuskyInu ($HUSKY)</strong></h3>
+<p>A shitcoin called HuskyInu ($HUSKY) is trying to make a comeback. It was last up over 21,000% on Thursday, as per <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x4539044f1fbcb9b05d0f9105bf73981c7b30ce1c?t=1710457293200">DEXTools</a>.</p>
+<p>Its market cap is just under $1 million and liquidity under $250,000.</p>
+<p>But investors should be very cautious with this coin. Honeypot.io seems to think it might be a honeypot scam.</p>
+<h3><strong>Drama AI ($DRAI)</strong></h3>
+<p>Another just-launched shitcoin called Drama AI ($DRAI) is up close to 5,000% in under 24 hours, as per <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x1f40fb4ffed5c9884102f151c5bc7528d1251970?t=1710457340306">DEXTools</a>.</p>
+<p>Its market cap was still only around $750,000 with $220,000 in locked liquidity.</p>
+<p>But investors shouldn’t let locked liquidity lure them into a false sense of security regarding this coin.</p>
+<p>That’s because the token could be a honeypot scam, as per website Honeypot.io.</p>
+<h2><strong>Crypto Alternatives to Consider</strong></h2>
+<p><span class="replacer"></span><br />
+Investing in low-cap shitcoins is a very risky strategy.</p>
+<p>An innocent-looking project could easily turn out to be a scam, and a few big sell orders could easily drive the price 80% lower.</p>
+<p>A strategy that is still risky, but arguably has a better risk reward is <a href="https://cryptonews.com/news/new-cryptocurrency.htm">getting involved in crypto presales</a>.</p>
+<p>The idea is that investors secure tokens of up-and-coming, high-potential crypto projects/protocols at a discounted early price.</p>
+<p>These projects then put those funds to work, paying for protocol development and marketing.</p>
+<p>While lots can go wrong when investing in crypto presales—unforeseen circumstances can prevent a project from delivering on its vision—savvy presale investors routinely secure gains of 10x or more.</p>
+<p>With hundreds of presale projects vying for investor funds, analysts at Cryptonews have been combing the market.</p>
+<p>Here are 14 of the presale projects with the highest potential.</p>
+<p><strong><a href="https://cryptonews.com/news/new-cryptocurrency.htm">See the 14 Cryptocurrencies</a></strong></p>
+<p>The post <a href="https://cryptonews.com/news/top-crypto-gainers-today-on-dextools-babystrk-husky-drai.htm">Top Crypto Gainers Today on DEXTools – BABYSTRK, HUSKY, DRAI</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cryptonews.com/wp-content/uploads/2023/12/1703898503-dextools.jpg" length="151779" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>Speculators And Retails Are Driving Latest Bitcoin Rally, Says JPMorgan</title>
+		<link>https://cryptonews.com/news/speculators-and-retails-are-driving-latest-bitcoin-rally-says-jpmorgan.htm</link>
+		
+		<dc:creator><![CDATA[Andrew Throuvalas]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 22:50:59 +0000</pubDate>
+				<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Gold]]></category>
+		<category><![CDATA[JPMorgan]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183829</guid>
+
+					<description><![CDATA[<p>JPMorgan analysts remain bearish on Bitcoin’s near-term future, believing the asset’s current rally is attributable to retail and speculative institutions.</p>
+<p>The post <a href="https://cryptonews.com/news/speculators-and-retails-are-driving-latest-bitcoin-rally-says-jpmorgan.htm">Speculators And Retails Are Driving Latest Bitcoin Rally, Says JPMorgan</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>JPMorgan analysts remain bearish on Bitcoin’s near-term future, believing the asset’s current rally is attributable to retail and speculative institutions.</p>
+<p>Both groups, <a href="https://fortune.com/crypto/2024/03/12/jamie-dimon-bitcoin-record-illegal-use-defend-purchase-right/">the bank claimed on March 14</a>, have joined momentum traders like commodity trading advisors in burrowing money into both gold and bitcoin futures.</p>
+<h2>JPMorgan’s Bitcoin Analysis</h2>
+<p><span class="replacer"></span><br />
+The bank’s analysis is a countertheory to those associating the massive success of Bitcoin spot ETFs with outflows from gold ETFs, believing investors are swapping funds from the latter to the former. Since the start of the year, over $5 billion has flowed out of gold ETFs, while almost $12 billion has flowed into Bitcoin ETFs.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">JPMorgan CEO:I Wont Ever Personally Buy A Bitcoin</p>
+<p>&mdash; *Walter Bloomberg (@DeItaone) <a href="https://twitter.com/DeItaone/status/1767314294943736122?ref_src=twsrc%5Etfw">March 11, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&#8220;This [gold ETF] outflow trend does not reflect an aversion to gold by private investors such as individuals and family offices, but rather an instrument shift away from physical gold ETFs to bars and coins,&#8221; wrote analysts led by Nikolaos Panigirtzoglou in his report.</p>
+<p><a href="https://cryptonews.com/news/bitcoin-vs-gold-debate-continues-as-both-assets-rise-following-ukraine-war.htm">Bitcoin and gold</a> are often compared for having similar investment theses: both are limited-supply commodities and potential hedges against inflation or financial catastrophe. Bitcoin bulls are quick to note that Bitcoin beats gold on monetary properties like scarcity and portability and predict a day will come when the former “eats” the latter.</p>
+<p>The bank’s analysts, however, believe gold ETF buyers are simply escaping into actual gold for security reasons.</p>
+<p>&#8220;Privacy and tangibility have become more important considerations for private investors since the pandemic, and physical gold ETFs have a disadvantage in this respect relative to holding bars and coins,” they wrote.</p>
+<p>The bank added that real gold has been in higher demand than ETF gold since the pandemic, even outpacing gold purchases by central banks.</p>
+<h2>What Are The Real ETF Inflows?</h2>
+<p><span class="replacer"></span><br />
+While Bitcoin ETFs have been extremely successful, JPMorgan believes they are experiencing the reverse of gold: holders of actual BTC on crypto exchanges are selling their holdings to buy the ETFs instead.</p>
+<p>This theory is corroborated by data showing <a href="https://cryptoquant.com/asset/btc/chart/exchange-flows/exchange-outflow-total?exchange=all_exchange&amp;window=DAY&amp;sma=0&amp;ema=0&amp;priceScale=log&amp;metricScale=linear&amp;chartStyle=column">$7 billion of outflows from crypto exchanges</a> since the ETFs launched.</p>
+<p>“In other words, it is more likely that the net flow from retail investors into the newly created ETFs is closer to $2 billion,” analysts claimed.</p>
+<p>Though MicroStrategy (MSTR) continues to <a href="https://cryptonews.com/news/microstrategy-plans-another-500-million-private-offering-of-convertible-senior-notes-will-use-proceeds-to-buy-bitcoin.htm">raise money to buy BTC</a>, JPMorgan believes this is adding froth to the already hyped market, possibly resulting in an upcoming major correction.</p>
+<p>The post <a href="https://cryptonews.com/news/speculators-and-retails-are-driving-latest-bitcoin-rally-says-jpmorgan.htm">Speculators And Retails Are Driving Latest Bitcoin Rally, Says JPMorgan</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cryptonews.com/wp-content/uploads/2023/12/1701431711-jpmorgan.jpg" length="112317" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>DogWifHat Holders are Migrating To This Hidden Crypto ICO for 100x Gains</title>
+		<link>https://cryptonews.com/news/dogwifhat-holders-are-migrating-to-this-hidden-crypto-ico-for-100x-gains.htm</link>
+		
+		<dc:creator><![CDATA[Joel Frank]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 22:31:57 +0000</pubDate>
+				<category><![CDATA[Industry Talk]]></category>
+		<category><![CDATA[DogWifHat]]></category>
+		<category><![CDATA[Meme coin]]></category>
+		<category><![CDATA[Sponge]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183842</guid>
+
+					<description><![CDATA[<p>As its amazing run higher continues, dogwifhat (WIF) investors are migrating to a hidden crypto ICO called Sponge (SPONGE) as they seek 100x gains.</p>
+<p>The post <a href="https://cryptonews.com/news/dogwifhat-holders-are-migrating-to-this-hidden-crypto-ico-for-100x-gains.htm">DogWifHat Holders are Migrating To This Hidden Crypto ICO for 100x Gains</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>As its amazing run higher continues, dogwifhat (WIF) investors are migrating to a hidden crypto ICO called Sponge (SPONGE) as they seek 100x gains.</p>
+<p>Dogwifhat pumped up over 18% on Friday as it hit fresh all-time highs above $3.18 per token.</p>
+<p>But with a market cap of now more than $3.18 billion, some are concerning that the rally might be running out of steam.</p>
+<p>Yes, maybe <a href="https://cryptonews.com/cryptocurrency/dogwifhat-price-prediction/">WIF</a> can pump another 7-8x to catch up to Dogecoin’s market cap over $25 billion.</p>
+<p>But in the <a href="https://cryptonews.com/news/best-meme-coins.htm">meme coin</a> world, traders tend to look down their noses at the prospect of 7-8x gains.</p>
+<p>Meme coin traders often prefer targeting coins that offer potential gains in the region of <a href="https://cryptonews.com/news/which-crypto-100x-potential-year.htm">100x</a> or more.</p>
+<p>One such coin they are likely taking a look at include a hidden crypto ICO called <a href="https://cryptonews.com/ext/sponge">Sponge</a> (SPONGE).</p>
+<h2><strong>Dogwifhat Investors Shift to Viral ICO Sponge (SPONGE)</strong></h2>
+<p><span class="replacer"></span><br />
+Legendary meme coin Sponge (SPONGE), which hit a market cap of $100 million back in 2023 to hand investors 100x gains at the time, is once again in the spotlight in wake of its migration to Polygon.</p>
+<p>Last at $0.00337, $SPONGE is up over 400% since its February 5 Polygon launch.</p>
+<figure id="attachment_183843" aria-describedby="caption-attachment-183843" style="width: 833px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="size-full wp-image-183843" src="https://cimg.co/wp-content/uploads/2024/03/14222954/1710455393-screenshot-2024-03-14-172211.png" alt="DogWifHat Holders are Migrating To This Hidden Crypto ICO for 100x Gains" width="833" height="561" srcset="https://cimg.co/wp-content/uploads/2024/03/14222954/1710455393-screenshot-2024-03-14-172211.png 833w, https://cimg.co/wp-content/uploads/2024/03/14222954/1710455393-screenshot-2024-03-14-172211-300x202.png 300w, https://cimg.co/wp-content/uploads/2024/03/14222954/1710455393-screenshot-2024-03-14-172211-768x517.png 768w, https://cimg.co/wp-content/uploads/2024/03/14222954/1710455393-screenshot-2024-03-14-172211-150x101.png 150w" sizes="(max-width: 833px) 100vw, 833px" /><figcaption id="caption-attachment-183843" class="wp-caption-text">DogWifHat Holders are Migrating To This Hidden Crypto ICO for 100x Gains</figcaption></figure>
+<p>That gives the token an impressive market cap of just under $136 million, as per <a href="https://www.dextools.io/app/en/polygon/pair-explorer/0xa01f64fa1b923dd9c5c7618b39a6ba8098a88863?t=1709945435132">DEXTools</a>.</p>
+<p>Sponge isn’t just any old utility-lacking meme coin.</p>
+<p>The new ICO offers a passive income opportunity and also functions as the native token of a <a href="https://cryptonews.com/news/could-p2e-game-transform-gaming-securedverse-as-revolutionary-as-they-come.htm">play-to-earn (P2E)</a> racing game.</p>
+<p>Sponge buyers who stake their tokens <a href="https://spongetoken.vip/en?clickId=fx_b53088_0e69709a6f343c3a7523da1f9adf28fa_1">can secure yields of up to 175%</a>, as per the official Sponge website.</p>
+<p>Meanwhile, the P2E game will see players competing against each other for ranks on a global leaderboard. Racing rewards are paid out in SPONGE V2.</p>
+<p>But perhaps the most exciting thing about Sponge is that it’s still super early to get into the coin.</p>
+<p>Meme coins like <a href="https://cryptonews.com/news/bonk-price-prediction-as-bonk-approaches-all-time-high-could-1-be-next.htm">Bonk</a>, <a href="https://cryptonews.com/news/dogwifhat-price-prediction-as-500-pump-shocks-market-next-crypto-unicorn.htm">Dogwifhat</a>, and <a href="https://cryptonews.com/news/pepe-holders-are-shifting-funds-to-a-new-crypto-token-for-100x-gains-how-to-buy.htm">Pepe</a> have shown how an upstart meme coin can reach a multi-billion-dollar market cap.</p>
+<p>The meme coin’s website is also teasing that it will soon launch on bigger and better exchanges, which could bring a wave of new buyers to $SPONGE.</p>
+<p>Given its low market cap of $136 million, Sponge could be looking at 100x gains from here.</p>
+<p><a href="https://cryptonews.com/ext/sponge"><strong>Buy Sponge Here</strong></a></p>
+<p>The post <a href="https://cryptonews.com/news/dogwifhat-holders-are-migrating-to-this-hidden-crypto-ico-for-100x-gains.htm">DogWifHat Holders are Migrating To This Hidden Crypto ICO for 100x Gains</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cryptonews.com/wp-content/uploads/2024/01/1707161820-dogwifhat-homepage-mission-statement-scaled.jpg" length="189001" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>We Asked ChatGPT How High Floki, Shiba Inu, DogWifHat, Pepe and Dogecoin Price Can Go in 2024</title>
+		<link>https://cryptonews.com/news/we-asked-chatgpt-how-high-floki-shiba-inu-dogwifhat-pepe-and-dogecoin-price-can-go-in-2024.htm</link>
+		
+		<dc:creator><![CDATA[Joel Frank]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 22:17:10 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Dogecoin]]></category>
+		<category><![CDATA[Meme coin]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183836</guid>
+
+					<description><![CDATA[<p>We just asked ChatGPT how high Floki (FLOKI), Shiba Inu (SHIB), Dogwifhat (WIF), Pepe (PEPE) and Dogecoin (DOGE) prices could go in 2024 and it gave a very surprising set of answers.</p>
+<p>The post <a href="https://cryptonews.com/news/we-asked-chatgpt-how-high-floki-shiba-inu-dogwifhat-pepe-and-dogecoin-price-can-go-in-2024.htm">We Asked ChatGPT How High Floki, Shiba Inu, DogWifHat, Pepe and Dogecoin Price Can Go in 2024</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>We just asked ChatGPT how high Floki (FLOKI), Shiba Inu (SHIB), Dogwifhat (WIF), Pepe (PEPE) and Dogecoin (DOGE) prices could go in 2024 and it gave a very surprising set of answers.</p>
+<p>Floki, Shiba Inu, Dogwifhat, Pepe and Dogecoin are the five biggest and best-known <a href="https://cryptonews.com/news/best-meme-coins.htm">meme coins</a>, as per <a href="https://coinmarketcap.com/view/memes/">CoinMarketCap</a>.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-183837" src="https://cimg.co/wp-content/uploads/2024/03/14221413/1710454453-screenshot-2024-03-14-165808.png" alt="Dogecoin price" width="600" height="527" srcset="https://cimg.co/wp-content/uploads/2024/03/14221413/1710454453-screenshot-2024-03-14-165808.png 600w, https://cimg.co/wp-content/uploads/2024/03/14221413/1710454453-screenshot-2024-03-14-165808-300x264.png 300w, https://cimg.co/wp-content/uploads/2024/03/14221413/1710454453-screenshot-2024-03-14-165808-150x132.png 150w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p>And over the course of the last month, the meme coin market has been on a tear.</p>
+<p>The Dogecoin price has doubled, while <a href="https://cryptonews.com/cryptocurrency/floki-price-prediction/">FLOKI</a>, <a href="https://cryptonews.com/price-predictions/shiba-inu-price-prediction/">SHIB</a>, <a href="https://cryptonews.com/news/is-dogwifhat-going-to-zero-wif-price-plummets-50-while-mysterious-new-coin-emerges.htm">WIF</a> and <a href="https://cryptonews.com/coins/pepe/">PEPE</a> have gained between 3-9x.</p>
+<p>The pump comes in wake of the Bitcoin price pushing to fresh record highs above $70,000 on <a href="https://cryptonews.com/news/bitcoin-etfs-see-record-1b-inflows-as-btc-price-remains-at-all-time-highs.htm">huge ETF inflows</a>.</p>
+<p>And with many anticipating that Bitcoin could vault beyond $100,000 in 2024, the meme coin rally could have legs.</p>
+<p>That is certainly the view taken by ChatGPT.</p>
+<h2><strong>Here’s How High ChatGPT Thinks FLOKI, SHIB, WIF, PEPE and DOGE Can Go in 2024</strong></h2>
+<p><span class="replacer"></span><br />
+“Meme coins have been gaining significant traction lately, and there are several reasons why they could potentially see even greater percentage gains than Bitcoin,” ChatGPT told analysts at Cryptonews.com.</p>
+<p>The chatbot then proceeded to explain why community strength, social media presence, market sentiment and a low entry barrier could all contribute to meme coin upside:</p>
+<ol>
+<li><strong>Community Strength</strong>: Meme coins like Dogecoin, Shiba Inu, Pepe, Floki, and Dogwifhat have established strong and passionate communities. These communities often drive enthusiasm, adoption, and engagement with the coins, which can result in rapid price appreciation.</li>
+<li><strong>Social Media Presence</strong>: As you mentioned, these coins have amassed substantial followings on platforms like Twitter, indicating a high level of social media engagement. This widespread presence helps in spreading awareness and attracting new investors, contributing to upward price momentum.</li>
+<li><strong>Low Entry Barrier</strong>: Meme coins typically have low entry barriers, allowing even small investors to participate. This accessibility can lead to a surge in demand, especially during speculative bull markets.</li>
+<li><strong>Market Sentiment</strong>: During bull markets, investor sentiment tends to be optimistic, fostering a &#8220;fear of missing out&#8221; (FOMO) mentality. Meme coins, with their quirky and entertaining nature, often capitalize on this sentiment, driving up demand and prices.</li>
+</ol>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-183838" src="https://cimg.co/wp-content/uploads/2024/03/14221441/1710454480-screenshot-2024-03-14-165211.png" alt="" width="916" height="594" srcset="https://cimg.co/wp-content/uploads/2024/03/14221441/1710454480-screenshot-2024-03-14-165211.png 916w, https://cimg.co/wp-content/uploads/2024/03/14221441/1710454480-screenshot-2024-03-14-165211-300x195.png 300w, https://cimg.co/wp-content/uploads/2024/03/14221441/1710454480-screenshot-2024-03-14-165211-768x498.png 768w, https://cimg.co/wp-content/uploads/2024/03/14221441/1710454480-screenshot-2024-03-14-165211-150x97.png 150w" sizes="(max-width: 916px) 100vw, 916px" /></p>
+<p>Regarding potential market caps, ChatGPT gave some bullish projections.</p>
+<ul>
+<li>Dogecoin: With its strong community and widespread adoption, Dogecoin could potentially see its market cap rise to $100 billion or even higher in 2024.</li>
+<li>Shiba Inu: Given its growing popularity and market acceptance, Shiba Inu&#8217;s market cap could potentially surpass $50 billion.</li>
+<li>Pepe: Pepe&#8217;s market cap could reach $10 billion or more, driven by its dedicated community and potential utility applications.</li>
+<li>Floki: Floki&#8217;s market cap may climb to around $5 billion, propelled by its meme status and community engagement.</li>
+<li>Dogwifhat: With its niche following and unique appeal, Dogwifhat could see its market cap reach $1 billion or more.</li>
+</ul>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-183839" src="https://cimg.co/wp-content/uploads/2024/03/14221458/1710454498-screenshot-2024-03-14-165230.png" alt="" width="897" height="721" srcset="https://cimg.co/wp-content/uploads/2024/03/14221458/1710454498-screenshot-2024-03-14-165230.png 897w, https://cimg.co/wp-content/uploads/2024/03/14221458/1710454498-screenshot-2024-03-14-165230-300x241.png 300w, https://cimg.co/wp-content/uploads/2024/03/14221458/1710454498-screenshot-2024-03-14-165230-768x617.png 768w, https://cimg.co/wp-content/uploads/2024/03/14221458/1710454498-screenshot-2024-03-14-165230-150x121.png 150w" sizes="(max-width: 897px) 100vw, 897px" /></p>
+<p>Of course, with a market cap of last around $3.12 billion, ChatGPT appears to have malfunctioned somewhat when predicting Dogwifhat’s potential upside.</p>
+<p>But the trend is clear. The chatbot thinks the major meme coins could yet post gains of 2-3x.</p>
+<p>ChatGPT did warn, however, “it&#8217;s important to note that predicting cryptocurrency prices and market caps is highly speculative and subject to various factors such as market dynamics, regulatory changes, technological developments, and investor sentiment”.</p>
+<h2><strong>Meme Coin Alternatives to Consider</strong></h2>
+<p><span class="replacer"></span><br />
+The above-mentioned meme coins all have their upside potentials limited by their already bloated market caps.</p>
+<p>Here are a few smaller, lesser-known meme projects that could deliver investors much larger potential upside.</p>
+<h3><strong>Scotty the AI ($SCOTTY)</strong></h3>
+<p>Scotty the AI is a brand new <a href="https://cryptonews.com/news/ethereum-news/">Ethereum-based</a> dog-themed meme coin, but with an important difference.</p>
+<p>Scotty the AI isn’t just another Shiba Inu. Scotty is a Scottish Terrier.</p>
+<p>And unlike the likes of <a href="https://cryptonews.com/coins/dogecoin/">Dogecoin</a>, <a href="https://cryptonews.com/news/shiba-inu-price-prediction-as-spikes-up-1-5-heres-the-latest.htm">Shiba Inu</a> and Bonk, Scotty is a meme coin that is packed with utility.</p>
+<p>Scotty the AI features an agile threat-detecting AI system that tirelessly ensures the integrity of the cryptoverse by sniffing out potential threats, suspicious transactions, network anomalies, and security breaches.</p>
+<p>And Scotty is rewarding his army of fans with his unconditional loyalty as their on-chain, AI-powered guard dog.</p>
+<p><a href="https://cryptonews.com/ext/scottytheai">Scotty the AI</a> also features a security chatbot and will be the star of an upcoming play-to-earn (<a href="https://cryptonews.com/news/best-play-to-earn-games.htm">P2E</a>) game.</p>
+<p>Scotty the AI just launched an initial coin offering (ICO).</p>
+<p>Having already raised a whopping more than $4 million, it’s already being talked about as 2024’s best presale.</p>
+<p>Investors are racing to secure their $SCOTTY tokens given they are on sale for $0.00803 each, a very low price.</p>
+<p>Indeed, given the total $SCOTTY supply of 1,734,567,890, investors getting tokens at $0.00803 are essentially buying to Scotty at a market cap of around $14 million.</p>
+<p>If Scotty achieves its goal of becoming a household meme coin name, it could easily reach $200 million.</p>
+<p>Scotty thus ranks as one of the best crypto meme coins to buy now.</p>
+<p><a href="https://cryptonews.com/ext/scottytheai">Visit Scotty Here</a></p>
+<h3><strong>Smog (SMOG)</strong></h3>
+<p>A Solana-based meme coin called Smog (SMOG) has been turning a lot of heads recently as its price pumps.</p>
+<p>Its price has pumped nearly 8x since late February to reach a market cap of $270 million, as per <a href="https://www.dextools.io/app/en/solana/pair-explorer/G6oNRyjP2WAVDUTYFPZsgBBxxMetyQEi2AYbmzRNe7Mc?t=1709910872407">DEXTools</a>.</p>
+<p>The dragon-themed token markets itself as offering Solana’s greatest airdrop of all time.</p>
+<p>Traders can qualify for the airdrop by buying a holding SMOG on Solana, or staking the token on Ethereum.</p>
+<p>Even though its market cap remains modest, SMOG already boasts a strong community.</p>
+<p>Indeed, as per <a href="https://birdeye.so/token/FS66v5XYtJAFo14LiPz5HT93EUMAHmYipCfQhLpU4ss8?chain=solana">birdeye.so</a>, it already has over 60,000 holders.</p>
+<p>Given all the excitement about Solana airdrops in recent months, SMOG could gain significant interest in the coming weeks.</p>
+<p>SMOG could deliver at least 10x gains to investors, hence its rank in the best crypto meme coins to buy now.</p>
+<p>Traders should note that they can clinch a 10% discount when buying SMOG directly through the project’s website.</p>
+<p>They can also stake their tokens for a 42% APY.</p>
+<p><a href="https://www.cryptonews.com/ext/smog/en">Buy SMOG Here</a></p>
+<p>The post <a href="https://cryptonews.com/news/we-asked-chatgpt-how-high-floki-shiba-inu-dogwifhat-pepe-and-dogecoin-price-can-go-in-2024.htm">We Asked ChatGPT How High Floki, Shiba Inu, DogWifHat, Pepe and Dogecoin Price Can Go in 2024</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cryptonews.com/wp-content/uploads/2023/12/1702555659-dogecoin-price-prediction-as-avalanche-overtakes-doge-in-crypto-rankings-end-of-meme-coins.jpg" length="82448" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>Peter Schiff Regrets Skipping Bitcoin, Reignites Debate on Crypto&#8217;s Future</title>
+		<link>https://cryptonews.com/news/peter-schiff-regrets-skipping-bitcoin-reignites-debate-on-cryptos-future.htm</link>
+		
+		<dc:creator><![CDATA[Jimmy Aki]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 22:05:48 +0000</pubDate>
+				<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[Bitcoin ETF]]></category>
+		<category><![CDATA[Peter Schiff]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183706</guid>
+
+					<description><![CDATA[<p>Longtime Bitcoin critic Peter Schiff has admitted he regrets not investing in Bitcoin when he was first introduced to it in 2010. The American stockbroker, known for advocating for gold investments, had previously mocked Bitcoin as a "pure Ponzi scheme."</p>
+<p>The post <a href="https://cryptonews.com/news/peter-schiff-regrets-skipping-bitcoin-reignites-debate-on-cryptos-future.htm">Peter Schiff Regrets Skipping Bitcoin, Reignites Debate on Crypto&#8217;s Future</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Longtime Bitcoin critic Peter Schiff admitted on March 13 that he regrets not investing in Bitcoin when he was first introduced to it in 2010. The American stockbroker, known for advocating for gold investments, had previously mocked Bitcoin as a &#8220;pure Ponzi scheme.&#8221;</p>
+<p><a href="https://youtu.be/xfHCly1ZCQ0?si=iK1DNQTV1sB4AVgZ">During a televised debate</a>, Schiff said that his net worth could have been over a hundred million today if he had invested in Bitcoin in 2010.</p>
+<h2>Peter Schiff Missed Bitcoin’s $1 Entry Point</h2>
+<p><span class="replacer"></span><br />
+Schiff noted that a colleague introduced him to Bitcoin in 2010 when it was still at the giveaway price of $0.1. At the time, he considered investing between $10,000 and $100,000 but ignored it after dismissing the merits of investing in digital assets.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Just in case you didn&#39;t see me politely hang, draw and quarter Peter Schiff, enjoy <a href="https://t.co/vr1efNJw3p">https://t.co/vr1efNJw3p</a></p>
+<p>&mdash; Raoul Pal (@RaoulGMI) <a href="https://twitter.com/RaoulGMI/status/1768073537087050122?ref_src=twsrc%5Etfw">March 14, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>During the debate with <a href="https://cryptonews.com/news/raoul-pal-says-he-all-in-crypto-what-means-for-ethereum-eth-gnox-gnox-bitcoin-btc.htm">crypto investor Raoul Pal</a> on the Impact Theory podcast, Schiff revealed his regret of missing out on Bitcoin.</p>
+<p>Schiff has always warned his audience to avoid the &#8220;reckless&#8221; gamble of Bitcoin over the years. He acknowledged that the crypto market had exceeded his expectations by not crashing as predicted, however.</p>
+<p>During the debate, Schiff entertained the possibility of <a href="https://cryptonews.com/news/cathie-wood-ark-invest-forecasts-bitcoin-price-to-surpass-1-million-sooner-than-expected.htm">Bitcoin reaching 1 million dollars</a>, though he still maintained his stance that it is more likely destined for zero.</p>
+<h2>Spot Bitcoin ETF Threats to Gold</h2>
+<p><span class="replacer"></span><br />
+As a <a href="https://cryptonews.com/news/how-bitcoin-critic-peter-schiff-launched-another-proof-of-ke-5565.htm">renowned gold advocate</a>, Schiff expressed concern about introducing spot Bitcoin ETFs in the U.S. He noted the development could eat up gold&#8217;s $14.6 trillion market cap.</p>
+<p>Unlike some <a href="https://cryptonews.com/exclusives/now-that-bitcoin-is-digital-gold-which-crypto-is-for-payment-4420.htm">investors who see Bitcoin as &#8220;digital gold</a>,&#8221; Schiff questioned whether Bitcoin investors could efficiently liquidate their holdings during major price declines.</p>
+<p>Since Bitcoin launched in 2009, gold has appreciated by 91.8%. Other major assets, like the S&amp;P 500 ETF, have outperformed it, with 350% gains over the same period.</p>
+<p>On the other hand, Bitcoin has witnessed an incredible rise of over 70,000,000% within the same period. This upward trend has made it surpass silver as the 8th most valuable asset in the world by market capitalization. Bitcoin has also gone above the Swiss Franc as the 13th largest currency in the world</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">BITCOIN JUST FLIPPED SILVER!! <a href="https://t.co/nj1VTdsFJn">pic.twitter.com/nj1VTdsFJn</a></p>
+<p>&mdash; borovik.eth (@3orovik) <a href="https://twitter.com/3orovik/status/1767090340702425190?ref_src=twsrc%5Etfw">March 11, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Schiff&#8217;s final submission on Bitcoin shows how one of its most popular critics has been forced to acknowledge its merits as well as that of the crypto market.</p>
+<p>Similar critics are beginning to admit that crypto is here to stay despite the rough experience it’s created since it debuted in 2010.</p>
+<p>The post <a href="https://cryptonews.com/news/peter-schiff-regrets-skipping-bitcoin-reignites-debate-on-cryptos-future.htm">Peter Schiff Regrets Skipping Bitcoin, Reignites Debate on Crypto&#8217;s Future</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cimg.co/wp-content/uploads/2024/03/14185023/1710442222-image-1200x1200-1.jpg" length="57392" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title> Coinbase Deletes Controversial Meme Coin Post Targeting Elizabeth Warren</title>
+		<link>https://cryptonews.com/news/coinbase-deletes-controversial-meme-coin-post-targeting-elizabeth-warren.htm</link>
+		
+		<dc:creator><![CDATA[Jimmy Aki]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 21:19:26 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[Elizabeth Warren]]></category>
+		<category><![CDATA[Meme coin]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183784</guid>
+
+					<description><![CDATA[<p>Cypto exchange Coinbase has deleted a controversial memecoin post targeted at U.S. Senator Elizabeth Warren. On March 13, the crypto exchange took down the post, which provided instructions on “how to buy Elizabeth Whoren,” a controversial token mocking the Massachusetts senator.</p>
+<p>The post <a href="https://cryptonews.com/news/coinbase-deletes-controversial-meme-coin-post-targeting-elizabeth-warren.htm"> Coinbase Deletes Controversial Meme Coin Post Targeting Elizabeth Warren</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Crypto exchange Coinbase has deleted a controversial memecoin post targeted at U.S. Senator Elizabeth Warren. On March 13, the crypto exchange took down the post, which provided instructions on “how to buy Elizabeth Whoren,” a controversial token mocking the Massachusetts senator.</p>
+<h2>Coinbase&#8217;s Auto-Generated Page Removed</h2>
+<p><span class="replacer"></span><br />
+The meme coin with the description “Elizabeth $whoren meme senator 2024 FIAT currencies are from money laundering” <a href="https://twitter.com/TheStalwart/status/1767941628935709143?t=AfZ7fySZ1b_eG3mUjMA8ew&amp;s=19">appears</a> to be a direct jab at Warren.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Coinbase: &quot;We’ve included detailed instructions to make it easier for you to buy elizabath whoren.&quot; <a href="https://t.co/O96XBV35Zn">pic.twitter.com/O96XBV35Zn</a></p>
+<p>&mdash; Joe Weisenthal (@TheStalwart) <a href="https://twitter.com/TheStalwart/status/1767941628935709143?ref_src=twsrc%5Etfw">March 13, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>The U.S. senator has always <a href="https://cryptonews.com/news/warren-advocates-for-a-level-playing-field-in-crypto-and-ai.htm">raised alarms</a> about cryptocurrency markets&#8217; lack of oversight and potential for illicit use.</p>
+<p>Coinbase was pressured after briefly posting the automatically generated informational page with instructions on how to get the “Whoren” token. The exchange later succumbed to widespread criticism by taking down the page.</p>
+<p>A spokesperson from Coinbase clarified that such pages are auto-populated based on new third-party crypto token launches.</p>
+<p>The exchange representative said the pages do not indicate endorsement or availability to trade on Coinbase&#8217;s platform. He also said the controversial page redirects to a generic crypto trading website.</p>
+<p>This incident reaffirms <a href="https://cryptonews.com/exclusives/exchanges-and-their-customer-service-challenges-2132.htm">the challenges many crypto firms face</a> in moderating inappropriate content and tokens minted on decentralized Blockchain networks outside their control.</p>
+<p>Though Coinbase acted immediately after being alerted, some critics argued that more preventive measures are needed.</p>
+<p>“Lack of basic legal measures around crypto opens up Americans to countless risks,” said Senator Chris Van Hollen, who has always partnered with Warren on crypto regulatory legislation.</p>
+<p>Senator Hollen also noted that crypto exchanges should be treated and governed by the same transparency rules as traditional banks.</p>
+<p>He added that this would protect Americans and help ensure digital assets agent used to facilitate illegal behavior by rogue nations and criminal enterprises.</p>
+<h2>Meme Coin Traders Rally Around &#8216;Whoren&#8217; Token</h2>
+<p><span class="replacer"></span><br />
+While policymakers like Warren seek to regulate crypto, the sector has pushed back. This includes the boosting of the very token that sparked Coinbase&#8217;s issues.</p>
+<p><img loading="lazy" decoding="async" class="aligncenter wp-image-183793" src="https://cimg.co/wp-content/uploads/2024/03/14200714/1710446834-elizabeth-_whoren_.png" alt="Warren" width="1200" height="651" srcset="https://cimg.co/wp-content/uploads/2024/03/14200714/1710446834-elizabeth-_whoren_.png 721w, https://cimg.co/wp-content/uploads/2024/03/14200714/1710446834-elizabeth-_whoren_-300x163.png 300w, https://cimg.co/wp-content/uploads/2024/03/14200714/1710446834-elizabeth-_whoren_-150x81.png 150w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>Since the meme coin controversy, traders have embraced and driven up the &#8220;whoren&#8221; token. The token can still be found on <a href="https://cryptonews.com/cryptocurrency/best-decentralized-exchanges/">decentralized exchanges</a> like Raydium.</p>
+<p>Similar tokens mimicking public figures like Warren have previously been launched on the Solana blockchain.</p>
+<p>Tokens like “PUTNI,” hinting at Russia’s Vladimir Putin, are some of the trendy Solana meme coins in the crypto space. Another one is “boden,” alluding to U.S. President Joe Biden.</p>
+<p>Aside from media hype and community engagements, these tokens have no utility.</p>
+<p>Despite her critics, <a href="https://cryptonews.com/news/blockchain-association-warns-warrens-anti-crypto-legislation-threatens-us-jobs-and-strategic-advantage.htm">Warren is not backing down</a> on her support for the &#8220;Digital Asset Anti-Money Laundering Act.&#8221;</p>
+<p>The bill addresses the use of cryptocurrency for money laundering by criminal organizations, crisis-torn nations, and other illicit finance activities. Senator Hollen has also defended the proposed legislation.</p>
+<p>The “media combat” between Warren and the crypto community was recently outlined in the upcoming Senate Election in Massachusetts, where pro-crypto voters have pledged their support for John Deaton <a href="https://cryptonews.com/news/elizabeth-warren-responds-to-senate-challenge-from-john-deaton-im-not-afraid.htm">over the incumbent</a> Senator Warren.</p>
+<p>The post <a href="https://cryptonews.com/news/coinbase-deletes-controversial-meme-coin-post-targeting-elizabeth-warren.htm"> Coinbase Deletes Controversial Meme Coin Post Targeting Elizabeth Warren</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cimg.co/wp-content/uploads/2024/03/14210231/1710450150-47699370372_e2762f46cf_k.jpg" length="154791" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>Andorra Receives Technical Assistance From IMF on Bitcoin Transactions</title>
+		<link>https://cryptonews.com/news/andorra-receives-technical-assistance-from-imf-on-bitcoin-transactions.htm</link>
+		
+		<dc:creator><![CDATA[Jimmy Aki]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 21:08:47 +0000</pubDate>
+				<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[Andorra]]></category>
+		<category><![CDATA[Bitcoin Transactions]]></category>
+		<category><![CDATA[IMF]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183695</guid>
+
+					<description><![CDATA[<p>The International Monetary Fund (IMF) has issued technical guidance, charging Andorra with tracking and recording Bitcoin transactions. This follows the European country's seeking guidance from the IMF.</p>
+<p>The post <a href="https://cryptonews.com/news/andorra-receives-technical-assistance-from-imf-on-bitcoin-transactions.htm">Andorra Receives Technical Assistance From IMF on Bitcoin Transactions</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p data-sourcepos="7:7-7:169">Andorra received IMF guidance on recording and tracking Bitcoin transactions on March 13, following an official request for technical assistance from the European nation.</p>
+<h2>IMF’s Charge to Andorra on Bitcoin Transactions</h2>
+<p><span class="replacer"></span><br />
+In September 2023, the <a href="https://www.imf.org/en/Publications/technical-assistance-reports/Issues/2024/03/13/Principality-of-Andorra-Technical-Assistance-Report-Report-on-External-Sector-Statistics-545728">IMF conducted a technical assistance</a> (TA) visit to Andorra &#8211; a country bordering France and Spain.</p>
+<p>The visit sought to improve the nation&#8217;s balance of payments data. The key parameter involved recording economic interactions between residents and non-residents.</p>
+<p>Andorra is known for its tax haven and ski resorts. Regardless, the country is facing challenges on several fronts. One of the many issues is its inability to record and track crypto transactions.</p>
+<p>To get ahead of the issue, the Andorran Financial Authority (AFA) directed banks to apply for authorization to track Bitcoin and other crypto transactions. The country’s financial watchdog informed the IMF that no banks had taken the step to obtain permission, however.</p>
+<p>Meanwhile, the <a href="https://cryptonews.com/news/imf-head-urges-for-clear-rules-and-infrastructure-to-curb-crypto-risks.htm">IMF delegation</a> reportedly explained the latest crypto-assets guidelines and the possible evolution of the next generation of international standards.</p>
+<p>In this light, the IMF has charged Andorra to track Bitcoin and other crypto transactions, suggesting   that the AFA regulate crypto asset holdings and transactions until September 2024.</p>
+<p>Andorra has tried to take <a href="https://cryptonews.com/news/andorra-taking-baby-steps-toward-crypto-adoption.htm">steps towards crypto adoption in the past</a>. But, this guidance from the IMF would enable the country to generate data that will be useful in compiling its macroeconomic statistics.</p>
+<h2>IMF’s Advice to Andorra, PICs’ on Digital Assets</h2>
+<p><span class="replacer"></span><br />
+Many small countries are enthusiastic about joining the wave of mainstream digital assets by implementing Central Bank Digital Currencies (CBDCs). The IMF has particularly advised Pacific Island Countries (PICs) to delay such plans, however.</p>
+<p>In its <a href="https://www.imf.org/en/Publications/Departmental-Papers-Policy-Papers/Issues/2024/02/21/Rise-of-Digital-Money-Implications-for-Pacific-Island-Countries-543239">recent study</a>, the IMF stated that many island countries are not ready to adopt this technology. The body also advised methodical approaches that are deliberate and gradual in implementation.</p>
+<p>As in the case of Andorra, many small countries are still grappling with standard procedures related to digital assets and crypto transactions. Therefore, this would hamper the full-fledged <a href="https://cryptonews.com/exclusives/understanding-adopting-digital-assets-ambitious-use-cases-be-6615.htm">adoption of digital assets</a> if left unattended.</p>
+<p>The February 2024 IMF report stated that specific currency demands could be shored up and assisted by digital currencies. This result holds for PICs, which are remote markets due to their size and population diversity.</p>
+<p>Meanwhile, a user on X (formerly Twitter) alluded that the report stemmed from the IMF’s conference on the island nation of Fiji in 2023.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">It’s great to see the fruits of last year’s IMF Conference in Fiji <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f1eb-1f1ef.png" alt="🇫🇯" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </p>
+<p>The departmental paper, &quot;Rise of Digital Money: Implications for Pacific Island Countries,&quot; delves into the fast-evolving landscape of digital money in a diverse region of extremes in size, remoteness and… <a href="https://t.co/z4c8qrHB4S">pic.twitter.com/z4c8qrHB4S</a></p>
+<p>&mdash; Jay Hunter Anson (@JHX_1138) <a href="https://twitter.com/JHX_1138/status/1762485466073350417?ref_src=twsrc%5Etfw">February 27, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>The user recommended that well-designed digital assets can accelerate public policy goals in PICs.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Let&#39;s summarize.</p>
+<p>&lt;&lt;Digital money, if well designed and governed, has the potential to enhance pursuit of public policy objectives&gt;&gt;</p>
+<p>&lt;&lt;Ill-prepared adoption of digital money may bring multiple and acute risks for PICs. Ill-prepared introduction of digital money may result in…</p>
+<p>&mdash; Fred Johnston (@JohnstonFredJ) <a href="https://twitter.com/JohnstonFredJ/status/1764629359854227505?ref_src=twsrc%5Etfw">March 4, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>A reply to the tweet suggested that Bitcoin can fix recommendations specifying that unbacked crypto assets shouldn’t be officially supported.</p>
+<p>The post <a href="https://cryptonews.com/news/andorra-receives-technical-assistance-from-imf-on-bitcoin-transactions.htm">Andorra Receives Technical Assistance From IMF on Bitcoin Transactions</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cimg.co/wp-content/uploads/2024/03/14195029/1710445828-btc.jpg" length="138216" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>Bitcoin (BTC) Dips Briefly Below $69,000 Before Dip-Buying Bulls Bouy Price Back to $70,500</title>
+		<link>https://cryptonews.com/news/bitcoin-btc-dips-briefly-below-69000-before-dip-buying-bulls-bouy-price-back-to-70500.htm</link>
+		
+		<dc:creator><![CDATA[Joel Frank]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 20:46:33 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[btc]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183811</guid>
+
+					<description><![CDATA[<p>The Bitcoin (BTC) price dipped as low as $68,500 on Thursday amid profit-taking, before dip-buying bulls buoyed the price back to $70,500.</p>
+<p>The post <a href="https://cryptonews.com/news/bitcoin-btc-dips-briefly-below-69000-before-dip-buying-bulls-bouy-price-back-to-70500.htm">Bitcoin (BTC) Dips Briefly Below $69,000 Before Dip-Buying Bulls Bouy Price Back to $70,500</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<figure id="attachment_170059" aria-describedby="caption-attachment-170059" style="width: 1200px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="size-full wp-image-170059" src="https://cimg.co/wp-content/uploads/2024/02/21075826/1708502306-bitcoin-etf-trading-volume.jpg" alt="Bitcoin Price" width="1200" height="686" srcset="https://cimg.co/wp-content/uploads/2024/02/21075826/1708502306-bitcoin-etf-trading-volume.jpg 1200w, https://cimg.co/wp-content/uploads/2024/02/21075826/1708502306-bitcoin-etf-trading-volume-300x172.jpg 300w, https://cimg.co/wp-content/uploads/2024/02/21075826/1708502306-bitcoin-etf-trading-volume-1024x585.jpg 1024w, https://cimg.co/wp-content/uploads/2024/02/21075826/1708502306-bitcoin-etf-trading-volume-768x439.jpg 768w, https://cimg.co/wp-content/uploads/2024/02/21075826/1708502306-bitcoin-etf-trading-volume-150x86.jpg 150w" sizes="(max-width: 1200px) 100vw, 1200px" /><figcaption id="caption-attachment-170059" class="wp-caption-text">Source: Midjourney</figcaption></figure>
+<p>The Bitcoin (BTC) price dipped as low as $68,500 on Thursday amid profit-taking, before dip-buying bulls buoyed the price back to $70,500.</p>
+<p><a href="https://cryptonews.com/coins/bitcoin/">Bitcoin</a> hit fresh all-time highs in the $73,800s around the time of Thursday’s European open.</p>
+<p>At its latest price of close to $70,500, it is trading 3.5% lower on the day.</p>
+<p><a href="https://www.reuters.com/markets/us/gasoline-food-boost-us-producer-prices-february-2024-03-14/">Hotter-than-expected US PPI inflation data</a>, which come on the heels of higher-than-expected CPI numbers earlier in the week, were cited as weighing on sentiment as the US dollar and US bond yields rose.</p>
+<p>Despite the latest drop, the Bitcoin price is still up nearly 60% so far this year. Powering the upside has been incessant <a href="https://cryptonews.com/news/analyst-spot-bitcoin-etfs-anticipated-to-attract-220-billion-in-three-years.htm">spot Bitcoin ETF</a> buying from US investors.</p>
+<figure id="attachment_183816" aria-describedby="caption-attachment-183816" style="width: 1778px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="size-full wp-image-183816" src="https://cimg.co/wp-content/uploads/2024/03/14204211/1710448931-screenshot-2024-03-14-153859.png" alt="Can the Bitcoin price hit $100,000 before April's halving? Source: TradingView" width="1778" height="710" srcset="https://cimg.co/wp-content/uploads/2024/03/14204211/1710448931-screenshot-2024-03-14-153859.png 1778w, https://cimg.co/wp-content/uploads/2024/03/14204211/1710448931-screenshot-2024-03-14-153859-300x120.png 300w, https://cimg.co/wp-content/uploads/2024/03/14204211/1710448931-screenshot-2024-03-14-153859-1024x409.png 1024w, https://cimg.co/wp-content/uploads/2024/03/14204211/1710448931-screenshot-2024-03-14-153859-768x307.png 768w, https://cimg.co/wp-content/uploads/2024/03/14204211/1710448931-screenshot-2024-03-14-153859-1536x613.png 1536w, https://cimg.co/wp-content/uploads/2024/03/14204211/1710448931-screenshot-2024-03-14-153859-150x60.png 150w" sizes="(max-width: 1778px) 100vw, 1778px" /><figcaption id="caption-attachment-183816" class="wp-caption-text">Can the Bitcoin price hit $100,000 before April&#8217;s halving? Source: TradingView</figcaption></figure>
+<p>Net ETF inflows were $700 million on Wednesday after hitting a new record high above $1 billion on Tuesday.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Another one.</p>
+<p>The Bitcoin spot ETFs saw nearly $700 million in net inflow yesterday. <a href="https://t.co/LNw7JQXjde">pic.twitter.com/LNw7JQXjde</a></p>
+<p>&mdash; Mads Eberhardt (@MadsEberhardt) <a href="https://twitter.com/MadsEberhardt/status/1768195524530757851?ref_src=twsrc%5Etfw">March 14, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>But the approval of spot Bitcoin ETFs in mid-January has facilitated the build-up of significant froth in the BTC market.</p>
+<p>Funding rates to open leveraged futures positions have been elevated since late February, suggesting strong bullish sentiment.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-183817" src="https://cimg.co/wp-content/uploads/2024/03/14204257/1710448977-screenshot-2024-03-14-151016.png" alt="" width="947" height="440" srcset="https://cimg.co/wp-content/uploads/2024/03/14204257/1710448977-screenshot-2024-03-14-151016.png 947w, https://cimg.co/wp-content/uploads/2024/03/14204257/1710448977-screenshot-2024-03-14-151016-300x139.png 300w, https://cimg.co/wp-content/uploads/2024/03/14204257/1710448977-screenshot-2024-03-14-151016-768x357.png 768w, https://cimg.co/wp-content/uploads/2024/03/14204257/1710448977-screenshot-2024-03-14-151016-83x40.png 83w, https://cimg.co/wp-content/uploads/2024/03/14204257/1710448977-screenshot-2024-03-14-151016-150x70.png 150w" sizes="(max-width: 947px) 100vw, 947px" /></p>
+<p>Meanwhile, <a href="https://www.coinglass.com/BitcoinOpenInterest">open interest in the Bitcoin futures market</a> has vaulted up from around $22 billion to nearly $35 billion since the 24<sup>th</sup> of February, a 60% jump during which time the Bitcoin price has rallied 36%.</p>
+<p>That, coupled with surging funding rates, suggests a sudden surge in bullish speculator participation in the market, leaving the market vulnerable to leverage flushouts.</p>
+<p>Despite the sudden price drop, carnage in the futures market has remained limited for now.</p>
+<p>As per <a href="https://www.coinglass.com/LiquidationData">coinglass.com</a>, only just over $100 million in leveraged long positions were wiped out on Thursday.</p>
+<p>That suggests plenty of bullish leverage remains, suggesting the risk of a continued price drop remains.</p>
+<h2><strong>Dip Buying Bulls Bouy the Bitcoin Price</strong></h2>
+<p><span class="replacer"></span><br />
+Despite the latest Bitcoin price dip, most market participants remain optimistic that the cryptocurrency will continue trending higher.</p>
+<p>Psuedoanonymous X user @invest_answers noted the pattern of BTC dips being short-lived over the past week.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Like Clockwork &#8211; when the ETF&#39;s Buy <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a>.  <br />Spot the Pattern? Happening since Jan 12th <a href="https://t.co/h6MyJAh98s">pic.twitter.com/h6MyJAh98s</a></p>
+<p>&mdash; InvestAnswers (@invest_answers) <a href="https://twitter.com/invest_answers/status/1768289298657509509?ref_src=twsrc%5Etfw">March 14, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>As per social media murmurings, <a href="https://cryptonews.com/news/bitcoin-price-prediction-as-blackrocks-spot-etf-holdings-surpass-microstrategy-are-institutional-investors-here.htm">BlackRock’s spot Bitcoin ETF</a> IBIT may have just broken its daily trading volumes once again on Thursday, seeing $3.8 billion in shares change hands.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Blackrock just broke their <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> ETF volume record again with $3.8B today <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f440.png" alt="👀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&mdash; Mohegan ₿TC <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f7e0.png" alt="🟠" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@MoheganBTC) <a href="https://twitter.com/MoheganBTC/status/1768371247119769776?ref_src=twsrc%5Etfw">March 14, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>As most analysts agree, <a href="https://cryptonews.com/news/bitcoin-etf-inflows-could-trigger-a-sell-side-liquidity-crisis-warns-cryptoquant.htm">so long as net inflows into spot Bitcoin ETFs remain positive</a>, a prolonged downtrend in the Bitcoin price looks unlikely.</p>
+<p>Just as happened on Thursday when BTC hit $68,500, dip-buying bulls look set to continue buoying the price.</p>
+<p>There remains an outside chance that Bitcoin can pump to $100,000 ahead of <a href="https://cryptonews.com/cryptocurrency/bitcoin-halving/">April’s halving</a>.</p>
+<p>Even if $73/74K did mark a short-term pre-halving top for Bitcoin, a prolonged market reversal seems unlikely.</p>
+<p>@JRNYcrypto reminded their followers that BTC price corrections of as much as 38% are common during Bitcoin bull markets.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Don&#39;t forget that corrections on the way up are normal and healthy. The longer you go without one, the bigger the correction will likely be</p>
+<p>Bitcoin Halving and Ethereum Spot ETF approvals are the next big events. Very possible we get a correction and move sideways for a few… <a href="https://t.co/K4P5sziCg0">pic.twitter.com/K4P5sziCg0</a></p>
+<p>&mdash; JRNY Crypto (@JRNYcrypto) <a href="https://twitter.com/JRNYcrypto/status/1768363687147147729?ref_src=twsrc%5Etfw">March 14, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>“We may also get some bullish news in April of different companies… that bought in during Q1”, they added.</p>
+<p>The post <a href="https://cryptonews.com/news/bitcoin-btc-dips-briefly-below-69000-before-dip-buying-bulls-bouy-price-back-to-70500.htm">Bitcoin (BTC) Dips Briefly Below $69,000 Before Dip-Buying Bulls Bouy Price Back to $70,500</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cimg.co/wp-content/uploads/2024/02/21075826/1708502306-bitcoin-etf-trading-volume.jpg" length="105040" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>Hong Kong&#8217;s Market Regulator Warns Crypto Traders, as Bybit Comes Under Scrutiny</title>
+		<link>https://cryptonews.com/news/hong-kongs-market-regulator-warns-crypto-traders-as-bybit-comes-under-scrutiny.htm</link>
+		
+		<dc:creator><![CDATA[Jimmy Aki]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 20:23:59 +0000</pubDate>
+				<category><![CDATA[Blockchain News]]></category>
+		<category><![CDATA[ByBit]]></category>
+		<category><![CDATA[Hong Kong]]></category>
+		<category><![CDATA[SFC]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183729</guid>
+
+					<description><![CDATA[<p>On March 14, Hong Kong’s Securities and Futures Commission (SFC) cautioned crypto traders about using Bybit, a popular cryptocurrency exchange platform.</p>
+<p>The post <a href="https://cryptonews.com/news/hong-kongs-market-regulator-warns-crypto-traders-as-bybit-comes-under-scrutiny.htm">Hong Kong&#8217;s Market Regulator Warns Crypto Traders, as Bybit Comes Under Scrutiny</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Hong Kong’s Securities and Futures Commission (SFC) cautioned crypto traders about using cryptocurrency exchange Bybit on March 14, defining 11 Bybit products as suspicious investments while listing the exchange among <a href="https://cryptonews.com/news/digital-asset-exchange-bybit-applies-for-hong-kongs-vatp-license.htm">unlicensed operators.</a></p>
+<h2>Hong Kong SFC’s Warning on Bybit</h2>
+<p><span class="replacer"></span><br />
+Bybit has come under the <a href="https://cryptonews.com/news/hong-kongs-sfc-moves-update-crypto-market-regulations-following-new-market-developments.htm">scrutiny of Hong Kong&#8217;s SFC</a> in what seems to be the latest public warning and crackdown on unlicensed crypto trading platforms in the country, as revealed by a crypto reporter on X.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">The Hong Kong SFC announced today that Bybit, the third largest offshore exchange, has been included in the warning list. Bybit&#39;s Hong Kong entity is already applying for license, but its offshore entity is added to warning list, which is rare. <a href="https://t.co/byLw21hycS">https://t.co/byLw21hycS</a></p>
+<p>&mdash; Wu Blockchain (@WuBlockchain) <a href="https://twitter.com/WuBlockchain/status/1768254751324688819?ref_src=twsrc%5Etfw">March 14, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>According to the SFC, since the exchange doesn’t have an operating license, Bybit has been added to <a href="https://www.sfc.hk/en/alert-list/suspicious-virtual-asset-trading-platforms">SFC’s list of suspicious platforms</a>.</p>
+<p>Some of the products flagged by the SFC are leveraged tokens, options, futures contracts, and similar cryptocurrency services.</p>
+<p>The commission has decried the lack of authorization for these products, maintaining that investors are susceptible to huge financial risks and potential losses.</p>
+<p>The SFC has warned crypto traders of impending losses if  unlicensed exchanges stop operations. It also highlighted the possibility of funds misappropriation by these suspicious platforms.</p>
+<p>The commission, in its remarks, stated that it would probably be difficult to pursue legal action against organizations that are outside Hong Kong. As such, legal solutions might hit a brick wall.</p>
+<p>The SFC stressed the need for investor prudence and reaffirmed its commitment to <a href="https://cryptonews.com/news/hong-kong-ends-crypto-exchange-license-applications-noncompliant-platforms-to-close-by-may-31.htm">pursuing enforcement action</a> against illegal activity.</p>
+<h2>Hong Kong SFC’s Regulatory Duties and Response</h2>
+<p><span class="replacer"></span><br />
+The clampdown on illegal entities and unlicensed crypto exchange platforms continues in Hong Kong. The SFC has made it clear they believe these organizations seek to exploit investors in the financial markets, especially those interested in crypto assets</p>
+<p>Trading in crypto and other digital assets is considered a regulated activity in Hong Kong. Therefore, concerned businesses and organizations are mandated to obtain <a href="https://cryptonews.com/news/hong-kong-reveal-list-of-crypto-license-applicants-wake-of-jpex-scandal.htm">appropriate authorization and licenses from the SFC</a>.</p>
+<p>The SFC has continually appealed to investors and users to be careful, warning of the proliferation of unlicensed firms. For example, <a href="https://cryptonews.com/news/hong-kongs-sfc-issues-warning-on-bitforex-amid-crypto-scam-allegations.htm">BitForex</a> – a popular Virtual Asset Trading Platform (VATP), was also flagged by the commission.</p>
+<p>The cryptocurrency community was deeply alarmed by the exchange&#8217;s abrupt disappearance on February 23. There were reports of losses of $57 million from its hot wallets.</p>
+<p>The post <a href="https://cryptonews.com/news/hong-kongs-market-regulator-warns-crypto-traders-as-bybit-comes-under-scrutiny.htm">Hong Kong&#8217;s Market Regulator Warns Crypto Traders, as Bybit Comes Under Scrutiny</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cimg.co/wp-content/uploads/2024/03/14194238/1710445357-bybit.jpg" length="142180" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>Crypto Gains Surpassed $37.6 Billion in 2023: Chainalysis</title>
+		<link>https://cryptonews.com/news/crypto-gains-surpassed-37-6-billion-in-2023-chainalysis.htm</link>
+		
+		<dc:creator><![CDATA[Julia Smith]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 20:00:21 +0000</pubDate>
+				<category><![CDATA[Blockchain News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Chainalysis]]></category>
+		<category><![CDATA[crypto adoption]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183734</guid>
+
+					<description><![CDATA[<p><span style="font-weight: 400;">Global crypto gains reached $37.6 billion in 2023 following substantia losses in 2022, blockchain intelligence firm Chainalysis reveals in a new report released Thursday. The latest data is a promising sign for the crypto industry amidst bitcoin's dramatic rally.</span></p>
+<p>The post <a href="https://cryptonews.com/news/crypto-gains-surpassed-37-6-billion-in-2023-chainalysis.htm">Crypto Gains Surpassed $37.6 Billion in 2023: Chainalysis</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Global crypto gains reached $37.6 billion in 2023 following severe losses in 2022, blockchain intelligence firm Chainalysis revealed in a new report released Thursday.</p>
+<h2>U.S. Leads The Way In Total Crypto Gains For 2023</h2>
+<p><span class="replacer"></span><br />
+<a href="https://www.chainalysis.com/blog/cryptocurrency-gains-by-country-2023/">According to the organization’s latest research</a>, the total represents a “significant recovery” from the nearly $127.1 billion in cumulative losses in 2022.</p>
+<p>The U.S. led the way in cryptocurrency gains worldwide last year “by a wide margin,” pulling in a total of $9.36 billion.</p>
+<p>The United Kingdom was next behind the U.S. with a total of $1.39 billion, followed by Vietnam and China with $1.18 billion and $1.15 billion respectively.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Crypto markets are hot right now, with Bitcoin recently breaking all-time highs. But 2023 wasn’t half bad either! Read our latest blog for a breakdown of our estimates for crypto investors’ gains in 2023, both in total and broken down by country. <a href="https://t.co/HfD1MuGiA7">https://t.co/HfD1MuGiA7</a></p>
+<p>&mdash; Chainalysis (@chainalysis) <a href="https://twitter.com/chainalysis/status/1768260961108902257?ref_src=twsrc%5Etfw">March 14, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>However, despite growing at the same rate, 2023’s gains estimate falls far short of 2021’s total of $158.7 billion.</p>
+<p>Researchers surmise that the difference is due to the fact investors “were less likely to convert crypto assets into cash under the expectation that prices would rise even higher” in 2023 than in 2021.</p>
+<p>“While the methodology isn’t perfect, it gives us a strong estimate of gains across popular assets traded on centralized exchanges,” Chainalysis wrote.</p>
+<h2>Asia’s Adoption of Cryptocurrencies Is On The Rise</h2>
+<p><span class="replacer"></span><br />
+Equally important, researchers discovered that a handful of lower-income and middle-income countries (LMI), including India, China, Vietnam, and Indonesia, “achieved outsized gains” –  with each country hitting over an estimated $1 billion respectively.</p>
+<p>“Our gains estimates suggest that many investors in those countries have benefited from their embrace of the asset class,” the report states.</p>
+<p>Chainalysis then referred back to its “2023 Geography of Crypto Report,” citing that <a href="https://go.chainalysis.com/rs/503-FAP-074/images/The%202023%20Geography%20of%20Cryptocurrency%20Report.pdf?version=0">six out of the top ten countries</a> in last year’s Global Crypto Adoption Index were located in Central and Southern Asia, as well as Oceania.</p>
+<div class="page" title="Page 8">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>&#8220;This could be extremely promising for crypto’s future prospects,&#8221; the blockchain intelligence firm wrote. &#8220;LMI countries are often countries on the rise, with dynamic, growing industries and populations.&#8221;</p>
+</div>
+</div>
+</div>
+</div>
+<h2>What To Expect From 2024</h2>
+<p><span class="replacer"></span><br />
+The latest data from Chainalysis comes shortly after <a href="https://cryptonews.com/news/bitcoin-etfs-see-record-1b-inflows-as-btc-price-remains-at-all-time-highs.htm">bitcoin exceeded its new all-time high of over $73,000 early Thursday</a>.</p>
+<p>The cryptocurrency’s latest rally follows the United States Securities and Exchange Commission’s (SEC) <a href="https://cryptonews.com/news/spot-bitcoin-etfs-approved-heres-how-crypto-executives-reacted.htm">January 2024 approval of nearly a dozen spot bitcoin ETF applicantions</a>, prompting the cryptocurrency&#8217;s price to surge.</p>
+<p>“As of March 13, Bitcoin is up 65.4% and Ether is up 70.2% in 2024,” Chainalysis continued, nothing that the SEC&#8217;s spot bitcoin ETF approval may encourage more institutions to invest in cryptocurrencies like Bitcoin, potentially boosting the industry&#8217;s growth further.</p>
+<p>“If these trends continue, we may see gains more in line with those we saw in 2021,” the report read.</p>
+<p>The post <a href="https://cryptonews.com/news/crypto-gains-surpassed-37-6-billion-in-2023-chainalysis.htm">Crypto Gains Surpassed $37.6 Billion in 2023: Chainalysis</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cimg.co/wp-content/uploads/2024/03/14195714/1710446230-adobestock_573828982_1000-scaled.jpeg" length="336463" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>Institutional Interest for Bitcoin Rises, Yet Challenges May Hamper Future Adoption</title>
+		<link>https://cryptonews.com/news/institutional-interest-for-bitcoin-rises-yet-challenges-may-hamper-future-adoption.htm</link>
+		
+		<dc:creator><![CDATA[Rachel Wolfson]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 19:46:36 +0000</pubDate>
+				<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[United States]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183756</guid>
+
+					<description><![CDATA[<p>Institutional interest for Bitcoin and other digital assets has been apparent in previous years. Yet industry experts believe that investors are taking a newfound interest in Bitcoin (BTC) following the approval of 11 US spot Bitcoin exchange-traded funds (ETFs). David Lawant, Head of Research at FalconX – an institutional crypto brokerage – told Cryptonews that [&#8230;]</p>
+<p>The post <a href="https://cryptonews.com/news/institutional-interest-for-bitcoin-rises-yet-challenges-may-hamper-future-adoption.htm">Institutional Interest for Bitcoin Rises, Yet Challenges May Hamper Future Adoption</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Institutional interest for Bitcoin and other digital assets has been apparent in previous years. Yet industry experts believe that <a href="https://cryptonews.com/news/analyst-spot-bitcoin-etfs-anticipated-to-attract-220-billion-in-three-years.htm">investors are taking a newfound interest in Bitcoin (BTC</a>) following the <a href="https://cryptonews.com/news/spot-bitcoin-etfs-approved-heres-how-crypto-executives-reacted.htm">approval of 11 US spot Bitcoin exchange-traded funds</a> (ETFs).</p>
+<p>David Lawant, Head of Research at FalconX – an institutional crypto brokerage – told Cryptonews that increasing institutional interest for digital assets has become evident based on recent data.</p>
+<p>“Since mid-last year, when Blackrock filed for a spot Bitcoin ETF and the approval began to seem like a genuine possibility, the conversation around institutional interest started to shift,” said Lawant. “With the exceptional performance of spot Bitcoin ETFs, it has been further accelerated.”</p>
+<p>According to Lawant, one of the best ways to gauge adoption of US-based large institutional investors is by comparing the open interest with the basis – which is the difference between futures and spot prices – at the Chicago Mercantile Exchange (CME).</p>
+<p>“For instance, the chart directly below shows futures open interest by exchanges,” said Lawant. “The second chart shows the CME basis for both Bitcoin and Ethereum (ETH).”</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-183764" src="https://cimg.co/wp-content/uploads/2024/03/14193957/1710445196-image.png" alt="" width="1350" height="600" srcset="https://cimg.co/wp-content/uploads/2024/03/14193957/1710445196-image.png 1350w, https://cimg.co/wp-content/uploads/2024/03/14193957/1710445196-image-300x133.png 300w, https://cimg.co/wp-content/uploads/2024/03/14193957/1710445196-image-1024x455.png 1024w, https://cimg.co/wp-content/uploads/2024/03/14193957/1710445196-image-768x341.png 768w, https://cimg.co/wp-content/uploads/2024/03/14193957/1710445196-image-150x67.png 150w" sizes="(max-width: 1350px) 100vw, 1350px" /></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-183766" src="https://cimg.co/wp-content/uploads/2024/03/14194013/1710445213-image-png2.png" alt="" width="1350" height="600" srcset="https://cimg.co/wp-content/uploads/2024/03/14194013/1710445213-image-png2.png 1350w, https://cimg.co/wp-content/uploads/2024/03/14194013/1710445213-image-png2-300x133.png 300w, https://cimg.co/wp-content/uploads/2024/03/14194013/1710445213-image-png2-1024x455.png 1024w, https://cimg.co/wp-content/uploads/2024/03/14194013/1710445213-image-png2-768x341.png 768w, https://cimg.co/wp-content/uploads/2024/03/14194013/1710445213-image-png2-150x67.png 150w" sizes="(max-width: 1350px) 100vw, 1350px" /></p>
+<p>Lawant pointed out that both charts reveal unprecedented interest by institutions.</p>
+<p>“The CME overtook the first spot in Bitcoin’s future open interest at the end of last year, and it has been gaining further share since then,” he said. “Also, the CME basis remains elevated, especially for Bitcoin futures.”</p>
+<p>Matthew Niemerg, Co-Founder of the Layer-1 platform Aleph Zero, told Cryptonews that <a href="https://cryptonews.com/news/microstrategy-plans-another-500-million-private-offering-of-convertible-senior-notes-will-use-proceeds-to-buy-bitcoin.htm">Microstrategy issuing over $800 million of low-interest senior convertible</a> notes to buy Bitcoin is another example of continued institutional adoption in digital assets.</p>
+<h2><b>Institutional Interest Drives Up Price of Bitcoin</b></h2>
+<p><span class="replacer"></span><br />
+Institutional interest in Bitcoin may also be the reason behind <a href="https://cryptonews.com/price-predictions/bitcoin-price-prediction/">BTC’s recent record-breaking highs</a>.</p>
+<p>“Indeed, this is contributing to the rise in the price of Bitcoin, which is evident from the inflows,” said Niemerg. “I anticipate that this trend will continue, mirroring the trajectory seen with tokens – beginning with BTC, then ETH, and subsequently encompassing all other assets.”</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a>&#39;s price briefly rose above its previous all-time high, driven by inflows into US-listed spot <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> ETFs. Past performance is not indicative of future results</p>
+<p>Read our full analysis: <a href="https://t.co/LWJ8wO59mZ">https://t.co/LWJ8wO59mZ</a> <a href="https://t.co/3QoENLNGSj">pic.twitter.com/3QoENLNGSj</a></p>
+<p>&mdash; Grayscale (@Grayscale) <a href="https://twitter.com/Grayscale/status/1768269677447565749?ref_src=twsrc%5Etfw">March 14, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Matt Ballensweig, Head of Go Network &#8211; a digital asset settlement solution from BitGo – told Cryptonews that the rising price of Bitcoin may also be attributed to Blackrock CEO Larry Fink’s recent support.</p>
+<p>“Fink has recently been a vocal champion of Bitcoin having a place within institutional portfolios and similarly, Fidelity has now recommended a multitude of different portfolios across different risk thresholds, each consisting of some percentage of digital assets,” Ballensweig said. “These endorsements cannot be understated as it pertains to their impact on asset allocation from hedge funds, pensions, endowments and RIAs”</p>
+<h2><b>Institutional Growth May Slow</b></h2>
+<p><span class="replacer"></span><br />
+Yet while it’s notable that institutional interest in digital assets has been gaining traction, experts warn that ongoing challenges within the crypto industry may slow adoption.</p>
+<p>For instance, Niemerg pointed out that the biggest hurdle for institutions buying digital assets relates to security and compliance.</p>
+<p>“Institutions require robust safeguards against theft through smart contract vulnerabilities,” he said.</p>
+<p>Niemerg added that the lack of security within smart contract platforms has already cost the decentralized finance (DeFi) sector billions annually.</p>
+<p>Most recently, the DeFi protocol Unizen had a security breach that <a href="https://cryptonews.com/news/unizen-security-breach-results-1m-loss-vows-reimbursments.htm">resulted in the loss of approximately $2.1 million in user funds</a>. As Cryptonews previously reported, the hacker exploited an <a href="https://consensys.github.io/smart-contract-best-practices/development-recommendations/general/external-calls/">external call vulnerability</a> within the Ethereum-based contract, converting the stolen USDT to DAI.</p>
+<p>Niemerg believes that implementing failsafes, insurance, and optional privacy features at a protocol level could mitigate these risks without compromising DeFi’s open and permissionless nature. Such implementations may also ensure continued interest from institutions.</p>
+<p>Niemerg pointed out that compliance is equally as critical.</p>
+<p>“Institutions need assurance that they won’t unwittingly interact with sanctioned addresses or fall afoul of regulations,” he said.</p>
+<p>Niemerg also noted that enforcing Know Your Customer (KYC) and Anti-Money Laundering (AML) checks at the protocol level is critical.</p>
+<p>“This would enable compliant trading with verified counterparties,” he remarked.</p>
+<p>Regulatory clarity is also becoming increasingly important as institutions dip their toes into Bitcoin. Even with the approval of spot Bitcoin ETFs, there are other ongoing aspects relating to Bitcoin that may create concerns in the future.</p>
+<p>For instance, US President Joe Biden released his 2025 budget proposal on March 11. The proposal features a number of provisions aimed at altering the cryptocurrency industry, including a wash sale rule for digital assets.</p>
+<p>Jonathan Bander, Head of Tax Strategy at ExperityCPA, told Cryptonews that the proposed implementation of wash sale rules within the crypto industry stands to initiate a profound transformation for institutional investors.</p>
+<p>“These regulations would inevitably increase the burden of compliance, demanding meticulous attention to transaction tracking and potentially leading to higher operational expenses,” said Bander. “Furthermore, the limitations on claiming tax benefits could diminish the appeal of certain trading strategies, compelling institutions to reassess their methods.”</p>
+<p>According to Bander, a wash sale rule for digital assets could hinder market accessibility, reduce liquidity, and increase market uncertainty, posing challenges for both institutional and retail investors.</p>
+<h2><b>Scalability Issues Could Impact Institutional Crypto Adoption</b></h2>
+<p><span class="replacer"></span><br />
+Additionally, John Lilic, Executive Director of the Telos Foundation, said he believes scalability is the primary challenge for institutions entering the crypto sphere.</p>
+<p>“The demand from institutions necessitates achieving extensive scalability, high throughput, and significantly reduced transactional costs,” said Lilic.</p>
+<p>Data from Ycharts shows that <a href="https://ycharts.com/indicators/bitcoin_average_transaction_fee">Bitcoin transaction fees</a> were $8.075 on March 12.</p>
+<p>It’s also worth mentioning that <a href="https://cryptonews.com/news/ethereum-gas-fees-surge-to-8-month-high-due-to-high-demand-for-erc-404-tokens.htm">Gas fees on the Ethereum mainnet remain high</a>, above 72 gwei according to Ycharts. To put this in perspective, an average swap would cost users $86.15 in gas fees, <a href="https://etherscan.io/gastracker">according</a> to Etherscan data.</p>
+<h2><b>Institutions To Adopt Bitcoin Due To Global Progress </b></h2>
+<p><span class="replacer"></span><br />
+Challenges aside, Ballensweig remarked that Bitcoin adoption will likely continue for institutions, especially given regulatory clarity taking place in regions outside of the US.</p>
+<p>“There seems to be a softening towards regulation of digital assets globally,” he said. “This has become apparent with the UK allowing Bitcoin-linked securities to be listed on the stock market and South Korea weighing options to lift the ban on spot Bitcoin ETFs, so we are making steps in the right direction.”</p>
+<p>Echoing this, Lilic added that Hong Kong is becoming increasingly important for institutional adoption of digital assets too.</p>
+<p>“Recently, I had the opportunity to visit and spend time with my longtime Ethereum buddy, Lawrence Chu,” said Lilic. “His team is leading efforts to pre-empt the United States in adopting an ETH ETF in Hong Kong. I am confident in their success, and the growing momentum underscores institutional interest in digital assets.”</p>
+<p>This may very well be the case, as <a href="https://cryptonews.com/news/hong-kong-financial-institutions-eye-ethereum-etfs.htm">Hong Kong-based institutions are actively preparing to launch spot ETFs for Ethereum</a>.</p>
+<p>Moreover, Niemerg remarked that the required infrastructure is finally in place for institutions to move forward with digital asset adoption.</p>
+<p>For example, he pointed out that institutions having qualified custodians has been implemented.</p>
+<p>“This has allowed institutions to further purchase digital assets,” he said. “With the right technical and regulatory groundwork, institutions can confidently participate in DeFi markets, unlocking greater liquidity and adoption.”</p>
+<p>The post <a href="https://cryptonews.com/news/institutional-interest-for-bitcoin-rises-yet-challenges-may-hamper-future-adoption.htm">Institutional Interest for Bitcoin Rises, Yet Challenges May Hamper Future Adoption</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cimg.co/wp-content/uploads/2024/03/13082318/1710318198-1710318186485_processed.jpg" length="70582" type="image/jpeg" />
+
+			</item>
+		<item>
+		<title>Monad Devnet Launches with Scalability Promise – Could it Push Ethereum Technology to New Heights?</title>
+		<link>https://cryptonews.com/news/monad-devnet-launches-with-scalability-promise-could-it-push-ethereum-technology-to-new-heights.htm</link>
+		
+		<dc:creator><![CDATA[Trent Alan]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 18:54:37 +0000</pubDate>
+				<category><![CDATA[DeFi News]]></category>
+		<category><![CDATA[Devnet]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Monad]]></category>
+		<guid isPermaLink="false">https://cryptonews.com/?p=183710</guid>
+
+					<description><![CDATA[<p>Ethereum-compatible blockchain Monad launches its devnet, demonstrating potential for 10,000 transactions per second in testing. The project's parallelized EVM architecture offers greater throughput and developer compatibility.</p>
+<p>The post <a href="https://cryptonews.com/news/monad-devnet-launches-with-scalability-promise-could-it-push-ethereum-technology-to-new-heights.htm">Monad Devnet Launches with Scalability Promise – Could it Push Ethereum Technology to New Heights?</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The highly anticipated layer 1 blockchain Monad officially launched its developer network (devnet) on March 14 after achieving an impressive 10,000 transactions per second (TPS) in internal testing environments.</p>
+<p>This TPS statistic and Monad&#8217;s goal to optimize and improve Ethereum&#8217;s functionality signal the project&#8217;s potential to address <a href="https://bitcoinwiki.org/wiki/sharding">Ethereum&#8217;s scalability issues</a>.</p>
+<p>&#8220;This is an important milestone for our team. Load testing will continue before the phased release of permissioned testnet and public testnet,&#8221; Monad CEO Keone told Cryptonews. &#8220;Monad is a deep engineering effort to deliver performant parallel EVM. We&#8217;re excited to share our team&#8217;s advances in parallel EVM execution and performant state access later this year.&#8221;</p>
+<h2>Monad Devnet Offers Efficiency Gains</h2>
+<p><span class="replacer"></span><br />
+Monad&#8217;s impending arrival comes at a time when congestion and <a href="https://cryptonews.com/news/ethereum-gas-fees-surge-to-8-month-high-due-to-high-demand-for-erc-404-tokens.htm">high fees continue to plague the network</a>. The demand for scalable layer 1 solutions that can build on Ethereum&#8217;s solid foundations is higher than ever.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Monad Devnet is live.</p>
+<p>10,000 real TPS achieved on the EVM. <a href="https://t.co/1bnfsi6bqU">pic.twitter.com/1bnfsi6bqU</a></p>
+<p>&mdash; Monad (evm/acc) (@monad_xyz) <a href="https://twitter.com/monad_xyz/status/1768291081303568879?ref_src=twsrc%5Etfw">March 14, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>At Monad&#8217;s core is a new Ethereum Virtual Machine (EVM) designed from scratch to use <a href="https://cryptonews.com/news/evms-evolve-with-parallelized-technology.htm">parallelized execution</a> and a pipelined architecture. This allows transaction processing to occur simultaneously, rather than sequentially, enabling vastly higher throughput.</p>
+<h2>Developer Experience a Priority for Monad</h2>
+<p><span class="replacer"></span><br />
+By remaining bytecode compatible, Monad promises to ensure seamless integration with the ecosystem of Ethereum-based dApps and DeFi protocols. Developers will be able to port their decentralized applications to Monad without extensive reworking.</p>
+<p>A key benefit of Monad&#8217;s architecture is the ability to finalize blocks instantly after generation, eliminating the long confirmation times that often frustrate Ethereum users. Monad is able to achieve this by decoupling execution from consensus.</p>
+<p>In addition, Monad implements a one-second block time to maximize throughput. This presents potential difficulties for node operators, however, as the hardware requirements are roughly twice that of Ethereum.</p>
+<h2><strong>Monad Labs Attracts Major Investment</strong></h2>
+<p><span class="replacer"></span><br />
+Venture capital firm Paradigm, a key backer of several prominent industry startups, is reportedly leading <a href="https://fortune.com/crypto/2024/03/11/monad-paradigm-venture-capital-crypto-jump-bitcoin/">a fundraising round of over $200 million</a> for Monad Labs. This round, which would follow a $19 million seed round in February 2023, places a $3 billion valuation on Monad Labs.</p>
+<p>Paradigm has already committed $150 million and has been gauging interest from additional investors since late 2023. A successful raise of this magnitude would mark the largest crypto-related funding round of 2024 to date, according to <a href="https://www.crunchbase.com/lists/web-3-tracker/3133cad0-2f14-4294-b0c4-f0cfb9ca943f/funding_rounds">Crunchbase&#8217;s Web3 Tracker</a>.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">EigenLayer got $100M from a16z, Eclipse just got a $50M round and now Monad might get $200M of which $150M comes from Paradigm goes to show VCs are definitely circling the waters now. Next stop is now massive eco fund announcements <a href="https://t.co/npX2JfOHkk">pic.twitter.com/npX2JfOHkk</a></p>
+<p>&mdash; guleid (@riddle245) <a href="https://twitter.com/riddle245/status/1767284049981186204?ref_src=twsrc%5Etfw">March 11, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>With the devnet now live, the next milestone is the launch of Monad&#8217;s public testnet, expected to go live in Q2 2024. This will enable rigorous real-world testing of the network&#8217;s performance and capabilities.</p>
+<p>The Monad mainnet is slated to follow later in the year. The project has generated excitement and anticipation in the Ethereum community, with developers eager to leverage Monad&#8217;s scalability.</p>
+<p>If Monad can deliver on its promise of high throughput and instant finality while retaining Ethereum&#8217;s security guarantees, it may very well offer the push that finally brings crypto to the masses.</p>
+<p>The post <a href="https://cryptonews.com/news/monad-devnet-launches-with-scalability-promise-could-it-push-ethereum-technology-to-new-heights.htm">Monad Devnet Launches with Scalability Promise – Could it Push Ethereum Technology to New Heights?</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://cimg.co/wp-content/uploads/2024/03/14184534/1710441930-adobestock_727984328_11zon-scaled.jpeg" length="238090" type="image/jpeg" />
+
+			</item>
+	</channel>
+</rss>

@@ -31,7 +31,7 @@ public class JSONFileWriter {
             jArray.put(currentPost);
         }
         try {
-            FileWriter writer = new FileWriter("src/main/resources/data/data.json");
+            FileWriter writer = new FileWriter("src/main/resources/data.json");
             writer.write(jArray.toString());
             writer.close();
             System.out.println("Dữ liêu đã được viết thành công!!!");

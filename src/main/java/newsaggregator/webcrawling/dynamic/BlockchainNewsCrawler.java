@@ -1,5 +1,6 @@
-package newsaggregator.webcrawling;
+package newsaggregator.webcrawling.dynamic;
 
+import newsaggregator.webcrawling.Crawler;
 import org.openqa.selenium.By;
 import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
@@ -8,13 +9,14 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import newsaggregator.posts.Author;
 import newsaggregator.posts.Post;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
-
 public class BlockchainNewsCrawler extends Crawler {
-    @Override
+    @Override @Deprecated
     public void crawl() {
         EdgeOptions edgeOptions = new EdgeOptions();
         edgeOptions.setPageLoadStrategy(PageLoadStrategy.EAGER);
@@ -25,16 +27,12 @@ public class BlockchainNewsCrawler extends Crawler {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 
         driver.get("https://blockchain.news/");
-        WebElement loadMoreButton = driver.findElement(By.xpath("//*[@id=\"btnLoadMore\"]"));
         for (int i = 0; i <= 10; i++) {
-            try {
-                Thread.sleep(5000); // milliseconds
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
+            WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+            WebElement loadMoreButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\"btnLoadMore\"]")));
             loadMoreButton.click();
         }
-        List<WebElement> articles = driver.findElements(By.cssSelector(".entry-title > a"));
+        List<WebElement> articles = driver.findElements(By.cssSelector(".entry-title a"));
         List<String> articleLinks = new ArrayList<>();
         for (WebElement article : articles) {
             articleLinks.add(article.getAttribute("href"));
@@ -47,11 +45,11 @@ public class BlockchainNewsCrawler extends Crawler {
             Author currentAuthor = new Author();
             driver.get(driver.findElement(By.className("entry-cat")).getAttribute("href"));
             currentAuthor.setName(driver.findElement(By.tagName("h1")).getText());
-            currentAuthor.setLastPost(driver.findElement(By.cssSelector(".thumbnail-attachment.profile-post-image > a")).getAttribute("href"));
+            currentAuthor.setLastPost(driver.findElement(By.cssSelector(".thumbnail-attachment.profile-post-image a")).getAttribute("href"));
             driver.navigate().back();
             // Thuộc tính bài viết
             Post currentPost = new Post();
-            currentPost.setArticleTitle(driver.findElement(By.cssSelector(".title > b")).getText());
+            currentPost.setArticleTitle(driver.findElement(By.cssSelector(".title b")).getText());
             currentPost.setAuthor(currentAuthor);
             currentPost.setCreationDate(driver.findElement(By.className("entry-date")).getAttribute("datetime"));
             currentPost.setArticleLink(articleLink);
@@ -61,7 +59,6 @@ public class BlockchainNewsCrawler extends Crawler {
             currentPost.setArticleDetailedContent(driver.findElement(By.className("textbody")).getText());
             currentPost.setCategory(driver.findElement(By.className("entry-label")).getText());
             postList.add(currentPost);
-            currentPost.display();
             driver.navigate().back();
         }
         driver.quit();

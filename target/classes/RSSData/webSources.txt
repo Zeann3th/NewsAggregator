@@ -1,0 +1,6 @@
+https://www.thecoinrepublic.com/feed/
+https://cryptonews.com/feed/
+https://www.coindesk.com/arc/outboundfeeds/rss/
+https://www.crypto.news/feed/
+https://www.cryptopolitan.com/feed/
+https://www.cryptoglobe.com/rss/feed.xml

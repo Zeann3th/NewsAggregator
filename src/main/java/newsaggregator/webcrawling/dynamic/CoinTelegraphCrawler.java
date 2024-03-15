@@ -1,5 +1,6 @@
-package newsaggregator.webcrawling;
+package newsaggregator.webcrawling.dynamic;
 
+import newsaggregator.webcrawling.Crawler;
 import org.openqa.selenium.*;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
@@ -11,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CoinTelegraphCrawler extends Crawler {
-    @Override
+    @Override @Deprecated
     public void crawl() {
         EdgeOptions edgeOptions = new EdgeOptions();
         edgeOptions.setPageLoadStrategy(PageLoadStrategy.EAGER);
