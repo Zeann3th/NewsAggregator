@@ -1,5 +1,6 @@
 package newsaggregator.jsonfilewriter;
 
+import org.bson.Document;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import newsaggregator.posts.Post;
@@ -19,7 +20,7 @@ public class JSONFileWriter {
      * @param postList List các bài viết.
      * @see newsaggregator.posts.Post
      */
-    public void writeFile(List<Post> postList) {
+    public void writeFileFromPost(List<Post> postList, String filePath) {
         JSONArray jArray = new JSONArray();
         for (Post post : postList) {
             JSONObject currentPost = new JSONObject();
@@ -42,7 +43,22 @@ public class JSONFileWriter {
             jArray.put(currentPost);
         }
         try {
-            FileWriter writer = new FileWriter("src/main/resources/data.json");
+            FileWriter writer = new FileWriter(filePath);
+            writer.write(jArray.toString());
+            writer.close();
+            System.out.println("Dữ liêu đã được viết thành công!!!");
+        }
+        catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+    public void writeFileFromDocument(List<Document> articles, String filePath) {
+        JSONArray jArray = new JSONArray();
+        for (Document article : articles) {
+            jArray.put(article);
+        }
+        try {
+            FileWriter writer = new FileWriter(filePath);
             writer.write(jArray.toString());
             writer.close();
             System.out.println("Dữ liêu đã được viết thành công!!!");
