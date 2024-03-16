@@ -2,6 +2,12 @@ package newsaggregator.posts;
 
 import java.util.List;
 
+/**
+ * Lớp này dùng để biểu diễn một bài viết.
+ * @see newsaggregator.posts.Author
+ * @since 1.0
+ * @author Long Ly
+ */
 public class Post {
 
     // Attributes
@@ -18,7 +24,7 @@ public class Post {
     private String category;
 
     // Methods
-    //TODO: Fix constructor, adding Author
+    //TODO: Fix constructor
 
     public Post() {}
 

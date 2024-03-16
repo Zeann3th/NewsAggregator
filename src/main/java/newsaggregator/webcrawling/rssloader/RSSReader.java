@@ -11,6 +11,7 @@ import java.util.Scanner;
 import newsaggregator.posts.Author;
 import newsaggregator.posts.Post;
 import newsaggregator.webcrawling.Crawler;
+import org.jsoup.Jsoup;
 import org.w3c.dom.*;
 
 public class RSSReader extends Crawler {
@@ -49,25 +50,40 @@ public class RSSReader extends Crawler {
                     Element elem = (Element) item;
                     String title = elem.getElementsByTagName("title").item(0).getTextContent();
                     String link = elem.getElementsByTagName("link").item(0).getTextContent();
-                    String description = elem.getElementsByTagName("description").item(0).getTextContent();
-                    String[] categories = new String[elem.getElementsByTagName("category").getLength()];
-                    for (int j = 0; j < elem.getElementsByTagName("category").getLength(); j++) {
-                        String category = elem.getElementsByTagName("category").item(j).getTextContent();
-                        categories[j] = category;
+                    String date = elem.getElementsByTagName("pubDate").item(0).getTextContent();
+                    String summary = Jsoup.parse(elem.getElementsByTagName("description").item(0).getTextContent()).text();
+                    try {
+                        String detailedContent = Jsoup.parse(elem.getElementsByTagName("content:encoded").item(0).getTextContent()).text();
+                        String[] categories = new String[elem.getElementsByTagName("category").getLength()];
+                        for (int j = 0; j < elem.getElementsByTagName("category").getLength(); j++) {
+                            String category = elem.getElementsByTagName("category").item(j).getTextContent();
+                            categories[j] = category;
+                        }
+                        String author = elem.getElementsByTagName("dc:creator").item(0).getTextContent();
+                        // Author
+                        Author currentAuthor = new Author();
+                        currentAuthor.setName(author);
+                        // Post
+                        Post currentPost = new Post();
+                        currentPost.setWebsiteSource(URIString
+                                .replace(".xml", "")
+                                .replace("src/main/resources/RSSData/tmp-cache/", "")
+                                .replace("www.", "")
+                                .replace(".com", "")
+                        );
+                        currentPost.setArticleType("article");
+                        currentPost.setArticleLink(link);
+                        currentPost.setArticleTitle(title);
+                        currentPost.setAuthor(currentAuthor);
+                        currentPost.setCreationDate(date);
+                        currentPost.setArticleSummary(summary);
+                        currentPost.setArticleDetailedContent(detailedContent);
+                        currentPost.setAssociatedTags(Arrays.asList(categories));
+                        currentPostList.add(currentPost);
+                        currentPost.display();
+                    } catch (Exception e) {
+                        e.printStackTrace();
                     }
-                    String author = elem.getElementsByTagName("dc:creator").item(0).getTextContent();
-                    // Author
-                    Author currentAuthor = new Author();
-                    currentAuthor.setName(author);
-                    // Post
-                    Post currentPost = new Post();
-                    currentPost.setArticleType("article");
-                    currentPost.setArticleLink(link);
-                    currentPost.setArticleTitle(title);
-                    currentPost.setAuthor(currentAuthor);
-                    currentPost.setArticleSummary(description);
-                    currentPost.setAssociatedTags(Arrays.asList(categories));
-                    currentPostList.add(currentPost);
                 }
             }
         } catch (Exception e) {

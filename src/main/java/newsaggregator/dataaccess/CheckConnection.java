@@ -6,6 +6,11 @@ import org.bson.Document;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Lớp này dùng để kiểm tra kết nối tới database.
+ * @author Long Ly
+ * @since  1.0
+ */
 public class CheckConnection {
     public static void main(String[] args) {
         String connectionString = System.getProperty("mongodb.uri");

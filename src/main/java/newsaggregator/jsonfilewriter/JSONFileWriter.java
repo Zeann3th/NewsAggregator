@@ -7,7 +7,18 @@ import newsaggregator.posts.Post;
 import java.io.FileWriter;
 import java.util.List;
 
+/**
+ * Lớp này dùng để viết dữ liệu từ list các bài viết vào file JSON.
+ * @see newsaggregator.posts.Post
+ * @since 1.0
+ * @author Long Ly
+ */
 public class JSONFileWriter {
+    /**
+     * Phương thức này dùng để viết dữ liệu từ list các bài viết vào file JSON.
+     * @param postList List các bài viết.
+     * @see newsaggregator.posts.Post
+     */
     public void writeFile(List<Post> postList) {
         JSONArray jArray = new JSONArray();
         for (Post post : postList) {

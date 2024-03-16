@@ -15,6 +15,14 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
+
+/**
+ * Lớp này dùng để thu thập dữ liệu từ trang web Blockchain News.
+ * <br> Lớp này kế thừa từ lớp Crawler.
+ * @see Crawler
+ * @author Long Ly
+ * @since 1.0
+ */
 public class BlockchainNewsCrawler extends Crawler {
     @Override @Deprecated
     public void crawl() {

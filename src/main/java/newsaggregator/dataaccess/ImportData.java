@@ -13,7 +13,18 @@ import java.io.File;
 import java.io.IOException;
 import java.util.List;
 
+/**
+ * Lớp này dùng để nhập dữ liệu từ file JSON/CSV vào database.
+ * <br> Hiện tại chỉ hỗ trợ nhập dữ liệu từ file JSON. Nhóm chúng tôi dự định sẽ hỗ trợ nhập dữ liệu từ file CSV trong tương lai.
+ * @author Long Ly
+ * @version 1.0
+ */
 public class ImportData {
+    /**
+     * Phương thức này dùng để nhập dữ liệu từ file JSON vào database.
+     * @param filePath Đường dẫn tới file JSON.
+     * @throws IOException Ném ra nếu có lỗi khi đọc file.
+     */
     public void importJSON(String filePath) throws IOException {
         // Nối tới database
         try (MongoClient mongoClient = MongoClients.create(System.getProperty("mongodb.uri"))){
@@ -29,5 +40,4 @@ public class ImportData {
             System.out.println("Đã đẩy lên database...");
         }
     }
-    public void importCSV() {}
 }
