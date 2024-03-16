@@ -19,7 +19,7 @@ import java.util.List;
  * <br> Lớp này kế thừa từ lớp Crawler.
  * @see Crawler
  * @since 1.0
- * @author Long Ly
+ * @author Lý Hiển Long
  */
 public class CoinTelegraphCrawler extends Crawler {
     @Override

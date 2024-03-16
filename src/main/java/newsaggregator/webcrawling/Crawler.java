@@ -10,7 +10,7 @@ import java.util.List;
  * @see newsaggregator.webcrawling.dynamic.BlockchainNewsCrawler
  * @see newsaggregator.webcrawling.dynamic.CoinTelegraphCrawler
  * @since 1.0
- * @author Long Ly
+ * @author Lý Hiển Long
  */
 public abstract class Crawler {
 

@@ -11,7 +11,7 @@ import java.util.List;
  * Lớp này dùng để viết dữ liệu từ list các bài viết vào file JSON.
  * @see newsaggregator.posts.Post
  * @since 1.0
- * @author Long Ly
+ * @author Lý Hiển Long
  */
 public class JSONFileWriter {
     /**

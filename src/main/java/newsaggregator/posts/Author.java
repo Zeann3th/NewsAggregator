@@ -5,7 +5,7 @@ package newsaggregator.posts;
  * <br> Mỗi tác giả sẽ có tên, ngày sinh và bài viết mới nhất.
  * <br> Lớp này sẽ được sử dụng trong lớp Post.
  * @see Post
- * @author Long Ly
+ * @author Lý Hiển Long
  * @since 1.0
  */
 public class Author {

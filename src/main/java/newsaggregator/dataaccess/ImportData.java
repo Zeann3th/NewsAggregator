@@ -16,7 +16,7 @@ import java.util.List;
 /**
  * Lớp này dùng để nhập dữ liệu từ file JSON/CSV vào database.
  * <br> Hiện tại chỉ hỗ trợ nhập dữ liệu từ file JSON. Nhóm chúng tôi dự định sẽ hỗ trợ nhập dữ liệu từ file CSV trong tương lai.
- * @author Long Ly
+ * @author Lý Hiển Long
  * @version 1.0
  */
 public class ImportData {

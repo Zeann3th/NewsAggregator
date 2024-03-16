@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * Lớp này dùng để kiểm tra kết nối tới database.
- * @author Long Ly
+ * @author Lý Hiển Long
  * @since  1.0
  */
 public class CheckConnection {

@@ -20,7 +20,7 @@ public class RSSReader extends Crawler {
      * và trả về một danh sách các bài báo được lưu trữ trong các file XML này
      * @return danh sách các bài báo được lưu trữ trong các file XML
      * @throws Exception
-     * @author: Lý Hiển Long
+     * @author: Trần Quang Hưng
      */
     @Override
     public void crawl() {

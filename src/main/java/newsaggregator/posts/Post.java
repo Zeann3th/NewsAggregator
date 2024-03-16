@@ -6,7 +6,7 @@ import java.util.List;
  * Lớp này dùng để biểu diễn một bài viết.
  * @see newsaggregator.posts.Author
  * @since 1.0
- * @author Long Ly
+ * @author Lý Hiển Long
  */
 public class Post {
 
