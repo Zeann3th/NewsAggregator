@@ -14,9 +14,16 @@ import newsaggregator.webcrawling.Crawler;
 import org.w3c.dom.*;
 
 public class RSSReader extends Crawler {
+    /**
+     * Lớp RSSReader thực hiện việc đọc file XML từ các nguồn RSS được lưu trữ trong file webSources.txt
+     * và trả về một danh sách các bài báo được lưu trữ trong các file XML này
+     * @return danh sách các bài báo được lưu trữ trong các file XML
+     * @throws Exception
+     * @author: Lý Hiển Long
+     */
     @Override
     public void crawl() {
-        RSSSync rssSync = new RSSSync();
+//        RSSSync rssSync = new RSSSync();
         List<Post> postList = new ArrayList<>();
         try {
             File newsList = new File("src/main/resources/RSSData/webSources.txt");
@@ -24,7 +31,7 @@ public class RSSReader extends Crawler {
             while (newsListScanner.hasNextLine()) {
                 String urlString = newsListScanner.nextLine();
                 String domainString = URI.create(urlString).getHost();
-                rssSync.getNewUpdate(urlString, "src/main/resources/RSSData/tmp-cache/%s.xml".formatted(domainString));
+                RSSSync.getNewUpdate(urlString, "src/main/resources/RSSData/tmp-cache/%s.xml".formatted(domainString));
                 RSSReader rssReader = new RSSReader();
                 List<Post> currentPostList = rssReader.parseXML("src/main/resources/RSSData/tmp-cache/%s.xml".formatted(domainString));
                 postList.addAll(currentPostList);
