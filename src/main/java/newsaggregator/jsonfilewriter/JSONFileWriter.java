@@ -20,7 +20,7 @@ public class JSONFileWriter {
      * @param postList List các bài viết.
      * @see newsaggregator.posts.Post
      */
-    public void writeFileFromPost(List<Post> postList, String filePath) {
+    public static void writeFileFromPost(List<Post> postList, String filePath) {
         JSONArray jArray = new JSONArray();
         for (Post post : postList) {
             JSONObject currentPost = new JSONObject();
@@ -52,7 +52,7 @@ public class JSONFileWriter {
             e.printStackTrace();
         }
     }
-    public void writeFileFromDocument(List<Document> articles, String filePath) {
+    public static void writeFileFromDocument(List<Document> articles, String filePath) {
         JSONArray jArray = new JSONArray();
         for (Document article : articles) {
             jArray.put(article);
