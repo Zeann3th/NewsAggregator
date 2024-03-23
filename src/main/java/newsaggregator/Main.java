@@ -33,8 +33,7 @@ public class Main {
             QueryData queryData = new QueryData();
             queryData.read("dao", "desc");
             List<Document> queryArticles = queryData.getQueryData();
-            JSONFileWriter writer = new JSONFileWriter();
-            writer.writeFileFromDocument(queryArticles, "src/main/resources/queryData.json");
+            JSONFileWriter.writeFileFromDocument(queryArticles, "src/main/resources/queryData.json");
         } catch (Exception e) {
             e.printStackTrace();
         }

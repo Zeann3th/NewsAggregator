@@ -62,7 +62,7 @@ public class CoinTelegraphCrawler extends Crawler {
                 Author currentAuthor = new Author();
                 driver.get(driver.findElement(By.className("post-meta__author-link")).getAttribute("href"));
                 currentAuthor.setName(driver.findElement(By.className("author-about__header")).getText());
-                currentAuthor.setLastPost(driver.findElement(By.className("post-card__figure-link")).getAttribute("href"));
+                currentAuthor.setDescription(driver.findElement(By.className("author-about__desc")).getText());
                 driver.navigate().back();
                 // Thuộc tính bài viết
                 currentPost.setArticleTitle(driver.findElement(By.tagName("h1")).getText());

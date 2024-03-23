@@ -6,12 +6,12 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class CoinTelegraphCrawlerTest {
+class BlockchainNewsCrawlerTest {
 
     @Test
     void crawl() {
-        Crawler ctc = new CoinTelegraphCrawler();
-        ctc.crawl();
-        ctc.getPostList().forEach(Post::display);
+        Crawler blockchainNewsCrawler = new BlockchainNewsCrawler();
+        blockchainNewsCrawler.crawl();
+        blockchainNewsCrawler.getPostList().forEach(Post::display);
     }
 }

@@ -12,33 +12,27 @@ public class Author {
 
     // Attributes
     private String name;
-    private String dateOfBirth;
-    private String lastPost;
+    private String description;
 
-    // Methods
-    //TODO: Fix constructor
+    // Constructors
+
     public Author() {}
-    public Author(String name, String dateOfBirth, String lastPost) {
+    public Author(String name, String description) {
         this.name = name;
-        this.dateOfBirth = dateOfBirth;
-        this.lastPost = lastPost;
+        this.description = description;
     }
+    // Methods
+
     public void setName(String name) {
         this.name = name;
     }
-    public void setDateOfBirth(String dateOfBirth) {
-        this.dateOfBirth = dateOfBirth;
-    }
-    public void setLastPost(String lastPost) {
-        this.lastPost = lastPost;
+    public void setDescription(String description) {
+        this.description = description;
     }
     public String getName() {
         return name;
     }
-    public String getDateOfBirth() {
-        return dateOfBirth;
-    }
-    public String getLastPost() {
-        return lastPost;
+    public String getDescription() {
+        return description;
     }
 }

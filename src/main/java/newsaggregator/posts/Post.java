@@ -23,8 +23,7 @@ public class Post {
     private Author author;
     private String category;
 
-    // Methods
-    //TODO: Fix constructor
+    // Constructors
 
     public Post() {}
 
@@ -42,6 +41,8 @@ public class Post {
         this.author = author;
         this.category = category;
     }
+
+    // Methods
 
     public void setArticleLink(String articleLink) {
         this.articleLink = articleLink;
@@ -132,7 +133,7 @@ public class Post {
         System.out.println("Detailed article content: " + articleDetailedContent);
         System.out.println("Creation date: " + creationDate);
         System.out.println("Associated tags: " + associatedTags);
-        System.out.println("Author's name: " + author.getName());
+        System.out.println("Author: " + author.getName() + "|" + author.getDescription());
         System.out.println("Category: " + category);
     }
 }

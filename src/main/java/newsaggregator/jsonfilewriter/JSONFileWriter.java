@@ -31,7 +31,7 @@ public class JSONFileWriter {
 
             JSONObject authorJObject = new JSONObject();
             authorJObject.put("name", post.getAuthor().getName());
-            authorJObject.put("last_post", post.getAuthor().getLastPost());
+            authorJObject.put("description", post.getAuthor().getDescription());
 
             currentPost.put("author", authorJObject);
             currentPost.put("creation_date", post.getCreationDate());

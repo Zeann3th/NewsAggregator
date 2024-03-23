@@ -3,10 +3,7 @@ package newsaggregator.webcrawling.dynamic;
 import newsaggregator.posts.Author;
 import newsaggregator.posts.Post;
 import newsaggregator.webcrawling.Crawler;
-import org.openqa.selenium.By;
-import org.openqa.selenium.PageLoadStrategy;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -14,6 +11,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 import java.util.List;
+import java.util.ArrayList;
 
 public class TheBlockCrawler extends Crawler {
     @Override
@@ -27,17 +25,18 @@ public class TheBlockCrawler extends Crawler {
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         wait.until(ExpectedConditions.visibilityOf(driver.findElement(By.id("onetrust-banner-sdk"))));
         driver.findElement(By.id("onetrust-accept-btn-handler")).click();
-        WebElement nextButton = driver.findElement(By.cssSelector(".next.active"));
-//        for (int i = 0; i <= 10; i++) {
-//            nextButton.click();
-//            wait.until(ExpectedConditions.elementToBeClickable(nextButton)).click();
-//        }
-        List<WebElement> articles = driver.findElements(By.cssSelector(".headline > a"));
-        List<String> articleLinks = new java.util.ArrayList<>();
-        for (WebElement article : articles) {
-            articleLinks.add(article.getAttribute("href"));
+        List<String> articleLinks = new ArrayList<>();
+        final String baseUrl = "https://www.theblock.co/latest?start=";
+        int totalArticles = 0;
+        for (int i = 0; i < 10; i++) {
+            String url = baseUrl + (i * 10);
+            List<WebElement> articles = driver.findElements(By.cssSelector(".collection__feed > .articles > article > div > a"));
+            totalArticles += articles.size();
+            for (WebElement article : articles) {
+                articleLinks.add(article.getAttribute("href"));
+            }
         }
-        System.out.println("Tìm thấy " + articles.toArray().length + " kết quả!!");
+        System.out.println("Tìm thấy " + totalArticles + " kết quả!!");
         System.out.println("Lưu ý: Số bài báo có thể khác do một số bài không thể crawl được nội dung");
         List<Post> postList = new java.util.ArrayList<>();
         for (String articleLink : articleLinks) {
@@ -47,9 +46,9 @@ public class TheBlockCrawler extends Crawler {
                 Author currentAuthor = new Author();
                 driver.get(driver.findElement(By.cssSelector(".articleByline a")).getAttribute("href"));
                 currentAuthor.setName(driver.findElement(By.cssSelector(".titleInfo > h1")).getText());
-                currentAuthor.setLastPost(driver.findElement(By.cssSelector(".cardContainer>a")).getAttribute("href"));
+                currentAuthor.setDescription(driver.findElement(By.className("description")).getText());
                 driver.navigate().back();
-
+                wait.until(ExpectedConditions.visibilityOf(driver.findElement(By.cssSelector(".articleBody > h1"))));
                 currentPost.setArticleTitle(driver.findElement(By.cssSelector(".articleBody > h1")).getText());
                 currentPost.setAuthor(currentAuthor);
                 String time = driver.findElement(By.cssSelector(".ArticleTimestamps > div")).getText();
@@ -59,7 +58,11 @@ public class TheBlockCrawler extends Crawler {
                 currentPost.setWebsiteSource("The Block");
                 currentPost.setArticleType("article");
                 currentPost.setArticleSummary(driver.findElement(By.className("quickTake")).getText());
-                currentPost.setArticleDetailedContent(driver.findElement(By.cssSelector("#articleContent > span")).getText());
+                currentPost.setArticleDetailedContent(driver.findElement(By.cssSelector("#articleContent > span")).getText()
+                        .replace("Disclaimer: The Block is an independent media outlet that delivers news, research, and data. As of November 2023, Foresight Ventures is a majority investor of The Block. Foresight Ventures invests in other companies in the crypto space. Crypto exchange Bitget is an anchor LP for Foresight Ventures. The Block continues to operate independently to deliver objective, impactful, and timely information about the crypto industry. Here are our current financial disclosures.\n" +
+                        "© 2023 The Block. All Rights Reserved. This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.", "")
+                        .replace(driver.findElement(By.cssSelector("#articleContent > span > section")).getText(), "")
+                        .trim());
                 currentPost.setCategory("NEWS");
                 List<WebElement> articleTags = driver.findElements(By.className("tag"));
                 List<String> tags = new java.util.ArrayList<>();
@@ -72,8 +75,6 @@ public class TheBlockCrawler extends Crawler {
                 continue;
             }
             postList.add(currentPost);
-            currentPost.display();
-            driver.navigate().back();
         }
         driver.quit();
         setPostList(postList);

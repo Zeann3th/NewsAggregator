@@ -1,10 +1,7 @@
 package newsaggregator.webcrawling.dynamic;
 
 import newsaggregator.webcrawling.Crawler;
-import org.openqa.selenium.By;
-import org.openqa.selenium.PageLoadStrategy;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import newsaggregator.posts.Author;
@@ -24,21 +21,22 @@ import java.util.List;
  * @since 1.0
  */
 public class BlockchainNewsCrawler extends Crawler {
-    @Override @Deprecated
+    @Override
     public void crawl() {
         EdgeOptions edgeOptions = new EdgeOptions();
+        edgeOptions.addArguments("--disable-notifications", "start-maximized", "--disable-popup-blocking");
         edgeOptions.setPageLoadStrategy(PageLoadStrategy.EAGER);
         // EAGER sẽ chỉ quan tâm đến những thành phần html của trang web nên hoạt động nhanh hơn NORMAL.
         // NORMAL sẽ đợi cho cả trang web load hết, rất lâu...
 
         WebDriver driver = new EdgeDriver(edgeOptions);
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         driver.get("https://blockchain.news/");
-        for (int i = 0; i <= 10; i++) {
-            WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-            WebElement loadMoreButton = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\"btnLoadMore\"]")));
-            loadMoreButton.click();
+        for (int i = 0; i <= 20; i++) {
+            WebElement loadMoreButton = wait.until(ExpectedConditions.elementToBeClickable(By.id("btnLoadMore")));
+            JavascriptExecutor executor = (JavascriptExecutor)driver;
+            executor.executeScript("arguments[0].click();", loadMoreButton);
         }
         List<WebElement> articles = driver.findElements(By.cssSelector(".entry-title a"));
         List<String> articleLinks = new ArrayList<>();
@@ -53,7 +51,6 @@ public class BlockchainNewsCrawler extends Crawler {
             Author currentAuthor = new Author();
             driver.get(driver.findElement(By.className("entry-cat")).getAttribute("href"));
             currentAuthor.setName(driver.findElement(By.tagName("h1")).getText());
-            currentAuthor.setLastPost(driver.findElement(By.cssSelector(".thumbnail-attachment.profile-post-image a")).getAttribute("href"));
             driver.navigate().back();
             // Thuộc tính bài viết
             Post currentPost = new Post();
