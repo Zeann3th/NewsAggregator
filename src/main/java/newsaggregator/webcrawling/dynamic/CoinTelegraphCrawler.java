@@ -84,14 +84,23 @@ public class CoinTelegraphCrawler extends Crawler {
                 currentPost.setCategory(driver.findElement(By.className("post-cover__badge")).getText());
 
                 try {
-                    List<WebElement> articleTags = driver.findElements(By.className("tags-list__link"));
+                    List<WebElement> articleTags = driver.findElements(By.className("tags-list__item"));
                     List<String> tags = new ArrayList<>();
                     for (WebElement articleTag : articleTags) {
-                        tags.add(articleTag.getText());
+                        tags.add(articleTag.getText().replace("#", ""));
                     }
                     currentPost.setAssociatedTags(tags);
-                } catch (NoSuchElementException e) {
+                }
+                catch (TimeoutException e) {
                     System.out.println("Không có tag nào trong bài viết");
+                    e.printStackTrace();
+                }
+                catch (NoSuchElementException e) {
+                    System.out.println("Không có tag nào trong bài viết");
+                    e.printStackTrace();
+                }
+                catch (StaleElementReferenceException e) {
+                    System.out.println("Không có tag trong bài viết");
                     e.printStackTrace();
                 }
 

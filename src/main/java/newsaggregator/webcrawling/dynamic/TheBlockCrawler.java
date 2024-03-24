@@ -3,6 +3,7 @@ package newsaggregator.webcrawling.dynamic;
 import newsaggregator.post.Author;
 import newsaggregator.post.Post;
 import newsaggregator.webcrawling.Crawler;
+import org.jetbrains.annotations.NotNull;
 import org.openqa.selenium.*;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
@@ -10,6 +11,9 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
+import java.time.ZoneId;
+import java.time.ZonedDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.List;
 import java.util.ArrayList;
 
@@ -25,8 +29,12 @@ public class TheBlockCrawler extends Crawler {
         driver.get("https://www.theblock.co/latest");
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         // Accept cookies
-        wait.until(ExpectedConditions.visibilityOf(driver.findElement(By.id("onetrust-banner-sdk"))));
-        driver.findElement(By.id("onetrust-accept-btn-handler")).click();
+        try {
+            wait.until(ExpectedConditions.visibilityOf(driver.findElement(By.id("onetrust-banner-sdk"))));
+            driver.findElement(By.id("onetrust-accept-btn-handler")).click();
+        } catch (Exception e) {
+            System.out.println("Không tìm thấy banner cookies");
+        }
 
         List<String> articleLinks = new ArrayList<>();
         final String baseUrl = "https://www.theblock.co/latest?start=";
@@ -60,8 +68,7 @@ public class TheBlockCrawler extends Crawler {
                 currentPost.setArticleTitle(driver.findElement(By.cssSelector(".articleBody > h1")).getText());
                 currentPost.setAuthor(currentAuthor);
                 String time = driver.findElement(By.cssSelector(".ArticleTimestamps > div")).getText();
-                time = time.substring(time.indexOf("•")+2);
-                currentPost.setCreationDate(time);
+                currentPost.setCreationDate(timeConversion(time));
                 currentPost.setArticleLink(articleLink);
                 currentPost.setWebsiteSource("The Block");
                 currentPost.setArticleType("article");
@@ -83,6 +90,7 @@ public class TheBlockCrawler extends Crawler {
                     tags.add(articleTag.getText());
                 }
                 currentPost.setAssociatedTags(tags);
+                currentPost.display();
                 postList.add(currentPost);
             } catch (Exception e) {
                 System.out.println("Không thể crawl bài viết này");
@@ -91,5 +99,68 @@ public class TheBlockCrawler extends Crawler {
         }
         driver.quit();
         setPostList(postList);
+    }
+    @NotNull
+    private String timeConversion(String time) {
+        String[] timeSplit = time.substring(time.indexOf("•")+2).replaceAll(",", "").split(" ");
+        String month = timeSplit[0];
+        int monthInt = 0;
+        switch (month) {
+            case "January":
+                monthInt = 1;
+                break;
+            case "February":
+                monthInt = 2;
+                break;
+            case "March":
+                monthInt = 3;
+                break;
+            case "April":
+                monthInt = 4;
+                break;
+            case "May":
+                monthInt = 5;
+                break;
+            case "June":
+                monthInt = 6;
+                break;
+            case "July":
+                monthInt = 7;
+                break;
+            case "August":
+                monthInt = 8;
+                break;
+            case "September":
+                monthInt = 9;
+                break;
+            case "October":
+                monthInt = 10;
+                break;
+            case "November":
+                monthInt = 11;
+                break;
+            case "December":
+                monthInt = 12;
+                break;
+        }
+        String timePart = timeSplit[3];
+        int hour;
+        if (timePart.endsWith("PM")) {
+            hour = Integer.parseInt(timePart.substring(0, timePart.indexOf(":"))) + 12;
+        }
+        else {
+            hour = Integer.parseInt(timePart.substring(0, timePart.indexOf(":")));
+        }
+        // Create LocalDateTime object with time zone
+        ZonedDateTime zdt = ZonedDateTime.of(
+                Integer.parseInt(timeSplit[2]),
+                monthInt,
+                Integer.parseInt(timeSplit[1]),
+                hour,
+                Integer.parseInt(timePart.substring(timePart.indexOf(":") + 1, timePart.length()-2)), 0, 0,
+                ZoneId.of("America/New_York"));
+
+        // Format using ISO_OFFSET_DATE_TIME
+        return zdt.format(DateTimeFormatter.ISO_OFFSET_DATE_TIME);
     }
 }

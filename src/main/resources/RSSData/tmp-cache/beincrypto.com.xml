@@ -13,7 +13,7 @@
 	<atom:link href="https://beincrypto.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://beincrypto.com/</link>
 	<description>Cryptocurrency News</description>
-	<lastBuildDate>Sat, 23 Mar 2024 22:01:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 24 Mar 2024 10:55:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,88 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Polygon (MATIC) Suffers Network Outage For Over 12 Hours</title>
+		<link>https://beincrypto.com/polygon-matic-network-outage/</link>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Sun, 24 Mar 2024 10:55:23 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Polygon (MATIC) News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=488876</guid>
+
+					<description><![CDATA[<p>Polygon has announced plans to upgrade the zkEVM protocol, acknowledging the need for enhancements in its current beta phase.</p>
+<p>The post <a href="https://beincrypto.com/polygon-matic-network-outage/">Polygon (MATIC) Suffers Network Outage For Over 12 Hours</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Polygon&#8217;s zero-knowledge Ethereum Virtual Machine (zkEVM) encountered significant downtime lasting over 12 hours.</strong></p>
+
+
+
+<p>Indeed, several crypto stakeholders raised concerns about the network&#8217;s inability to produce blocks for several hours. This outage prompted comparisons with Solana, raising questions about the Polygon&#8217;s reliability and scalability.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-polygon-matic-goes-offline">Polygon (MATIC) Goes Offline</h2>
+
+
+
+<p>Polygon <a href="https://twitter.com/0xPolygon/status/1771671172834283539?s=20" target="_blank" rel="noreferrer noopener nofollow">attributed</a> the downtime to a glitch in the protocol sequencer triggered by a Layer 1 reorganization. In Layer 2 networks, a sequencer ensures transaction verification, organization, and compression before transmitting them to Layer 1 chains like <a href="https://beincrypto.com/learn/buy-eth-credit-card/" target="_blank" rel="noreferrer noopener">Ethereum</a>. The team assured users that efforts were underway to resolve the issue, promising a detailed post-mortem report soon.</p>
+
+
+
+<p>Fortunately, other <a href="https://beincrypto.com/learn/what-is-polygon/" target="_blank" rel="noreferrer noopener">Polygon</a> platforms, such as the PoS chain and the Chain Development Kit (CDK), and protocols utilizing the CDK remained unaffected. The issues have been resolved as of press time, with the network showing activity on PolygonScan.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>&#8220;The zkEVM mainnet network is completed and re-indexing (internal transactions) is in progress,&#8221; an update on the zkEVM section of Polygonscan <a href="https://zkevm.polygonscan.com/" target="_blank" rel="noreferrer noopener nofollow">stated</a>.</p>
+</blockquote>
+
+
+
+<p>However, this incident poses significant challenges for the <a href="https://beincrypto.com/learn/layer-2-crypto-projects/" target="_blank" rel="noreferrer noopener">Layer 2 network</a>, which has struggled since its inception last year. Emin Gün Sirer, the founder of Ava Labs, cautioned against &#8220;trash L2s,&#8221; noting the potential for fraudulent practices. </p>
+
+
+
+<p>While not explicitly naming any protocol, Sirer highlighted red flags for the Layer 2 ecosystem, urging stakeholders to exercise diligence in their evaluations.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>&#8220;It has become really easy to launch a trash L2, and it&#8217;s fairly easy to do that trick, perfected by a certain chain that reorgs every other day, where you find someone who is actually doing real work and you parrot what they say, while angling for a photo op with Vitalik,&#8221; Sirer <a href="https://twitter.com/el33th4xor/status/1771658050228617428?s=46" target="_blank" rel="noreferrer noopener nofollow">remarked</a>.</p>
+</blockquote>
+
+
+
+<p>Sirer specifically warned against networks employing centralized sequencers without robust fraud prevention mechanisms. He also warned against &#8220;projects that sell tokens now to raise money to do the work that will lead to some other technology later.&#8221;</p>
+
+
+
+<p><strong>Read more: <a href="https://beincrypto.com/learn/top-defi-protocols/">Top 11 DeFi Protocols To Keep an Eye on in 2024</a></strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="850" height="475" src="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-11.54.22-AM-850x475.png" alt="Polygon zkEVM TV" class="wp-image-488888" srcset="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-11.54.22-AM-850x475.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-11.54.22-AM-360x201.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-11.54.22-AM-768x429.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-11.54.22-AM-1536x858.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-11.54.22-AM-150x84.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-11.54.22-AM.png 1690w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Polygon zkEVM TVL. Source: <a href="https://l2beat.com/scaling/projects/polygonzkevm" target="_blank" rel="noreferrer noopener nofollow">L2Beat</a></figcaption></figure>
+
+
+
+<p>Still, Polygon has announced plans to upgrade the zkEVM protocol in the coming weeks. The firm recognizes the need for enhancements in its current beta phase.</p>
+
+
+
+<p><strong>Read more: <a href="https://beincrypto.com/learn/matic-price-prediction/">Polygon (MATIC) Price Prediction 2024 / 2025 / 2030</a></strong></p>
+
+
+
+<p>Notably, these issues had little impact on <a href="https://beincrypto.com/learn/matic-price-prediction/" target="_blank" rel="noreferrer noopener">Polygon&#8217;s MATIC</a> token. The digital asset recorded a modest growth of more than 2% to trade at $0.9954 as of press time, while on-chain data reveals that Polygon retains a modest Total Value Locked (TVL) of $152 million and a transaction volume of 308,000 in the last 30 days.</p>
+<p>The post <a href="https://beincrypto.com/polygon-matic-network-outage/">Polygon (MATIC) Suffers Network Outage For Over 12 Hours</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2023/08/bic_Polygon_matic-covers_bearish.jpg" medium="image" width="1280" height="720" type="image/jpeg" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2023/08/bic_Polygon_matic-covers_bearish.jpg"/>	</item>
+		<item>
 		<title>Will Bitcoin (BTC) Short-Term Holders Defend $55,000?</title>
 		<link>https://beincrypto.com/bitcoin-short-term-holders-defend-support/</link>
 		
@@ -62,7 +144,7 @@
 
 
 
-<figure class="wp-block-image alignnone wp-image-488598 size-full"><img decoding="async" fetchpriority="high" width="1800" height="1013" src="https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc.png" alt="BTC supply long-term holders" class="wp-image-488598" srcset="https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc.png 1800w, https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc-360x203.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc-850x478.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc-768x432.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc-1536x864.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc-150x84.png 150w" sizes="(max-width: 1800px) 100vw, 1800px" /><figcaption class="wp-element-caption">BTC supply in the hands of long-term holders / Source: <a href="https://studio.glassnode.com/metrics?a=BTC&amp;category=&amp;m=supply.LthSum&amp;s=1279402069&amp;u=1710979200&amp;zoom=" target="_blank" rel="noreferrer noopener nofollow">Glassnode</a></figcaption></figure>
+<figure class="wp-block-image alignnone wp-image-488598 size-full"><img decoding="async" width="1800" height="1013" src="https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc.png" alt="BTC supply long-term holders" class="wp-image-488598" srcset="https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc.png 1800w, https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc-360x203.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc-850x478.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc-768x432.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc-1536x864.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc-150x84.png 150w" sizes="(max-width: 1800px) 100vw, 1800px" /><figcaption class="wp-element-caption">BTC supply in the hands of long-term holders / Source: <a href="https://studio.glassnode.com/metrics?a=BTC&amp;category=&amp;m=supply.LthSum&amp;s=1279402069&amp;u=1710979200&amp;zoom=" target="_blank" rel="noreferrer noopener nofollow">Glassnode</a></figcaption></figure>
 
 
 
@@ -86,7 +168,7 @@
 
 
 
-<figure class="wp-block-image alignnone is-resized wp-image-488600 size-full"><img decoding="async" width="1852" height="1140" src="https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance.jpg" alt="Dominance of STH" class="wp-image-488600" style="aspect-ratio:1.6245614035087719;width:1024px;height:auto" srcset="https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance.jpg 1852w, https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance-360x222.jpg 360w, https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance-850x523.jpg 850w, https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance-768x473.jpg 768w, https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance-1536x945.jpg 1536w, https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance-150x92.jpg 150w" sizes="(max-width: 1852px) 100vw, 1852px" /><figcaption class="wp-element-caption">Realized dominance of STH / Source: <a href="https://twitter.com/cryptoquant_com/status/1769673123736027221" target="_blank" rel="noreferrer noopener nofollow">X</a></figcaption></figure>
+<figure class="wp-block-image alignnone is-resized wp-image-488600 size-full"><img decoding="async" loading="lazy" width="1852" height="1140" src="https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance.jpg" alt="Dominance of STH" class="wp-image-488600" style="aspect-ratio:1.6245614035087719;width:1024px;height:auto" srcset="https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance.jpg 1852w, https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance-360x222.jpg 360w, https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance-850x523.jpg 850w, https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance-768x473.jpg 768w, https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance-1536x945.jpg 1536w, https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance-150x92.jpg 150w" sizes="(max-width: 1852px) 100vw, 1852px" /><figcaption class="wp-element-caption">Realized dominance of STH / Source: <a href="https://twitter.com/cryptoquant_com/status/1769673123736027221" target="_blank" rel="noreferrer noopener nofollow">X</a></figcaption></figure>
 
 
 
@@ -986,83 +1068,5 @@
 		
 		<media:content url="https://beincrypto.com/wp-content/uploads/2023/02/bic_Aptos_neutral_2.png" medium="image" width="1280" height="720" type="image/png" />
 <media:thumbnail url="https://beincrypto.com/wp-content/uploads/2023/02/bic_Aptos_neutral_2.png"/>	</item>
-		<item>
-		<title>BlackRock Now Holds 4 Meme Coins: DETF, RIO, USH, and SHI</title>
-		<link>https://beincrypto.com/blackrock-holds-meme-coins/</link>
-		
-		<dc:creator><![CDATA[Bary Rahma]]></dc:creator>
-		<pubDate>Fri, 22 Mar 2024 19:30:00 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[Memecoin News]]></category>
-		<guid isPermaLink="false">https://beincrypto.com/?p=488533</guid>
-
-					<description><![CDATA[<p>BlackRock's BUIDL fund marks a strategic pivot to blockchain, marrying traditional finance with digital innovation and attracting unexpected meme coin attention after a significant USDC transaction, signaling a new investment paradigm.</p>
-<p>The post <a href="https://beincrypto.com/blackrock-holds-meme-coins/">BlackRock Now Holds 4 Meme Coins: DETF, RIO, USH, and SHI</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>BlackRock, in partnership with Securitize, has launched the USD Institutional Digital Liquidity Fund (BUIDL). This innovative offering aims to provide qualified investors an opportunity to earn US dollar yields by leveraging blockchain technology. </strong></p>
-
-
-
-<p>The fund&#8217;s debut took notice when a $100 million transaction involving USDC stablecoin was executed on the Ethereum network. As a result, BlackRock&#8217;s Ethereum address became a magnet for meme coins and NFTs. </p>
-
-
-
-<h2 class="wp-block-heading" id="h-blackrock-now-holds-meme-coins">BlackRock Now Holds Meme Coins</h2>
-
-
-
-<p><a href="https://beincrypto.com/blackrock-crypto-giant-tokenized-fund/" target="_blank" rel="noreferrer noopener">BlackRock introduced BUIDL</a>, offering qualified investors a channel to earn returns on their US dollars via blockchain. This venture marks a significant departure from traditional investment mechanisms. Indeed, it promises to redefine the financial system.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>“This is the latest progression of our digital assets strategy. We are focused on developing solutions in the digital assets space that help solve real problems for our clients,” Robert Mitchnick, BlackRock’s Head of Digital Assets, said.</p>
-</blockquote>
-
-
-
-<p>The strategic maneuver into the crypto market was underscored by a notable transaction where $100 million in USDC. Presumably, the funds serve as the financial bedrock for BUIDL. </p>
-
-
-
-<p>The crypto community&#8217;s response to BlackRock&#8217;s initiative was swift and vivid. Indeed, the fund&#8217;s Ethereum wallet, distinguished by its address <a href="https://etherscan.io/tokenholdings?a=0x13e003a57432062e4eda204f687be80139ad622f" target="_blank" rel="noreferrer noopener nofollow">0x13e003a57432062e4EdA204F687bE80139AD622f</a>, became a magnet for meme coins and NFTs airdrops. Among these digital assets, four meme coins have stood out:</p>
-
-
-
-<ul>
-<li>DETF Token (DETF), with 250,000 tokens valued at $15,385.66,</li>
-
-
-
-<li>Realio Network (RIO), comprising 10,000 tokens worth around $13,800.10,</li>
-
-
-
-<li>unshETHing_Token (USH), totaling 500,000 tokens, estimated at $12,749.20,</li>
-
-
-
-<li>and Shina Inu (SHI), amounting to 9,197,214,541 tokens worth $9,165.50.</li>
-</ul>
-
-
-
-<p><strong>Read more: <a href="https://beincrypto.com/learn/top-meme-coins/">7 Hot Meme Coins and Altcoins that are Trending in 2024</a></strong></p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="446" src="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-4.11.10-PM-850x446.png" alt="BlackRock Meme Coin Holdings" class="wp-image-488539" srcset="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-4.11.10-PM-850x446.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-4.11.10-PM-360x189.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-4.11.10-PM-768x403.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-4.11.10-PM-1536x806.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-4.11.10-PM-2048x1075.png 2048w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-4.11.10-PM-150x79.png 150w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">BlackRock Crypto Holdings. Source: <a href="https://etherscan.io/" target="_blank" rel="noreferrer noopener nofollow">EtherScan</a></figcaption></figure>
-
-
-
-<p>As BlackRock embraces a new era of investment, combining traditional finance&#8217;s rigor with blockchain technology&#8217;s dynamism, the decision to hold or sell these meme coins still awaits.</p>
-<p>The post <a href="https://beincrypto.com/blackrock-holds-meme-coins/">BlackRock Now Holds 4 Meme Coins: DETF, RIO, USH, and SHI</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://beincrypto.com/wp-content/uploads/2023/10/bic_larry_fink_blackrock-covers_neutral.jpg" medium="image" width="1280" height="720" type="image/jpeg" />
-<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2023/10/bic_larry_fink_blackrock-covers_neutral.jpg"/>	</item>
 	</channel>
 </rss>
