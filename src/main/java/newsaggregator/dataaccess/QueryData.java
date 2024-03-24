@@ -32,8 +32,12 @@ public class QueryData {
 
     /**
      * Phương thức này dùng để đọc dữ liệu từ database.
-     * @param value
-     * @throws IOException
+     * @param value Nội dung cần tìm kiếm
+     * @param sortOrder Sắp xếp theo thứ tự mới nhất (asc) hoặc cũ nhất (desc)
+     * e.g: QueryData qd = new QueryData();
+     *      qd.read("dao", "desc");
+     *      -> Tìm kiếm tất cả các bài viết, các trường trong bài viết có chứa từ "dao" và sắp xếp theo thứ tự mới nhất.
+     * TODO: Cần thêm chức năng AutoComplete, Tìm kiếm trường cụ thể, ...
      */
     public void read(String value, String sortOrder) {
         try (MongoClient mongoClient = MongoClients.create(System.getProperty("mongodb.uri"))) {

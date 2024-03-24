@@ -3,14 +3,14 @@ package newsaggregator.jsonfilewriter;
 import org.bson.Document;
 import org.json.JSONArray;
 import org.json.JSONObject;
-import newsaggregator.posts.Post;
+import newsaggregator.post.Post;
 
 import java.io.FileWriter;
 import java.util.List;
 
 /**
  * Lớp này dùng để viết dữ liệu từ list các bài viết vào file JSON.
- * @see newsaggregator.posts.Post
+ * @see newsaggregator.post.Post
  * @since 1.0
  * @author Lý Hiển Long
  */
@@ -18,7 +18,7 @@ public class JSONFileWriter {
     /**
      * Phương thức này dùng để viết dữ liệu từ list các bài viết vào file JSON.
      * @param postList List các bài viết.
-     * @see newsaggregator.posts.Post
+     * @see newsaggregator.post.Post
      */
     public static void writeFileFromPost(List<Post> postList, String filePath) {
         JSONArray jArray = new JSONArray();

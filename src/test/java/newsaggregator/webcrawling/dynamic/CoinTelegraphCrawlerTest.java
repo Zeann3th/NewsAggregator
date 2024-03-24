@@ -1,10 +1,8 @@
 package newsaggregator.webcrawling.dynamic;
 
-import newsaggregator.posts.Post;
+import newsaggregator.post.Post;
 import newsaggregator.webcrawling.Crawler;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class CoinTelegraphCrawlerTest {
 

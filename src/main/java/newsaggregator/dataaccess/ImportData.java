@@ -22,10 +22,10 @@ import java.util.List;
 public class ImportData {
     /**
      * Phương thức này dùng để nhập dữ liệu từ file JSON vào database.
-     * @param filePath Đường dẫn tới file JSON.
+     * @param filePath Đường dẫn tới file JSON. e.g: "src/main/resources/data.json"
      * @throws IOException Ném ra nếu có lỗi khi đọc file.
      */
-    public void importJSON(String filePath) throws IOException {
+    public static void importJSON(String filePath) throws IOException {
         // Nối tới database
         try (MongoClient mongoClient = MongoClients.create(System.getProperty("mongodb.uri"))){
             MongoDatabase db = mongoClient.getDatabase("WebData");

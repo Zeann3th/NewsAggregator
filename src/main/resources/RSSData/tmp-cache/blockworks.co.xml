@@ -11,7 +11,10 @@
     </author>
     <link rel="alternate" href="https://blockworks.co"/>
     <link rel="self" href="https://blockworks.co/feed"/>
-    <subtitle>Blockworks is a financial media brand that delivers breaking news and premium insights about digital assets to millions of investors. Our editorial content, newsletters, podcasts and events provide investors with the critical analysis and information they need to make smarter decisions about digital assets.</subtitle>
+    <subtitle>Blockworks is a financial media brand that delivers breaking news and premium insights about digital
+        assets to millions of investors. Our editorial content, newsletters, podcasts and events provide investors with
+        the critical analysis and information they need to make smarter decisions about digital assets.
+    </subtitle>
     <logo>https://blockworks.co/images/meta-logo.png</logo>
     <rights>2024, Blockworks</rights>
     <category term="Markets"/>
@@ -33,7 +36,8 @@
         <id>https://blockworks.co/news/prosecutors-want-50-yrs-sam-bankman-fried</id>
         <link href="https://blockworks.co/news/prosecutors-want-50-yrs-sam-bankman-fried"/>
         <updated>2024-03-15T18:35:57.000Z</updated>
-        <summary type="html"><![CDATA[The former FTX boss will attend a sentencing hearing slated for late March]]></summary>
+        <summary type="html">
+            <![CDATA[The former FTX boss will attend a sentencing hearing slated for late March]]></summary>
         <content type="html"><![CDATA[
 <p>US prosecutors want former FTX CEO Sam Bankman-Fried to face 40 to 50 years in prison, a new court filing revealed Friday.</p>
 
@@ -102,7 +106,8 @@
         <id>https://blockworks.co/news/memecoin-dogwifhat-shibainu-lasvegas-sphere</id>
         <link href="https://blockworks.co/news/memecoin-dogwifhat-shibainu-lasvegas-sphere"/>
         <updated>2024-03-15T18:06:50.000Z</updated>
-        <summary type="html"><![CDATA[Just because your memecoin can raise almost a million dollars to put a Shiba Inu wearing a hat on the Las Vegas Sphere doesn’t mean you should ]]></summary>
+        <summary type="html">
+            <![CDATA[Just because your memecoin can raise almost a million dollars to put a Shiba Inu wearing a hat on the Las Vegas Sphere doesn’t mean you should ]]></summary>
         <content type="html"><![CDATA[
 <figure class="wp-block-image size-large"><img sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://blockworks-co.imgix.net/wp-content/uploads/2023/06/Off-Topic-with-Molly-Jane_20230616a-1.png?w=1024 1024w, https://blockworks-co.imgix.net/wp-content/uploads/2023/06/Off-Topic-with-Molly-Jane_20230616a-1.png?w=300 300w, https://blockworks-co.imgix.net/wp-content/uploads/2023/06/Off-Topic-with-Molly-Jane_20230616a-1.png?w=768 768w, https://blockworks-co.imgix.net/wp-content/uploads/2023/06/Off-Topic-with-Molly-Jane_20230616a-1.png?w=428 428w, https://blockworks-co.imgix.net/wp-content/uploads/2023/06/Off-Topic-with-Molly-Jane_20230616a-1.png?w=470 470w, https://blockworks-co.imgix.net/wp-content/uploads/2023/06/Off-Topic-with-Molly-Jane_20230616a-1.png?w=389 389w, https://blockworks-co.imgix.net/wp-content/uploads/2023/06/Off-Topic-with-Molly-Jane_20230616a-1.png?w=80 80w" class="wp-image-60166" alt="" src="https://blockworks-co.imgix.net/wp-content/uploads/2023/06/Off-Topic-with-Molly-Jane_20230616a-1.png?w=1024&amp;h=1024" height="256" width="1024" decoding="async" loading="lazy"></figure>
 
@@ -223,7 +228,8 @@
         <id>https://blockworks.co/news/swapping-on-layer-2s-ethereum-uniswap</id>
         <link href="https://blockworks.co/news/swapping-on-layer-2s-ethereum-uniswap"/>
         <updated>2024-03-15T17:13:22.000Z</updated>
-        <summary type="html"><![CDATA[97.5% of swappers with trades under $125,000 did better on layer-2s than on Ethereum mainnet]]></summary>
+        <summary type="html">
+            <![CDATA[97.5% of swappers with trades under $125,000 did better on layer-2s than on Ethereum mainnet]]></summary>
         <content type="html"><![CDATA[
 <p>A recent paper <a href="https://arxiv.org/abs/2403.09494">by</a> Austin Adams, a researcher at Uniswap Labs, contends that swapping and liquidity provisions on layer-2 networks are significantly cheaper than on Ethereum’s mainnet.&nbsp;&nbsp;</p>
 
@@ -316,7 +322,8 @@
         <id>https://blockworks.co/news/binance-employees-detained-nigeria</id>
         <link href="https://blockworks.co/news/binance-employees-detained-nigeria"/>
         <updated>2024-03-15T16:44:28.000Z</updated>
-        <summary type="html"><![CDATA[Nigeria and Binance continue to face off, even after Binance pulled support for the naira]]></summary>
+        <summary type="html">
+            <![CDATA[Nigeria and Binance continue to face off, even after Binance pulled support for the naira]]></summary>
         <content type="html"><![CDATA[
 <p>Binance’s problems in Nigeria continue as two employees remain detained in the country.&nbsp;</p>
 
@@ -377,7 +384,8 @@
         <id>https://blockworks.co/news/bitcoin-below-70k-on-inflation-reads</id>
         <link href="https://blockworks.co/news/bitcoin-below-70k-on-inflation-reads"/>
         <updated>2024-03-15T14:19:28.000Z</updated>
-        <summary type="html"><![CDATA[Stocks and cryptocurrencies have been on the decline since Thursday, although analysts say this week’s bad economic reads should have caused a bigger selloff ]]></summary>
+        <summary type="html">
+            <![CDATA[Stocks and cryptocurrencies have been on the decline since Thursday, although analysts say this week’s bad economic reads should have caused a bigger selloff ]]></summary>
         <content type="html"><![CDATA[
 <p>Cryptocurrencies and equities slid Friday, erasing gains from earlier this week as traders digested yet another hotter-than-expected inflation gauge.&nbsp;</p>
 
@@ -442,11 +450,13 @@
         <rights>2024, Blockworks</rights>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mining giant Marathon set to buy another site just weeks ahead of bitcoin halving ]]></title>
+        <title type="html">
+            <![CDATA[Mining giant Marathon set to buy another site just weeks ahead of bitcoin halving ]]></title>
         <id>https://blockworks.co/news/marathon-digital-aquisition-bitcoin-halving</id>
         <link href="https://blockworks.co/news/marathon-digital-aquisition-bitcoin-halving"/>
         <updated>2024-03-15T13:58:41.000Z</updated>
-        <summary type="html"><![CDATA[The planned $87 million deal follows Marathon’s purchase of two mining facilities in January ]]></summary>
+        <summary type="html">
+            <![CDATA[The planned $87 million deal follows Marathon’s purchase of two mining facilities in January ]]></summary>
         <content type="html"><![CDATA[
 <p>Crypto miner growth initiatives ahead of the bitcoin halving are not slowing down, as one of the space’s biggest players continues its string of acquisitions.&nbsp;</p>
 
@@ -527,7 +537,8 @@
         <id>https://blockworks.co/news/cheatsheet-telegram-burning-more-eth</id>
         <link href="https://blockworks.co/news/cheatsheet-telegram-burning-more-eth"/>
         <updated>2024-03-15T12:40:50.000Z</updated>
-        <summary type="html"><![CDATA[There’s not quite blood in the streets, but things are looking mighty red for crypto]]></summary>
+        <summary type="html">
+            <![CDATA[There’s not quite blood in the streets, but things are looking mighty red for crypto]]></summary>
         <content type="html"><![CDATA[
 <p><em>This is Cheatsheet, a primer on what’s happening in crypto today.</em></p>
 
@@ -706,7 +717,8 @@
         <id>https://blockworks.co/news/wealth-manager-bitcoin-etfs-allocators</id>
         <link href="https://blockworks.co/news/wealth-manager-bitcoin-etfs-allocators"/>
         <updated>2024-03-15T11:51:16.000Z</updated>
-        <summary type="html"><![CDATA[Cetera to allow its financial pros to implement BTC products offered by BlackRock, Fidelity, Invesco and Franklin Templeton into client portfolios]]></summary>
+        <summary type="html">
+            <![CDATA[Cetera to allow its financial pros to implement BTC products offered by BlackRock, Fidelity, Invesco and Franklin Templeton into client portfolios]]></summary>
         <content type="html"><![CDATA[
 <p>Wealth management firm Cetera Financial Group has approved four bitcoin ETFs for advisers choosing to implement such funds into client portfolios.&nbsp;</p>
 
@@ -799,7 +811,8 @@
         <id>https://blockworks.co/news/sec-approval-ether-etfs-us-senators</id>
         <link href="https://blockworks.co/news/sec-approval-ether-etfs-us-senators"/>
         <updated>2024-03-15T11:02:32.000Z</updated>
-        <summary type="html"><![CDATA[Democratic senators Jack Reed and Laphonza Butler urged the SEC to crack down on what they called “alarming deficiencies” in crypto marketing and disclosures]]></summary>
+        <summary type="html">
+            <![CDATA[Democratic senators Jack Reed and Laphonza Butler urged the SEC to crack down on what they called “alarming deficiencies” in crypto marketing and disclosures]]></summary>
         <content type="html"><![CDATA[
 <p>Two US Senators unhappy with how spot bitcoin ETFs have been marketed are imploring the Securities and Exchange Commission to halt any future crypto fund approvals.</p>
 
@@ -908,7 +921,8 @@
         <id>https://blockworks.co/news/us-voters-holding-crypto</id>
         <link href="https://blockworks.co/news/us-voters-holding-crypto"/>
         <updated>2024-03-14T20:03:44.000Z</updated>
-        <summary type="html"><![CDATA[Similar to figures reported by Grayscale late last year, Paradigm said they found that 19% of American voters have bought crypto]]></summary>
+        <summary type="html">
+            <![CDATA[Similar to figures reported by Grayscale late last year, Paradigm said they found that 19% of American voters have bought crypto]]></summary>
         <content type="html"><![CDATA[
 <p>Around one fifth of American registered voters say they have purchased cryptocurrencies, according to a new survey from crypto investment firm Paradigm.&nbsp;</p>
 
@@ -981,7 +995,8 @@
         <id>https://blockworks.co/news/maker-meeting-stablecoin-dai-demand</id>
         <link href="https://blockworks.co/news/maker-meeting-stablecoin-dai-demand"/>
         <updated>2024-03-14T17:38:36.000Z</updated>
-        <summary type="html"><![CDATA[SparkLend has been approved for a doubling of its debt ceiling to 2.5 billion DAI]]></summary>
+        <summary type="html">
+            <![CDATA[SparkLend has been approved for a doubling of its debt ceiling to 2.5 billion DAI]]></summary>
         <content type="html"><![CDATA[
 <p>MakerDAO, creator of the DAI stablecoin, has a good problem: Demand for its product is high.</p>
 
@@ -1187,11 +1202,13 @@
         <rights>2024, Blockworks</rights>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Story Protocol to help AI developers register and track their models with Ritual]]></title>
+        <title type="html">
+            <![CDATA[Story Protocol to help AI developers register and track their models with Ritual]]></title>
         <id>https://blockworks.co/news/story-protocol-ritual-ai-provenance</id>
         <link href="https://blockworks.co/news/story-protocol-ritual-ai-provenance"/>
         <updated>2024-03-14T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The pair are trialing a somewhat-novel angle for integrating AI with blockchain technology]]></summary>
+        <summary type="html">
+            <![CDATA[The pair are trialing a somewhat-novel angle for integrating AI with blockchain technology]]></summary>
         <content type="html"><![CDATA[
 <p>Intellectual property-focused Story Protocol is partnering with decentralized AI protocol Ritual to make AI models and outputs trackable and monetizable.&nbsp;</p>
 
@@ -1268,7 +1285,8 @@
         <id>https://blockworks.co/news/hut-8-growth-bitcoin-halving</id>
         <link href="https://blockworks.co/news/hut-8-growth-bitcoin-halving"/>
         <updated>2024-03-14T15:37:50.000Z</updated>
-        <summary type="html"><![CDATA[A few months after Hut 8’s merge with US Bitcoin Corp, the combined company’s new chief executive says building back shareholder trust is a key focus]]></summary>
+        <summary type="html">
+            <![CDATA[A few months after Hut 8’s merge with US Bitcoin Corp, the combined company’s new chief executive says building back shareholder trust is a key focus]]></summary>
         <content type="html"><![CDATA[
 <p>A few months after the merger between crypto miner Hut 8 and US Bitcoin Corp, the combined company’s new CEO says building back shareholder trust remains a challenge.&nbsp;</p>
 
@@ -1462,7 +1480,8 @@
         <id>https://blockworks.co/news/robinhood-trading-volume-february</id>
         <link href="https://blockworks.co/news/robinhood-trading-volume-february"/>
         <updated>2024-03-14T14:51:36.000Z</updated>
-        <summary type="html"><![CDATA[Last month’s crypto-related trade volumes via the investment app were roughly five times those seen in September 2023]]></summary>
+        <summary type="html">
+            <![CDATA[Last month’s crypto-related trade volumes via the investment app were roughly five times those seen in September 2023]]></summary>
         <content type="html"><![CDATA[
 <p>Robinhood’s crypto notional trading volumes in February rose 10% from January, matching a level seen only one other month since the middle of 2022.</p>
 
@@ -1539,7 +1558,8 @@
         <id>https://blockworks.co/news/ethereum-broadband-moment</id>
         <link href="https://blockworks.co/news/ethereum-broadband-moment"/>
         <updated>2024-03-14T13:31:37.000Z</updated>
-        <summary type="html"><![CDATA[Broadband rendering 56k modems obsolete was a far bigger deal than many realized — Ethereum’s “blobband” could turn out to be the same]]></summary>
+        <summary type="html">
+            <![CDATA[Broadband rendering 56k modems obsolete was a far bigger deal than many realized — Ethereum’s “blobband” could turn out to be the same]]></summary>
         <content type="html"><![CDATA[
 <p>The internet turned 35 earlier this week, and it seems only fitting that <strong>Ethereum</strong> would undergo arguably its largest upgrade ever just one day later.</p>
 
@@ -1877,7 +1897,8 @@
         <id>https://blockworks.co/news/blockchain-better-middlemen-swift</id>
         <link href="https://blockworks.co/news/blockchain-better-middlemen-swift"/>
         <updated>2024-03-14T12:40:45.000Z</updated>
-        <summary type="html"><![CDATA[SWIFT’s forays into blockchain hint that one day the tech can replace intermediaries]]></summary>
+        <summary type="html">
+            <![CDATA[SWIFT’s forays into blockchain hint that one day the tech can replace intermediaries]]></summary>
         <content type="html"><![CDATA[
 <p>The need for an organization connecting all banks is clear in today’s hyper-globalized economy where funds, goods and services are sent across every corner of the globe.&nbsp;</p>
 
@@ -1996,7 +2017,8 @@
         <id>https://blockworks.co/news/microstrategy-second-convertible-senior-notes-offering</id>
         <link href="https://blockworks.co/news/microstrategy-second-convertible-senior-notes-offering"/>
         <updated>2024-03-13T21:17:56.000Z</updated>
-        <summary type="html"><![CDATA[MicroStrategy announced a senior notes offering last week, raising $800 million]]></summary>
+        <summary type="html">
+            <![CDATA[MicroStrategy announced a senior notes offering last week, raising $800 million]]></summary>
         <content type="html"><![CDATA[
 <p>MicroStrategy’s not done buying up bitcoin —&nbsp;or, rather, offering convertible senior notes to do so.&nbsp;</p>
 
@@ -2077,11 +2099,13 @@
         <rights>2024, Blockworks</rights>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Terraform can retain its law firm despite SEC objections of ‘slush fund,’ court rules]]></title>
+        <title type="html">
+            <![CDATA[Terraform can retain its law firm despite SEC objections of ‘slush fund,’ court rules]]></title>
         <id>https://blockworks.co/news/terraform-retains-law-firm-despite-sec-objections</id>
         <link href="https://blockworks.co/news/terraform-retains-law-firm-despite-sec-objections"/>
         <updated>2024-03-13T21:03:53.000Z</updated>
-        <summary type="html"><![CDATA[Terraform Labs and the SEC are expected to head to trial later this month]]></summary>
+        <summary type="html">
+            <![CDATA[Terraform Labs and the SEC are expected to head to trial later this month]]></summary>
         <content type="html"><![CDATA[
 <p>Terraform Labs can retain its lawyers in its bankruptcy proceedings, a judge ruled Tuesday.</p>
 
@@ -2154,11 +2178,13 @@
         <rights>2024, Blockworks</rights>
     </entry>
     <entry>
-        <title type="html"><![CDATA[European Banking Authority takes next step in finalizing stablecoin policy ]]></title>
+        <title type="html">
+            <![CDATA[European Banking Authority takes next step in finalizing stablecoin policy ]]></title>
         <id>https://blockworks.co/news/european-banking-authority-stablecoin-regulation</id>
         <link href="https://blockworks.co/news/european-banking-authority-stablecoin-regulation"/>
         <updated>2024-03-13T19:14:56.000Z</updated>
-        <summary type="html"><![CDATA[The EBA released a final draft of regulatory technical standards outlining how issuers should respond to holder complaints ]]></summary>
+        <summary type="html">
+            <![CDATA[The EBA released a final draft of regulatory technical standards outlining how issuers should respond to holder complaints ]]></summary>
         <content type="html"><![CDATA[
 <p>As mandated by the recently-implemented Markets in Crypto-Assets Regulation (MiCA), the European Union has taken another step toward establishing regulations around stablecoins.&nbsp;</p>
 
@@ -2219,7 +2245,8 @@
         <id>https://blockworks.co/news/bitcoin-mining-stocks-crypto-rally</id>
         <link href="https://blockworks.co/news/bitcoin-mining-stocks-crypto-rally"/>
         <updated>2024-03-13T18:04:42.000Z</updated>
-        <summary type="html"><![CDATA[The market is grappling with the impact of BTC price and hash rate on miner profitability about a month before the bitcoin halving, analyst says]]></summary>
+        <summary type="html">
+            <![CDATA[The market is grappling with the impact of BTC price and hash rate on miner profitability about a month before the bitcoin halving, analyst says]]></summary>
         <content type="html"><![CDATA[
 <p>Bitcoin mining stocks have struggled in recent weeks despite BTC’s relentless price rally.</p>
 
@@ -2368,7 +2395,8 @@
         <id>https://blockworks.co/news/swell-launches-layer-2</id>
         <link href="https://blockworks.co/news/swell-launches-layer-2"/>
         <updated>2024-03-13T15:51:37.000Z</updated>
-        <summary type="html"><![CDATA[rswETH, Swell’s liquid restaked token, will be the gas token used on this new rollup]]></summary>
+        <summary type="html">
+            <![CDATA[rswETH, Swell’s liquid restaked token, will be the gas token used on this new rollup]]></summary>
         <content type="html"><![CDATA[
 <p>Swell, a liquid staking protocol, will launch its own layer-2 rollup solution for restaking using AltLayer and EigenDA.</p>
 
@@ -2522,7 +2550,8 @@
         <id>https://blockworks.co/news/layer-3-loyalty-points-base</id>
         <link href="https://blockworks.co/news/layer-3-loyalty-points-base"/>
         <updated>2024-03-13T14:34:21.000Z</updated>
-        <summary type="html"><![CDATA[Layer-3s are helpful for attestations but not as much for DeFi, Stack said in a blog post]]></summary>
+        <summary type="html">
+            <![CDATA[Layer-3s are helpful for attestations but not as much for DeFi, Stack said in a blog post]]></summary>
         <content type="html"><![CDATA[
 <p>Stack went to mainnet Monday as a so-called points chain, built as a layer-3 on top of Base.</p>
 
@@ -2611,7 +2640,8 @@
         <id>https://blockworks.co/news/ethereum-dencun-upgrade-mainnet</id>
         <link href="https://blockworks.co/news/ethereum-dencun-upgrade-mainnet"/>
         <updated>2024-03-13T14:15:48.000Z</updated>
-        <summary type="html"><![CDATA[The Dencun hard fork hits Ethereum mainnet, the most significant upgrade since the Merge]]></summary>
+        <summary type="html">
+            <![CDATA[The Dencun hard fork hits Ethereum mainnet, the most significant upgrade since the Merge]]></summary>
         <content type="html"><![CDATA[
 <p>The long-awaited Dencun upgrade activated on Ethereum mainnet Wednesday at approximately 9:55 am ET — or the start of epoch 269568 if you’re following on-chain.</p>
 
@@ -2708,11 +2738,13 @@
         <rights>2024, Blockworks</rights>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Judge orders former Binance CEO Changpeng Zhao to ‘surrender’ Canadian passport]]></title>
+        <title type="html">
+            <![CDATA[Judge orders former Binance CEO Changpeng Zhao to ‘surrender’ Canadian passport]]></title>
         <id>https://blockworks.co/news/binance-changpeng-zhao-surrenders-passport</id>
         <link href="https://blockworks.co/news/binance-changpeng-zhao-surrenders-passport"/>
         <updated>2024-03-13T14:02:39.000Z</updated>
-        <summary type="html"><![CDATA[A judge in Washington modified the former Binance CEO’s bond on Monday]]></summary>
+        <summary type="html">
+            <![CDATA[A judge in Washington modified the former Binance CEO’s bond on Monday]]></summary>
         <content type="html"><![CDATA[
 <p>US District Judge Richard Jones modified former Binance CEO Changpeng Zhao’s bond ahead of sentencing.&nbsp;</p>
 
@@ -2777,7 +2809,8 @@
         <id>https://blockworks.co/news/tron-network-integrated-with-token-terminal</id>
         <link href="https://blockworks.co/news/tron-network-integrated-with-token-terminal"/>
         <updated>2024-03-13T13:34:52.000Z</updated>
-        <summary type="html"><![CDATA[Token Terminal’s Data Partnership is a comprehensive on-chain data analytics service for L1s, L2s, and app-chains]]></summary>
+        <summary type="html">
+            <![CDATA[Token Terminal’s Data Partnership is a comprehensive on-chain data analytics service for L1s, L2s, and app-chains]]></summary>
         <content type="html"><![CDATA[
 <p>TRON DAO has collaborated with Token Terminal, integrating the TRON network’s data into Token Terminal’s sophisticated suite of data analytics tools. This collaboration promises to transform the way investors and analysts access and leverage TRON’s data.</p>
 
@@ -2860,7 +2893,8 @@
         <id>https://blockworks.co/news/blockchain-lost-decentralized-spirit</id>
         <link href="https://blockworks.co/news/blockchain-lost-decentralized-spirit"/>
         <updated>2024-03-13T13:19:17.000Z</updated>
-        <summary type="html"><![CDATA[Decentralization must be the cornerstone, not a mere aspiration, of blockchain’s journey]]></summary>
+        <summary type="html">
+            <![CDATA[Decentralization must be the cornerstone, not a mere aspiration, of blockchain’s journey]]></summary>
         <content type="html"><![CDATA[
 <p>A narrative has taken root in the realm of blockchain technology, one that champions the gradual transition from centralized control to a decentralized future. Yet this story, often recited by those at the helm, overlooks a fundamental truth about power: <em>Once seized, it is rarely surrendered without a struggle.</em>&nbsp;</p>
 
@@ -3021,7 +3055,8 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <id>https://blockworks.co/news/cheatsheet-microstrategy-outperformed-nvidia</id>
         <link href="https://blockworks.co/news/cheatsheet-microstrategy-outperformed-nvidia"/>
         <updated>2024-03-13T12:19:23.000Z</updated>
-        <summary type="html"><![CDATA[DeFi users seem to suffer from itchy palms ahead of an anticipated run for ether to record highs]]></summary>
+        <summary type="html">
+            <![CDATA[DeFi users seem to suffer from itchy palms ahead of an anticipated run for ether to record highs]]></summary>
         <content type="html"><![CDATA[
 <p><em>This is Cheatsheet, a primer on what’s happening in crypto today.</em></p>
 
@@ -3212,7 +3247,8 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <id>https://blockworks.co/news/bitcoin-etf-inflows-price-rally</id>
         <link href="https://blockworks.co/news/bitcoin-etf-inflows-price-rally"/>
         <updated>2024-03-13T11:36:24.000Z</updated>
-        <summary type="html"><![CDATA[Assets under management within BlackRock’s iShares Bitcoin Trust (IBIT) stands at about $15 billion following fund’s record day]]></summary>
+        <summary type="html">
+            <![CDATA[Assets under management within BlackRock’s iShares Bitcoin Trust (IBIT) stands at about $15 billion following fund’s record day]]></summary>
         <content type="html"><![CDATA[
 <p>The 10 US spot bitcoin ETFs collectively shattered their daily net inflow record Tuesday as more than $1 billion of investor assets entered the funds.&nbsp;</p>
 
@@ -3291,7 +3327,8 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <id>https://blockworks.co/news/coinbase-convertible-notes-offering</id>
         <link href="https://blockworks.co/news/coinbase-convertible-notes-offering"/>
         <updated>2024-03-12T21:47:17.000Z</updated>
-        <summary type="html"><![CDATA[The stock jumped 18% in the past week after bitcoin notched new all-time highs and US bitcoin ETFs continued to beat records]]></summary>
+        <summary type="html">
+            <![CDATA[The stock jumped 18% in the past week after bitcoin notched new all-time highs and US bitcoin ETFs continued to beat records]]></summary>
         <content type="html"><![CDATA[
 <p>Coinbase announced a proposed offering of $1 billion in convertible notes on Tuesday.</p>
 
@@ -3356,7 +3393,8 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <id>https://blockworks.co/news/what-is-fully-homomorphic-encryption</id>
         <link href="https://blockworks.co/news/what-is-fully-homomorphic-encryption"/>
         <updated>2024-03-12T20:43:26.000Z</updated>
-        <summary type="html"><![CDATA[FHE differs from zero-knowledge technology, as it can perform computation on top of encrypted data without revealing data points]]></summary>
+        <summary type="html">
+            <![CDATA[FHE differs from zero-knowledge technology, as it can perform computation on top of encrypted data without revealing data points]]></summary>
         <content type="html"><![CDATA[
 <p>In today’s digital world, the need to decrypt data for computational tasks exposes it to security risks.</p>
 
@@ -3562,7 +3600,8 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <id>https://blockworks.co/news/bitcoin-etfs-in-uk</id>
         <link href="https://blockworks.co/news/bitcoin-etfs-in-uk"/>
         <updated>2024-03-12T20:06:32.000Z</updated>
-        <summary type="html"><![CDATA[The success of bitcoin ETFs in the US has created pressure for the FCA to reconsider its stance, 21.co executive says]]></summary>
+        <summary type="html">
+            <![CDATA[The success of bitcoin ETFs in the US has created pressure for the FCA to reconsider its stance, 21.co executive says]]></summary>
         <content type="html"><![CDATA[
 <p>The Financial Conduct Authority’s support for crypto products in the UK only went so far — and industry watchers are calling for retail customers to also have access to such offerings.</p>
 
@@ -3667,7 +3706,8 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <id>https://blockworks.co/news/bitcoin-falters-after-all-time-high</id>
         <link href="https://blockworks.co/news/bitcoin-falters-after-all-time-high"/>
         <updated>2024-03-12T16:39:55.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin, after posting another record-high of just under $73,000 Monday, lost 0.7% Tuesday]]></summary>
+        <summary type="html">
+            <![CDATA[Bitcoin, after posting another record-high of just under $73,000 Monday, lost 0.7% Tuesday]]></summary>
         <content type="html"><![CDATA[
 <p>Bitcoin and ether faltered slightly Tuesday afternoon in New York while stocks rebounded after an initial slip on disappointing annual inflation numbers.&nbsp;</p>
 
@@ -3819,11 +3859,13 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <rights>2024, Blockworks</rights>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blast developers drawn by layer-2’s liquidity and founder’s success building Blur]]></title>
+        <title type="html">
+            <![CDATA[Blast developers drawn by layer-2’s liquidity and founder’s success building Blur]]></title>
         <id>https://blockworks.co/news/blast-developers-layer-2-liquidity</id>
         <link href="https://blockworks.co/news/blast-developers-layer-2-liquidity"/>
         <updated>2024-03-12T14:10:32.000Z</updated>
-        <summary type="html"><![CDATA[Protocols built on Blast have accrued nearly $1 billion in TVL in the two weeks since the layer-2 went to mainnet]]></summary>
+        <summary type="html">
+            <![CDATA[Protocols built on Blast have accrued nearly $1 billion in TVL in the two weeks since the layer-2 went to mainnet]]></summary>
         <content type="html"><![CDATA[
 <p>When the heavily-marketed layer-2 Blast went to mainnet late last month, so did a host of protocols built atop the optimistic rollup.&nbsp;</p>
 
@@ -3928,7 +3970,8 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <id>https://blockworks.co/news/bitcoins-21-million-limit-myth</id>
         <link href="https://blockworks.co/news/bitcoins-21-million-limit-myth"/>
         <updated>2024-03-12T13:30:03.000Z</updated>
-        <summary type="html"><![CDATA[To genuinely appreciate the value of bitcoin, one must recognize that the perceived cap of 21 million does not accurately reflect reality]]></summary>
+        <summary type="html">
+            <![CDATA[To genuinely appreciate the value of bitcoin, one must recognize that the perceived cap of 21 million does not accurately reflect reality]]></summary>
         <content type="html"><![CDATA[
 <p>We’ve all heard it. There will only ever be 21 million bitcoin. With 19.6 million already mined, time is of the essence to secure one’s rights to a piece of digital sovereignty.&nbsp;</p>
 
@@ -4039,7 +4082,8 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <id>https://blockworks.co/news/coinshares-buys-valkyrie-fund-business</id>
         <link href="https://blockworks.co/news/coinshares-buys-valkyrie-fund-business"/>
         <updated>2024-03-12T13:15:02.000Z</updated>
-        <summary type="html"><![CDATA[Europe-focused investment firm is set to expand its US asset management business after taking over ETFs with $530 million in combined assets ]]></summary>
+        <summary type="html">
+            <![CDATA[Europe-focused investment firm is set to expand its US asset management business after taking over ETFs with $530 million in combined assets ]]></summary>
         <content type="html"><![CDATA[
 <p>CoinShares completed its takeover of Valkyrie’s fund business Tuesday as part of its bid to expand its asset management footprint in the US.</p>
 
@@ -4112,7 +4156,8 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <id>https://blockworks.co/news/cheatsheet-ethereum-burning-almost-10b</id>
         <link href="https://blockworks.co/news/cheatsheet-ethereum-burning-almost-10b"/>
         <updated>2024-03-12T12:56:06.000Z</updated>
-        <summary type="html"><![CDATA[Crypto is certainly heating up on exchanges — but on-chain it’s already white hot]]></summary>
+        <summary type="html">
+            <![CDATA[Crypto is certainly heating up on exchanges — but on-chain it’s already white hot]]></summary>
         <content type="html"><![CDATA[
 <p><em>This is Cheatsheet, a primer on what’s happening in crypto today.</em></p>
 
@@ -4275,7 +4320,8 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <id>https://blockworks.co/news/coinbase-appeals-sec-rulemaking-petition</id>
         <link href="https://blockworks.co/news/coinbase-appeals-sec-rulemaking-petition"/>
         <updated>2024-03-11T21:28:06.000Z</updated>
-        <summary type="html"><![CDATA[The exchange argues that SEC acted arbitrarily in denying the petition for rulemaking, which Coinbase filed in June 2022]]></summary>
+        <summary type="html">
+            <![CDATA[The exchange argues that SEC acted arbitrarily in denying the petition for rulemaking, which Coinbase filed in June 2022]]></summary>
         <content type="html"><![CDATA[
 <p>Coinbase on Monday continued its effort to nail down concrete industry rules from the US Securities and Exchange Commission.&nbsp;</p>
 
@@ -4344,7 +4390,8 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <id>https://blockworks.co/news/bitcoin-monday-all-time-high</id>
         <link href="https://blockworks.co/news/bitcoin-monday-all-time-high"/>
         <updated>2024-03-11T20:16:59.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin started another record-setting week Monday, hitting a price of $72,846.65 according to Coinbase]]></summary>
+        <summary type="html">
+            <![CDATA[Bitcoin started another record-setting week Monday, hitting a price of $72,846.65 according to Coinbase]]></summary>
         <content type="html"><![CDATA[
 <p>Bitcoin and ether continued their historic price run Monday while equities posted a mild correction ahead of next week’s interest rate decision.&nbsp;</p>
 
@@ -4409,11 +4456,13 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <rights>2024, Blockworks</rights>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MicroStrategy once again holds more bitcoin than BlackRock’s IBIT — for now]]></title>
+        <title type="html">
+            <![CDATA[MicroStrategy once again holds more bitcoin than BlackRock’s IBIT — for now]]></title>
         <id>https://blockworks.co/news/microstrategy-bitcoin-supply-rivals-blackrock-ibit</id>
         <link href="https://blockworks.co/news/microstrategy-bitcoin-supply-rivals-blackrock-ibit"/>
         <updated>2024-03-11T19:56:03.000Z</updated>
-        <summary type="html"><![CDATA[A big portion of the company’s value comes from its ability to purchase bitcoin with convertible debt and equity, founder Michael Saylor says]]></summary>
+        <summary type="html">
+            <![CDATA[A big portion of the company’s value comes from its ability to purchase bitcoin with convertible debt and equity, founder Michael Saylor says]]></summary>
         <content type="html"><![CDATA[
 <p>MicroStrategy now holds 205,000 bitcoin after revealing the latest addition to its stockpile amid a crypto price rally.&nbsp;</p>
 
@@ -4522,7 +4571,8 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <id>https://blockworks.co/news/gnosis-chain-ethereum-dencun-hard-fork</id>
         <link href="https://blockworks.co/news/gnosis-chain-ethereum-dencun-hard-fork"/>
         <updated>2024-03-11T19:15:34.000Z</updated>
-        <summary type="html"><![CDATA[For the first time, a major Ethereum hard fork launches on another chain first]]></summary>
+        <summary type="html">
+            <![CDATA[For the first time, a major Ethereum hard fork launches on another chain first]]></summary>
         <content type="html"><![CDATA[
 <p>Gnosis Chain, originally known as xDai Chain, is a proof-of-stake blockchain designed to maintain full Ethereum compatibility, including the ability to directly implement all hard-forks.</p>
 
@@ -4611,7 +4661,8 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <id>https://blockworks.co/news/jito-labs-suspends-mempool-functionality</id>
         <link href="https://blockworks.co/news/jito-labs-suspends-mempool-functionality"/>
         <updated>2024-03-11T18:21:56.000Z</updated>
-        <summary type="html"><![CDATA[Telegram bot users may come out as the latest winners for Jito’s mempool suspension]]></summary>
+        <summary type="html">
+            <![CDATA[Telegram bot users may come out as the latest winners for Jito’s mempool suspension]]></summary>
         <content type="html"><![CDATA[
 <p>Solana MEV startup Jito Labs said on Friday that it will suspend mempool functionality offered by the Jito Block Engine following an increased amount of sandwich attacks on the Solana blockchain.</p>
 
@@ -4694,7 +4745,8 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <id>https://blockworks.co/news/us-treasury-2025-greenbook-crypto-taxes</id>
         <link href="https://blockworks.co/news/us-treasury-2025-greenbook-crypto-taxes"/>
         <updated>2024-03-11T18:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Treasury on Monday released its 2025 revenue proposals, known as the “Greenbook,” detailing many of the same plans it unveiled last year]]></summary>
+        <summary type="html">
+            <![CDATA[Treasury on Monday released its 2025 revenue proposals, known as the “Greenbook,” detailing many of the same plans it unveiled last year]]></summary>
         <content type="html"><![CDATA[
 <p>In line with President Joe Biden’s plans, the US Department of Treasury is once again suggesting a plethora of tax rules relating to digital assets, including outlawing wash-trading and imposing an excise tax on electricity costs for miners.</p>
 
@@ -4767,7 +4819,8 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <id>https://blockworks.co/news/donald-trump-talks-bitcoin</id>
         <link href="https://blockworks.co/news/donald-trump-talks-bitcoin"/>
         <updated>2024-03-11T17:31:09.000Z</updated>
-        <summary type="html"><![CDATA[This represents a change in course for Trump, who previously told the BBC that bitcoin “seems like a scam.”]]></summary>
+        <summary type="html">
+            <![CDATA[This represents a change in course for Trump, who previously told the BBC that bitcoin “seems like a scam.”]]></summary>
         <content type="html"><![CDATA[
 <p>Former President Donald Trump says he is “not sure” if he would crack down on bitcoin and other cryptocurrencies after alleging that digital assets were a popular form of payment for his recently-launched sneaker collection.&nbsp;</p>
 
@@ -4886,7 +4939,8 @@ In recent years, Chris founded Humble, a decentralized exchange on Algorand, and
         <id>https://blockworks.co/news/london-stock-exchange-crypto-etn-proposals</id>
         <link href="https://blockworks.co/news/london-stock-exchange-crypto-etn-proposals"/>
         <updated>2024-03-11T15:16:24.000Z</updated>
-        <summary type="html"><![CDATA[The FCA said Monday it would not object to such products being offered to professional investors]]></summary>
+        <summary type="html">
+            <![CDATA[The FCA said Monday it would not object to such products being offered to professional investors]]></summary>
         <content type="html"><![CDATA[
 <p>The London Stock Exchange is willing to soon consider proposals for certain crypto investment products given new guidance from the UK’s Financial Conduct Authority.</p>
 

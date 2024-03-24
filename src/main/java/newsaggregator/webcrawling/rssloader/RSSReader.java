@@ -8,8 +8,8 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-import newsaggregator.posts.Author;
-import newsaggregator.posts.Post;
+import newsaggregator.post.Author;
+import newsaggregator.post.Post;
 import newsaggregator.webcrawling.Crawler;
 import org.jsoup.Jsoup;
 import org.w3c.dom.*;
@@ -60,6 +60,18 @@ public class RSSReader extends Crawler {
                     String date = elem.getElementsByTagName("pubDate").item(0).getTextContent();
                     String summary = Jsoup.parse(elem.getElementsByTagName("description").item(0).getTextContent()).text();
                     try {
+                        String thumbnail = null;
+                        try {
+                            List<String> thumbnailTagList = new ArrayList<>(Arrays.asList("media:thumbnail", "media:content", "enclosure"));
+                            for (String thumbnailTag : thumbnailTagList) {
+                                thumbnail = elem.getElementsByTagName(thumbnailTag).item(0).getAttributes().getNamedItem("url").getTextContent();
+                                if (thumbnail != null) {
+                                    break;
+                                }
+                            }
+                        } catch (Exception e) {
+                            continue;
+                        }
                         String detailedContent = Jsoup.parse(elem.getElementsByTagName("content:encoded").item(0).getTextContent()).text();
                         String[] categories = new String[elem.getElementsByTagName("category").getLength()];
                         for (int j = 0; j < elem.getElementsByTagName("category").getLength(); j++) {
@@ -83,11 +95,11 @@ public class RSSReader extends Crawler {
                         currentPost.setArticleTitle(title);
                         currentPost.setAuthor(currentAuthor);
                         currentPost.setCreationDate(date);
+                        currentPost.setThumbnailImage(thumbnail);
                         currentPost.setArticleSummary(summary);
                         currentPost.setArticleDetailedContent(detailedContent);
                         currentPost.setAssociatedTags(Arrays.asList(categories));
                         currentPostList.add(currentPost);
-                        currentPost.display();
                     } catch (Exception e) {
                         e.printStackTrace();
                     }

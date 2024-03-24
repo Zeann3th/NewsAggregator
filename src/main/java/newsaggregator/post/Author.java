@@ -1,4 +1,4 @@
-package newsaggregator.posts;
+package newsaggregator.post;
 
 /**
  * Lớp này dùng để lưu trữ thông tin của tác giả.

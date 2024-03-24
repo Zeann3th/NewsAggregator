@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptoslate.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptoslate.com/</link>
 	<description>Cryptocurrency News and Real-time Coin Data</description>
-	<lastBuildDate>Sat, 16 Mar 2024 20:12:51 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 23 Mar 2024 18:49:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,423 +29,465 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Asia&#8217;s crypto revolution: Web3 growth in the East</title>
-		<link>https://cryptoslate.com/asias-crypto-revolution-web3-growth-in-the-east/</link>
-					<comments>https://cryptoslate.com/asias-crypto-revolution-web3-growth-in-the-east/#respond</comments>
+		<title>Op-ed: Funding isn’t the core solution to bridging the gender gap in Web3</title>
+		<link>https://cryptoslate.com/op-ed-funding-isnt-the-core-solution-to-bridging-the-gender-gap-in-web3/</link>
+					<comments>https://cryptoslate.com/op-ed-funding-isnt-the-core-solution-to-bridging-the-gender-gap-in-web3/#respond</comments>
 		
-		<dc:creator><![CDATA[Elaine Zhu]]></dc:creator>
-		<pubDate>Sun, 17 Mar 2024 00:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[Sonia Shaw]]></dc:creator>
+		<pubDate>Sat, 23 Mar 2024 11:48:31 +0000</pubDate>
 				<category><![CDATA[Guest Post]]></category>
 		<category><![CDATA[Op-Ed]]></category>
-		<category><![CDATA[Regulation]]></category>
 		<category><![CDATA[Web3]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=404654</guid>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=404640</guid>
 
-					<description><![CDATA[<p>Over the years, the Asia Pacific region (APAC) has established itself as an impressive environment for the rapidly growing technology industry. From the bustling tech hub of Singapore to the financial might of Hong Kong, the flourishing Web3 community in Vietnam, and the impressive technological creativity of Japan, APAC has consistently been at the forefront [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/asias-crypto-revolution-web3-growth-in-the-east/">Asia&#8217;s crypto revolution: Web3 growth in the East</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+					<description><![CDATA[<p>Web3 has always felt like an inclusive and empowering community to be a part of. In making the transition from traditional finance to DeFi, there has been no lack of support, encouragement, and guidance. Embodying a leadership role as a female has also felt free from obstacles or adversity. Gender Gap Still Evident However, despite [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/op-ed-funding-isnt-the-core-solution-to-bridging-the-gender-gap-in-web3/">Op-ed: Funding isn’t the core solution to bridging the gender gap in Web3</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Over the years, the Asia Pacific region (APAC) has established itself as an impressive environment for the rapidly growing technology industry. From the bustling tech hub of Singapore to the financial might of Hong Kong, the flourishing Web3 community in Vietnam, and the impressive technological creativity of Japan, APAC has consistently been at the forefront of </span><span style="font-weight: 400;">innovation.</span></p>
-<p><span style="font-weight: 400;">With governments actively embracing blockchain, a highly skilled digital native population, and leading industry projects setting their sights on the region, APAC is set to lead the charge in shaping the future of Web3. </span></p>
-<h2><b>Governments and Regulators Setting Pace </b></h2>
-<p><span style="font-weight: 400;">One of the critical drivers of this journey is the progressive regulatory stance in key jurisdictions. Last year, Singapore became one of the first countries to implement </span><strong><a href="https://www.cnbc.com/2023/08/15/singapore-among-worlds-first-to-agree-stablecoin-crypto-regulation.html">stablecoin regulation</a></strong><span style="font-weight: 400;">. This solidifies the city-state&#8217;s commitment to fostering a secure crypto ecosystem for investors and provides a blueprint for others to follow. Singapore is setting clear standards and leading by example to show the world how regulatory frameworks can bring more trust and security to the ever-evolving crypto landscape. </span></p>
-<p><span style="font-weight: 400;">Hong Kong is also solidifying its position as a crypto hub. Introducing a </span><strong><a href="https://www.kwm.com/global/en/insights/latest-thinking/hong-kongs-new-virtual-asset-regime-what-you-need-to-know.html#:~:text=The%20VASP%20Licensing%20Regime%20requires%20the%20licensed%20exchange%20to%20implement,licensed%20exchange%20and%20its%20clients.">licensing regime for Virtual Asset Service Providers (VASPs) </a></strong><span style="font-weight: 400;">and a regulatory framework for retail trading is a testament to the city&#8217;s dedication to embracing the future of financial technology. Furthermore, Hong Kong has embraced blockchain technology as a major component of its financial model.</span></p>
-<p><span style="font-weight: 400;">Spearheaded in collaboration with the United Nations and the Bank of International Settlements, the Hong Kong Monetary Authority launched a groundbreaking initiative known as &#8216;</span><strong><a href="https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/bond-market-development/government-green-bond-programme/">Project Genesis 2.0</a></strong><span style="font-weight: 400;">&#8216; which yielded two innovative prototypes for green bonds in 2023, successfully executing the sale of the world&#8217;s inaugural tokenized green bond, valued at over </span><strong><a href="https://www.hkma.gov.hk/eng/news-and-media/press-releases/2023/02/20230216-3/">$100 million USD</a></strong><span style="font-weight: 400;">.</span></p>
-<p><span style="font-weight: 400;"><a href="http://cryptoslate.com/places/japan">Japan</a> has signaled its commitment to improving the business and regulatory environment for Web3 companies. In a </span><strong><a href="https://www.coindesk.com/policy/2023/07/25/japan-signals-more-web3-promotion-policies-are-to-come/">speech</a></strong><span style="font-weight: 400;"> at last year&#8217;s WebX conference in Tokyo, Japan&#8217;s Prime Minister Fumio Kishida emphasized that the government intends to accommodate Web3 technologies, particularly regarding regulations around digital assets and content sharing. ]</span></p>
-<p><span style="font-weight: 400;">The Prime Minister emphatically stated that </span><span style="font-weight: 400;">“Web3 is part of the new form of capitalism,&#8221; leaving no doubts about the nation&#8217;s fierce commitment to fostering innovation.</span></p>
-<p><span style="font-weight: 400;">Lastly, the approval of BTC spot ETFs in the US, stewarded by premier financial institutions such as BlackRock and Fidelity, represents a very positive milestone for the industry within American borders and could signal increased activity in APAC. Before this approval, </span><strong><a href="https://www.bnnbloomberg.ca/ubs-allows-wealthy-clients-to-trade-crypto-etfs-in-hong-kong-1.1996590">UBS and HSBC</a></strong><span style="font-weight: 400;"> made strides to offer customers access to new investment vehicles. With the creation of new regulated institutional products, the possibilities for increased market participation have grown exponentially.</span></p>
-<h2><b>Digital Natives Leading the Way</b></h2>
-<p><span style="font-weight: 400;">Perhaps the region&#8217;s most valuable positive element is the highly skilled and motivated </span><strong><a href="https://news.microsoft.com/apac/2022/01/19/how-digital-natives-are-helping-fuel-asias-rise-as-the-worlds-innovation-engine/">digital natives</a></strong><span style="font-weight: 400;">. For so long, institutions and society have depended on specialized technologists and developers to lead the way in the field. But now, younger generations born into a digital world are transforming how new technologies are understood, regulated, implemented, and utilized.</span></p>
-<p><span style="font-weight: 400;">This is most clear in the APAC region where progressive regulations, thanks to a novel working relationship between technologists, business leaders, and government officials, have resulted in a projected </span><strong><a href="https://www.idc.com/getdoc.jsp?containerId=prAP50587223">US $126.9 billion</a></strong><span style="font-weight: 400;"> of spending from digital native businesses by 2026. </span></p>
-<p><span style="font-weight: 400;">The economic impacts of this exponential growth will be revolutionary, not only in the region but across the globe. On top of the impressive economic impacts, we can only begin to imagine how the new technologies and services created in this environment will positively impact industries from finance and banking to content sharing and entertainment.</span></p>
-<h2><b>Leading Web3 Adoption in 2024?</b></h2>
-<p><span style="font-weight: 400;">It&#8217;s no secret that adopting new technologies is an intricate process that requires extensive collaboration between technologists, businesses, and policymakers. This has historically been an arduous process for the tech industry, particularly due to the complexity of the subject matter, among other factors. Consequently, the regulatory framework brought forth by policymakers is often not reflective of industry, market, or consumer needs.  </span></p>
-<p><span style="font-weight: 400;">Around the world, governments have struggled to balance their objectives and the tech industry&#8217;s needs. But, in the east, an impressive movement spearheaded by a digitally oriented population is underway &#8211; one that is successfully fostering the necessary collaboration between industry leaders and public officials while ensuring the industry continues to see the same success. </span></p>
-<p><span style="font-weight: 400;">For these reasons, APAC is on the brink of claiming its position as the world&#8217;s important region for Web3 innovation. With a convergence of technological prowess, innovative regulations, and a rapidly growing digital native economy, APAC nations have seamlessly embraced the innovative principles that define Web3, and the region is poised to serve not only as a catalyst but as a leader, in the global advancement of  Web3 technologies. </span></p>
-<p>The post <a href="https://cryptoslate.com/asias-crypto-revolution-web3-growth-in-the-east/">Asia&#8217;s crypto revolution: Web3 growth in the East</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Web3 has always felt like an inclusive and empowering community to be a part of. </span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">In making the transition from traditional finance to <a href="http://cryptoslate.com/defi">DeFi</a>, there has been no lack of support, encouragement, and guidance. Embodying a leadership role as a female has also felt free from obstacles or adversity.</span></p>
+<h2><b>Gender Gap Still Evident</b></h2>
+<p><span style="font-weight: 400;">However, despite personal experience, it cannot be ignored that the evident gender gap in <a href="https://cryptoslate.com/web3/">Web3</a> has been brought to attention recently. With the recent celebration of International Women&#8217;s Day, the community must acknowledge that </span><strong><a href="https://www.forbes.com/sites/digital-assets/2023/09/13/from-glass-ceiling-to-digital-frontier-women-in-web3-and-ai-are-essential/?sh=2babbd765065">only 13% of founding teams in Web3 include at least ONE woman. </a></strong></p>
+<p><span style="font-weight: 400;">2023 data from Swiss Fintech Innovations also highlighted that </span><strong><a href="https://www.forbes.com/sites/jemmagreen/2024/03/06/why-women-matter-in-shaping-the-future-of-web3-innovation/?sh=304a7087d370">only 3.5% of Web3 investment reached women-led Web3 business </a></strong><span style="font-weight: 400;">in the first half of 2023.</span><span style="font-weight: 400;">Clearly, there is a disparity and a balance that needs amending. Powerful female leaders, with the innovative approaches they can bring, are needed for Web3’s continued evolution. But does the answer to bridging the gap simply lie in providing more funding?</span></p>
+<h2><b>Beyond Funding: Self-Empowerment As A Multi-Sided Solution</b></h2>
+<p><span style="font-weight: 400;">Partially, yes. But more money for female startups isn’t a complete solution. That’s one-dimensional. All women in Web3, founders or not, can continue to empower themselves in day-to-day approaches.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">Three main areas to consider are: embracing fear, leveraging existing expertise, and building connections.</span></p>
+<h2><b>Embracing the Fear</b></h2>
+<p><span style="font-weight: 400;">Blockchain technology, decentralization, and <a href="http://cryptoslate.com/web3">Web3 ecosystems</a> can be confusing areas to navigate. Nonetheless, acquiring new knowledge should breed excitement alongside any potential fear or doubt. It&#8217;s easy to allow thoughts of “not knowing enough&#8221; and “not being up to speed” take over. This can trigger feelings of inadequacy or overwhelm in a male-dominated industry. But women should embrace their unique ability to learn.</span></p>
+<p><span style="font-weight: 400;">With a fluid and curious approach, women&#8217;s compassionate abilities often shine through in taking on diverse information. Complexities in understanding should not be feared to the point of freeze or flight. Instead, women must recognize their capabilities and choose to fight through them. Study; ask questions &#8211; with confidence. The more knowledge acquired, the more empowerment comes. The dissolution of boundaries and barriers follow, and the playing field will naturally level out.</span></p>
+<h2><b>Leveraging Existing Experience</b></h2>
+<p><span style="font-weight: 400;">Because Web3 is such a novel, unique space &#8211; it’s easy to slip into the idea that fresh and unique personalities, approaches, and ideas will be the only route to success. Again, doubt can creep in.</span></p>
+<p><span style="font-weight: 400;">But women in Web3 need to remind themselves of the wealth of experience, leadership skills, and knowledge they’ve carried over from Web2 industries. Communication counts in Web3. Marketing counts in Web3. Creative arts count in Web3.</span></p>
+<p><span style="font-weight: 400;">Traditional financial knowledge counts in Web3. HR counts in Web3. Event management counts in Web3. Gender is irrelevant when it comes to niche professional strengths. Women should constantly be supported to self-advocate for what they can bring from past careers. They must identify and utilize their strengths; this will serve best as they continue learning in conjunction. </span></p>
+<h2><b>Building Genuine and Empowering Connections</b></h2>
+<p><span style="font-weight: 400;">Ideas are the currency of Web3, and creative individuality is the compass. It doesn&#8217;t matter who it is coming from &#8211; so long as direction and purpose are expressed with confidence and conviction. That said, the opportunity to form potential partnerships and connections is abundant. </span></p>
+<p><span style="font-weight: 400;"> Women in Web3 should consciously sharpen their ability to spot and capitalize on this potential everywhere. It&#8217;s important to recognize and place faith in the mutual respect, collaborative energy, and inclusive environment found in abundance in Web3 communities. It is the cornerstone for the exponential innovation that has occurred in such a short period within the space.</span></p>
+<p><span style="font-weight: 400;"> Women in Web3 should consciously sharpen their ability to spot and capitalize on this potential everywhere. Strength in unity extends beyond any gender divide, and the more it is nurtured, the easier it gets for everyone.</span></p>
+<h2><b>Steering The Ship</b></h2>
+<p><span style="font-weight: 400;">Overall, Web3 is progressing in many different verticals, and inclusion must be one of them. Women in Web3 play a crucial role in upholding and nourishing the broader ecosystem. Whether within regulatory landscapes, creative industries, educational reform, or digital asset development, Web3 needs women. Funding is welcomed </span><span style="font-weight: 400;">&#8211; but there is no need to wait for it.</span></p>
+<p><span style="font-weight: 400;">Females can take the lead and be assured that the community will support and nurture their efforts. Initiative, confidence, and commitment will be the most significant determinants of an improved female influence &#8211; not money.</span></p>
+<p>The post <a href="https://cryptoslate.com/op-ed-funding-isnt-the-core-solution-to-bridging-the-gender-gap-in-web3/">Op-ed: Funding isn’t the core solution to bridging the gender gap in Web3</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://cryptoslate.com/asias-crypto-revolution-web3-growth-in-the-east/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cryptoslate.com/op-ed-funding-isnt-the-core-solution-to-bridging-the-gender-gap-in-web3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/01/hongkong.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/01/hongkong.jpg" length="1200" type="image/jpg"/>
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/women-web3.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/women-web3.jpg" length="1200" type="image/jpg"/>
 	</item>
 		<item>
-		<title>How AI and crypto are shaping the future of finance</title>
-		<link>https://cryptoslate.com/how-ai-and-crypto-are-shaping-the-future-of-finance/</link>
-					<comments>https://cryptoslate.com/how-ai-and-crypto-are-shaping-the-future-of-finance/#respond</comments>
-		
-		<dc:creator><![CDATA[Shane Neagle]]></dc:creator>
-		<pubDate>Sat, 16 Mar 2024 08:00:39 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[Guest Post]]></category>
-		<category><![CDATA[Op-Ed]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=403482</guid>
-
-					<description><![CDATA[<p>Over the last three years, the crypto space has undergone massive upheavals. Alongside the boosting from stimulus packages in 2021, venture capital (VC) firms had invested $33 billion in crypto and blockchain startups. The following year, the Federal Reserve triggered a domino of crypto bankruptcies with its interest rate hiking cycle, starting from the Terra [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/how-ai-and-crypto-are-shaping-the-future-of-finance/">How AI and crypto are shaping the future of finance</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Over the last three years, the crypto space has undergone massive upheavals. Alongside the boosting from stimulus packages in 2021, venture capital (VC) firms had invested </span><a href="https://docsend.com/view/pwgbawfj6sc8q7de"><span style="font-weight: 400;"><strong>$33</strong></span></a><span style="font-weight: 400;"> billion in crypto and blockchain startups.</span></p>
-<p><span style="font-weight: 400;">The following year, the Federal Reserve triggered a domino of crypto bankruptcies with its interest rate hiking cycle, starting from the Terra (LUNA) crash and culminating in the FTX Ponzi scheme collapse.</span></p>
-<p><span style="font-weight: 400;">The promise of DeFi lost its luster, not helped by over $3 billion lost in DeFi hacks during 2023. The ongoing Bitcoin bull run shows the lack of altcoin confidence as the so-called </span><strong><a href="https://www.blockchaincenter.net/en/altcoin-season-index/">Altcoin Season</a></strong><span style="font-weight: 400;"> is yet to manifest.</span></p>
-<p><span style="font-weight: 400;">In June 2023, BlackRock&#8217;s head of strategic partnerships, Joseph Chalom, </span><strong><a href="https://www.bnnbloomberg.ca/blackrock-sees-institutional-adoption-of-defi-many-years-away-1.1936818">noted</a></strong><span style="font-weight: 400;"> that DeFi&#8217;s institutional adoption is “many, many, many years away”. However, there is a case to be made that the emerging AI narrative can fuse with blockchain technology and its applications.</span></p>
-<p><span style="font-weight: 400;">Taking in lessons from the previous cycle, what would that AI-crypto landscape look like?</span></p>
-<h2><strong>Laying the AI Foundation with Crypto Composability</strong></h2>
-<p><span style="font-weight: 400;">Looking back, it is safe to say that “DeFi” was subsumed by companies on top of tokenized layers, such as Celsius Network or BlockFi, rendering DeFi into CeFi. These companies successfully drove crypto adoption as such, only to end up sullying the very word “crypto”.</span></p>
-<p><span style="font-weight: 400;">A renewed DeFi v2 should then focus on a superior user experience that doesn’t spark the demand for centralized companies to make it so. Most importantly, DeFi security must be fortified. The most promising solution in that direction is the zero-knowledge Ethereum Virtual Machine &#8211; zkEVM.</span></p>
-<p><span style="font-weight: 400;">By abstracting chain transactions via zero-knowledge proofs (ZKPs), zkEVM increases network throughput and reduces gas costs. On top of that, zkEVM simplifies the user experience by facilitating alternative token payments for gas fees. In other words, zkEVM-like solutions pave the road to scalability needed for AI applications.</span></p>
-<p><span style="font-weight: 400;">AI applications inherently involve high volumes of data, making it a potential bottleneck for blockchain networks. With this obstacle ahead, Polygon zkEVM makes it possible to generate AI artwork via the Midjourney image generator. In </span><strong><a href="https://www.youtube.com/watch?app=desktop&amp;v=c0XYK5z8s_g">this process</a></strong><span style="font-weight: 400;">, the results could be tokenized as NFTs with low fees.</span></p>
-<p><span style="font-weight: 400;">Building further on smart contracts of other kinds, the crypto space has laid the groundwork for AI with composability and permissionless access. Combined, this creates an autonomous and efficient infrastructure for financial markets. As every piece of market action can be disassembled into smart contracts, composability brings innovation across three composability layers:</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Morphological &#8211; components communicating between DeFi protocols, creating new meta-features.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Atomic &#8211; ability for each smart contract to function independently or in conjunction with other protocols’ smart contracts.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Syntactic &#8211; ability for protocols to communicate based on standardized protocols. </span></li>
-</ul>
-<p><span style="font-weight: 400;">In practice, this translates to Lego DeFi bricks. For instance, <a href="https://cryptoslate.com/coins/compound/">Compound (COMP)</a> allows users to supply liquidity into smart contract pools. This is one of DeFi’s revolutionary pillars as users no longer require someone&#8217;s permission to either loan or borrow. With smart contracts acting as liquidity pools, borrowers can tap into them by providing collateral. </span></p>
-<p><span style="font-weight: 400;">Liquidity providers gain cTokens in return as interest. If the supplied token is USDC, the yielding one will be cUSDC. However these tokens can be integrated across the DeFi board into all protocols compatible with the ERC-20 standard.</span></p>
-<p><span style="font-weight: 400;">In other words, composability creates opportunities for the multiplicity of yields, so that no smart contract is left idle. The problem is, how to efficiently handle this rise in complexity? This is where AI comes into play.</span></p>
-<h2><strong>Amplifying Efficiency with AI</strong></h2>
-<p><span style="font-weight: 400;">When thinking of artificial intelligence (AI), the main feature that comes to mind is superhuman processing. Financial markets have long ago become too complex for human minds to handle. Instead, humans have come to rely on predictive algorithms, automation and personalization.</span></p>
-<p><span style="font-weight: 400;">In TradFi, this typically translates to robo advisors prompting users on their needs and risk tolerances. A robo advisor would then generate a profile to manage the user&#8217;s portfolio. In the blockchain composability arena, such AI algorithms would gain much greater flexibility to siphon yields.</span></p>
-<p><span style="font-weight: 400;">By reading the market conditions on the fly as they access transparent smart contracts, AI agents have the potential to reduce market inefficiencies, reduce human error, and increase market coordination. The latter already exists in the form of automated market makers (AMMs) that deliver asset price discovery.</span></p>
-<p><span style="font-weight: 400;">By analyzing order flows, liquidity and volatility in real-time, AI agents are ideally suited to optimize liquidity supply and even prevent DeFi </span><strong><a href="https://cryptoslate.com/aave-and-yearn-finance-exploited-for-over-10m-in-stablecoins/">flash loan exploits</a></strong><span style="font-weight: 400;"> by coordinating between DeFi platforms and limiting transaction sizes. </span></p>
-<p><span style="font-weight: 400;">Inevitably, as AI agents increase market efficiency through real-time market monitoring and machine learning, new prediction markets could emerge as liquidity deepens. The job of humans would then be to set bots to arbitrate against other bots.</span></p>
-<p><span style="font-weight: 400;">At </span><strong><a href="https://www.cbinsights.com/research/report/ai-trends-2023/#:~:text=In%202023%2C%20AI%20startups%20raised,a%20whole%20(%2D30%25).">$42.5 billion</a></strong><span style="font-weight: 400;"> across 2,500 equity rounds in 2023, AI investments have already outpaced the crypto peak of 2021. But which <a href="http://cryptoslate.com/cryptos/ai">AI-crypto projects</a> showcase the trend?</span></p>
-<h2><strong>Spotlight on AI-Crypto Innovators</strong></h2>
-<p><span style="font-weight: 400;">Since the launch of ChatGPT by OpenAI in November 2022, AI has been an attention grabber. The attention previously reserved for memecoins became diverted into AI advancements in reasoning, art generation, coding and most recently, text-to-video generation via Sora.</span></p>
-<p><span style="font-weight: 400;">Across these fields of human interest, they all rely on the scaling of data centers. Unlike crypto tokens, which are smart contracts, AI tokens are the base blocks of text that the AI agent disassembles into relationship units. Depending on the attunement of each AI model, these tokens represent contextual windows for the relationships between concepts.</span></p>
-<p><span style="font-weight: 400;">For each user prompt, it is challenging to allow maximum processing capacity. When the AI model breaks the text into tokens, the output relies on the token size. In turn, the token size determines the quality of the generated content, whatever it may be.</span></p>
-<p><span style="font-weight: 400;">Obviously, the larger the token size, the larger the potential for an AI model to consider the greater number of concepts when generating content. Given such inherent limitations, <a href="http://cryptoslate.com/cryptos/ai">AI tokens</a> naturally fit blockchain tech.</span></p>
-<p><span style="font-weight: 400;">Just as Web3 gaming tokenizes in-game assets for decentralized ownership, tradeable currency and reward incentives, the same can be done with AI. Case in point, <a href="https://cryptoslate.com/coins/fetch/">Fetch.AI (FET)</a> is an open-access protocol to connect Autonomous Economic Agents, via the Open Economic Framework to the Fetch Smart Ledger.</span></p>
-<p><span style="font-weight: 400;">The FET token aims to monetize network transactions, pay for AI model deployment, reward network participants and pay for other services. And just as people connect with DeFi services via wallets, they can connect with Fetch.AI’s agentverse with a Fetch Wallet to take advantage of deployed AI protocols.</span></p>
-<p><span style="font-weight: 400;">For instance, one of the many AI agents currently in beta </span><a href="https://agentverse.ai/?types=Hosted%2CLocal%2CMailbox&amp;search=&amp;status=Active&amp;sort=TotalInteractions&amp;dev_categories=FetchMember&amp;protocols="><span style="font-weight: 400;"><strong>agentverse</strong></span></a><span style="font-weight: 400;"> is PDF Summarization Agent.</span></p>
-<p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-403485" src="https://cryptoslate.com/wp-content/uploads/2024/03/ai-crypto.jpg" alt="" width="1273" height="223" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/ai-crypto.jpg 1273w, https://cryptoslate.com/wp-content/uploads/2024/03/ai-crypto-300x53.jpg 300w, https://cryptoslate.com/wp-content/uploads/2024/03/ai-crypto-1024x179.jpg 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/ai-crypto-768x135.jpg 768w" sizes="(max-width: 1273px) 100vw, 1273px" /></p>
-<p class="p1">As a prospective pathway to democratizing AI agent access and deployment, FET token has gained 300% value since the beginning of the year. According to Market Research Future, AI agents market is forecasted to grow to <a href="https://www.marketresearchfuture.com/sample_request/12255?trk=article-ssr-frontend-pulse_little-text-block"><span class="s1">$110.42 billion</span></a> by 2032 from $6.03 billion 2023. This represents a compound annual growth rate (CAGR) of 43.80%.</p>
-<p class="p1">Ultimately, we are likely to see an ecosystem of AI agents interacting with DeFi protocols and other services that would benefit from automating real-time decisions. This may expand to AI agents aiding self-driving EVs or even helping execute delicate surgeries and patient care. <span class="s1"><a href="https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/bulletin/2023/june-2023-volume-108-issue-6/ai-is-poised-to-revolutionize-surgery/">Pediatric surgeon</a></span> Dr. Danielle Walsh at the University of Kentucky College of Medicine in Lexington said:</p>
-<blockquote>
-<p class="p3">“A patient who wakes up at 1:00 in the morning 2 days after a surgical operation can contact the chatbot to ask, ‘I’m having this symptom, is this normal?’”</p>
-</blockquote>
-<p class="p5">In medical diagnostics, Massachusetts-based Lantheus Holdings (LNTH) had already deployed its PYLARIFY AI imaging agent for early prostate cancer detection. With AI-crypto projects like Fetch.AI, many such services could be tokenized to full extent.</p>
-<h2 class="p6">The Road Ahead: Challenges and Opportunities</h2>
-<p class="p1">Ahead of AI integration, blockchain platforms face the same problem &#8211; institutional adoption. Do smaller protocols have a chance to penetrate the mainstream, or is this reserved for institutions?</p>
-<p class="p1">DeFi may have paved the way for tokenized financial markets, but big players are likelier to instill public confidence.</p>
-<p class="p1">For instance, the <strong><a href="https://www.digitalasset.com/hubfs/Canton/Canton%2520Network%2520-%2520White%2520Paper.pdf"><span class="s1">Canton Network</span></a>, which is</strong> supported by Big Bank and Big Tech, may supplant smaller DeFi fish. Eventually, the convenience of <strong><a href="https://relayfi.com/blog/same-day-ach"><span class="s1">same-day bank transfers</span></a></strong> could be seamlessly integrated into blockchain networks. This is especially pertinent given that Microsoft is powering the Canton Network with Azure cloud while developing AI products.</p>
-<p class="p1">At the same time, plenty of users would prefer to stay within open-access ecosystems, riding the value appreciation of AI-crypto tokens. Moreover, crypto protocols don’t have to be directly geared toward AI agent deployment. Case in point, The Graph (GRT) could be used for AI apps as a blockchain data indexing service.</p>
-<p class="p1">Based on this speculation, this “Google of Blockchain&#8221; has gained a 103% boost year-to-date. One of the most prospective crypto projects aiding AI could be Injective Protocol (INJ). As it “injects” AI algorithms into aforementioned DeFi market actions, <a href="https://cryptoslate.com/coins/injective/">Injective</a> aims to simplify and automate complex DeFi operations.</p>
-<p class="p1">At the base layer of the AI-crypto intersection could be <strong><a href="https://allora.network/"><span class="s1">Allora Network</span></a></strong>, using its zero-knowledge machine learning (zkML) and federated learning to build AI apps for augmented DeFi experience.</p>
-<p><img decoding="async" class="alignnone size-full wp-image-403486" src="https://cryptoslate.com/wp-content/uploads/2024/03/ai-crypto-2.jpg" alt="" width="936" height="638" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/ai-crypto-2.jpg 936w, https://cryptoslate.com/wp-content/uploads/2024/03/ai-crypto-2-300x204.jpg 300w, https://cryptoslate.com/wp-content/uploads/2024/03/ai-crypto-2-768x523.jpg 768w" sizes="(max-width: 936px) 100vw, 936px" /></p>
-<p class="p1">If the rollout of these open apps is successful, institutional networks such as Canton would have diminished appeal. This dynamic will largely depend on regulatory agencies, which are yet to materialize rules even for the crypto space.</p>
-<h2 class="p2">Conclusion</h2>
-<p class="p3">AI is poised to make data more intelligible, actionable and pertinent to a specific user. On the other hand, blockchain technology formalized and decentralized the logic of human action into self-executing smart contracts.</p>
-<p class="p3">When the two spheres meet, we get AI agents with a renewed purpose. A new generation of tokenized robo-advisors that take full advantage of DeFi composability. And as AI agents explore new possibilities, new markets will emerge.</p>
-<p class="p3">From predictive analysis to injecting liquidity into on-chain markets, AI agents are ready to craft a hyper-financialized future where, <strong><a href="https://tokenist.com/investing/how-to-invest-in-bitcoin/"><span class="s1">starting from Bitcoin</span></a></strong> itself, humans will encounter plenty of building blocks to capitalize on.</p>
-<p>The post <a href="https://cryptoslate.com/how-ai-and-crypto-are-shaping-the-future-of-finance/">How AI and crypto are shaping the future of finance</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://cryptoslate.com/how-ai-and-crypto-are-shaping-the-future-of-finance/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/ai-crypto-3.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/ai-crypto-3.jpg" length="1456" type="image/jpg"/>
-	</item>
-		<item>
-		<title>Grayscale amends Ethereum ETF filing, says investors &#8216;want and deserve&#8217; the fund</title>
-		<link>https://cryptoslate.com/grayscale-amends-ethereum-etf-filing-says-investors-want-and-deserve-the-fund/</link>
-					<comments>https://cryptoslate.com/grayscale-amends-ethereum-etf-filing-says-investors-want-and-deserve-the-fund/#respond</comments>
+		<title>Solana CEO Anatoly Yakovenko denounces influx of racist and offensive memecoins</title>
+		<link>https://cryptoslate.com/solana-ceo-anatoly-yakovenko-denounces-influx-of-racist-and-offensive-memecoins/</link>
+					<comments>https://cryptoslate.com/solana-ceo-anatoly-yakovenko-denounces-influx-of-racist-and-offensive-memecoins/#respond</comments>
 		
 		<dc:creator><![CDATA[Mike Dalton]]></dc:creator>
-		<pubDate>Sat, 16 Mar 2024 00:39:19 +0000</pubDate>
-				<category><![CDATA[ETF]]></category>
-		<category><![CDATA[Regulation]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=404941</guid>
-
-					<description><![CDATA[<p>Grayscale amended a regulatory filing through which it intends to convert its Ethereum Trust to a spot exchange-traded fund (ETF). The company&#8217;s March 15 amendment strengthens its earlier filing in multiple ways. The update supports the argument that surveillance sharing within the CME ETH market is sufficient to protect against fraud and manipulation in the [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/grayscale-amends-ethereum-etf-filing-says-investors-want-and-deserve-the-fund/">Grayscale amends Ethereum ETF filing, says investors &#8216;want and deserve&#8217; the fund</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/grayscale-investments/">Grayscale</a> amended a regulatory filing through which it intends to convert its <span class="css-1qaijid r-bcqeeo r-qvutc0 r-poiln3"><a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a> Trust </span>to a spot exchange-traded fund (ETF).</p>
-<p>The company&#8217;s <a href="https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2024/SR-NYSEArca-2023-70_Am._1.pdf">March 15</a> amendment strengthens its earlier filing in multiple ways. The update supports the argument that surveillance sharing within the CME ETH market is sufficient to protect against fraud and manipulation in the spot ETH market.</p>
-<p>Grayscale&#8217;s latest amendment includes a correlation analysis conducted by <a href="https://cryptoslate.com/companies/coinbase/">Coinbase</a> as evidence of sufficient market correlation. Coinbase found that the CME ETH futures market has been &#8220;consistently and highly correlated&#8221; with the spot Ethereum market for roughly the past three years.</p>
-<p>The rate is higher than the correlation that the SEC found between the CME Bitcoin futures market and the spot <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a> market.</p>
-<p>Grayscale&#8217;s amendment also expands on the creation and redemption of ETF shares. Notably, this section describes only cash creations and redemptions. It accordingly states that authorized participants cannot purchase, hold, deliver, or receive ETH.</p>
-<p>According to the filing, Grayscale Ethereum Trust now holds $11.8 billion in assets under management (AUM) instead of $4.8 billion of AUM. The conversion of the fund to an ETF would unlock over $1.73 billion of value instead of the $1.6 billion previously estimated.</p>
-<h2>Grayscale advocates for ETF</h2>
-<p><span class="css-1qaijid r-bcqeeo r-qvutc0 r-poiln3">Craig Salm</span>, Grayscale&#8217;s <span class="css-1qaijid r-bcqeeo r-qvutc0 r-poiln3">Chief Legal Officer, acknowledged the filing and emphasized the expected broad appeal of spot Ethereum ETFs. He <a href="https://twitter.com/craigsalm/status/1768750794021511218">wrote on X</a> that investors </span>&#8220;want and deserve access to Ethereum in the form of a spot Ethereum ETF.&#8221;</p>
-<p>Salm added that the case for an Ethereum ETF &#8220;is just as strong as it was for spot Bitcoin ETFs.&#8221;</p>
-<p>Market manipulation and creation/redemption methods were key concerns before spot Bitcoin ETFs gained approval this January. Grayscale&#8217;s latest amendment is vital as it addresses those same issues in the context of Ethereum ETFs.</p>
-<p>Grayscale&#8217;s amendment comes alongside declining expectations of regulatory approval. <a href="https://polymarket.com/event/ethereum-etf-approved-by-may-31">Polymarket</a> places the odds of Ethereum ETF approval by the end of May at just 26% as of March 15.</p>
-<p>The post <a href="https://cryptoslate.com/grayscale-amends-ethereum-etf-filing-says-investors-want-and-deserve-the-fund/">Grayscale amends Ethereum ETF filing, says investors &#8216;want and deserve&#8217; the fund</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://cryptoslate.com/grayscale-amends-ethereum-etf-filing-says-investors-want-and-deserve-the-fund/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/grayscale-ethereum.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/grayscale-ethereum.jpg" length="1200" type="image/jpg"/>
-	</item>
-		<item>
-		<title>Analysts warn MicroStrategy&#8217;s plan to fuel Bitcoin buys with debt could backfire</title>
-		<link>https://cryptoslate.com/analysts-warn-microstrategys-plan-to-fuel-bitcoin-buys-with-debt-could-backfire/</link>
-					<comments>https://cryptoslate.com/analysts-warn-microstrategys-plan-to-fuel-bitcoin-buys-with-debt-could-backfire/#respond</comments>
-		
-		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
-		<pubDate>Sat, 16 Mar 2024 00:00:42 +0000</pubDate>
-				<category><![CDATA[Analysis]]></category>
-		<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[Investments]]></category>
-		<category><![CDATA[Price Watch]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[BTC]]></category>
-		<category><![CDATA[Michael Saylor]]></category>
-		<category><![CDATA[MicroStrategy]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=404790</guid>
-
-					<description><![CDATA[<p>MicroStrategy could raise as much as $600 million from its latest convertible debt offering to purchase more Bitcoin. However, JPMorgan analysts have reportedly cautioned that the firm&#8217;s reliance on debt to purchase Bitcoin could exacerbate a market downturn. The firm, led by BTC advocate Michael Saylor, has acquired over 15,000 BTC worth nearly $1 billion [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/analysts-warn-microstrategys-plan-to-fuel-bitcoin-buys-with-debt-could-backfire/">Analysts warn MicroStrategy&#8217;s plan to fuel Bitcoin buys with debt could backfire</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/microstrategy/">MicroStrategy</a> could raise as much as $600 million from its latest convertible debt offering to purchase more <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>.</p>
-<p>However, <a href="https://cryptoslate.com/companies/jpmorgan/">JPMorgan</a> analysts have <a href="https://markets.businessinsider.com/news/currencies/microstrategy-bitcoin-acquisition-debt-crypto-rally-price-high-downturn-pullback-2024-3">reportedly</a> cautioned that the firm&#8217;s reliance on debt to purchase Bitcoin could exacerbate a market downturn.</p>
-<p>The firm, led by BTC advocate <a href="https://cryptoslate.com/people/michael-saylor/">Michael Saylor</a>, has <a href="https://cryptoslate.com/mstr-rallies-10-as-microstrategy-buys-155-million-bitcoin-in-10-days/">acquired over 15,000 BTC worth nearly $1 billion</a> since the year began, primarily <a href="https://cryptoslate.com/microstrategy-spends-821-million-to-grow-bitcoin-hoard-to-205000/">financed through a convertible debt offering</a>.</p>
-<p>According to the analysts, this funding approach has turned MicroStrategy into a <a href="https://cryptoslate.com/insights/bitcoin-long-traders-still-leveraged-at-over-40-billion-notional-value-above-50k/">leveraged player</a> in the Bitcoin arena, <a href="https://cryptoslate.com/bitcoin-holders-rejoice-as-value-breaks-unprecedented-71000-milestone-marking-new-ath/">amplifying the ongoing market rally</a>.</p>
-<p>They added that such debt-funded Bitcoin acquisitions contribute to market froth and increase the likelihood of more significant deleveraging in future downturns.</p>
-<p>Despite Bitcoin&#8217;s recent surge to a record-breaking high of over $73,000, a <a href="https://cryptoslate.com/bitcoins-sudden-price-correction-wipes-out-over-666-million-from-long-traders-in-24-hours/">sharp downturn</a> has occurred, with prices dipping approximately 4% to around $68,000 as of press time, according to <em>CryptoSlate&#8217;s</em> <a href="https://cryptoslate.com/coins/bitcoin/">data</a>.</p>
-<h2>Pricing details</h2>
-<p>According to a March 15 <a href="https://www.microstrategy.com/press/microstrategy-announces-pricing-of-offering-of-convertible-senior-notes_03-15-2024">statement</a>, MicroStrategy plans to price its latest issuance of senior convertible notes at $525 million, with purchasers also granted an option to acquire up to an additional $78.5 million of the offering.</p>
-<p>As such, the anticipated proceeds from this offering range between $515 million and approximately $592.3 million. The notes are slated to mature by March 2031, carrying an annual interest rate of 0.875%, payable semi-annually.</p>
-<p>Investors who hold these notes will enjoy certain rights like the ability to request repurchase under certain conditions. Additionally, they will retain the flexibility to convert their notes into either cash or shares of MicroStrategy&#8217;s class A common stock.</p>
-<p>The conversion rate for these notes stands at $2,327.31 per share, marking a premium of roughly 40% over MicroStrategy&#8217;s average share price of $1662.20.</p>
-<p>The private offering targets qualified institutional buyers and remains subject to prevailing market conditions and other pertinent factors. Its sales would close by March 18.</p>
-<p>The post <a href="https://cryptoslate.com/analysts-warn-microstrategys-plan-to-fuel-bitcoin-buys-with-debt-could-backfire/">Analysts warn MicroStrategy&#8217;s plan to fuel Bitcoin buys with debt could backfire</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://cryptoslate.com/analysts-warn-microstrategys-plan-to-fuel-bitcoin-buys-with-debt-could-backfire/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/02/microstrategy-1.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/02/microstrategy-1.jpg" length="1200" type="image/jpg"/>
-	</item>
-		<item>
-		<title>AI crypto traders take profits pushing tokens down up to 20% after scorching 2024 rally</title>
-		<link>https://cryptoslate.com/ai-crypto-traders-take-profits-pushing-tokens-down-up-to-20-after-scorching-2024-rally/</link>
-					<comments>https://cryptoslate.com/ai-crypto-traders-take-profits-pushing-tokens-down-up-to-20-after-scorching-2024-rally/#respond</comments>
-		
-		<dc:creator><![CDATA[Liam 'Akiba' Wright]]></dc:creator>
-		<pubDate>Fri, 15 Mar 2024 23:31:19 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Analysis]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=404475</guid>
-
-					<description><![CDATA[<p>After a face-melting rally in the AI crypto sector over the past few months, investors appear to have taken a profit-taking approach over the past few days. The sector soared past $10 billion in mid-February, buoyed by Bittensor&#8217;s remarkable climb to a $4 billion market cap with an increase of over 220% in 2024. By [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/ai-crypto-traders-take-profits-pushing-tokens-down-up-to-20-after-scorching-2024-rally/">AI crypto traders take profits pushing tokens down up to 20% after scorching 2024 rally</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>After a face-melting rally in the <a href="/cryptos/ai/">AI crypto sector</a> over the past few months, investors appear to have taken a profit-taking approach over the past few days. The sector <a href="https://cryptoslate.com/ai-crypto-sector-nears-10-billion-market-cap-as-bittensor-surges-220-in-2024/">soared past $10 billion</a> in mid-February, buoyed by Bittensor&#8217;s remarkable climb to a $4 billion market cap with an increase of over 220% in 2024. By March, the sector had exploded to <a href="https://cryptoslate.com/ai-crypto-market-cap-doubles-to-25-billion-in-20-days/">over $25 billion in market cap</a>.</p>
-<figure id="attachment_404902" aria-describedby="caption-attachment-404902" style="width: 2854px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-404902 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/BTCUSD_2024-03-15_19-05-35.png" alt="Top AI coins surge in 2024 (Source: TradingView)" width="2854" height="1608" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/BTCUSD_2024-03-15_19-05-35.png 2854w, https://cryptoslate.com/wp-content/uploads/2024/03/BTCUSD_2024-03-15_19-05-35-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/BTCUSD_2024-03-15_19-05-35-1024x577.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/BTCUSD_2024-03-15_19-05-35-768x433.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/BTCUSD_2024-03-15_19-05-35-1536x865.png 1536w, https://cryptoslate.com/wp-content/uploads/2024/03/BTCUSD_2024-03-15_19-05-35-2048x1154.png 2048w" sizes="(max-width: 2854px) 100vw, 2854px" /><figcaption id="caption-attachment-404902" class="wp-caption-text">Top AI coins surge in 2024 (Source: TradingView)</figcaption></figure>
-<p>Around March 9, several projects hit new all-time highs, including <a href="/coins/bittensor">Bittensor</a>, <a href="/coins/fetch">Fetch</a>, OriginTrail, <a href="/coins/worldcoin">Worldcoin</a>, and <a href="/coins/arkham">Arkham</a>, pushing the market cap close to $30 billion.</p>
-<p>In the past few days, the sector has cooled to below $25 billion in market cap as investors seem to be taking profits after a potentially overheated market surge. While <a href="https://cryptoslate.com/insights/bitcoin-long-traders-still-leveraged-at-over-40-billion-notional-value-above-50k/">Bitcoin has also dipped</a>, as of press time, it sits just 6% below its all-time high, while the top 10 AI crypto projects are mostly down over 20%.</p>
-<figure id="attachment_404954" aria-describedby="caption-attachment-404954" style="width: 2140px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-404954 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-22.58.55.png" alt="Top 10 AI coins" width="2140" height="1244" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-22.58.55.png 2140w, https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-22.58.55-300x174.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-22.58.55-1024x595.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-22.58.55-768x446.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-22.58.55-1536x893.png 1536w, https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-22.58.55-2048x1191.png 2048w" sizes="(max-width: 2140px) 100vw, 2140px" /><figcaption id="caption-attachment-404954" class="wp-caption-text">Top 10 AI coins</figcaption></figure>
-<p>Interestingly, many AI crypto coins have not recently been as closely correlated with Bitcoin as the rest of the market. Bittensor and Fetch, specifically have seemingly been treading their own course, moving down only when Bitcoin has made substantial moves. Even then, the coins often had a delayed reaction or moved against Bitcoin.</p>
-<p>Fetch increased 140% in four days since March 6 before slightly retracing approximately 20%. Across the board, since the sector&#8217;s peak on March 9, Fetch is down 4%, ICP is down 11%, The Graph is down 12%, Singularity is down 13%, and Bittensor is down 12.8%.</p>
-<figure id="attachment_404903" aria-describedby="caption-attachment-404903" style="width: 2854px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-404903 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/BTCUSD_2024-03-15_19-04-21.png" alt="Top AI coins fall in past days (Source: TradingView)" width="2854" height="1608" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/BTCUSD_2024-03-15_19-04-21.png 2854w, https://cryptoslate.com/wp-content/uploads/2024/03/BTCUSD_2024-03-15_19-04-21-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/BTCUSD_2024-03-15_19-04-21-1024x577.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/BTCUSD_2024-03-15_19-04-21-768x433.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/BTCUSD_2024-03-15_19-04-21-1536x865.png 1536w, https://cryptoslate.com/wp-content/uploads/2024/03/BTCUSD_2024-03-15_19-04-21-2048x1154.png 2048w" sizes="(max-width: 2854px) 100vw, 2854px" /><figcaption id="caption-attachment-404903" class="wp-caption-text">Top AI coins fall in past days (Source: TradingView)</figcaption></figure>
-<p>While the rise of AI in 2023 saw an influx of new AI-related memecoins and hype projects, those currently sitting toward the top of the sector chart are primarily focused on real-life implementation of decentralized AI tooling. The work has attracted the attention of Ethereum&#8217;s Vitalik Buterin, Erik Voorhees, and other notable players in the crypto space.</p>
-<p>The importance of decentralized AI models likely aligns with that of decentralized finance as the progress of AI development continues to ramp up. Blockchain and tokenization appear solid bedfellows for a distributed AI network, indicating the recent retracement is possibly profit-taking rather than investors losing faith in the burgeoning sector. However, with such rapid gains, it is also likely that investors will be eager to see progress in delivering technology.</p>
-<p>Many of the top progress have live mainnets with projects actively building. The critical next step is to see whether a network effect can bring users on chain to engage with this fascinating cross-section of AI and blockchain. Bittensor, for one, is undoubtedly seeing demand for adoption as the cost to register one of its 32 subnets has risen from around $200,000 to over $5 million this month alone, with the price set by market forces rather than any centralized entity.</p>
-<p>The post <a href="https://cryptoslate.com/ai-crypto-traders-take-profits-pushing-tokens-down-up-to-20-after-scorching-2024-rally/">AI crypto traders take profits pushing tokens down up to 20% after scorching 2024 rally</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://cryptoslate.com/ai-crypto-traders-take-profits-pushing-tokens-down-up-to-20-after-scorching-2024-rally/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/ai-token-down.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/ai-token-down.jpg" length="1200" type="image/jpg"/>
-	</item>
-		<item>
-		<title>Vanguard CEO says Bitcoin ETFs do not &#8216;belong in a long-term portfolio&#8217;</title>
-		<link>https://cryptoslate.com/vanguard-ceo-says-bitcoin-etfs-do-not-belong-in-a-long-term-portfolio/</link>
-					<comments>https://cryptoslate.com/vanguard-ceo-says-bitcoin-etfs-do-not-belong-in-a-long-term-portfolio/#respond</comments>
-		
-		<dc:creator><![CDATA[Mike Dalton]]></dc:creator>
-		<pubDate>Fri, 15 Mar 2024 22:27:51 +0000</pubDate>
-				<category><![CDATA[ETF]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=404906</guid>
-
-					<description><![CDATA[<p>Vanguard CEO Tim Buckley said Bitcoin needs to &#8220;change as an asset class&#8221; for the investment firm to consider it as a viable option and has no intention of changing its mind about spot Bitcoin ETFs until that happens. Buckley made the statement in a preview clip of an upcoming webcast posted on March 15. [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/vanguard-ceo-says-bitcoin-etfs-do-not-belong-in-a-long-term-portfolio/">Vanguard CEO says Bitcoin ETFs do not &#8216;belong in a long-term portfolio&#8217;</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>Vanguard CEO Tim Buckley said Bitcoin needs to &#8220;change as an asset class&#8221; for the investment firm to consider it as a viable option and has no intention of changing its mind about spot Bitcoin ETFs until that happens.</p>
-<p>Buckley made the statement in a preview clip of an upcoming webcast posted on <a href="https://investor.vanguard.com/investor-resources-education/news/vanguards-perspective-on-bitcoin-etfs#modal-transcript">March 15</a>. The full conversation with CIO Greg Davis will be published on March 19.</p>
-<h2>Too volatile</h2>
-<p>Buckley said that Vanguard does not intend to change its stance toward the <a href="https://cryptoslate.com/products/category/bitcoin-etf/">spot Bitcoin ETFs</a>, primarily because it does not believe they belong in long-term and retirement portfolios. He added:</p>
-<blockquote><p>&#8220;Something like bitcoin is just too volatile and it&#8217;s not a store of value — it hasn&#8217;t been&#8230; It is speculative, really tough to think about how it belongs in a long-term portfolio.&#8221;</p></blockquote>
-<p>The Vanguard CEO said that Bitcoin prices recently fell alongside stock prices, and it is difficult to predict the flagship crypto&#8217;s growth. These factors make it difficult to determine how to include Bitcoin ETFs in portfolios.</p>
-<p>Buckley said the firm focuses on investing in asset classes with underlying cash flows, such as stocks or bonds, which are easier to value and model.</p>
-<p>Buckley <a href="https://cryptoslate.com/vanguard-ceo-to-retire-but-firm-unlikely-to-change-anti-crypto-stance/">plans to retire</a> before the end of 2024 but his departure is unlikely to change Vanguard&#8217;s stance as the beliefs are part of the firm&#8217;s investment philosophy.</p>
-<h2>Vanguard&#8217;s past complaints</h2>
-<p>Vanguard <a href="https://cryptoslate.com/vanguard-to-ban-all-bitcoin-etfs-on-its-platform/">previously confirmed</a> that it would not offer access to spot Bitcoin ETFs shortly after the funds gained approval in January 2024. The company commented more extensively on its concerns later in the month and said that Bitcoin was an &#8220;immature asset class.&#8221;</p>
-<p>Vanguard&#8217;s Global Head of ETF Capital Markets and Broker and Index Relations, Janel Jackson, <a href="https://cryptoslate.com/vanguard-says-bitcoin-is-immature-asset-class/">notably commented</a> that crypto &#8220;can create havoc within a portfolio&#8221; due to its short history and lack of inherent value and cash flow.</p>
-<p>Meanwhile, the firm&#8217;s Head of Brokerage &amp; Investments, Andrew Kadjeski, explained that the firm aims to serve long-term, buy-and-hold investors.</p>
-<p>The company&#8217;s history of avoiding short-term market trends, including steering clear of internet funds in the 1990s and removing access to leveraged and inverse funds and ETFs in 2019 and over-the-counter stocks in 2022, illustrates a historic strategy of prioritizing long-term stability over short-term gains.</p>
-<p>Vanguard&#8217;s stance has generated significant discussion within the investment community, with some clients expressing frustration over the firm&#8217;s reluctance to include Bitcoin in its investment offerings.</p>
-<p>Despite the controversy and potential market pressure, Vanguard remains steadfast in its traditional investment approach, focusing on asset classes it deems fundamental for sustained investment success.</p>
-<p>The post <a href="https://cryptoslate.com/vanguard-ceo-says-bitcoin-etfs-do-not-belong-in-a-long-term-portfolio/">Vanguard CEO says Bitcoin ETFs do not &#8216;belong in a long-term portfolio&#8217;</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://cryptoslate.com/vanguard-ceo-says-bitcoin-etfs-do-not-belong-in-a-long-term-portfolio/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/02/vanguard-ceo.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/02/vanguard-ceo.jpg" length="1792" type="image/jpg"/>
-	</item>
-		<item>
-		<title>Binance Labs spun-off into independent entity outside the Binance group umbrella</title>
-		<link>https://cryptoslate.com/binance-labs-spun-off-into-independent-entity-outside-the-binance-group-umbrella/</link>
-					<comments>https://cryptoslate.com/binance-labs-spun-off-into-independent-entity-outside-the-binance-group-umbrella/#respond</comments>
-		
-		<dc:creator><![CDATA[Mike Dalton]]></dc:creator>
-		<pubDate>Fri, 15 Mar 2024 21:00:04 +0000</pubDate>
-				<category><![CDATA[Exchanges]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=404861</guid>
-
-					<description><![CDATA[<p>Binance spun off its $10 billion venture capital arm, Binance Labs, into an independent entity that will no longer be under the group&#8217;s purview weeks ago. Bloomberg drew attention to the silent change in a March 15 report, which revealed that Binance Labs had added a disclaimer about the change on its website earlier in [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/binance-labs-spun-off-into-independent-entity-outside-the-binance-group-umbrella/">Binance Labs spun-off into independent entity outside the Binance group umbrella</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/binance/">Binance</a> spun off its $10 billion venture capital arm, Binance Labs, into an independent entity that will no longer be under the group&#8217;s purview weeks ago.</p>
-<p>Bloomberg drew attention to the silent change in a <a href="https://www.bnnbloomberg.ca/top-crypto-exchange-binance-spins-off-10-billion-venture-unit-1.2047231">March 15</a> report, which revealed that Binance Labs had added a disclaimer about the change on its website earlier in the year.</p>
-<p>Based on snapshots from Archive.org, the venture firm added the disclaimer in late February:</p>
-<blockquote><p>&#8220;Binance Labs is an independent venture and not part of the Binance Group nor is it involved in any of the businesses operated by the Binance Group (including but not limited to the Binance cryptocurrency exchange).&#8221;</p></blockquote>
-<p>The spin-off is one of the most significant decisions made under the exchange&#8217;s new CEO, <a href="https://cryptoslate.com/people/richard-teng/">Richard Teng</a>, since taking over four months ago. He previously headed the exchange&#8217;s Singapore division and has no publicly listed role at Binance Labs.</p>
-<p>The companies did not respond to a request for comment as of press time, and the reasons behind the decision to split the venture capital division are unclear.</p>
-<h2>Licensing the brand</h2>
-<p>Binance Labs Investment Director Alex Odagiu told Bloomberg that the venture capital firm operates independently but will continue to use the Binance brand name under a licensing agreement.</p>
-<p>Despite its newfound independence, Binance Labs remains dedicated to its foundational mission of discovering and investing in promising crypto projects. Odagiu reaffirmed the commitment, stressing that the venture&#8217;s focus on supporting innovation within the blockchain ecosystem remains unchanged.</p>
-<p>The separation entails distinct contractual agreements for Binance Labs staff, mirroring the organizational structure seen in other Binance-supported entities such as the BNB Chain.</p>
-<p>Bloomberg identified the value of Binance Labs as close to $10 billion. The company&#8217;s website indicates that it has supported more than 200 crypto projects over six years. Its portfolio notably includes the top-twenty market cap blockchain Polygon, the metaverse-focused platform <a href="https://cryptoslate.com/coins/the-sandbox/">The Sandbox</a>, and the decentralized finance platform CurveFi.</p>
-<h2>Binance reshuffled leadership</h2>
-<p>This strategic pivot comes in the wake of Binance&#8217;s recent settlement with US regulatory bodies, culminating in a hefty <a href="https://cryptoslate.com/binance-founder-changpeng-zhao-sentencing-rescheduled-for-april-30/">$4.3 billion fine</a> and the replacement of its founder, <a href="https://cryptoslate.com/people/changpeng-zhao/">Changpeng Zhao</a>, with Teng as CEO.</p>
-<p>The reorganization appears to be part of a broader strategy to navigate the post-settlement landscape, ensuring compliance and operational resilience.</p>
-<p>Under the leadership of Binance co-founder Yi He,  Binance Labs has emerged as a pivotal force in the crypto venture capital arena.</p>
-<p>Funded primarily through the exchange&#8217;s profits, it has established itself as a key player, supporting approximately 250 projects, including notable names like <a href="https://cryptoslate.com/companies/sky-mavis/">Sky Mavis</a>, <a href="https://cryptoslate.com/coins/aptos/">Aptos Labs</a>, and <a href="https://cryptoslate.com/coins/polygon/">Polygon</a>.</p>
-<p>The venture operates both as an investor and an incubator, with a focus on nurturing startups across various blockchain ecosystems.</p>
-<p>The post <a href="https://cryptoslate.com/binance-labs-spun-off-into-independent-entity-outside-the-binance-group-umbrella/">Binance Labs spun-off into independent entity outside the Binance group umbrella</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://cryptoslate.com/binance-labs-spun-off-into-independent-entity-outside-the-binance-group-umbrella/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/01/binance_.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/01/binance_.jpg" length="1200" type="image/jpg"/>
-	</item>
-		<item>
-		<title>US prosecutors want SBF to serve at least four decades in prison</title>
-		<link>https://cryptoslate.com/us-prosecutors-want-sbf-to-serve-at-least-four-decades-in-prison/</link>
-					<comments>https://cryptoslate.com/us-prosecutors-want-sbf-to-serve-at-least-four-decades-in-prison/#respond</comments>
-		
-		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
-		<pubDate>Fri, 15 Mar 2024 20:14:55 +0000</pubDate>
-				<category><![CDATA[Crime]]></category>
-		<category><![CDATA[Exchanges]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Legal]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=404867</guid>
-
-					<description><![CDATA[<p>Federal prosecutors have requested a prison sentence of 40 to 50 years for FTX founder Sam Bankman-Fried (SBF) following his conviction for conducting one of the most significant financial frauds in recent times through the misappropriation of over $8 billion of customer funds. The US Attorney&#8217;s Office for the Southern District of New York filed [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/us-prosecutors-want-sbf-to-serve-at-least-four-decades-in-prison/">US prosecutors want SBF to serve at least four decades in prison</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>Federal prosecutors have requested a prison sentence of 40 to 50 years for <a href="https://cryptoslate.com/companies/ftx/">FTX</a> founder <a href="https://cryptoslate.com/people/sam-bankman-fried/">Sam Bankman-Fried</a> (SBF) following his <a href="https://cryptoslate.com/sbf-housed-with-ex-honduras-president-in-jail-is-trading-mackerel-and-giving-crypto-tips/">conviction</a> for conducting one of the most significant financial frauds in recent times through the misappropriation of over $8 billion of customer funds.</p>
-<p>The US Attorney&#8217;s Office for the Southern District of New York filed a <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.590940/gov.uscourts.nysd.590940.410.0_2.pdf">sentencing memorandum</a> detailing SBF&#8217;s wide-ranging fraudulent activities on March 15.</p>
-<p>According to the filing, his malpractices not only undermined the integrity of the financial and political systems but also left tens of thousands of victims across several continents grappling with significant losses.</p>
-<h2>Greed and ambition</h2>
-<p>The government&#8217;s filing paints a picture of SBF as a figure driven by <a href="https://cryptoslate.com/billions-in-user-funds-were-lost-crypto-community-reacts-to-sbf-guilty-verdict/">unparalleled greed and ambition</a>, whose actions reached into the political arena through unlawful contributions and even extended overseas with attempts to bribe Chinese government officials.</p>
-<p>Beyond the financial deceit at FTX and Alameda Research, a trading firm he founded, SBF was also involved in banking misconduct, including operating an unlicensed money transmitting business and misleading banks to facilitate his operations.</p>
-<p>In the aftermath of FTX&#8217;s bankruptcy, SBF attempted to <a href="https://cryptoslate.com/sbfs-defense-claims-ftx-had-no-fiduciary-relationship-with-customers-on-technicality/">deflect blame and evade responsibility</a>, further complicating the legal proceedings and highlighting a persistent refusal to acknowledge the scope of his wrongdoing.</p>
-<p>The prosecutors also outlined instances of obstruction of justice, including his use of encrypted messaging to delete evidence and tampering with witnesses.</p>
-<h2>Extraordinary punishment for extraordinary crimes</h2>
-<p>The request for a 40 to 50-year sentence emphasizes the severity of SBF&#8217;s actions and reflects the prosecution&#8217;s stance on the need for a punishment that matches the extraordinary impact of his crimes.</p>
-<p>The memorandum argues that such a sentence is necessary not only to provide justice for the victims but also to serve as a deterrent against similar crimes in the rapidly evolving crypto sector.</p>
-<p>In addition to the prison term, the government is seeking forfeiture of assets acquired through the criminal activities and has proposed victim compensation through remission as an alternative to traditional restitution. This approach aims to address the financial harm suffered by the victims, some of whom lost their life savings in the collapse of FTX.</p>
-<p>SBF&#8217;s sentencing is set for March 28, marking a pivotal moment in bringing justice to the thousands of FTX customers who were wronged. The case stands as a significant chapter in the legal challenges facing the digital finance world.</p>
-<p>The post <a href="https://cryptoslate.com/us-prosecutors-want-sbf-to-serve-at-least-four-decades-in-prison/">US prosecutors want SBF to serve at least four decades in prison</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://cryptoslate.com/us-prosecutors-want-sbf-to-serve-at-least-four-decades-in-prison/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2023/10/sam-bankman-fried-sbf-6.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2023/10/sam-bankman-fried-sbf-6.jpg" length="1200" type="image/jpg"/>
-	</item>
-		<item>
-		<title>Solana defies overall market trend to hit new all-time high market cap</title>
-		<link>https://cryptoslate.com/solana-defies-overall-market-trend-to-hit-new-all-time-high-market-cap/</link>
-					<comments>https://cryptoslate.com/solana-defies-overall-market-trend-to-hit-new-all-time-high-market-cap/#respond</comments>
-		
-		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
-		<pubDate>Fri, 15 Mar 2024 18:33:52 +0000</pubDate>
-				<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[Culture]]></category>
+		<pubDate>Sat, 23 Mar 2024 00:37:09 +0000</pubDate>
+				<category><![CDATA[Culture]]></category>
 		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Memecoins]]></category>
-		<category><![CDATA[Price Watch]]></category>
-		<category><![CDATA[Trading]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=404831</guid>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=406551</guid>
 
-					<description><![CDATA[<p>Solana (SOL) broke new ground on March 15 after an 11% rally brought its market capitalization to a new all-time high of $82.5 billion at a price of $186.77 per token despite the overall downtrend, which saw the market contract by 4%. This achievement surpasses its prior peak market cap of approximately $77.9 billion — [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/solana-defies-overall-market-trend-to-hit-new-all-time-high-market-cap/">Solana defies overall market trend to hit new all-time high market cap</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+					<description><![CDATA[<p>Members of the Solana community and the crypto ecosystem denounced the recent surge in inflammatory memecoins on March 22. Unknown parties recently took advantage of Solana&#8217;s token creation feature to introduce thousands of memecoins with racist and antisemitic terminology in their names, some tokens also contained anti-China descriptions and other broadly offensive material. Solana founder [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/solana-ceo-anatoly-yakovenko-denounces-influx-of-racist-and-offensive-memecoins/">Solana CEO Anatoly Yakovenko denounces influx of racist and offensive memecoins</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>Solana (<a href="https://cryptoslate.com/coins/solana/">SOL</a>) broke new ground on March 15 after an 11% rally brought its market capitalization to a new all-time high of $82.5 billion at a price of $186.77 per token despite the overall downtrend, which saw the market contract by 4%.</p>
-<p>This achievement surpasses its prior peak market cap of approximately $77.9 billion — observed in November 2021 at its all-time high of $259.96 — signaling strong investor confidence and a growing interest in the digital asset.</p>
-<p>SOL was trading at $181.35 as of press time — up 9.29% over the past 24 hours, with a market cap hovering just above $80 billion, according to <em>CryptoSlate</em> <a href="https://cryptoslate.com/coins/solana/">data</a>.</p>
-<h2>Sol ecosystem thriving</h2>
-<p>Adding to Solana&#8217;s impressive week, the network saw a record-breaking number of new addresses, with a daily average of 738,040 new addresses based on a seven-day moving average.</p>
-<p>This uptick in new addresses highlights the growing community and interest in the Solana ecosystem, which saw a green day of trading, with most tokens recording significant gains.</p>
-<p>DEX native tokens — including Raydium and the recently launched Jupiter and Jito —  saw double-digit gains over the past day.</p>
-<p><a href="https://cryptoslate.com/coins/raydium/">RAY</a> and <a href="https://cryptoslate.com/coins/jupiter-ag/">JUP</a> were up more than 30%, while <a href="https://cryptoslate.com/coins/jito/">JITO</a> recorded gains 10%.</p>
-<p>Meanwhile, the largest Solana-based memecoins like <a href="https://cryptoslate.com/coins/dogwifhat/">WIF</a> and <a href="https://cryptoslate.com/coins/bonk1/">BONK</a> saw a drawdown mimicking the wider market as investors turned to smaller cap tokens on DEXs amid renewed memecoin frenzy.</p>
-<h2>Memecoin fever</h2>
-<p>The current enthusiasm surrounding Solana is largely fueled by the <a href="https://cryptoslate.com/revolut-to-launch-new-crypto-exchange-amidst-reports-of-listing-solanas-bonk-memecoin/">vibrant trading activity</a> related to newly launched <a href="https://cryptoslate.com/cryptos/meme/">memecoins</a> on the network following a <a href="https://cryptoslate.com/pepe-leads-memecoin-rally-with-blistering-118-surge-over-48-hours/">dramatic surge</a> in memecoins this year.</p>
-<p>Noteworthy gains were observed in memecoins like Dogwifhat, Popcat, and Bonk, which have posted gains ranging from 117% to 554% over the past 30 days. This surge in memecoin activity has drawn considerable attention to Solana, highlighting its utility and growing relevance in the crypto space.</p>
-<p>The appeal of memecoins on the Solana network has been attributed to their accessibility and entertainment value. The trend reflects a broader interest in engaging with the crypto market in a fun and accessible manner.</p>
-<p>The post <a href="https://cryptoslate.com/solana-defies-overall-market-trend-to-hit-new-all-time-high-market-cap/">Solana defies overall market trend to hit new all-time high market cap</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+										<content:encoded><![CDATA[<p>Members of the Solana community and the crypto ecosystem denounced the recent surge in inflammatory memecoins on March 22.</p>
+<p>Unknown parties recently took advantage of Solana&#8217;s token creation feature to introduce thousands of memecoins with racist and antisemitic terminology in their names, some tokens also contained anti-China descriptions and other broadly offensive material.</p>
+<p><a href="https://cryptoslate.com/coins/solana/">Solana</a> founder and CEO <a href="https://cryptoslate.com/people/anatoly-yakovenko/">Anatoly Yakovenko</a> spoke out against the trend on X, <a href="https://twitter.com/aeyakovenko/status/1771222385242317299">simply stating</a>:</p>
+<blockquote><p>&#8220;F’ these anti-Semitic racist incels.&#8221;</p></blockquote>
+<h2>DEX Screener responds</h2>
+<p>DEX Screener, a popular third-party service that monitors tokens on various blockchains, including Solana, <a href="https://twitter.com/dexscreener/status/1771232117134905478">said</a> it would review its policies following the high rate of offensive memecoin launches in recent days.</p>
+<p>The company said:</p>
+<blockquote><p>&#8220;We won&#8217;t be the gatekeepers of what happens on-chain, but we&#8217;re definitely not here to spread hate.&#8221;</p></blockquote>
+<p>The platform&#8217;s <a href="https://docs.dexscreener.com/">documentation</a> indicates that all data is currently handled in real time &#8220;without any human moderation or intervention.&#8221;</p>
+<p>As of press time, the trend has slightly diminished. However, it is unclear whether DEX Screener has taken action against it.</p>
+<p>Molly White of web3isgoinggreat <a href="https://www.web3isgoinggreat.com/?id=solana-racist-memecoins">suggested that</a> the offensive tokens initially filled DEX Screener, few of those tokens are currently trending on the platform&#8217;s main page. Furthermore, memecoins representing backlash against the harmful content are trending, including &#8220;Stop Racism on Solana&#8221; and &#8220;F— DEX Screener.&#8221;</p>
+<h2>Memecoin frenzy</h2>
+<p>The crypto industry has been gripped by a memecoin frenzy for months now, driven primarily by the blistering surge in value seen by BONK and WIF, among others.</p>
+<p>Solana&#8217;s cheap costs and fast transactions have positioned it as the main benefactor of the surge in memecoin trading, with a significant percentage of the trading volume occurring on the network.</p>
+<p>SolanaFM <a href="https://twitter.com/solanafm/status/1770836758462189656">recently reported</a> that more than 20,000 new tokens are created daily on the network. Solana&#8217;s rising token count is accommodated by its comparatively low transaction fees, which make creating new tokens more affordable than on other blockchains.</p>
+<p>For example, whereas the <a href="https://etherscan.io/chart/avg-txfee-usd">average Ethereum transaction fee</a> is above $9.00, Solana transactions typically cost a fraction of a cent — though actual transaction costs on each chain may vary.</p>
+<p>Over the past 24 hours, all but 5 of the 50 top trending cryptos on DEX Screener circulated, at least in part, on Solana.</p>
+<p>The post <a href="https://cryptoslate.com/solana-ceo-anatoly-yakovenko-denounces-influx-of-racist-and-offensive-memecoins/">Solana CEO Anatoly Yakovenko denounces influx of racist and offensive memecoins</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://cryptoslate.com/solana-defies-overall-market-trend-to-hit-new-all-time-high-market-cap/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cryptoslate.com/solana-ceo-anatoly-yakovenko-denounces-influx-of-racist-and-offensive-memecoins/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/solana-yearly-high.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/solana-yearly-high.jpg" length="1200" type="image/jpg"/>
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/anatoly-yakovenko-memes-1.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/anatoly-yakovenko-memes-1.jpg" length="1200" type="image/jpg"/>
 	</item>
 		<item>
-		<title>Satoshi&#8217;s Vision down 17% against Bitcoin after Satoshi&#8217;s Verdict</title>
-		<link>https://cryptoslate.com/insights/satoshis-vision-down-17-against-bitcoin-following-satoshis-verdict/</link>
+		<title>Anthropic founders block Saudi Arabia from buying FTX-owned stake</title>
+		<link>https://cryptoslate.com/anthropic-founders-block-saudi-arabia-from-buying-ftx-owned-stake/</link>
+					<comments>https://cryptoslate.com/anthropic-founders-block-saudi-arabia-from-buying-ftx-owned-stake/#respond</comments>
 		
-		<dc:creator><![CDATA[Liam 'Akiba' Wright]]></dc:creator>
-		<pubDate>Fri, 15 Mar 2024 17:08:19 +0000</pubDate>
-				<guid isPermaLink="false">https://cryptoslate.com/?post_type=crypto_insight&#038;p=404837</guid>
+		<dc:creator><![CDATA[Mike Dalton]]></dc:creator>
+		<pubDate>Fri, 22 Mar 2024 23:14:45 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Bankruptcy]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=406513</guid>
 
-					<description><![CDATA[<p>While Bitcoin has seen a pullback from its recently set new all-time high of $73,750 on March 14, currently trading down around 8%, other Bitcoin forks have fared much worse. Following the morning of the landmark ruling against Craig Wright on March 14, Bitcoin Satoshi&#8217;s Vision is down 17% against BTC. Other Bitcoin forks, such [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/insights/satoshis-vision-down-17-against-bitcoin-following-satoshis-verdict/">Satoshi&#8217;s Vision down 17% against Bitcoin after Satoshi&#8217;s Verdict</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+					<description><![CDATA[<p>AI firm Anthropic has blocked Saudi Arabia from engaging in the sale process of 8% of its shares — currently owned by defunct crypto exchange FTX, CNBC reported on March 22, citing people familiar with the matter. FTX is selling the stake as part of its bankruptcy proceedings to repay its creditors, who lost billions [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/anthropic-founders-block-saudi-arabia-from-buying-ftx-owned-stake/">Anthropic founders block Saudi Arabia from buying FTX-owned stake</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>While Bitcoin has seen a pullback from its recently set new all-time high of $73,750 on March 14, currently trading down around 8%, other Bitcoin forks have fared much worse. Following the morning of the landmark ruling against Craig Wright on March 14, Bitcoin Satoshi&#8217;s Vision is down 17% against BTC.</p>
-<figure id="attachment_404823" aria-describedby="caption-attachment-404823" style="width: 2854px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-404823 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/BSVBTC_2024-03-15_16-17-37.png" alt="Bitcoin forks against BTC (Source: TradingView)" width="2854" height="1608" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/BSVBTC_2024-03-15_16-17-37.png 2854w, https://cryptoslate.com/wp-content/uploads/2024/03/BSVBTC_2024-03-15_16-17-37-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/BSVBTC_2024-03-15_16-17-37-1024x577.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/BSVBTC_2024-03-15_16-17-37-768x433.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/BSVBTC_2024-03-15_16-17-37-1536x865.png 1536w, https://cryptoslate.com/wp-content/uploads/2024/03/BSVBTC_2024-03-15_16-17-37-2048x1154.png 2048w" sizes="(max-width: 2854px) 100vw, 2854px" /><figcaption id="caption-attachment-404823" class="wp-caption-text">Bitcoin forks against BTC (Source: TradingView)</figcaption></figure>
-<p>Other Bitcoin forks, such as Bitcoin Cash, are also down against BTC but at a more modest 3% and 7%, respectively.</p>
-<p>Craig Wright&#8217;s Bitcoin fork Bitcoin SV is down around 80% from its all-time high compared to Bitcoin, which is currently rocking around price discovery ranges. While Bitcoin SV is up around 360% from its all-time low set in July 2023 in dollar terms, it is near its all-time low when denominated in BTC.</p>
-<figure id="attachment_404839" aria-describedby="caption-attachment-404839" style="width: 2854px" class="wp-caption aligncenter"><img decoding="async" class="size-full wp-image-404839" src="https://cryptoslate.com/wp-content/uploads/2024/03/BSVBTC_2024-03-15_17-04-43.png" alt="Bitcoin SV vs Bitcoin (Source: TradingView)" width="2854" height="1608" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/BSVBTC_2024-03-15_17-04-43.png 2854w, https://cryptoslate.com/wp-content/uploads/2024/03/BSVBTC_2024-03-15_17-04-43-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/BSVBTC_2024-03-15_17-04-43-1024x577.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/BSVBTC_2024-03-15_17-04-43-768x433.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/BSVBTC_2024-03-15_17-04-43-1536x865.png 1536w, https://cryptoslate.com/wp-content/uploads/2024/03/BSVBTC_2024-03-15_17-04-43-2048x1154.png 2048w" sizes="(max-width: 2854px) 100vw, 2854px" /><figcaption id="caption-attachment-404839" class="wp-caption-text">Bitcoin SV vs Bitcoin (Source: TradingView)<span style="color: #383838; font-size: 16px;"> </span></figcaption></figure>
+										<content:encoded><![CDATA[<p>AI firm <a href="https://cryptoslate.com/companies/ftx/">Anthropic</a> has blocked Saudi Arabia from engaging in the sale process of 8% of its shares — currently owned by defunct crypto exchange <a href="https://cryptoslate.com/companies/ftx/">FTX</a>, CNBC reported on March 22, citing people familiar with the matter.</p>
+<p>FTX is <a href="https://cryptoslate.com/ftx-secures-court-approval-to-sell-8-anthropic-stake/">selling the stake</a> as part of its bankruptcy proceedings to repay its creditors, who lost billions due to its collapse. Investment bank Perella Weinberg is managing the sale, which has reportedly drawn interest from multiple sovereign wealth funds.</p>
+<p>The sale is expected to be completed in the coming weeks.</p>
+<h2>National security risk</h2>
+<p>Saudi Arabia, despite its aggressive investment diversification efforts under Crown Prince Mohammed bin Salman&#8217;s “Vision 2030 Initiative,&#8221; has been barred from investing in Anthropic.</p>
+<p>According to the report, Anthropic founders Dario and Daniela Amodei, who have ties to FTX founder and former CEO <a href="https://cryptoslate.com/people/sam-bankman-fried/">Sam Bankman-Fried</a> through the effective altruism community, told bankers not to sell the stake to Saudi Arabia. The two are broadly uninvolved in the discussions but retain the right to vet potential investors.</p>
+<p>Anthropic&#8217;s decision reportedly stems from considerations of national security and geopolitical complexities, including Saudi Arabia&#8217;s relations with China and its controversial human rights record, highlighted by incidents such as the alleged assassination of journalist Jamal Khashoggi in 2018.</p>
+<p>The AI firm may be wary of selling the shares to Saudi Arabia as AI is considered a &#8220;dual-risk&#8221; technology that has both civilian and military use cases.</p>
+<p>However, the company has not attempted to exclude other countries from participating in the sale — with the UAE&#8217;s Mubadala still in the running.</p>
+<p>The US government has also <a href="https://cryptoslate.com/openais-sam-altman-seeking-7t-to-solve-the-global-chip-shortage-issue/">raised concerns</a> about the sensitive nature of AI in relation to national security in recent weeks.</p>
+<p>The Committee on Foreign Investment in the United States (CFIUS) has the authority to block foreign investments that are deemed a threat to national security and may choose to intervene in the sale process considering the heightened interest from foreign state-backed entities.</p>
+<h2>Shares now worth $1 billion</h2>
+<p>Originally purchased by FTX for $500 million in 2021, the stake&#8217;s value has significantly increased in the wake of the AI sector&#8217;s rapid expansion and is worth more than $1 billion as of press time.</p>
+<p>The sale of class B shares, which do not offer voting rights, is priced based on Anthropic&#8217;s last valuation of $18.4 billion and amounts to more than $1 billion as of March.</p>
+<p>The sale of FTX&#8217;s Anthropic stake is part of the former company&#8217;s bankruptcy case. A court ruled that FTX could sell the stake in February. Sale proceeds will partially go toward compensating investors affected by the collapse of FTX, satisfying a concern that was raised when the court greenlit the sale last month. Estimates from mid-2023 suggest FTX owes customers about $8.7 billion.</p>
+<p>The post <a href="https://cryptoslate.com/anthropic-founders-block-saudi-arabia-from-buying-ftx-owned-stake/">Anthropic founders block Saudi Arabia from buying FTX-owned stake</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/anthropic-founders-block-saudi-arabia-from-buying-ftx-owned-stake/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2023/09/ai-anthropic.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2023/09/ai-anthropic.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Cathie Wood doubles down on $1.5 million Bitcoin as institutional exposure looms</title>
+		<link>https://cryptoslate.com/cathie-wood-doubles-down-on-1-5-million-bitcoin-as-institutional-exposure-looms/</link>
+					<comments>https://cryptoslate.com/cathie-wood-doubles-down-on-1-5-million-bitcoin-as-institutional-exposure-looms/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Fri, 22 Mar 2024 22:10:16 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Price Watch]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=406478</guid>
+
+					<description><![CDATA[<p>Ark Invest CEO Cathie Wood said Bitcoin could be worth more than $1.5 million per coin if institutions allocate roughly 5% of their portfolios to the digital asset. Wood made the statement during the Bitcoin Investor Day conference in New York on March 22. She said: &#8220;Since the SEC gave Institutions the green light to [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/cathie-wood-doubles-down-on-1-5-million-bitcoin-as-institutional-exposure-looms/">Cathie Wood doubles down on $1.5 million Bitcoin as institutional exposure looms</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/ark-invest/">Ark Invest</a> CEO <a href="https://cryptoslate.com/people/cathie-wood/">Cathie Wood</a> said Bitcoin could be worth more than <a href="https://cryptoslate.com/cathie-wood-believes-bitcoin-will-hit-1-5m-by-2030-in-a-bull-scenario/">$1.5 million</a> per coin if institutions allocate roughly 5% of their portfolios to the digital asset.</p>
+<p>Wood made the statement during the Bitcoin Investor Day conference in New York on March 22.</p>
+<p>She said:</p>
+<blockquote><p>&#8220;Since the SEC gave Institutions the green light to Bitcoin, if they were to allocate more than 5% of their portfolios to Bitcoin as we think they will – that would add $2.3M to the $1.5M price target we initially gave.&#8221;</p></blockquote>
+<p>The firm&#8217;s <a href="https://cryptoslate.com/cathie-wood-sees-bitcoin-at-1-million-sooner-than-2030-after-record-etf-performance/">revised outlook</a>, suggesting a potential surge in Bitcoin&#8217;s price beyond the $1.5 million mark, aligns with broader expectations for its integration into the global financial system.</p>
+<p>With major financial institutions yet to fully embrace Bitcoin, Wood anticipates further upward momentum in its value.</p>
+<h2>Mathematically plausible</h2>
+<p>This stance builds upon Wood&#8217;s earlier predictions, notably her assertion in January that Bitcoin could ascend to $1.5 million by 2030 in a bullish scenario. This was shortly after the US SEC approved the first spot Bitcoin ETFs, a move Wood hailed as pivotal for mainstream Bitcoin adoption.</p>
+<p>Wood has long been a proponent of Bitcoin&#8217;s growth potential, having previously set an ambitious price target of $1.5 million for the flagship crypto.</p>
+<p>Despite the buzz around institutional investments potentially driving Bitcoin&#8217;s value to even higher summits, Wood has chosen not to revise her forecast but suggests the pathway to surpassing $3.5 million is mathematically plausible.</p>
+<h2>Financial stabilizer</h2>
+<p>Wood also emphasized the rising significance of Bitcoin, particularly in emerging markets amid the global economic fluctuations spurred by heightened US Federal Reserve interest rates.</p>
+<p>Wood said that Bitcoin has acted as a financial stabilizer in economies faced with currency devaluation, like Nigeria. Wood&#8217;s insights reflect her view of Bitcoin as a safeguard against economic instability (a risk-off asset) and a viable investment in growth times (a risk-on asset).</p>
+<p>Bitcoin&#8217;s performance as a <a href="https://cryptoslate.com/cathie-wood-believes-bitcoin-will-hit-1-5m-by-2030-in-a-bull-scenario/">hedge against economic uncertainty</a> is further highlighted by its surge during the US regional banking crisis. Bitcoin&#8217;s finite supply further cements its stance against inflation and positions it as a unique asset in the financial domain.</p>
+<p>Wood&#8217;s vision for Bitcoin transcends its current status, seeing it as a cornerstone in the future financial landscape, especially as it gains traction as a risk mitigation asset in volatile economies.</p>
+<p>Her forecasts, bolstered by the advent of Bitcoin ETFs and the digital currency&#8217;s innate attributes, sketch a future where Bitcoin challenges traditional investment paradigms and offers a new blueprint for financial stability and growth across the globe.</p>
+<p>The post <a href="https://cryptoslate.com/cathie-wood-doubles-down-on-1-5-million-bitcoin-as-institutional-exposure-looms/">Cathie Wood doubles down on $1.5 million Bitcoin as institutional exposure looms</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/cathie-wood-doubles-down-on-1-5-million-bitcoin-as-institutional-exposure-looms/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2023/12/cathie-wood-bitcoin.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2023/12/cathie-wood-bitcoin.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>BlackRock sees Bitcoin as integral part of financial system – little interest in other crypto</title>
+		<link>https://cryptoslate.com/blackrock-sees-bitcoin-as-integral-part-of-financial-system-little-interest-in-other-crypto/</link>
+					<comments>https://cryptoslate.com/blackrock-sees-bitcoin-as-integral-part-of-financial-system-little-interest-in-other-crypto/#respond</comments>
+		
+		<dc:creator><![CDATA[Mike Dalton]]></dc:creator>
+		<pubDate>Fri, 22 Mar 2024 20:59:01 +0000</pubDate>
+				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[ETF]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=406480</guid>
+
+					<description><![CDATA[<p>BlackRock believes that Bitcoin (BTC) will become an integral part of the financial system over the coming decade as it increasingly melds with the best parts of the traditional financial system. The asset manager&#8217;s Head of Digital Assets, Robert Mitchnick, made the statement during Reflexivity Research&#8217;s Bitcoin Investor Day on March 22. FOX Business reporter [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/blackrock-sees-bitcoin-as-integral-part-of-financial-system-little-interest-in-other-crypto/">BlackRock sees Bitcoin as integral part of financial system – little interest in other crypto</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/blackrock/">BlackRock</a> believes that Bitcoin (<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>) will become an integral part of the financial system over the coming decade as it increasingly melds with the best parts of the traditional financial system.</p>
+<p>The asset manager&#8217;s Head of Digital Assets, Robert Mitchnick, made the statement during Reflexivity Research&#8217;s Bitcoin Investor Day on March 22. FOX Business reporter Eleanor Terrett <a href="https://twitter.com/EleanorTerrett/status/1771191203012153808">reported</a> his comments via X.</p>
+<p>Mitchnick said:</p>
+<blockquote><p>&#8220;Eventually we expect there will be a convergence where the best of the old system and the new technology will become fused into a new infrastructure system in finance.&#8221;</p></blockquote>
+<p>Mitchnick also revealed that the company&#8217;s clients have minimal interest in crypto beyond Bitcoin and Ethereum (<a href="https://cryptoslate.com/coins/ethereum/">ETH</a>).</p>
+<p>According to Mitchnick, Bitcoin is &#8220;overwhelmingly the number one priority&#8221; for clients, while Ethereum receives a &#8220;little bit&#8221; of priority and other crypto see &#8220;very little&#8221; interest.</p>
+<p>He added that the company is not focused on other digital assets despite the crypto industry&#8217;s desire to see a &#8220;long tail&#8221; of such products.</p>
+<h2>BlackRock&#8217;s crypto journey</h2>
+<p>Mitchnick&#8217;s position is relevant due to BlackRock&#8217;s lead role in spot Bitcoin ETFs. The company currently offers the <a href="https://cryptoslate.com/products/ishares-bitcoin-trust/">iShares Bitcoin Trust</a> (IBIT) — the second-largest spot Bitcoin ETF, boasting $15.85 billion in assets under management (AUM).</p>
+<p>BlackRock is also one of the firms pursuing a spot Ethereum ETF, with an application already submitted to the SEC. The regulator is expected to make a decision on the ETH ETF applications in May.</p>
+<p>BlackRock has limited plans to support products for other crypto, it is expanding its focus on Bitcoin and Ethereum. However, recent media reports revealed that the firm plans to <a href="https://cryptoslate.com/blackrock-looking-to-include-bitcoin-exposure-in-its-other-funds/">add Bitcoin exposure</a> to its other products.</p>
+<p>Reports from <a href="https://cryptoslate.com/blackrock-launches-100-million-tokenized-asset-fund-using-ethereum/">March 19</a> additionally indicate that BlackRock launched a tokenized asset fund that is in part funded by USDC on the Ethereum blockchain.</p>
+<p>The post <a href="https://cryptoslate.com/blackrock-sees-bitcoin-as-integral-part-of-financial-system-little-interest-in-other-crypto/">BlackRock sees Bitcoin as integral part of financial system – little interest in other crypto</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/blackrock-sees-bitcoin-as-integral-part-of-financial-system-little-interest-in-other-crypto/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/01/blackrock-ibit.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/01/blackrock-ibit.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Apple&#8217;s legal woes mount as vulnerability threatening crypto security comes to light</title>
+		<link>https://cryptoslate.com/apples-legal-woes-mount-as-vulnerability-threatening-crypto-security-comes-to-light/</link>
+					<comments>https://cryptoslate.com/apples-legal-woes-mount-as-vulnerability-threatening-crypto-security-comes-to-light/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Fri, 22 Mar 2024 19:41:39 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[DoJ]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=406348</guid>
+
+					<description><![CDATA[<p>Academic researchers have unearthed a significant vulnerability within Apple&#8217;s M-series computing chips, potentially jeopardizing the security of private crypto keys. On the same day, the US Department of Justice (DOJ) filed an antitrust case against the iPhone maker, alleging monopoly practices detrimental to consumers, developers, and competitors. The vulnerability The research team identified the chips&#8217; [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/apples-legal-woes-mount-as-vulnerability-threatening-crypto-security-comes-to-light/">Apple&#8217;s legal woes mount as vulnerability threatening crypto security comes to light</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Academic researchers have unearthed a significant vulnerability within <a href="https://cryptoslate.com/companies/apple/">Apple&#8217;s</a> M-series computing chips, potentially jeopardizing the security of private crypto keys.</p>
+<p>On the same day, the US Department of Justice (DOJ) filed an antitrust case against the iPhone maker, alleging monopoly practices detrimental to consumers, developers, and competitors.</p>
+<h2>The vulnerability</h2>
+<p>The research team identified the chips&#8217; data memory-dependent prefetcher (DMP) vulnerability.</p>
+<p>Crypto analyst George <a href="https://twitter.com/odysseus0z/status/1771086795532280225">explained</a> that DMP is a hardware optimization that anticipates and preloads data into the CPU cache ahead of demand. However, it faces an issue where it occasionally confuses sensitive data, such as encryption keys, for memory addresses.</p>
+<p>This phenomenon, known as &#8220;dereferencing pointers,&#8221; creates a vulnerability known as &#8220;side-channel attacks.&#8221;</p>
+<p>The researchers demonstrated the capability to extract various encryption keys — including RSA, Diffie-Hellman, Kyber, and Dilithium — within 1 to 10 hours using a GoFetch attack. However, this exploit needs malicious and targeted <a href="https://cryptoslate.com/metamask-is-back-on-apples-app-store-after-briefly-leaving-the-platform/">crypto apps</a> to operate on the same CPU cluster.</p>
+<p>For the attack to succeed, the malicious app must provide inputs to the crypto app and prompt it to execute operations, thereby gradually leaking the key. This exploit is interactive rather than passive and must bypass macOS security measures to perform on the system.</p>
+<p>Unfortunately, rectifying this flaw is not straightforward as it originates from the microarchitectural design of the chips, rendering it unpatchable. However, implementing defensive measures within third-party encryption software can mitigate the risk.</p>
+<h2>Legal trouble</h2>
+<p>US authorities, supported by 16 state attorney generals, <a href="https://storage.courtlistener.com/recap/gov.uscourts.njd.544402/gov.uscourts.njd.544402.1.0_3.pdf">filed</a> legal actions against Apple for its &#8220;walled garden&#8221; business model, which helped establish an allegedly illegal monopoly in the smartphone market.</p>
+<p>The lawsuit alleged that Apple implemented &#8220;shapeshifting rules and restrictions in its App Store guidelines and developer agreements that would allow Apple to extract higher fees, thwart innovation, offer a less secure or degraded user experience, and throttle competitive alternatives.&#8221;</p>
+<p>They added that these suppressive rules were implemented across <a href="https://cryptoslate.com/apple-teases-generative-ai-plans-hints-at-user-devices-playing-a-role/">varying products</a>, including text messaging, smartwatches, and digital wallets, among many others.</p>
+<p>Crypto community members have highlighted the <a href="https://cryptoslate.com/apple-entered-anti-crypto-agreements-with-competitors-class-action-suit-claims/">importance of this lawsuit to the indust</a>ry, with Hish Bouabdallah, the founder of Tribes Protocol, <a href="https://twitter.com/hishboy/status/1771160416351092943?s=46&amp;t=aw6ZR-6aD050XLPVXY8AQA">saying</a>:</p>
+<blockquote><p>&#8220;If Apple loses this battle, it could pave the way for crypto payments in the U.S., enabling seamless transactions using services like <a href="https://cryptoslate.com/products/coinbase-wallet/#:~:text=Coinbase%20Wallet%20is%20a%20software,cryptocurrency%2C%20and%20send%20crypto%20to">Coinbase Wallet</a> with just a double tap and FaceID.&#8221;</p></blockquote>
+<p>The post <a href="https://cryptoslate.com/apples-legal-woes-mount-as-vulnerability-threatening-crypto-security-comes-to-light/">Apple&#8217;s legal woes mount as vulnerability threatening crypto security comes to light</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/apples-legal-woes-mount-as-vulnerability-threatening-crypto-security-comes-to-light/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/apple-computer-chip.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/apple-computer-chip.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Recent Bitcoin buyers show unyielding optimism, pushing cost basis upward despite price surges</title>
+		<link>https://cryptoslate.com/insights/recent-bitcoin-buyers-show-unyielding-optimism-pushing-cost-basis-upward-despite-price-surges/</link>
+		
+		<dc:creator><![CDATA[James Van Straten]]></dc:creator>
+		<pubDate>Fri, 22 Mar 2024 19:13:06 +0000</pubDate>
+				<guid isPermaLink="false">https://cryptoslate.com/?post_type=crypto_insight&#038;p=406299</guid>
+
+					<description><![CDATA[<p>Quick Take Utilizing data from Glassnode to estimate a market-wide cost basis reveals intriguing trends in the average price at which coins are withdrawn from exchanges. The information, segregated into cohorts, uncovers an upward trajectory on a cost basis, indicating a trend of purchasing Bitcoin at incrementally higher prices. Most notably, the 2024 cohorts experienced [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/insights/recent-bitcoin-buyers-show-unyielding-optimism-pushing-cost-basis-upward-despite-price-surges/">Recent Bitcoin buyers show unyielding optimism, pushing cost basis upward despite price surges</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>Quick Take</h2>
+<p>Utilizing data from <a href="https://studio.glassnode.com/workbench/7246fcba-ca1f-42d8-5a84-4312ae4fc784?s=1710514315&amp;u=1711119115&amp;zoom=7">Glassnode</a> to estimate a market-wide cost basis reveals intriguing trends in the average price at which coins are withdrawn from exchanges. The information, segregated into cohorts, uncovers an upward trajectory on a cost basis, indicating a trend of purchasing Bitcoin at incrementally higher prices.</p>
+<p>Most notably, the 2024 cohorts experienced a significant upswing, seeing an average profit margin of about $10,500, which translates to an approximately 20% gain from their initial cost basis ($52,478), according to data from Glassnode.</p>
+<figure id="attachment_406391" aria-describedby="caption-attachment-406391" style="width: 1800px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" class="wp-image-406391 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/RP-1.png" alt="Exchange Average Withdrawal Price (by Year): (Source: Glassnode)" width="1800" height="1013" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/RP-1.png 1800w, https://cryptoslate.com/wp-content/uploads/2024/03/RP-1-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/RP-1-1024x576.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/RP-1-768x432.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/RP-1-1536x864.png 1536w" sizes="(max-width: 1800px) 100vw, 1800px" /><figcaption id="caption-attachment-406391" class="wp-caption-text">Exchange Average Withdrawal Price (by Year): (Source: Glassnode)</figcaption></figure>
+<p>Interestingly, the 2021 cohort managed to significantly reduce their cost basis from $47,000 to a more conservative $36,971, as highlighted by recent <em>CryptoSlate</em> <a href="https://cryptoslate.com/insights/2021-bitcoin-investors-showcase-long-term-holding-resilience/">data analysis</a>. Despite the reduction, the cost basis for all cohorts has risen in recent months, showing an unwavering dedication to buying Bitcoin regardless of increasing prices.</p>
+<table>
+<thead>
+<tr>
+<th>Year</th>
+<th>Price</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>All-time</td>
+<td>$13,689</td>
+</tr>
+<tr>
+<td>2017+</td>
+<td>$18,082</td>
+</tr>
+<tr>
+<td>2018+</td>
+<td>$21,758</td>
+</tr>
+<tr>
+<td>2019+</td>
+<td>$25,018</td>
+</tr>
+<tr>
+<td>2020+</td>
+<td>$29,173</td>
+</tr>
+<tr>
+<td>2021+</td>
+<td>$36,971</td>
+</tr>
+<tr>
+<td>2022+</td>
+<td>$32,139</td>
+</tr>
+<tr>
+<td>2023+</td>
+<td>$36,058</td>
+</tr>
+<tr>
+<td>2024+</td>
+<td>$52,478</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;</p>
-<p>The post <a href="https://cryptoslate.com/insights/satoshis-vision-down-17-against-bitcoin-following-satoshis-verdict/">Satoshi&#8217;s Vision down 17% against Bitcoin after Satoshi&#8217;s Verdict</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+<p style="text-align: center; font-size: small;">Source: Glassnode</p>
+<p>The 2023 cohort, exhibiting the most bullish behavior, showcased a dramatic rise in cost basis from roughly $26,500 in October 2023 to a present figure of $36,058, suggesting a potential to surpass the 2021 cohort.</p>
+<p>The post <a href="https://cryptoslate.com/insights/recent-bitcoin-buyers-show-unyielding-optimism-pushing-cost-basis-upward-despite-price-surges/">Recent Bitcoin buyers show unyielding optimism, pushing cost basis upward despite price surges</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></content:encoded>
 					
 		
 		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/btcforks.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/btcforks.jpg" length="1200" type="image/jpg"/>
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/RP-2.png" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/RP-2.png" length="1800" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Worldcoin Foundation makes ORB software open-source</title>
+		<link>https://cryptoslate.com/worldcoin-foundation-makes-orb-software-open-source/</link>
+					<comments>https://cryptoslate.com/worldcoin-foundation-makes-orb-software-open-source/#respond</comments>
+		
+		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
+		<pubDate>Fri, 22 Mar 2024 18:30:32 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Price Watch]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=406460</guid>
+
+					<description><![CDATA[<p>The Worldcoin Foundation has released the core software components of its ORB technology into the open-source domain, providing a key technological step forward in verifying human identity online with enhanced privacy and security. The release, now available on GitHub under MIT/Apache 2.0 licenses, supports the Foundation&#8217;s ongoing efforts to improve transparency in the digital verification [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/worldcoin-foundation-makes-orb-software-open-source/">Worldcoin Foundation makes ORB software open-source</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The <a href="https://cryptoslate.com/companies/worldcoin/">Worldcoin Foundation</a> has released the <a href="https://worldcoin.org/blog/engineering/worldcoin-foundation-open-sources-core-components-orb-software">core software components</a> of its ORB technology into the open-source domain, providing a key technological step forward in verifying human identity online with enhanced privacy and security.</p>
+<p>The release, now available on GitHub under MIT/Apache 2.0 licenses, supports the Foundation&#8217;s ongoing efforts to improve transparency in the digital verification process, alongside its hardware and iris recognition technology that had previously gone public.</p>
+<p>The move is part of the Foundation&#8217;s efforts to be more <a href="https://cryptoslate.com/worldcoin-clarifies-legality-issues-following-spains-ban/">transparent</a> about its biometric data collection process after multiple countries raised concerns over the practice.</p>
+<p>Worldcoin (<a href="https://cryptoslate.com/coins/worldcoin-org-wld/">WLD</a>) responded positively to the announcement and recorded gains for the day despite the overall crypto market bleeding to recent lows.</p>
+<p>As of press time, WLD was trading at $8.26, up 4% over 24 hours — with a market cap of $1.28 billion, based on CryptoSlate data.</p>
+<h2>Comprehensive compute stack</h2>
+<p>The ORB&#8217;s function is to authenticate users by processing their eye and face images, distinguishing genuine human users from automated systems or artificial intelligence.</p>
+<p>The latest open-source release focuses on the software responsible for capturing images and securely transmitting them to the World App, underlining the Foundation&#8217;s commitment to open and verifiable processes.</p>
+<p>Worldcoin&#8217;s initial developer, Tools for Humanity (TFH), has built a comprehensive compute stack for the ORB around the NVIDIA Jetson platform, enabling real-time processing of camera feeds for quick World ID verification.</p>
+<p>This setup utilizes Rust applications and NVIDIA&#8217;s TensorRT engine, emphasizing high performance and security in handling sensitive biometric data.</p>
+<p>The code release provides insights into the Orb&#8217;s functionality, including image capture, biometric processing, and the secure encryption and transmission of user data. By making these components public, the Worldcoin Foundation aims to showcase the underlying technology&#8217;s robustness and reliability in privacy and security matters.</p>
+<h2>ORB audit</h2>
+<p>Trail of Bits has completed a <a href="https://cryptoslate.com/trail-of-bits-completes-worldcoin-security-audits-finds-no-vulnerabilities/">security audit</a> of ORB technology, following <a href="https://cryptoslate.com/kenyan-authorities-claim-worldcoins-activities-amount-to-espionage/">concerns</a> raised by <a href="https://cryptoslate.com/worldcoin-files-lawsuit-to-appeal-spains-ban/">global regulators</a> over its biometric data collection practices.</p>
+<p>The audit identified 12 vulnerabilities, including one severe issue, but affirmed the technology&#8217;s adherence to privacy standards in handling personally identifiable information. Worldcoin has addressed the high-severity issue post-audit and is implementing further improvements based on the recommendations.</p>
+<p>The Foundation plans to continue enhancing the software&#8217;s transparency and reducing dependence on proprietary components. This initial release includes critical elements such as orb-core, orb-attest, and orb-firmware.</p>
+<p>Future endeavors will likely involve further opening the development process and improving the Orb&#8217;s security and privacy framework, potentially serving as a model for similar technological initiatives.</p>
+<p>The post <a href="https://cryptoslate.com/worldcoin-foundation-makes-orb-software-open-source/">Worldcoin Foundation makes ORB software open-source</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/worldcoin-foundation-makes-orb-software-open-source/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/worldcoin-orb.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/worldcoin-orb.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Montenegro&#8217;s Supreme Court stalls Do Kwon&#8217;s extradition amid legal tussle</title>
+		<link>https://cryptoslate.com/montenegros-supreme-court-stalls-do-kwons-extradition-amid-legal-tussle/</link>
+					<comments>https://cryptoslate.com/montenegros-supreme-court-stalls-do-kwons-extradition-amid-legal-tussle/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Fri, 22 Mar 2024 17:15:43 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Legal]]></category>
+		<category><![CDATA[Do Kwon]]></category>
+		<category><![CDATA[montenegro]]></category>
+		<category><![CDATA[South Korea]]></category>
+		<category><![CDATA[Terra]]></category>
+		<category><![CDATA[US]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=406428</guid>
+
+					<description><![CDATA[<p>Montenegro&#8217;s Supreme Court has intervened in Do Kwon&#8217;s extradition to South Korea, putting the process on hold indefinitely, according to a March 22 translation of the Court notice. The Court said it overturned previous decisions from two lower courts that had greenlit Kwon&#8217;s extradition to South Korea because of the Supreme State Prosecutor&#8217;s Office&#8217;s request. Consequently, [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/montenegros-supreme-court-stalls-do-kwons-extradition-amid-legal-tussle/">Montenegro&#8217;s Supreme Court stalls Do Kwon&#8217;s extradition amid legal tussle</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Montenegro&#8217;s Supreme Court has intervened in <a href="https://cryptoslate.com/people/do-kwon/">Do Kwon&#8217;s</a> extradition to South Korea, putting the process on hold indefinitely, according to a March 22 translation of the Court <a href="https://sudovi-me.translate.goog/vrhs/sadrzaj/ONBM?_x_tr_sl=auto&amp;_x_tr_tl=en&amp;_x_tr_hl=en-US&amp;_x_tr_pto=wapp">notice</a>.</p>
+<p>The Court said it overturned previous decisions from two lower courts that had greenlit Kwon&#8217;s extradition to South Korea because of the Supreme State Prosecutor&#8217;s Office&#8217;s request.</p>
+<p>Consequently, Kwon&#8217;s extradition process to South Korea would remain suspended &#8220;until a decision is made on the submitted request for the protection of legality.&#8221;</p>
+<p>The Supreme Court Council said the ruling was in line with its powers &#8220;to postpone or stop the execution of the final court decision.&#8221;</p>
+<h2>Extradition battle</h2>
+<p>On March 21, Montenegro&#8217;s Supreme State Prosecutor&#8217;s Office <a href="https://sudovi-me.translate.goog/vrdt/sadrzaj/W8V9?_x_tr_sl=auto&amp;_x_tr_tl=en&amp;_x_tr_hl=en-US&amp;_x_tr_pto=wapp">contested</a> the decision of the High Court of Podgorica and Appellate Court to <a href="https://cryptoslate.com/montenegro-decides-to-extradite-do-kwon-to-south-korea-in-retrial/">extradite</a> the Terraform Labs co-founder to South Korea instead of the US.</p>
+<p>The prosecutor&#8217;s office asserted that the High Court overstepped its authority by conducting a hasty legal process in reaching the decision, which should have fallen under the jurisdiction of the Ministry of Justice.</p>
+<p>Furthermore, the prosecutor&#8217;s office criticized the Appellate Court for neglecting to consider the state prosecutor&#8217;s position in the appeal process, which <a href="https://cryptoslate.com/montenegro-court-rejects-do-kwons-appeal-clears-way-for-extradition-to-south-korea/">upheld</a> Kwon&#8217;s extradition to South Korea.</p>
+<p>Over the past year, Kwon has been in Montenegrin custody following his <a href="https://cryptoslate.com/terras-do-kwon-sentenced-to-4-months-imprisonment-in-montenegro/">arrest</a> and imprisonment for attempting to use fake travel documents in the Balkan country.</p>
+<p>Since then, South Korea and the United States have been <a href="https://cryptoslate.com/montenegrin-appeals-court-overturns-do-kwon-extradition-decision/">competing</a> to bring Kwon to their shores to answer for his role in the collapse of the <a href="https://cryptoslate.com/coins/terra-classic/">Terra</a> ecosystem in 2022.</p>
+<p>In the US, the SEC <a href="https://cryptoslate.com/sec-file-lawsuit-against-terraform-labs-do-kwon/">alleged</a> that Terraform Labs and Kwon offered and sold unregistered securities and engaged in fraud.</p>
+<p>Similarly, South Korean authorities are trying Terra co-founder Daniel Shin for <a href="https://cryptoslate.com/south-korea-indicts-terra-co-founder-daniel-shin/">fraud</a>, illegal fundraising, and violating capital market laws.</p>
+<p>The post <a href="https://cryptoslate.com/montenegros-supreme-court-stalls-do-kwons-extradition-amid-legal-tussle/">Montenegro&#8217;s Supreme Court stalls Do Kwon&#8217;s extradition amid legal tussle</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/montenegros-supreme-court-stalls-do-kwons-extradition-amid-legal-tussle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/montenegro-court.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/montenegro-court.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>What is the anticipated post-halving Bitcoin hash rate correction?</title>
+		<link>https://cryptoslate.com/insights/anticipated-post-halving-hash-rate-correction/</link>
+		
+		<dc:creator><![CDATA[James Van Straten]]></dc:creator>
+		<pubDate>Fri, 22 Mar 2024 15:50:54 +0000</pubDate>
+				<guid isPermaLink="false">https://cryptoslate.com/?post_type=crypto_insight&#038;p=406237</guid>
+
+					<description><![CDATA[<p>Quick Take As the Bitcoin halving nears, now just under 4,300 blocks away and slated for April 20, the network has experienced a notable surge in hash rate, registering a 15% increase in 2024. The 14-day moving average hash rate is approaching record levels, currently peaking at approximately 598 eh/s. This upswing in hash rate suggests [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/insights/anticipated-post-halving-hash-rate-correction/">What is the anticipated post-halving Bitcoin hash rate correction?</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>Quick Take</h2>
+<p>As the Bitcoin <a href="https://cryptoslate.com/insights/bitcoins-next-halving-could-spell-a-surge-in-price-as-demand-outpaces-supply/">halving</a> nears, now just under 4,300 blocks away and slated for April 20, the network has experienced a notable surge in <a href="https://cryptoslate.com/insights/bitcoins-hash-rate-hits-record-high/">hash rate</a>, registering a 15% increase in 2024. The 14-day moving average hash rate is approaching record levels, currently peaking at approximately 598 eh/s.</p>
+<figure id="attachment_406330" aria-describedby="caption-attachment-406330" style="width: 1800px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-406330 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/HR-2.png" alt="Hash Rate: (Source: Glassnode)" width="1800" height="1013" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/HR-2.png 1800w, https://cryptoslate.com/wp-content/uploads/2024/03/HR-2-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/HR-2-1024x576.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/HR-2-768x432.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/HR-2-1536x864.png 1536w" sizes="(max-width: 1800px) 100vw, 1800px" /><figcaption id="caption-attachment-406330" class="wp-caption-text">Hash Rate: (Source: Glassnode)</figcaption></figure>
+<p>This upswing in hash rate suggests that miners are ramping up their operations to optimize earnings before the halving event, a sentiment echoed by <a href="https://x.com/mikealfred/status/1770892564679295252?s=20">Mike Alfred</a>, a board member at IREN Energy. Alfred predicts a notable post-halving correction in the global hash rate, attributing this to the widespread use of older mining equipment struggling to remain profitable.</p>
+<p>Supporting this observation, <em>CryptoSlate</em> <a href="https://cryptoslate.com/insights/bitcoins-network-sees-a-380-increase-in-hash-rate-since-the-start-of-the-current-cycle/">previously highlighted</a> the trend of increasing hash rate as a halving event nears, noting that such growth is typical in the 4-6 months leading up to a halving.</p>
+<p>Historical analysis shows a consistent pattern of miner capitulation post-halving, with significant drops in hash rate: 39% in December 2012, 11% in August 2016, and 26% in May 2020. Considering these precedents, a similar downturn, approximately 25% based on the average of past events, is a reasonable expectation following the next halving.</p>
+<table>
+<thead>
+<tr>
+<th>Halving</th>
+<th>Capitulation</th>
+<th>Hash Rate drop %</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nov 2012</td>
+<td>Dec 2012</td>
+<td>39</td>
+</tr>
+<tr>
+<td>July 2016</td>
+<td>August 2016</td>
+<td>11</td>
+</tr>
+<tr>
+<td>May 2020</td>
+<td>May 2020</td>
+<td>26</td>
+</tr>
+</tbody>
+</table>
+<p>The Hash Ribbon analysis, a notable market indicator for predicting Bitcoin&#8217;s price bottoms linked to miner capitulation, further illuminates the anticipated trend. This indicator identifies shifts from negative to positive price momentum when the 30-day moving average (MA) of the hash rate crosses above the 60-day MA. Such a crossover signals the conclusion of the most intense phase of miner capitulation.</p>
+<p>Examining three distinct instances, it&#8217;s observed that miner capitulation typically begins when the 30-day MA falls below the 60-day MA, a pattern often seen post-halving. Approximately a month following this crossover, the 30-day MA tends to rise above the 60-day MA. An appreciation of Bitcoin&#8217;s value usually accompanies this transition.</p>
+<figure id="attachment_406311" aria-describedby="caption-attachment-406311" style="width: 1800px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-406311 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/2012-1.png" alt="Hash Ribbon: 2012 Halving: (Source: Glassnode)" width="1800" height="1013" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/2012-1.png 1800w, https://cryptoslate.com/wp-content/uploads/2024/03/2012-1-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/2012-1-1024x576.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/2012-1-768x432.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/2012-1-1536x864.png 1536w" sizes="(max-width: 1800px) 100vw, 1800px" /><figcaption id="caption-attachment-406311" class="wp-caption-text">Hash Ribbon: 2012 Halving: (Source: Glassnode)</figcaption></figure>
+<figure id="attachment_406307" aria-describedby="caption-attachment-406307" style="width: 729px" class="wp-caption alignleft"><img decoding="async" class="wp-image-406307 " src="https://cryptoslate.com/wp-content/uploads/2024/03/2016.png" alt="Hash Ribbon: 2016 Halving: (Source: Glassnode)" width="729" height="407" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/2016.png 1222w, https://cryptoslate.com/wp-content/uploads/2024/03/2016-300x167.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/2016-1024x571.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/2016-768x429.png 768w" sizes="(max-width: 729px) 100vw, 729px" /><figcaption id="caption-attachment-406307" class="wp-caption-text">Hash Ribbon: 2016 Halving: (Source: Glassnode)</figcaption></figure>
+<figure id="attachment_406313" aria-describedby="caption-attachment-406313" style="width: 752px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-406313 " src="https://cryptoslate.com/wp-content/uploads/2024/03/2020.png" alt="Hash Ribbon: 2020 Halving: (Source: Glassnode)" width="752" height="423" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/2020.png 1800w, https://cryptoslate.com/wp-content/uploads/2024/03/2020-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/2020-1024x576.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/2020-768x432.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/2020-1536x864.png 1536w" sizes="(max-width: 752px) 100vw, 752px" /><figcaption id="caption-attachment-406313" class="wp-caption-text">Hash Ribbon: 2020 Halving: (Source: Glassnode)</figcaption></figure>
+<p>The post <a href="https://cryptoslate.com/insights/anticipated-post-halving-hash-rate-correction/">What is the anticipated post-halving Bitcoin hash rate correction?</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/2020.png" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/2020.png" length="1800" type="image/jpg"/>
 	</item>
 	</channel>
 </rss>

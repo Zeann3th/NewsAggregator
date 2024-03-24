@@ -1,10 +1,10 @@
-package newsaggregator.posts;
+package newsaggregator.post;
 
 import java.util.List;
 
 /**
  * Lớp này dùng để biểu diễn một bài viết.
- * @see newsaggregator.posts.Author
+ * @see newsaggregator.post.Author
  * @since 1.0
  * @author Lý Hiển Long
  */
@@ -21,6 +21,7 @@ public class Post {
     private String creationDate;
     private List<String> associatedTags;
     private Author author;
+    private String thumbnailImage;
     private String category;
 
     // Constructors
@@ -29,7 +30,7 @@ public class Post {
 
     public Post(String articleLink, String websiteSource, String articleType, String articleTitle,
                 String articleSummary, String articleDetailedContent, String creationDate,
-                List<String> associatedTags, Author author, String category) {
+                List<String> associatedTags, Author author, String thumbnailImage, String category) {
         this.articleLink = articleLink;
         this.websiteSource = websiteSource;
         this.articleType = articleType;
@@ -39,6 +40,7 @@ public class Post {
         this.creationDate = creationDate;
         this.associatedTags = associatedTags;
         this.author = author;
+        this.thumbnailImage = thumbnailImage;
         this.category = category;
     }
 
@@ -78,6 +80,10 @@ public class Post {
 
     public void setAuthor(Author author) {
         this.author = author;
+    }
+
+    public void setThumbnailImage(String thumbnailImage) {
+        this.thumbnailImage = thumbnailImage;
     }
 
     public void setCategory(String category) {
@@ -120,20 +126,33 @@ public class Post {
         return author;
     }
 
+    public String getThumbnailImage() {
+        return thumbnailImage;
+    }
+
     public String getCategory() {
         return category;
     }
 
     public void display() {
+        System.out.println();
+        System.out.println("========================================================================================================================");
+        System.out.println();
         System.out.println("Article link: " + articleLink);
         System.out.println("Website source: " + websiteSource);
         System.out.println("Article type: " + articleType);
-        System.out.println("Article Summary: " + articleSummary);
         System.out.println("Article title: " + articleTitle);
+        System.out.println("Article Summary: " + articleSummary);
+        System.out.println();
         System.out.println("Detailed article content: " + articleDetailedContent);
+        System.out.println();
         System.out.println("Creation date: " + creationDate);
         System.out.println("Associated tags: " + associatedTags);
         System.out.println("Author: " + author.getName() + "|" + author.getDescription());
+        System.out.println("Thumbnail image: " + thumbnailImage);
         System.out.println("Category: " + category);
+        System.out.println();
+        System.out.println("========================================================================================================================");
+        System.out.println();
     }
 }
