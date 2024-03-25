@@ -7,14 +7,10 @@ import com.mongodb.client.MongoDatabase;
 import org.bson.Document;
 import org.bson.conversions.Bson;
 
-import javax.print.Doc;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import static com.mongodb.client.model.Aggregates.search;
-import static com.mongodb.client.model.Indexes.text;
 
 /**
  * Lớp này dùng để thực hiện thao tác tìm kiếm liệu trên database.
@@ -43,12 +39,10 @@ public class QueryData {
         try (MongoClient mongoClient = MongoClients.create(System.getProperty("mongodb.uri"))) {
             MongoDatabase db = mongoClient.getDatabase("WebData");
             MongoCollection<Document> articlesCollection = db.getCollection("articles");
-//            SpellChecker sp = new SpellChecker();
-//            sp.check(value);
             List<Bson> search = Arrays.asList(new Document("$search",
                             new Document("index", "searchArticles")
                                     .append("text",
-                                            new Document("query", "dao")
+                                            new Document("query", value)
                                                     .append("path",
                                                             new Document("wildcard", "*")))),
                     new Document("$addFields",

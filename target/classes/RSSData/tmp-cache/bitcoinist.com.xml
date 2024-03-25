@@ -15,7 +15,7 @@
 	<atom:link href="https://bitcoinist.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bitcoinist.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 25 Mar 2024 11:04:35 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Mar 2024 12:38:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,103 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">225283986</site>	<item>
+		<title>XRP Ledger’s Shiny New AMM Runs Into Problems &#8211; Here’s What We Know</title>
+		<link>https://bitcoinist.com/xrp-ledger-amm-problems/</link>
+		
+		<dc:creator><![CDATA[Scott Matherson]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 14:00:21 +0000</pubDate>
+				<category><![CDATA[XRP]]></category>
+		<category><![CDATA[ripple]]></category>
+		<category><![CDATA[ripple news]]></category>
+		<category><![CDATA[XRP Ledger]]></category>
+		<category><![CDATA[XRP Ledger news]]></category>
+		<category><![CDATA[XRP price]]></category>
+		<category><![CDATA[XRPL]]></category>
+		<category><![CDATA[XRPL news]]></category>
+		<category><![CDATA[XRPUSD]]></category>
+		<category><![CDATA[XRPUSDT]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289396</guid>
+
+					<description><![CDATA[Following the official launch of XRP Ledger’s (XRPL) Automated Market Maker (AMM), XLS-30, on March 22, developers unearthed various discrepancies linked to a system bug. As a result, an XRPL developer has called for a fix, highlighting the need for enhanced testing procedures and the incorporation of a Canary Network to bolster the AMM’s stability.  [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Following the <a href="https://x.com/ripplexdev/status/1771271093468193241?s=46" rel="nofollow" target="_blank">official launch</a> of XRP Ledger’s (XRPL) <a href="https://www.newsbtc.com/analysis/xrp/ripple-amms-to-xrpl-xrp-price/" rel="nofollow noopener" target="_blank">Automated Market Maker (AMM)</a>, XLS-30, on March 22, developers unearthed various discrepancies linked to a system bug. As a result, an XRPL developer has called for a fix, highlighting the need for enhanced testing procedures and the incorporation of a Canary Network to bolster the AMM’s stability. </p>
+<h2>XRPL’s New AMM Encounters Unexpected Bug</h2>
+<p>On March 24, the RippleX development team <a href="https://x.com/ripplexdev/status/1771680918895558913?s=46" rel="nofollow" target="_blank">unveiled</a> a technical glitch in its newly launched AMM. The revelation comes as a <a href="https://x.com/maria06801698/status/1771969474310127774?s=46" rel="nofollow" target="_blank">surprise</a> to the general XRPL community, as they had been eagerly waiting for the <a href="https://www.newsbtc.com/xrp-news/xrp-not-bank-stablecoin-post-amm/" rel="nofollow noopener" target="_blank">protocol to roll out</a>. </p>
+
+<p>According to the official statement released by the <a href="https://bitcoinist.com/ripple-releases-amm-devnet-unlocks-defi-potential/">RippleX team</a>, the technical glitch surfaced as a result of multiple discrepancies identified in several <a href="https://www.newsbtc.com/analysis/xrp/ripple-cto-amm-xrp-income/" rel="nofollow noopener" target="_blank">AMM pools</a>. Upon investigation, the team revealed that the inconsistencies had “affected how the DEX payment engine routes liquidity through the AMM pools and order books.”</p>
+<p>Addressing the issue, the development team has assured users that the engineering team were working diligently to resolve the bug issue and restore normal operation in the <a href="https://bitcoinist.com/ripple-cto-breaks-down-the-amm-feature/">AMM</a>. Additionally, they have advised users to remain cautious and avoid depositing new funds into the AMM pools until the dilemma has been rectified.</p>
+<p>Despite the temporary setback, optimism remains in the <a href="https://bitcoinist.com/primary-threat-to-xrp-ledger-uncovered/">XRPL</a> community, with many <a href="https://x.com/gootecks/status/1771974042817528258?s=46" rel="nofollow" target="_blank">expressing</a> confidence in the development team’s ability to swiftly address the issue. The RippleX team has also <a href="https://x.com/ripplexdev/status/1771961354297241930?s=46" rel="nofollow" target="_blank">stated</a> that it has begun reviewing several proposed fixes for the AMM glitch, highlighting that the proposals will have to go through an amendment voting process before any solution is implemented.  </p>
+<h2>XRPL Dev Calls For Canary Network</h2>
+<p>In response to the <a href="https://bitcoinist.com/ripple-xrp-ledger-amm-launch-not-affected/">technical challenges </a>faced by XRPL’s new AMM, WietseWind, one of the developers of the <a href="https://bitcoinist.com/xrp-ledger-foundation-ripplex-governance-overhaul/">XRP Ledger</a> has <a href="https://x.com/wietsewind/status/1771998717832278162?s=46" rel="nofollow" target="_blank">proposed</a> a long-term solution that could potentially ensure a more stable protocol. According to the developer, the discovery of a bug in the newly <a href="https://bitcoinist.com/coreum-founder-teases-gains-for-xrp-users-with-amm/">launched AMM</a> is evidence of the fragility of the protocol, emphasizing a lack of proper testing before launch.</p>
+
+<p>WietseWind has stated the need for the development of a Canary Network to enhance and improve the AMM. He revealed that the Canary Network will have to be separate from the AMM, while also offering a native asset of some value so individuals can use it for real-life scenarios.</p>
+<p>The developer has disclosed that the Canary Network would enable better testing with real value on a network that is not the mainnet. Additionally, it would be an inclusive network for the developers, projects, and everyone within the <a href="https://bitcoinist.com/xrps-underperformance-ruffles-feathers-as-community-asks-ripple-to-do-something-about-price/">XRPL community.</a></p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-medium" src="https://www.tradingview.com/x/ARb5diBS/" alt="XRP price chart from Tradingview.com" width="3286" height="1530" /></p>
+
+
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/XRP-Ledger.jpeg?fit=300%2C168" width="300" height="168" /><post-id xmlns="com-wordpress:feed-additions:1">289396</post-id>	</item>
+		<item>
+		<title>Weekly Crypto Preview: Top Events And Coins To Watch</title>
+		<link>https://bitcoinist.com/weekly-crypto-preview-top-events-coins-to-watch/</link>
+		
+		<dc:creator><![CDATA[Jake Simmons]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 12:30:32 +0000</pubDate>
+				<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[altcoins]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[crypto news]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[dogecoin]]></category>
+		<category><![CDATA[fantom]]></category>
+		<category><![CDATA[PCE]]></category>
+		<category><![CDATA[US inflation]]></category>
+		<category><![CDATA[Weekly Crypto Preview]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289359</guid>
+
+					<description><![CDATA[The crypto space is bracing for another eventful week, marked by several key developments and coins that are poised to influence market dynamics. So, here’s what investors and enthusiasts should be on the lookout for. Bitcoin: A Watchful Eye On Spot ETF Outflows Bitcoin remains at the forefront of investor attention, with the spotlight intensifying [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>The crypto space is bracing for another eventful week, marked by several key developments and coins that are poised to influence market dynamics. So, here’s what investors and enthusiasts should be on the lookout for.</p>
+<h2>Bitcoin: A Watchful Eye On Spot ETF Outflows</h2>
+<p>Bitcoin remains at the forefront of investor attention, with the spotlight intensifying on the movements within spot Bitcoin ETFs. After experiencing an unprecedented <a href="https://www.newsbtc.com/news/bitcoin/bitcoin-price-reclaims-66000-despite-4-day-etf-outflow-streak/" target="_blank" rel="noopener nofollow">streak</a> of five consecutive days of net negative flows—a first since their inception on January 11—the market is keenly awaiting a potential turnaround.</p>
+<p>Historically, ETFs have been<a href="https://bitcoinist.com/spot-bitcoin-etf-noobs-panic-selling/" target="_blank" rel="noopener "> significant for BTC</a>, with a daily net inflow of $225 million on average &#8211; a target bulls will want to see. Financial Times recently wrote a hit piece, &#8220;Have the inflows into Bitcoin funds dried up?&#8221; The market needs to prove otherwise.</p>
+<p>Meanwhile, renowned ETF expert Nate Geraci commented on the article, &#8220;Spot bitcoin ETFs have taken in a net $11bil &amp; have $50bil AUM in 2+ months &amp; the media is already trying to call it over… No idea what happens w/ flows moving forward, but someone pls tell them numerous RIAs &amp; brokerage platforms haven’t even approved these things for use yet.&#8221;</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Spot bitcoin ETFs have taken in a net $11bil &amp; have $50bil AUM in 2+ months &amp; the media is already trying to call it over…</p>
+<p>No idea what happens w/ flows moving forward, but someone pls tell them numerous RIAs &amp; brokerage platforms haven’t even approved these things for use yet. <a href="https://t.co/ECZTGe4f0g" rel="nofollow" target="_blank">pic.twitter.com/ECZTGe4f0g</a></p>
+<p>&mdash; Nate Geraci (@NateGeraci) <a href="https://twitter.com/NateGeraci/status/1772063794404921554?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">March 25, 2024</a></p></blockquote>
+<p></p>
+<h2>US Inflation Data: The PCE Index</h2>
+<p>The Personal Consumption Expenditures (PCE) Index, set for release this Friday, could have a significant impact on the market. The PCE Index, particularly its core component that excludes food and energy, is the Federal Reserve&#8217;s preferred inflation measure. It offers a broad view of the inflationary pressures within the economy, influencing monetary policy decisions.</p>
+
+<p>The upcoming release, expected to show year-over-year core PCE at 2.8%(last 2.8%) and month-over-month at 0.3% (last 0.4%), holds weight in the Fed&#8217;s interest rate trajectory. Given the Fed&#8217;s pause on rate cuts, the market is keenly observing this data for signals on future monetary policy, especially with Fed Chair Jerome Powell&#8217;s insights anticipated at the end of the week (Friday).</p>
+<p>This <a href="https://bitcoinist.com/bitcoin-btc-leading-indicator-cpi-inflation/" target="_blank" rel="noopener ">inflation data</a> not only affects traditional finance but could also sway crypto markets, as Bitcoin and other digital assets have increasingly reacted to macroeconomic indicators in recent weeks.</p>
+Dogecoin: Futures Trading And &#8216;Doge Day&#8217;
+<p>Dogecoin is taking a significant leap forward with Coinbase International&#8217;s announcement of launching DOGE futures trading starting April 1. Coinbase officially <a href="https://bitcoinist.com/dogecoin-surges-x-payments-secures-3-new-licenses/" target="_blank" rel="noopener ">announced</a> on Thursday last week, “Coinbase Derivatives will launch the first leveraged and CFTC-regulated futures contracts for Bitcoin Cash, Dogecoin, and Litecoin in April!”</p>
+<p>Futures trading for cryptocurrencies like Dogecoin allows investors to speculate on the future price of DOGE without holding the actual cryptocurrency. This can increase liquidity and volatility but also introduce a mechanism for price discovery and hedging against price movements. Coinbase Derivatives&#8217; decision to offer these contracts could attract a new class of investors and traders to Dogecoin, potentially increasing its volatility.</p>
+Aptos: Anticipation Of Major Announcements
+<p>The Aptos network is on the cusp of potentially game-changing announcements, with speculation about partnerships with major asset managers like <a href="https://bitcoinist.com/blackrock-private-bitcoin-event/" target="_blank" rel="noopener ">BlackRock</a> or Franklin Templeton. The forthcoming &#8216;Aptos DeFi DAYS&#8217; event in Hong Kong from April 2 to 5 could serve as the stage for these revelations, with significant implications for the network&#8217;s valuation and strategic positioning in the DeFi space.</p>
+<p>“Aptos is poised for a significant RWA announcement in April. Potential partnership rumors with a major asset manager. (BlackRock/Franklin Templeton) I anticipate that details will be revealed at the &#8216;Aptos DeFi DAYS&#8217; event on April 2”,” research firm Layergg <a href="https://twitter.com/layerggofficial/status/1771797316279980134" target="_blank" rel="noopener nofollow">remarked</a> via X.</p>
+Fantom: The Sonic Mainnet Launch
+<p>The Fantom Foundation is on the verge of <a href="https://www.newsbtc.com/news/fantom-ftm-jumps-180-4-weeks-just-the-beginning/" target="_blank" rel="noopener nofollow">launching</a> the Sonic mainnet, a major technological advancement that promises to significantly enhance the blockchain&#8217;s performance and scalability. This upgrade is not just an incremental update but a comprehensive overhaul of Fantom&#8217;s infrastructure, aiming to address some of the most pressing challenges in the blockchain and decentralized application (dApp) ecosystem.</p>
+
+<p>At the heart of the Sonic upgrade is the Fantom Virtual Machine (FVM), a newly developed engine designed to dramatically increase transaction speed and efficiency. This is complemented by the Carmen Database, a breakthrough in data storage that promises to reduce storage requirements by up to 90%. Moreover, the upgrade includes an optimized version of the Lachesis Consensus mechanism, further enhancing the blockchain&#8217;s performance.</p>
+<p>These innovations collectively aim to propel Fantom&#8217;s transaction capacity to over 2,000 transactions per second, marking a significant leap towards solving scalability issues that have long plagued blockchain platforms. Scheduled for launch in spring 2024, the Sonic Mainnet could further bolster the Fantom (FTM) price prior to the official release.</p>
+Ondo Finance: Riding The Crypto Wave Of RWA
+<p>Ondo Finance is the best-performing crypto asset in the top 100 by market cap in the last seven days, with a staggering 93.5% increase in price, following BlackRock&#8217;s announcement of a $100M tokenized asset to fund. As RWA becomes a focal point in the crypto narrative, Ondo Finance&#8217;s association with BlackRock places it at the heart of this burgeoning trend, highlighting the growing intersection between traditional finance and blockchain technology.</p>
+<p>“Ondo Finance is the RWA project most associated with BlackRock at this point and Real World Assets (RWA) could be the next major trend in crypto. They are also mentioned as a key project in Bitwise&#8217;s ‘Crypto Use Case 2024’ report,” research firm Layergg stated via X.</p>
+<p>At press time, BTC traded at $66,967.</p>
+<img decoding="async" class="size-full wp-image-289377" src="https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472" alt="Bitcoin price" width="1024" height="472" srcset="https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=3628 3628w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=640 640w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=980 980w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=1536 1536w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=2048 2048w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=750 750w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=1140 1140w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=3000 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/iStock-1460700055.jpg?fit=640%2C360" width="640" height="360" /><post-id xmlns="com-wordpress:feed-additions:1">289359</post-id>	</item>
+		<item>
 		<title>Bitcoin Buying Spree: Robert Kiyosaki Set To Buy 10 More BTC Before April&#8221;</title>
 		<link>https://bitcoinist.com/kiyosaki-set-to-buy-10-more-bitcoin-before-april/</link>
 		
@@ -67,7 +164,7 @@
 <p>Fiat currencies, sometimes considered fake money, are dangerous to save with, according to Kiyosaki and his associates Andy Schectman and <a href="https://bitcoinist.com/good-things-on-the-way-for-bitcoin-investors/" target="_blank" rel="noopener ">Michael Saylor</a>. This simply suggested that investing in fiat currencies is not a smart move, and those engaging in the act are bound to end up poor in the future.</p>
 
 <p>Thus, they advise everyone to invest in either silver, gold, or Bitcoin, citing that silver is the most affordable among these assets, and nearly everyone in the world can afford one silver coin or BTC Satoshi. &#8220;Coin prices for Bitcoin, Gold, and Silver are approximately $70,000, $2,500, and $35.00, respectively,&#8221; Kiyosaki added.</p>
-<img fetchpriority="high" decoding="async" class="size-medium" src="https://www.tradingview.com/x/bQtrJeLS/" alt="Bitcoin" width="2273" height="1351" />
+<img decoding="async" class="size-medium" src="https://www.tradingview.com/x/bQtrJeLS/" alt="Bitcoin" width="2273" height="1351" />
 
 ]]></content:encoded>
 					
@@ -102,10 +199,10 @@
 <p dir="ltr" lang="en">MicroStrategy has acquired an additional 9,245 BTC for ~$623.0M using proceeds from convertible notes &amp; excess cash for ~$67,382 per <a href="https://twitter.com/hashtag/bitcoin?src=hash&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">#bitcoin</a>. As of 3/18/24, <a href="https://twitter.com/search?q=%24MSTR&amp;src=ctag&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">$MSTR</a> hodls 214,246 <a href="https://twitter.com/search?q=%24BTC&amp;src=ctag&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">$BTC</a> acquired for ~$7.53B at average price of $35,160 per bitcoin. <a href="https://t.co/oeYJGgiuy0" rel="nofollow" target="_blank">https://t.co/oeYJGgiuy0</a></p>
 <p>— Michael Saylor<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/26a1.png" alt="⚡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@saylor) <a href="https://twitter.com/saylor/status/1770061111146033385?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">March 19, 2024</a></p></blockquote>
 <p></p>
-<p data-sourcepos="9:1-9:461"><img decoding="async" class="aligncenter size-full wp-image-289357" src="https://bitcoinist.com/wp-content/uploads/2024/03/a_8a90a8.png?resize=403%2C224" alt="" width="403" height="224" data-recalc-dims="1" /></p>
+<p data-sourcepos="9:1-9:461"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-289357" src="https://bitcoinist.com/wp-content/uploads/2024/03/a_8a90a8.png?resize=403%2C224" alt="" width="403" height="224" data-recalc-dims="1" /></p>
 <p data-sourcepos="9:1-9:461">Saylor, however, remains <a href="https://bitcoinist.com/michael-saylor-to-buy-bitcoin-forever-details/" target="_blank" rel="noopener ">unfazed by the recent price dip</a> (nearly 12%) following Bitcoin&#8217;s record high. He views volatility as a natural market phenomenon, even coining the phrase &#8220;volatility is vitality&#8221; to emphasize its role in a healthy market. This confidence extends to MicroStrategy&#8217;s investment strategy. The company has significantly increased its holdings, now totaling over 214,000 BTC, showcasing their long-term faith in the digital currency.</p>
 <p data-sourcepos="11:1-11:355">The contrasting views of Saylor and Schiff represent the ongoing debate surrounding Bitcoin. Proponents like Saylor point to its historical growth trajectory and its potential to disrupt traditional financial systems. They believe the digital asset&#8217;s limited supply (21 million coins will ever be mined) makes it a valuable hedge against inflation, similar to gold.</p>
-<p data-sourcepos="11:1-11:355"><img decoding="async" class="aligncenter size-full" src="https://www.tradingview.com/x/vWYGx9uW/" width="1835" height="883" /></p>
+<p data-sourcepos="11:1-11:355"><img loading="lazy" decoding="async" class="aligncenter size-full" src="https://www.tradingview.com/x/vWYGx9uW/" width="1835" height="883" /></p>
 
 <h2 data-sourcepos="13:1-13:404"><strong>Risks And Regulations</strong></h2>
 <p data-sourcepos="13:1-13:404">However, skeptics like Schiff highlight the risks associated with <a href="https://www.coingecko.com/" target="_blank" rel="noopener nofollow">BTC price fluctuations.</a> Unlike established assets with underlying fundamentals like company performance or resource scarcity, Bitcoin&#8217;s value relies heavily on speculation and market sentiment. A sudden shift in investor confidence could trigger a dramatic price drop, leading to significant losses for investors like MicroStrategy.</p>
@@ -324,88 +421,5 @@
 		
 		
 		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/a_6926ee.jpg?fit=640%2C360" width="640" height="360" /><post-id xmlns="com-wordpress:feed-additions:1">289221</post-id>	</item>
-		<item>
-		<title>Bitcoin ETF Buzz In UK: Kraken Executive Pushes For Market Access</title>
-		<link>https://bitcoinist.com/bitcoin-etf-buzz-in-uk-kraken-executive-pushes-for-market-access/</link>
-		
-		<dc:creator><![CDATA[Christian Encila]]></dc:creator>
-		<pubDate>Sun, 24 Mar 2024 10:30:00 +0000</pubDate>
-				<category><![CDATA[Bitcoin]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[bitcoin ETF]]></category>
-		<category><![CDATA[btc]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://bitcoinist.com/?p=289193</guid>
-
-					<description><![CDATA[The simmering debate over Bitcoin exchange-traded funds (ETFs) in the UK has reignited, with industry leaders calling for wider access for investors. This comes on the heels of the US Securities and Exchange Commission (SEC) approving Bitcoin ETFs in January, sparking a surge in investment and renewed calls for a similar move by the UK&#8217;s [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p data-sourcepos="3:1-3:374">The simmering debate over Bitcoin exchange-traded funds (ETFs) in the UK has reignited, with industry leaders calling for wider access for investors. This comes on the heels of the US Securities and Exchange Commission (SEC) approving Bitcoin ETFs in January, sparking a surge in investment and renewed calls for a similar move by the UK&#8217;s Financial Conduct Authority (FCA).</p>
-
-<h2 data-sourcepos="5:1-5:335"><strong>UK&#8217;s Bitcoin ETF Advocacy</strong></h2>
-<p data-sourcepos="5:1-5:335">Bivu Das, Managing Director of Kraken UK, believes Bitcoin ETFs offer a &#8220;basic fundamental&#8221; for establishing the UK as a true crypto hub. These instruments allow investors to gain exposure to Bitcoin&#8217;s price movements without directly owning the cryptocurrency itself, potentially offering a more regulated and accessible entry point.</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">ICYMI: Kraken UK Managing Director Bivu Das says he&#8217;d &#8220;absolutely&#8221; like to see a <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">#Bitcoin</a> ETF in the UK, providing regulated access to crypto exposure currently lacking and boost UK&#8217;s crypto hub ambitions, and legitimize bitcoin for institutions.</p>
-<p>— AP Crypto (@AP_Crypto_) <a href="https://twitter.com/AP_Crypto_/status/1771514821940547931?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">March 23, 2024</a></p></blockquote>
-<p></p>
-<p data-sourcepos="7:1-7:306">However, the FCA remains cautious. In 2021, they banned the retail sale of crypto-derivative products, including exchange-traded products (ETPs) backed by cryptocurrencies. This stance, some argue, puts the UK at a disadvantage compared to the US, where retail investors can readily invest in <a href="https://bitcoinist.com/bitcoin-etf-alert-analyst-issues-major-warning/" target="_blank" rel="noopener ">Bitcoin ETFs.</a></p>
-<p data-sourcepos="9:1-9:271">Das contends that the regulatory landscape has evolved since the 2021 ban. He believes ETFs could even alleviate some regulatory concerns, as investors wouldn&#8217;t directly hold the underlying Bitcoin. This could potentially pave the way for a more open approach from the FCA.</p>
-<p data-sourcepos="9:1-9:271"><img loading="lazy" decoding="async" class="aligncenter size-full" src="https://www.tradingview.com/x/WjE9FkAe/" width="1835" height="883" /></p>
-
-<p data-sourcepos="11:1-11:271">There are signs the FCA might be inching towards a more accommodating stance. They recently approved the launch of crypto ETNs, but only for institutional investors. This move, while limited, could be seen as a cautious step towards wider crypto investment opportunities.</p>
-<p data-sourcepos="13:1-13:288">While the regulatory body remains cautious, warning of potential risks for retail investors in the volatile crypto market, the FCA&#8217;s recent actions suggest a willingness to explore the space further.</p>
-
-<h2 data-sourcepos="15:1-15:269"><strong>Expanding UK&#8217;s Investment Options</strong></h2>
-<p data-sourcepos="15:1-15:269">Coinbase UK CEO, Daniel Seifert, echoes Das&#8217; sentiment. He believes &#8220;consumers have more options&#8221; with a wider range of investment products like ETFs. This push for increased investor choice aligns with a broader trend towards democratizing access to financial markets.</p>
-<p data-sourcepos="17:1-17:367">However, the FCA faces a delicate balancing act. While fostering innovation in the crypto sector is crucial for maintaining the UK&#8217;s financial competitiveness, protecting retail investors from potential harm remains a top priority. The high volatility of the crypto market raises concerns about the suitability of such complex instruments for inexperienced investors.</p>
-<p data-sourcepos="19:1-19:369">The recent influx of billions into US<a href="https://www.coingecko.com/" rel="nofollow noopener" target="_blank"> Bitcoin</a> ETFs highlights the growing investor appetite for these products. This surge in demand could put further pressure on the FCA to revisit its stance. The potential benefits of increased investment and a more robust crypto ecosystem could outweigh the perceived risks, eventually leading to a more open regulatory environment.</p>
-<p data-sourcepos="21:1-21:527">The future of Bitcoin ETFs in the UK remains uncertain. The FCA is likely to take a measured approach, carefully evaluating the potential benefits and risks before making any significant changes. However, the growing global acceptance of Bitcoin ETFs, coupled with increasing investor demand, suggests that a more open approach from the FCA might be inevitable.</p>
-<p data-sourcepos="21:1-21:527"><em>Featured image from Pexels, chart from TradingView</em></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/a_a28a48.jpg?fit=630%2C420" width="630" height="420" /><post-id xmlns="com-wordpress:feed-additions:1">289193</post-id>	</item>
-		<item>
-		<title>US Bitcoin Miners Move Old Equipment Overseas &#8211; Here’s Why</title>
-		<link>https://bitcoinist.com/us-bitcoin-miners-move-old-equipment-overseas/</link>
-		
-		<dc:creator><![CDATA[Opeyemi Sule]]></dc:creator>
-		<pubDate>Sun, 24 Mar 2024 08:00:28 +0000</pubDate>
-				<category><![CDATA[Bitcoin Mining]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[Bitcoin Halving]]></category>
-		<category><![CDATA[Bitcoin miner]]></category>
-		<category><![CDATA[bitcoin mining]]></category>
-		<category><![CDATA[Bloomberg]]></category>
-		<category><![CDATA[Ethiopia]]></category>
-		<guid isPermaLink="false">https://bitcoinist.com/?p=289178</guid>
-
-					<description><![CDATA[The Bitcoin halving, one of the most anticipated crypto events in 2024, is less than a month away, and miners seem to be in full preparation for its aftermath. The April event is expected to slash mining rewards on the Bitcoin network in half, making the validation of transactions less lucrative. As of now, miners [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>The Bitcoin halving, one of the most anticipated crypto events in 2024, is less than a month away, and miners seem to be in full preparation for its aftermath. The <a href="https://bitcoinist.com/why-bitcoin-halving-could-bring-uncertainty-to-mining-industry/" target="_blank" rel="noopener ">April event is expected to slash mining rewards on the Bitcoin network in half</a>, making the validation of transactions less lucrative.</p>
-<p>As of now, miners receive 6.25 BTC for each validated block added to the network. However, the halving will split their revenue to 3.125 BTC for each block. Interestingly, many miners in the United States seem to be making adjustments, including upgrading to more efficient mining computers, to ensure they remain profitable.</p>
-<h2>Why Bitcoin Mining Machines Are Being Moved Out Of The US</h2>
-<p>According to crypto-mining services and logistics provider Luxor Technology, about 600,000 S19 series mining rigs, which account for a large proportion of machines currently in use in the United States, are being moved out of the country. The mining computers are being transferred (or sold) primarily to countries in Africa and South America, a <a href="https://www.bloomberg.com/news/articles/2024-03-23/bitcoin-halving-spurs-exodus-of-old-us-mining-computers-abroad" target="_blank" rel="noopener nofollow">Bloomberg report</a> revealed.</p>
-
-<p>The S19 series are older models of Bitcoin mining machines, and they might not be cost-efficient to run in countries like the US, where energy costs are relatively high. <a href="https://bitcoinist.com/bitcoin-halving-havoc-only-a-few-miners-may-survive/" target="_blank" rel="noopener ">This explains why the miners in the country</a> are ditching the older computers for more efficient ones.</p>
-<p>The report quoted another major player in the Bitcoin mining industry, saying that while the S19 series and similar models might not be cost-effective to operate in the United States, they “can still generate decent profits and get an extended life if hosted” in certain regions in Africa.</p>
-<p>Meanwhile, some miners opt to sell their hardware, with buyers of the old machines operating in parts of the world with cheap power. Many of these buyers are from Paraguay, Uruguay, Tanzania, and, most notably, Ethiopia.</p>
-<p>According to Luxor, the upcoming halving event has been influencing the behavior of buyers towards the purchase of old mining machines. “Some buyers are waiting until after the event to purchase older computers, assuming their prices will drop even more,” the company revealed.</p>
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
-<p lang="en" dir="ltr">With the Bitcoin halving approaching, Luxor estimates that around 600,000 S19 bitcoin rigs, the majority of machines currently in use, are moving primarily out of the U.S. to places like Africa and South America, where energy is cheaper. The S19 can cost up to $11,500 per unit to…</p>
-<p>&mdash; Wu Blockchain (@WuBlockchain) <a href="https://twitter.com/WuBlockchain/status/1771719313260712434?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">March 24, 2024</a></p></blockquote>
-<p></p>
-<h2>Ethiopia: The Next Crypto Mining Hub?</h2>
-<p>Ethiopia, a country located in the Horn of Africa, is forging a strong reputation for itself in the crypto and Bitcoin mining niche. As inferred earlier, a significant proportion of the old US machines are being transferred to the East African nation.</p>
-
-<p>Ethiopia’s cheap electricity has been pinpointed as the major factor driving this development. The Bloomberg report revealed that electricity is about 3 cents per kWh in Ethiopia, while it ranges between <a href="https://bitcoinist.com/ex-white-house-official-says-bitcoin-could-reach-170000-post-halving/" target="_blank" rel="noopener ">3 to 6 cents in the US</a>.</p>
-<p>Earlier in February, Bloomberg disclosed that <a href="https://bitcoinist.com/crypto-migration-chinese-miners-flock-to-ethiopia/" target="_blank" rel="noopener ">Chinese crypto mining companies are increasing their investment in Ethiopia</a>. While China’s strict stance against cryptocurrency is believed to have played a role, Ethiopia’s cheap power seems to have played a bigger part in the firms’ move.</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-medium" src="https://www.tradingview.com/x/rBHhUwUm/" alt="Bitcoin" width="2174" height="1434" /></p>
-
-
-
-]]></content:encoded>
-					
-		
-		
-		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2023/07/Bitcoin-Mining.jpg?fit=640%2C420" width="640" height="420" /><post-id xmlns="com-wordpress:feed-additions:1">289178</post-id>	</item>
 	</channel>
 </rss>

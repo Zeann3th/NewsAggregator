@@ -10,7 +10,6 @@ public class Main {
     public static void main(String[] args) {
         Crawler rss = new RSSReader();
         rss.crawl();
-//        rss.getPostList().forEach(Post::display);
         JSONFileWriter.writeFileFromPost(rss.getPostList(), "src/main/resources/data.json");
         try {
             ImportData.importJSON("src/main/resources/data.json");
