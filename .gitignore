@@ -2,7 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-src/main/java/newsaggregator/webcrawling
+src/main/java/newsaggregator/webcrawling/dynamic
 
 ### Eclipse ###
 .apt_generated
