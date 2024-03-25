@@ -12,6 +12,7 @@ public class Post {
 
     // Attributes
 
+    private String guid;
     private String articleLink;
     private String websiteSource;
     private String articleType;
@@ -28,9 +29,10 @@ public class Post {
 
     public Post() {}
 
-    public Post(String articleLink, String websiteSource, String articleType, String articleTitle,
+    public Post(String guid, String articleLink, String websiteSource, String articleType, String articleTitle,
                 String articleSummary, String articleDetailedContent, String creationDate,
                 List<String> associatedTags, Author author, String thumbnailImage, String category) {
+        this.guid = guid;
         this.articleLink = articleLink;
         this.websiteSource = websiteSource;
         this.articleType = articleType;
@@ -45,6 +47,11 @@ public class Post {
     }
 
     // Methods
+
+
+    public void setGuid(String guid) {
+        this.guid = guid;
+    }
 
     public void setArticleLink(String articleLink) {
         this.articleLink = articleLink;
@@ -88,6 +95,10 @@ public class Post {
 
     public void setCategory(String category) {
         this.category = category;
+    }
+
+    public String getGuid() {
+        return guid;
     }
 
     public String getArticleLink() {
@@ -138,6 +149,7 @@ public class Post {
         System.out.println();
         System.out.println("========================================================================================================================");
         System.out.println();
+        System.out.println("GUID: " + guid);
         System.out.println("Article link: " + articleLink);
         System.out.println("Website source: " + websiteSource);
         System.out.println("Article type: " + articleType);
@@ -148,7 +160,7 @@ public class Post {
         System.out.println();
         System.out.println("Creation date: " + creationDate);
         System.out.println("Associated tags: " + associatedTags);
-        System.out.println("Author: " + author.getName() + "|" + author.getDescription());
+        System.out.println("Author: " + author.getName() + " | " + author.getDescription());
         System.out.println("Thumbnail image: " + thumbnailImage);
         System.out.println("Category: " + category);
         System.out.println();

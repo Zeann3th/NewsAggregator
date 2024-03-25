@@ -55,6 +55,7 @@ public class RSSReader extends Crawler {
                 Node item = items.item(i);
                 if (item.getNodeType() == Node.ELEMENT_NODE) {
                     Element elem = (Element) item;
+                    String guid = elem.getElementsByTagName("guid").item(0).getTextContent();
                     String title = elem.getElementsByTagName("title").item(0).getTextContent();
                     String link = elem.getElementsByTagName("link").item(0).getTextContent();
                     String date = elem.getElementsByTagName("pubDate").item(0).getTextContent();
@@ -72,7 +73,12 @@ public class RSSReader extends Crawler {
                         } catch (Exception e) {
                             continue;
                         }
-                        String detailedContent = Jsoup.parse(elem.getElementsByTagName("content:encoded").item(0).getTextContent()).text();
+                        String detailedContent = null;
+                        try {
+                            detailedContent = Jsoup.parse(elem.getElementsByTagName("content:encoded").item(0).getTextContent()).text();
+                        } catch (Exception e) {
+                            e.printStackTrace();
+                        }
                         String[] categories = new String[elem.getElementsByTagName("category").getLength()];
                         for (int j = 0; j < elem.getElementsByTagName("category").getLength(); j++) {
                             String category = elem.getElementsByTagName("category").item(j).getTextContent();
@@ -84,6 +90,7 @@ public class RSSReader extends Crawler {
                         currentAuthor.setName(author);
                         // Post
                         Post currentPost = new Post();
+                        currentPost.setGuid(guid);
                         currentPost.setWebsiteSource(URIString
                                 .replace(".xml", "")
                                 .replace("src/main/resources/RSSData/tmp-cache/", "")

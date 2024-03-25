@@ -13,7 +13,7 @@
 	<atom:link href="https://beincrypto.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://beincrypto.com/</link>
 	<description>Cryptocurrency News</description>
-	<lastBuildDate>Sun, 24 Mar 2024 10:55:27 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Mar 2024 09:54:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,1044 +29,904 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Polygon (MATIC) Suffers Network Outage For Over 12 Hours</title>
-		<link>https://beincrypto.com/polygon-matic-network-outage/</link>
-		
-		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
-		<pubDate>Sun, 24 Mar 2024 10:55:23 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[Polygon (MATIC) News]]></category>
-		<guid isPermaLink="false">https://beincrypto.com/?p=488876</guid>
-
-					<description><![CDATA[<p>Polygon has announced plans to upgrade the zkEVM protocol, acknowledging the need for enhancements in its current beta phase.</p>
-<p>The post <a href="https://beincrypto.com/polygon-matic-network-outage/">Polygon (MATIC) Suffers Network Outage For Over 12 Hours</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Polygon&#8217;s zero-knowledge Ethereum Virtual Machine (zkEVM) encountered significant downtime lasting over 12 hours.</strong></p>
-
-
-
-<p>Indeed, several crypto stakeholders raised concerns about the network&#8217;s inability to produce blocks for several hours. This outage prompted comparisons with Solana, raising questions about the Polygon&#8217;s reliability and scalability.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-polygon-matic-goes-offline">Polygon (MATIC) Goes Offline</h2>
-
-
-
-<p>Polygon <a href="https://twitter.com/0xPolygon/status/1771671172834283539?s=20" target="_blank" rel="noreferrer noopener nofollow">attributed</a> the downtime to a glitch in the protocol sequencer triggered by a Layer 1 reorganization. In Layer 2 networks, a sequencer ensures transaction verification, organization, and compression before transmitting them to Layer 1 chains like <a href="https://beincrypto.com/learn/buy-eth-credit-card/" target="_blank" rel="noreferrer noopener">Ethereum</a>. The team assured users that efforts were underway to resolve the issue, promising a detailed post-mortem report soon.</p>
-
-
-
-<p>Fortunately, other <a href="https://beincrypto.com/learn/what-is-polygon/" target="_blank" rel="noreferrer noopener">Polygon</a> platforms, such as the PoS chain and the Chain Development Kit (CDK), and protocols utilizing the CDK remained unaffected. The issues have been resolved as of press time, with the network showing activity on PolygonScan.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>&#8220;The zkEVM mainnet network is completed and re-indexing (internal transactions) is in progress,&#8221; an update on the zkEVM section of Polygonscan <a href="https://zkevm.polygonscan.com/" target="_blank" rel="noreferrer noopener nofollow">stated</a>.</p>
-</blockquote>
-
-
-
-<p>However, this incident poses significant challenges for the <a href="https://beincrypto.com/learn/layer-2-crypto-projects/" target="_blank" rel="noreferrer noopener">Layer 2 network</a>, which has struggled since its inception last year. Emin Gün Sirer, the founder of Ava Labs, cautioned against &#8220;trash L2s,&#8221; noting the potential for fraudulent practices. </p>
-
-
-
-<p>While not explicitly naming any protocol, Sirer highlighted red flags for the Layer 2 ecosystem, urging stakeholders to exercise diligence in their evaluations.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>&#8220;It has become really easy to launch a trash L2, and it&#8217;s fairly easy to do that trick, perfected by a certain chain that reorgs every other day, where you find someone who is actually doing real work and you parrot what they say, while angling for a photo op with Vitalik,&#8221; Sirer <a href="https://twitter.com/el33th4xor/status/1771658050228617428?s=46" target="_blank" rel="noreferrer noopener nofollow">remarked</a>.</p>
-</blockquote>
-
-
-
-<p>Sirer specifically warned against networks employing centralized sequencers without robust fraud prevention mechanisms. He also warned against &#8220;projects that sell tokens now to raise money to do the work that will lead to some other technology later.&#8221;</p>
-
-
-
-<p><strong>Read more: <a href="https://beincrypto.com/learn/top-defi-protocols/">Top 11 DeFi Protocols To Keep an Eye on in 2024</a></strong></p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="850" height="475" src="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-11.54.22-AM-850x475.png" alt="Polygon zkEVM TV" class="wp-image-488888" srcset="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-11.54.22-AM-850x475.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-11.54.22-AM-360x201.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-11.54.22-AM-768x429.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-11.54.22-AM-1536x858.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-11.54.22-AM-150x84.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-11.54.22-AM.png 1690w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Polygon zkEVM TVL. Source: <a href="https://l2beat.com/scaling/projects/polygonzkevm" target="_blank" rel="noreferrer noopener nofollow">L2Beat</a></figcaption></figure>
-
-
-
-<p>Still, Polygon has announced plans to upgrade the zkEVM protocol in the coming weeks. The firm recognizes the need for enhancements in its current beta phase.</p>
-
-
-
-<p><strong>Read more: <a href="https://beincrypto.com/learn/matic-price-prediction/">Polygon (MATIC) Price Prediction 2024 / 2025 / 2030</a></strong></p>
-
-
-
-<p>Notably, these issues had little impact on <a href="https://beincrypto.com/learn/matic-price-prediction/" target="_blank" rel="noreferrer noopener">Polygon&#8217;s MATIC</a> token. The digital asset recorded a modest growth of more than 2% to trade at $0.9954 as of press time, while on-chain data reveals that Polygon retains a modest Total Value Locked (TVL) of $152 million and a transaction volume of 308,000 in the last 30 days.</p>
-<p>The post <a href="https://beincrypto.com/polygon-matic-network-outage/">Polygon (MATIC) Suffers Network Outage For Over 12 Hours</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://beincrypto.com/wp-content/uploads/2023/08/bic_Polygon_matic-covers_bearish.jpg" medium="image" width="1280" height="720" type="image/jpeg" />
-<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2023/08/bic_Polygon_matic-covers_bearish.jpg"/>	</item>
-		<item>
-		<title>Will Bitcoin (BTC) Short-Term Holders Defend $55,000?</title>
-		<link>https://beincrypto.com/bitcoin-short-term-holders-defend-support/</link>
-		
-		<dc:creator><![CDATA[Jakub Dziadkowiec]]></dc:creator>
-		<pubDate>Sun, 24 Mar 2024 07:00:00 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[Bitcoin (BTC) Analysis]]></category>
-		<guid isPermaLink="false">https://beincrypto.com/?p=488596</guid>
-
-					<description><![CDATA[<p>In a surging bull market, short-term Bitcoin holders (STH) flood in, seeking quick gains. Yet, during corrections, they often face losses. Nonetheless, their participation remains vital for market vitality.</p>
-<p>The post <a href="https://beincrypto.com/bitcoin-short-term-holders-defend-support/">Will Bitcoin (BTC) Short-Term Holders Defend $55,000?</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>An accelerating bull market usually correlates with an increasing influx of new investors. Short-term holders of Bitcoin (STH) &#8211; as the on-chain analysis calls them &#8211; join the market during the booming bull market. Driven by the desire for a quick profit, they don&#8217;t hold assets for long.</strong></p>
-
-
-
-<p>However, if Bitcoin price corrects, as in the case of <a href="https://beincrypto.com/btc-price-correction-over-bull-run-ahead/" target="_blank" rel="noreferrer noopener">last week&#8217;s price action</a>, short-term holders quickly lose ground. Despite this, their behavior and presence in the market are crucial to maintaining a healthy bull market.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-what-is-the-significance-of-bitcoin-short-term-holders">What Is the Significance of Bitcoin Short-Term Holders?</h2>
-
-
-
-<p>Observing the behavior of Bitcoin short-term holders is important because of historical correlations to the BTC price. The STH category includes addresses that hold their BTC for less than 155 days. After crossing this arbitrary limit, addresses become long-term hodlers (LTHs). They hold assets for the long term and are not inclined to sell emotionally.</p>
-
-
-
-<p>Naturally, the increase in the percentage of BTC supply held by STHs is inversely proportional to the percentage in the hands of LTHs. Interestingly, the long-term chart of supply in the hands of LTH is also inversely proportional to the price of Bitcoin. This is especially evident during the peaks of successive cycles. The more Bitcoin is sold by long-term holders (red areas), the higher the BTC price is (green areas).</p>
-
-
-
-<figure class="wp-block-image alignnone wp-image-488598 size-full"><img decoding="async" width="1800" height="1013" src="https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc.png" alt="BTC supply long-term holders" class="wp-image-488598" srcset="https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc.png 1800w, https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc-360x203.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc-850x478.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc-768x432.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc-1536x864.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/1_glassnode-studio_bitcoin-total-supply-held-by-long-term-holders-btc-150x84.png 150w" sizes="(max-width: 1800px) 100vw, 1800px" /><figcaption class="wp-element-caption">BTC supply in the hands of long-term holders / Source: <a href="https://studio.glassnode.com/metrics?a=BTC&amp;category=&amp;m=supply.LthSum&amp;s=1279402069&amp;u=1710979200&amp;zoom=" target="_blank" rel="noreferrer noopener nofollow">Glassnode</a></figcaption></figure>
-
-
-
-<p>Therefore, the supply in the hands of STH is usually directly proportional to the price of BTC. New, inexperienced market participants buy BTC during increases (red arrows).</p>
-
-
-
-<p>They are convinced that since the cryptocurrency has already surged, it will continue to do so (green areas). This fuels a growing circle of new investors and traders who still want to <a href="https://beincrypto.com/bitcoin-rises-amidst-etf-outflows/" target="_blank" rel="noreferrer noopener">join the momentum of the bull market</a>. Hence the importance of following what short-term holders are doing on-chain.</p>
-
-
-
-<figure class="wp-block-image alignnone wp-image-488599 size-full"><img decoding="async" width="1800" height="1013" src="https://beincrypto.com/wp-content/uploads/2024/03/2_glassnode-studio_bitcoin-total-supply-held-by-short-term-holders-btc.png" alt="BTC supply short-term holders" class="wp-image-488599" srcset="https://beincrypto.com/wp-content/uploads/2024/03/2_glassnode-studio_bitcoin-total-supply-held-by-short-term-holders-btc.png 1800w, https://beincrypto.com/wp-content/uploads/2024/03/2_glassnode-studio_bitcoin-total-supply-held-by-short-term-holders-btc-360x203.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/2_glassnode-studio_bitcoin-total-supply-held-by-short-term-holders-btc-850x478.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/2_glassnode-studio_bitcoin-total-supply-held-by-short-term-holders-btc-768x432.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/2_glassnode-studio_bitcoin-total-supply-held-by-short-term-holders-btc-1536x864.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/2_glassnode-studio_bitcoin-total-supply-held-by-short-term-holders-btc-150x84.png 150w" sizes="(max-width: 1800px) 100vw, 1800px" /><figcaption class="wp-element-caption">BTC supply in the hands of short-term holders / Source: <a href="https://studio.glassnode.com/metrics?a=BTC&amp;category=&amp;m=supply.SthSum&amp;s=1279739264&amp;u=1661017750&amp;zoom=" target="_blank" rel="noreferrer noopener nofollow">Glassnode</a></figcaption></figure>
-
-
-
-<h2 class="wp-block-heading" id="h-short-term-holders-account-for-nearly-50-of-btc-realized-cap">Short-Term Holders Account for Nearly 50% of BTC Realized Cap</h2>
-
-
-
-<p>In a <a href="https://cryptoquant.com/insights/quicktake/65f6eeb6afc8f17fcb7eb1c1-Allocation-of-Nearly-50-of-Bitcoins-Realized-Cap-to-Short-Term-Holders" target="_blank" rel="noreferrer noopener nofollow">recent article</a>, analyst company CryptoQuant pointed out that nearly 50% of Bitcoin&#8217;s realized capitalization is in the hands of short-term holders. A particular increase in this indicator can be seen over the past 30 days when the enthusiasm and pace of STH purchases have surged.</p>
-
-
-
-<figure class="wp-block-image alignnone is-resized wp-image-488600 size-full"><img decoding="async" loading="lazy" width="1852" height="1140" src="https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance.jpg" alt="Dominance of STH" class="wp-image-488600" style="aspect-ratio:1.6245614035087719;width:1024px;height:auto" srcset="https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance.jpg 1852w, https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance-360x222.jpg 360w, https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance-850x523.jpg 850w, https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance-768x473.jpg 768w, https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance-1536x945.jpg 1536w, https://beincrypto.com/wp-content/uploads/2024/03/3_Twitter_STH_dominance-150x92.jpg 150w" sizes="(max-width: 1852px) 100vw, 1852px" /><figcaption class="wp-element-caption">Realized dominance of STH / Source: <a href="https://twitter.com/cryptoquant_com/status/1769673123736027221" target="_blank" rel="noreferrer noopener nofollow">X</a></figcaption></figure>
-
-
-
-<blockquote class="wp-block-quote">
-<p>“This occurrence, alongside indicating a very high bullish sentiment among short-term holders, reflects a higher dominance of this capital amount in the market over the coming weeks and months.” &#8211; the on-chain <a href="https://twitter.com/cryptoquant_com/status/1769673123736027221" target="_blank" rel="noreferrer noopener nofollow">analysts added</a>.</p>
-</blockquote>
-
-
-
-<p>However, on the other hand, another CryptoQuant analyst <a href="https://cryptoquant.com/insights/quicktake/65f4319967c8123d484ce77d-Long-term-holders-have-not-yet-started-distribution" target="_blank" rel="noreferrer noopener nofollow">wrote that the pace of selling</a> LTH-held assets does not yet suggest a late phase of the cycle. In other words, there is still a lot of potential in the current cycle for buying by STH and an increase in the price of BTC.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>&#8220;However, we have not yet seen entry into this late stage of the cycle, although sporadic corrections are common, in part due to the highly leveraged nature of the current market,&#8221;  he stated.</p>
-</blockquote>
-
-
-
-<h2 class="wp-block-heading" id="h-key-support-at-55-000">Key Support at $55,000</h2>
-
-
-
-<p>Finally, well-known cryptocurrency market analyst <a href="https://twitter.com/PositiveCrypto" target="_blank" rel="noreferrer noopener nofollow">@PositiveCrypto</a> published his perspective on STH&#8217;s behavior on X today. He presented a chart of the realized price of short-term holders.</p>
-
-
-
-<p>He stressed that in the ongoing bull market, the curve has already provided support for the Bitcoin price three times (green areas). At the same time, he emphasized that one time the value of BTC dropped below this support, which resulted in a deeper correction in the market.</p>
-
-
-
-<figure class="wp-block-image alignnone is-resized wp-image-488601 size-full"><img decoding="async" loading="lazy" width="2560" height="1603" src="https://beincrypto.com/wp-content/uploads/2024/03/4_Twitter_realized_price_STH-scaled.jpg" alt="BTC short-term holders" class="wp-image-488601" style="aspect-ratio:1.5970056144728635;width:1024px;height:auto" srcset="https://beincrypto.com/wp-content/uploads/2024/03/4_Twitter_realized_price_STH-scaled.jpg 2560w, https://beincrypto.com/wp-content/uploads/2024/03/4_Twitter_realized_price_STH-360x225.jpg 360w, https://beincrypto.com/wp-content/uploads/2024/03/4_Twitter_realized_price_STH-850x532.jpg 850w, https://beincrypto.com/wp-content/uploads/2024/03/4_Twitter_realized_price_STH-768x481.jpg 768w, https://beincrypto.com/wp-content/uploads/2024/03/4_Twitter_realized_price_STH-1536x962.jpg 1536w, https://beincrypto.com/wp-content/uploads/2024/03/4_Twitter_realized_price_STH-2048x1282.jpg 2048w, https://beincrypto.com/wp-content/uploads/2024/03/4_Twitter_realized_price_STH-150x94.jpg 150w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption class="wp-element-caption">Realized price of short-term BTC holders / Source: <a href="https://twitter.com/PositiveCrypto/status/1771112110698766404" target="_blank" rel="noreferrer noopener nofollow">X</a></figcaption></figure>
-
-
-
-<p>The analyst then predicts that if Bitcoin&#8217;s ongoing correction were to again lead to the area of the realized STH price, Bitcoin would reach the area of $55,000. Measured from the <a href="https://beincrypto.com/bitcoin-price-new-all-time-high-march/" target="_blank" rel="noreferrer noopener">current all-time high</a> (ATH) of $73,777, this would be a drop of about 25%.</p>
-
-
-
-<p>However, even such a deep correction would not disrupt the structure of the long-term bull market. Only the loss of this support and deeper declines could trigger a medium-term bear market, which could dominate the vicinity of <a href="https://beincrypto.com/bitcoin-parabolic/" target="_blank" rel="noreferrer noopener">the upcoming halving</a>.</p>
-
-
-
-<p><strong>For BeInCrypto’s latest crypto market analysis, <a href="https://beincrypto.com/solana-price-analysis-consolidation/">click here</a>.</strong></p>
-<p>The post <a href="https://beincrypto.com/bitcoin-short-term-holders-defend-support/">Will Bitcoin (BTC) Short-Term Holders Defend $55,000?</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://beincrypto.com/wp-content/uploads/2024/03/BIC_best_on_chain_analysis_tools_cover.png" medium="image" width="1280" height="720" type="image/png" />
-<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/03/BIC_best_on_chain_analysis_tools_cover.png"/>	</item>
-		<item>
-		<title>Crypto Jobs on the Rise as Bitcoin Trades Near All-Time Highs</title>
-		<link>https://beincrypto.com/crypto-jobs-rise-bitcoin-all-time-high/</link>
-		
-		<dc:creator><![CDATA[Bary Rahma]]></dc:creator>
-		<pubDate>Sat, 23 Mar 2024 23:30:00 +0000</pubDate>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[Bitcoin (BTC) News]]></category>
-		<category><![CDATA[Web3 Jobs News]]></category>
-		<guid isPermaLink="false">https://beincrypto.com/?p=488859</guid>
-
-					<description><![CDATA[<p>Bitcoin's remarkable rally has led to an increase in crypto job opportunities, with companies and financial giants seeking new talent amidst market growth.</p>
-<p>The post <a href="https://beincrypto.com/crypto-jobs-rise-bitcoin-all-time-high/">Crypto Jobs on the Rise as Bitcoin Trades Near All-Time Highs</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Bitcoin&#8217;s stellar performance, reaching all-time highs and igniting a 54% rally year to date, has led to a significant uptick in job opportunities in the crypto market. </strong></p>
-
-
-
-<p>Companies entrenched in digital assets, like Coinbase, Kraken, Binance, and Gemini, are aggressively expanding their workforce. Even traditional financial powerhouses, like Fidelity, are on the lookout for fresh talent, indicating a broader industry revival.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-crypto-jobs-on-the-rise">Crypto Jobs on the Rise</h2>
-
-
-
-<p>Specialized job boards are experiencing a remarkable surge in demand, with postings skyrocketing. <a href="https://beincrypto.com/jobs/" target="_blank" rel="noreferrer noopener">BeInCrypto&#8217;s Crypto Jobs in Web3</a>, for instance, reported an uptick in job listings between January and March, boasting more than 8,400 postings. Companies like Chainlink Labs, Ledger, and Animoca Brands are looking to fill different crypto positions, from Marketers to Engineers and Content Writers. </p>
-
-
-
-<p>Alex Ramzhev, Talent Acquisition Specialist at BeInCrypto, optimistically noted, &#8220;The tide is shifting,&#8221; signaling strong growth prospects for the industry. This resurgence is closely tied to the crypto market&#8217;s overall health. </p>
-
-
-
-<p><strong>Read more: <a href="https://beincrypto.com/learn/how-to-use-beincrypto-jobs-board-hr-section/">How to Use BeInCrypto Jobs Board: A Step-by-Step Guide</a></strong></p>
-
-
-
-<p>Industry titans like <a href="https://beincrypto.com/learn/coinbase-review/" target="_blank" rel="noreferrer noopener">Coinbase</a>, for instance, are witnessing a 330% increase in trading volume over the past year. Meanwhile, the company&#8217;s shares, COIN, reached a 115-week high of $276, leading CFO Alesia Haas to reevaluate her workforce. </p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>&#8220;We do plan some modest investment in headcount in 2024,&#8221; Haas <a href="https://www.youtube.com/watch?v=Pxi7t0DUyqk" target="_blank" rel="noreferrer noopener nofollow">said</a>.</p>
-</blockquote>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="460" src="https://beincrypto.com/wp-content/uploads/2024/03/COIN_2024-03-23_22-26-08-850x460.png" alt="COIN Shares Price" class="wp-image-488860" srcset="https://beincrypto.com/wp-content/uploads/2024/03/COIN_2024-03-23_22-26-08-850x460.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/COIN_2024-03-23_22-26-08-360x195.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/COIN_2024-03-23_22-26-08-768x415.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/COIN_2024-03-23_22-26-08-1536x831.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/COIN_2024-03-23_22-26-08-2048x1108.png 2048w, https://beincrypto.com/wp-content/uploads/2024/03/COIN_2024-03-23_22-26-08-150x81.png 150w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">COIN Shares Price Performance. Source: <a href="https://tradingview.com" target="_blank" rel="noreferrer noopener nofollow">TradingView</a></figcaption></figure>
-
-
-
-<p>Fidelity and BlackRock are also ramping up their crypto-related hiring efforts. The former is <a href="https://jobs.fidelity.com/job-details/19575035/vice-president-crypto-investment-risk/" target="_blank" rel="noreferrer noopener nofollow">looking</a> for an Investment Risk Vice President while the latter is <a href="https://careers.blackrock.com/job/19839567/blackrock-global-markets-emea-coverage-lawyer-london-gb/" target="_blank" rel="noreferrer noopener nofollow">searching</a> for a Global Markets Lawyer. This indicates a keen interest from traditional financial institutions in tapping into the growing crypto market.</p>
-
-
-
-<p><strong>Read more: <a href="https://beincrypto.com/learn/highest-paying-web3-jobs-candidate-section/">Top 13 Highest Paying Web3 Jobs: A Comprehensive List</a></strong></p>
-
-
-
-<p>The revival of business development roles, previously slashed during downturns, reflects the sector&#8217;s robust recovery and its readiness to scale in anticipation of future demand. Despite previous <a href="https://beincrypto.com/block-inc-ack-dorsey-layoffs/" target="_blank" rel="noreferrer noopener">crypto layoffs</a> amidst a market downturn, firms are now cautiously but optimistically planning to increase their headcount, aligning with the market&#8217;s growth trajectory.</p>
-<p>The post <a href="https://beincrypto.com/crypto-jobs-rise-bitcoin-all-time-high/">Crypto Jobs on the Rise as Bitcoin Trades Near All-Time Highs</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://beincrypto.com/wp-content/uploads/2022/09/blockchain-developer-jobs-find-job.jpg" medium="image" width="1280" height="720" type="image/jpeg" />
-<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2022/09/blockchain-developer-jobs-find-job.jpg"/>	</item>
-		<item>
-		<title>Crypto Users Beware: EU&#8217;s New Anti-Money Laundering Legislation Explained</title>
-		<link>https://beincrypto.com/eu-bans-unidentified-self-hosted-crypto/</link>
-		
-		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
-		<pubDate>Sat, 23 Mar 2024 22:30:00 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<guid isPermaLink="false">https://beincrypto.com/?p=488837</guid>
-
-					<description><![CDATA[<p>The new regulation prohibits anonymous crypto transactions, aiming to enhance transparency and combat illicit financial activities.</p>
-<p>The post <a href="https://beincrypto.com/eu-bans-unidentified-self-hosted-crypto/">Crypto Users Beware: EU&#8217;s New Anti-Money Laundering Legislation Explained</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>The European Union Parliament has taken a significant step by outlawing unidentified self-custody crypto wallets for making payments across the region.</strong></p>
-
-
-
-<p>A recent social media <a href="https://twitter.com/echo_pbreyer/status/1770853127798861868" target="_blank" rel="noreferrer noopener nofollow">post </a>by Patrick Breyer, an EU Parliament member, revealed that the ban received approval from most of the parliament&#8217;s leadership committee on March 19. This move is part of the <a href="https://beincrypto.com/european-laundering-crypto/" target="_blank" rel="noreferrer noopener">EU&#8217;s broader anti-money laundering (AML) legislation</a>.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-how-europe-s-new-aml-regulations-impacts-crypto">How Europe&#8217;s New AML Regulations Impacts Crypto</h2>
-
-
-
-<p>The new <a href="https://www.europarl.europa.eu/meetdocs/2014_2019/plmrep/COMMITTEES/CJ12/AG/2024/03-19/1297044EN.pdf" target="_blank" rel="noreferrer noopener nofollow">regulations ban all anonymous crypto payments</a> and cash transactions above certain limits. Specifically, they prohibit cash payments exceeding €10,000 or anonymous cash transactions beyond €3,000. The ban also targets self-custody <a href="https://beincrypto.com/learn/best-solana-wallets/" target="_blank" rel="noreferrer noopener">wallets </a>on mobile, desktop, or browser applications.</p>
-
-
-
-<p>Although the law is slated to take effect in three years, there are suggestions that its implementation might be sooner.</p>
-
-
-
-<p>Nonetheless, the new regulation is set to <a href="https://beincrypto.com/european-parliament-approves-mica-law/" target="_blank" rel="noreferrer noopener">reshape how Europeans engage with digital currencies</a>. It has also triggered apprehensions regarding user privacy and financial inclusivity due to its stringent stance against anonymity. Additionally, the regulation could pose significant barriers to innovation and impede widespread crypto adoption in the region.</p>
-
-
-
-<p><strong>Read More: <a href="https://beincrypto.com/learn/crypto-regulation/" target="_blank" rel="noreferrer noopener">Crypto Regulation: What Are the Benefits and Drawbacks?</a></strong></p>
-
-
-
-<figure class="wp-block-image size-large is-resized"><img decoding="async" loading="lazy" width="850" height="411" src="https://beincrypto.com/wp-content/uploads/2024/03/image-190-850x411.png" alt="Crypto wallets" class="wp-image-488841" style="aspect-ratio:2.068126520681265;width:1024px;height:auto" srcset="https://beincrypto.com/wp-content/uploads/2024/03/image-190-850x411.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/image-190-360x174.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/image-190-768x371.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/image-190-150x72.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/image-190.png 1275w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Crypto Wallets Market Size. Source: <a href="https://www.polarismarketresearch.com/industry-analysis/crypto-wallet-market" target="_blank" rel="noreferrer noopener nofollow">Polaris Market Research</a></figcaption></figure>
-
-
-
-<p>Breyer, a dissenting voice within the parliament, argued that the ban could impact law-abiding citizens rather than curbing criminal activities. He emphasized that anonymous payments have served legitimate purposes. </p>
-
-
-
-<p>He cited examples such as donations to individuals like Alexei Navalny and organizations like WikiLeaks. Moreover, he highlighted the importance of financial privacy for personal transactions.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-crypto-community-questions-eu-s-ban-on-anonymous-payments">Crypto Community Questions EU&#8217;s Ban on Anonymous Payments</h2>
-
-
-
-<p>Breyer also expressed concerns that heightened <a href="https://beincrypto.com/crypto-regulation-europe-aml-singapore-bitcoin-etf-thailand-ico/" target="_blank" rel="noreferrer noopener">surveillance of financial transactions</a> could inadvertently facilitate malicious activities by hackers and encroach on individual freedoms.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>&#8220;We need to find ways to bring the best features of cash into our digital future.&nbsp;We also have the right to be able to pay and donate in cryptocurrencies online without our payment behavior being recorded for no reason and personally.&nbsp;If the EU believes it can regulate virtual currencies on its own, it has not understood the global internet,&#8221; Breyer <a href="https://www.patrick-breyer.de/piraten-europaabgeordneter-mit-eu-bargeldobergrenze-und-verbot-anonymer-kryptozahlungen-droht-schleichende-finanzielle-entmuendigung/" target="_blank" rel="noreferrer noopener nofollow">said</a>.</p>
-</blockquote>
-
-
-
-<p>Similarly, crypto community members have raised questions and concerns regarding the scope of the ban on anonymous payments. One user, in particular, sought clarification on whether the <a href="https://twitter.com/Velofisch/status/1771054272722944125?t=cg_swsZj3jFJYdon_hbEXA&amp;s=19" target="_blank" rel="noreferrer noopener nofollow">ban would extend to all cryptocurrencies</a> or only those categorized as privacy coins.</p>
-
-
-
-<p>Notably, several crypto exchanges, including Binance and OKX, have <a href="https://beincrypto.com/binance-privacy-coins-prohibition/" target="_blank" rel="noreferrer noopener">delisted several privacy-focused tokens for their users</a> in Europe.</p>
-
-
-
-<p>Read More: <a href="https://beincrypto.com/learn/binance-card-alternatives/" target="_blank" rel="noreferrer noopener">Top 8 Binance Card Alternatives Available in Europe in 2024</a></p>
-
-
-
-<p>Meanwhile, Circle&#8217;s Director of Research and Policy, Patrick Hansen, explained that self-custody wallets and payments from such wallets were not banned. Additionally, peer-to-peer transfers are explicitly excluded from the regulation.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>&#8220;Paying with crypto (for example to merchants) with a non KYC’d self custody wallet will be more difficult/banned depending on the merchants set up. This change, as well as the lower thresholds for anonymous cash payments, has unfortunately been agreed months ago,&#8221; he <a href="https://x.com/paddi_hansen/status/1771597759923073237?s=46&amp;t=aw6ZR-6aD050XLPVXY8AQA" target="_blank" rel="noreferrer noopener nofollow">added</a>.</p>
-</blockquote>
-<p>The post <a href="https://beincrypto.com/eu-bans-unidentified-self-hosted-crypto/">Crypto Users Beware: EU&#8217;s New Anti-Money Laundering Legislation Explained</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://beincrypto.com/wp-content/uploads/2023/01/bic_European_Union_neutral_1.png" medium="image" width="1280" height="720" type="image/png" />
-<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2023/01/bic_European_Union_neutral_1.png"/>	</item>
-		<item>
-		<title>Racist Memecoin Fallout Offset by Positive Trends in Sector</title>
-		<link>https://beincrypto.com/racist-memecoins-condemnation/</link>
-		
-		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
-		<pubDate>Sat, 23 Mar 2024 21:00:00 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[Memecoin News]]></category>
-		<guid isPermaLink="false">https://beincrypto.com/?p=488798</guid>
-
-					<description><![CDATA[<p>Prominent figures have expressed dismay at these racist memecoins, advocating for platforms to filter and delist such tokens.</p>
-<p>The post <a href="https://beincrypto.com/racist-memecoins-condemnation/">Racist Memecoin Fallout Offset by Positive Trends in Sector</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>In recent months, memecoins popularity surged within the crypto ecosystem. These assets had captured community attention with their origins rooted in beloved internet animal memes and shared interests among various crypto communities.</strong></p>
-
-
-
-<p>However, <a href="https://beincrypto.com/crypto-traders-solana-base-meme-coins/" target="_blank" rel="noreferrer noopener">the frenzy surrounding these assets</a> recently veered into unsettling territory as new memecoins bearing offensive names and symbols, including racial slurs, anti-Semitic references, and Nazi imagery, emerged.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-racist-memecoins-irks-crypto-community">Racist Memecoins Irks Crypto Community</h2>
-
-
-
-<p>This development sparked swift and severe backlash, drawing condemnation from the cryptocurrency community.</p>
-
-
-
-<p>Camila Russo, a respected cryptocurrency journalist, <a href="https://twitter.com/CamiRusso/status/1771237094796529815" target="_blank" rel="noreferrer noopener nofollow">expressed</a> dismay at those purchasing these tokens in the present era. However, she acknowledged the freedom for anyone to create tokens on permissionless blockchains. Still, she stressed the importance of centralized platforms having the discretion to filter and delist such tokens.</p>
-
-
-
-<p>Hayden Adams, the creator of <a href="https://beincrypto.com/learn/how-to-use-uniswap/" target="_blank" rel="noreferrer noopener">Uniswap DEX</a>, echoed similar sentiments, advocating for protocols to be able to block these abhorrent tokens.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>&#8220;Protocols should be permissionless. But if you run a frontend with the ability to easily block these disgusting racist tokens, you should. I have no interest in serving or profiting off this trash,&#8221; Adams <a href="https://twitter.com/haydenzadams/status/1771301683483562369" target="_blank" rel="noreferrer noopener nofollow">remarked</a>.</p>
-</blockquote>
-
-
-
-<p><strong>Read More: <a href="https://beincrypto.com/learn/best-solana-wallets/" target="_blank" rel="noreferrer noopener">13 Best Solana (SOL) Wallets To Consider In March 2024</a></strong></p>
-
-
-
-<p>Due to these developments, DEX Screener, a <a href="https://beincrypto.com/learn/top-defi-protocols/" target="_blank" rel="noreferrer noopener">DeFi</a> token analytics platform, announced plans to reassess its token profile moderation policy.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>&#8220;We won&#8217;t be the gatekeepers of what happens on-chain, but we&#8217;re definitely not here to spread hate,&#8221; the platform added.</p>
-</blockquote>
-
-
-
-<p>Interestingly, in response to these negative memecoins, some blockchain users have launched positive alternatives and underlined the favorable developments within the sector. Notably, a memecoin named Stop Racism on <a href="https://beincrypto.com/learn/what-is-solana/" target="_blank" rel="noreferrer noopener">Solana</a> has surged by around 19,000% in the last 24 hours.</p>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="481" height="555" src="https://beincrypto.com/wp-content/uploads/2024/03/image-189.png" alt="Racist memecoins" class="wp-image-488834" srcset="https://beincrypto.com/wp-content/uploads/2024/03/image-189.png 481w, https://beincrypto.com/wp-content/uploads/2024/03/image-189-312x360.png 312w, https://beincrypto.com/wp-content/uploads/2024/03/image-189-150x173.png 150w" sizes="(max-width: 481px) 100vw, 481px" /><figcaption class="wp-element-caption">Stop Racism on Solana. Source: <a href="https://dexscreener.com/solana/f5ixin6eufpsqllxw8mt1blt9ebytkmfywgrq9ggqgyx" target="_blank" rel="noreferrer noopener nofollow">DexScreener</a></figcaption></figure>
-
-
-
-<p>Additionally, developers behind the Floki memecoin unveiled plans to introduce Floki-powered digital banking services, including debit cards for token holders. This initiative aims to enable users to fund their accounts with Floki and conduct transactions in major fiat currencies like Dollars, Euros, and Pounds. At the same time, the development would also provide banking services to the unbanked population and facilitate global money transfers.</p>
-
-
-
-<p>Read More: <a href="https://beincrypto.com/learn/solana-platforms-buy/" target="_blank" rel="noreferrer noopener">6 Best Platforms To Buy Solana (SOL) in 2024</a></p>
-
-
-
-<p>An unnamed fintech company licensed in several countries will create these bank accounts. The account would have access to debit cards and support SWIFT Payments and SEPA IBANs.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>&#8220;These accounts will be facilitated through a key partner licensed in four key jurisdictions: Canada, Spain, Dominica, Australia, and the UAE. Users will be able to create digital bank accounts and generate debit cards linked to these accounts,&#8221; Floki <a href="https://floki.medium.com/floki-roadmap-whats-next-on-our-agenda-3e957b56d277" target="_blank" rel="noreferrer noopener nofollow">explained</a>.</p>
-</blockquote>
-
-
-
-<p>This move, along with creating a domain name service, is expected to enhance the utility of the memecoin.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>&#8220;[Floki plans] to&nbsp;introduce a decentralized website service that will allow people to host their decentralized website, blog, or resume using their .floki domain name,&#8221; the project added.</p>
-</blockquote>
-<p>The post <a href="https://beincrypto.com/racist-memecoins-condemnation/">Racist Memecoin Fallout Offset by Positive Trends in Sector</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://beincrypto.com/wp-content/uploads/2023/03/BIC_Memecoins_helmet.png" medium="image" width="1277" height="718" type="image/png" />
-<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2023/03/BIC_Memecoins_helmet.png"/>	</item>
-		<item>
-		<title>Here Is Why Shiba Inu (SHIB) Price Could Drop By 23% Soon</title>
-		<link>https://beincrypto.com/shiba-inu-price-drop-soon/</link>
-		
-		<dc:creator><![CDATA[Tiago Amaral]]></dc:creator>
-		<pubDate>Sat, 23 Mar 2024 20:00:45 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[Shiba Inu (SHIB) Analysis]]></category>
-		<guid isPermaLink="false">https://beincrypto.com/?p=488589</guid>
-
-					<description><![CDATA[<p>Discover the latest on SHIB as we delve into its sharp price decline and 50% transaction size drop over two weeks, suggesting a shift in investor sentiment. We analyze technical indicators, including an overbought RSI and bearish EMAs, predicting potential corrections.</p>
-<p>The post <a href="https://beincrypto.com/shiba-inu-price-drop-soon/">Here Is Why Shiba Inu (SHIB) Price Could Drop By 23% Soon</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>The Shiba Inu (SHIB) price has seen a sharp decline, with the average transaction size dropping by 50% in the last two weeks. This points to a possible change in investor sentiment towards Shiba Inu. The decrease in transaction size might indicate a slowdown from the recent surge in buying, perhaps signaling a wider market reassessment.</strong></p>
-
-
-
-<p>Adding to the cautious stance, SHIB&#8217;s technical indicators, such as an overbought RSI and bearish EMAs, suggest upcoming corrections. These factors suggest SHIB could be heading into a difficult period, raising questions about its ability to continue the bullish momentum it has shown recently.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-average-transaction-size-is-declining">Average Transaction Size Is Declining</h2>
-
-
-
-<p>Analyzing <a href="https://beincrypto.com/learn/shiba-inu-explainer/" target="_blank" rel="noreferrer noopener">SHIB&#8217;s</a> Average Transaction Size for the past month will print an interesting scenario. From February 21 to March 6, it grew from $10,139 to $42,491. That represents a 319.08% growth in roughly two weeks. In that same period, SHIB&#8217;s price grew from $0.000009 to $0.000034, a 277.78% growth. As we can see, during the recent bull run, these metrics appear to be correlated. </p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="515" src="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-14.06.41-850x515.png" alt="SHIB Average Transaction Size." class="wp-image-488614" srcset="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-14.06.41-850x515.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-14.06.41-360x218.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-14.06.41-768x466.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-14.06.41-150x91.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-14.06.41.png 1250w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">SHIB Average Transaction Size. Source: <a href="https://app.intotheblock.com/coin/SHIB/deep-dive?group=all&amp;chart=all" target="_blank" rel="noreferrer noopener nofollow">IntoTheBlock</a>.</figcaption></figure>
-
-
-
-<p>Then, the average transaction size grew more, and then it started to fall heavily. From $49,816 on March 11 to $22,824 on March 21, a -54.18% drop. In that same period, SHIB price dropped from $0.000033 to $0.000027, a -18.18% decrease. </p>
-
-
-
-<p>Since these two metrics seem to be very correlated in the last few months, this gap between this huge drop in average transaction size and price correction may be closed in the next few days, as <a href="https://beincrypto.com/learn/shiba-inu-platforms-buy/" target="_blank" rel="noreferrer noopener">SHIB prices potentially drop even more</a>. </p>
-
-
-
-<p><strong>Read More: <a href="https://beincrypto.com/learn/shiba-inu-shib-price-prediction/" target="_blank" rel="noreferrer noopener">Shiba Inu (SHIB) Price Prediction 2024/2025/2030</a></strong></p>
-
-
-
-<h2 class="wp-block-heading" id="h-shib-rsi-is-still-in-the-overbought-stage">SHIB RSI Is Still In The Overbought Stage</h2>
-
-
-
-<p>Despite undergoing a recent price correction, the SHIB Relative Strength Index (RSI) remains at a high of 81. That signals a potential bearish momentum. This elevated RSI level, significantly surpassing the marker of 70, implies that <a href="https://beincrypto.com/learn/buy-shiba-inu/" target="_blank" rel="noreferrer noopener">SHIB could be considered overvalued</a> at the moment. This could set the stage for a possible downward adjustment in its price.</p>
-
-
-
-<p>Generally, an RSI value exceeding 70 indicates that the asset may have been subject to excessive buying activity, raising the likelihood of a forthcoming retracement as the market endeavors to find a balance between demand and supply dynamics.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="288" src="https://beincrypto.com/wp-content/uploads/2024/03/SHIBA-INU-SHIB-14.07.15-22-Mar-2024-850x288.png" alt="SHIB RSI 7D." class="wp-image-488617" srcset="https://beincrypto.com/wp-content/uploads/2024/03/SHIBA-INU-SHIB-14.07.15-22-Mar-2024-850x288.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/SHIBA-INU-SHIB-14.07.15-22-Mar-2024-360x122.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/SHIBA-INU-SHIB-14.07.15-22-Mar-2024-768x260.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/SHIBA-INU-SHIB-14.07.15-22-Mar-2024-1536x520.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/SHIBA-INU-SHIB-14.07.15-22-Mar-2024-2048x693.png 2048w, https://beincrypto.com/wp-content/uploads/2024/03/SHIBA-INU-SHIB-14.07.15-22-Mar-2024-150x51.png 150w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">SHIB RSI 7D. Source: <a href="https://app.santiment.net/" target="_blank" rel="noreferrer noopener nofollow">Santiment</a>. </figcaption></figure>
-
-
-
-<p>The RSI metric itself serves as a crucial tool in technical analysis, acting as a momentum oscillator that measures the speed and change of price movements within a range of 0 to 100, based on recent price increases and decreases. SHIB&#8217;s RSI progression from 88 on March 11 to 81 by March 21, despite reflecting a modest reduction in buying momentum, unmistakably keeps it within the overbought territory. </p>
-
-
-
-<p>This condition is traditionally interpreted by investors as a bearish indicator, suggesting that the asset has been under considerable buying pressure, which might not be sustainable over time. As a result, the expectation is for <a href="https://beincrypto.com/learn/shiba-inu-burn-rate/" target="_blank" rel="noreferrer noopener">SHIB price to potentially decline</a> as the market naturally adjusts to these dynamics, aligning closer to its intrinsic value.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-shib-price-prediction-will-shib-hold-the-0-000023-support">SHIB Price Prediction: Will SHIB Hold The $0.000023 Support?</h2>
-
-
-
-<p>The <a href="https://beincrypto.com/learn/moving-averages-explained/" target="_blank" rel="noreferrer noopener">Exponential Moving Average (EMA)</a> lines for SHIB are currently indicating an interesting scenario in their price movement, with the short-term EMA lines nearing a crossover below the long-term EMA lines. This potential crossover is a significant technical indicator that suggests a bearish momentum might be on the horizon, implying that the price could be set to decline if the trend continues. </p>
-
-
-
-<p>Furthermore, the fact that the EMA lines are very close to each other and to the current price line indicates a lack of strong momentum in either direction, suggesting that the market is in a state of uncertainty. When the EMA lines hover near the current price, it often signals a consolidation phase, where the price could break out in either direction depending on market sentiment and upcoming developments.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="386" src="https://beincrypto.com/wp-content/uploads/2024/03/SHIBUSD_2024-03-22_14-07-07-850x386.png" alt="SHIB 4-Hour Price Chart and EMA Lines." class="wp-image-488628" srcset="https://beincrypto.com/wp-content/uploads/2024/03/SHIBUSD_2024-03-22_14-07-07-850x386.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/SHIBUSD_2024-03-22_14-07-07-360x163.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/SHIBUSD_2024-03-22_14-07-07-768x349.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/SHIBUSD_2024-03-22_14-07-07-1536x697.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/SHIBUSD_2024-03-22_14-07-07-2048x930.png 2048w, https://beincrypto.com/wp-content/uploads/2024/03/SHIBUSD_2024-03-22_14-07-07-150x68.png 150w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">SHIB 4-Hour Price Chart and <a href="https://beincrypto.com/learn/moving-averages-explained/" target="_blank" rel="noreferrer noopener">EMA</a> Lines. Source: <a href="https://www.tradingview.com/chart/V4vUSDS5/?symbol=COINBASE%3ASHIBUSD" target="_blank" rel="noreferrer noopener nofollow">TradingView</a>. </figcaption></figure>
-
-
-
-<p>EMA lines give more weight to recent prices, making them react quicker to market changes than SMAs. They help spot trend directions and potential reversals. A short-term EMA dropping below a long-term one suggests a bearish outlook; a rise above indicates bullish potential.</p>
-
-
-
-<p><strong>Read More: <a href="https://beincrypto.com/learn/shiba-inu-wallet/" target="_blank" rel="noreferrer noopener">11 Best Shiba Inu (SHIB) Wallets in 2024</a></strong></p>
-
-
-
-<p>SHIB&#8217;s price is $0.000026, just above the $0.000023 support. If it breaks, $0.000020 could be next. If the trend reverses, it might challenge the $0.000034 resistance, possibly reaching $0.000038. </p>
-
-
-
-<p>Market trends, sentiment, and crypto dynamics greatly influence these scenarios, underlining the importance of monitoring these indicators.</p>
-<p>The post <a href="https://beincrypto.com/shiba-inu-price-drop-soon/">Here Is Why Shiba Inu (SHIB) Price Could Drop By 23% Soon</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://beincrypto.com/wp-content/uploads/2023/10/bic_SHIBA_1-covers_bearish.png" medium="image" width="1280" height="720" type="image/png" />
-<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2023/10/bic_SHIBA_1-covers_bearish.png"/>	</item>
-		<item>
-		<title>OKX Founder Could Be Under Investigation by US Authorities</title>
-		<link>https://beincrypto.com/okx-founder-criminal-investigation/</link>
-		
-		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
-		<pubDate>Sat, 23 Mar 2024 15:00:00 +0000</pubDate>
-				<category><![CDATA[Regulation]]></category>
-		<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[OKX News]]></category>
-		<guid isPermaLink="false">https://beincrypto.com/?p=488814</guid>
-
-					<description><![CDATA[<p>This rumored investigation adds to Xu's history of controversy, including previous scrutiny from Chinese authorities and OKX's recent regulatory challenges in South Korea and India.</p>
-<p>The post <a href="https://beincrypto.com/okx-founder-criminal-investigation/">OKX Founder Could Be Under Investigation by US Authorities</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Online reports suggest that Mingxing Xu, commonly referred to as Star Xu, the founder of OKX, is reportedly under investigation in the United States.</strong></p>
-
-
-
-<p>Xu swiftly refuted these allegations, expressing his frustrations with the ongoing FUD across social media.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-is-okx-founder-facing-legal-troubles-in-the-us">Is OKX Founder Facing Legal Troubles in the US?</h2>
-
-
-
-<p>Rumors began swirling in the Chinese crypto community when Alvin, a prominent figure, fielded inquiries about Xu&#8217;s supposed arrest in the US. Alvin promptly debunked the rumors, suggesting the news was a potential ploy to manipulate OKX&#8217;s native token, OKB.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>&#8220;Many people asked me today if it is true that there are rumors that Xu Xingxing was arrested by the Americans. I think it is most likely a rumor. They want to force OKB to be raped,&#8221; a translated version of his post <a href="https://twitter.com/alvinnn666/status/1771206624306237679" target="_blank" rel="noreferrer noopener nofollow">reads</a>.</p>
-</blockquote>
-
-
-
-<p><a href="https://beincrypto.com/okb-price-plunge-liquidation-compensation/" target="_blank" rel="noreferrer noopener">OKB&#8217;s price had seen wild volatility</a> during the past week, dropping to as low as $54 before rebounding to its current value of $57 as of press time, according to BeInCrypto <a href="https://beincrypto.com/price/okb/" target="_blank" rel="noreferrer noopener">data</a>. </p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="676" src="https://beincrypto.com/wp-content/uploads/2024/03/image-188-850x676.png" alt="OKX's OKB Token Price" class="wp-image-488820" srcset="https://beincrypto.com/wp-content/uploads/2024/03/image-188-850x676.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/image-188-360x286.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/image-188-768x610.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/image-188-150x119.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/image-188.png 892w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">OKX&#8217;s OKB Token Price. Source: <a href="https://beincrypto.com/price/okb/" target="_blank" rel="noreferrer noopener">BeInCrypto</a></figcaption></figure>
-
-
-
-<p>Meanwhile, OKX&#8217;s partnership lead, Gala Wen, echoed Alvin&#8217;s sentiments, dismissing the claims as false. Wen emphasized Xu&#8217;s active role in the company&#8217;s US operations, rebuffing any notion of his involvement in legal trouble.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>&#8220;It&#8217;s so fake. The arrests in the United States are public information and anyone can check it on the government website. The American office is very big, and the boss personally comes to handle business. We work hard every day in high spirits,&#8221; Wen <a href="https://twitter.com/galala_eth/status/1771226393461875058" target="_blank" rel="noreferrer noopener nofollow">said</a>.</p>
-</blockquote>
-
-
-
-<p>Notably, this is not Xu&#8217;s first brush with controversy. In 2020, he <a href="https://www.forbes.com/sites/kenrapoza/2020/10/16/chinese-ceo-of-okex-crypto-exchange-arrested-again-whales-bail/" target="_blank" rel="noreferrer noopener nofollow">faced</a> scrutiny in China, coinciding with his exchange&#8217;s temporary suspension of crypto withdrawals, sparking market concerns.</p>
-
-
-
-<p><strong>Read more: <a href="https://beincrypto.com/learn/okx-review/">OKX Review 2024: A Comprehensive Guide to the Leading Crypto Exchange</a></strong></p>
-
-
-
-<p>Interestingly, the current rumors arrive at a time when OKX faces increased regulatory scrutiny across various jurisdictions. Last month, South Korean authorities initiated a <a href="https://beincrypto.com/okx-criminal-investigation-south-korea/" target="_blank" rel="noreferrer noopener">criminal probe into OKX&#8217;s operations</a> within the country. The authorities accused the exchange of undisclosed activities and employing domestic influencers for promotional campaigns. Additionally, <a href="https://beincrypto.com/estonia-approves-crypto-regulation/" target="_blank" rel="noreferrer noopener">OKX ceased operations in India</a> due to the country&#8217;s unfavorable regulatory environment. </p>
-
-
-
-<p>While OKX continues to navigate these global challenges, the US regulatory environment <a href="https://beincrypto.com/sec-investigating-crypto-company/" target="_blank" rel="noreferrer noopener">remains hostile</a> toward the emerging industry. Regulatory bodies like the Securities and Exchange Commission (SEC) have <a href="https://beincrypto.com/coinbase-appeal-arbitrary-capricious-sec-regulations-denial/" target="_blank" rel="noreferrer noopener">pursued legal action against major exchanges</a>, including Binance, <a href="https://beincrypto.com/learn/coinbase-vs-coinbase-pro/" target="_blank" rel="noreferrer noopener">Coinbase</a>, and Kraken, prompting some <a href="https://beincrypto.com/sec-shuts-down-beaxy-exchange-immediately/" target="_blank" rel="noreferrer noopener">firms to exit the US market</a>.</p>
-<p>The post <a href="https://beincrypto.com/okx-founder-criminal-investigation/">OKX Founder Could Be Under Investigation by US Authorities</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://beincrypto.com/wp-content/uploads/2023/01/bic_OKX_Exchange_neutral_1.png" medium="image" width="1280" height="720" type="image/png" />
-<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2023/01/bic_OKX_Exchange_neutral_1.png"/>	</item>
-		<item>
-		<title>Ethereum Tokens Are Pouring Into Exchanges Amid Regulatory Uncertainty</title>
-		<link>https://beincrypto.com/ethereum-exchange-inflow-spike/</link>
-		
-		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
-		<pubDate>Sat, 23 Mar 2024 13:03:05 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[Ethereum (ETH) Analysis]]></category>
-		<guid isPermaLink="false">https://beincrypto.com/?p=488796</guid>
-
-					<description><![CDATA[<p>Market analysts attribute these substantial inflows to concerns over SEC investigations into entities associated with Ethereum.</p>
-<p>The post <a href="https://beincrypto.com/ethereum-exchange-inflow-spike/">Ethereum Tokens Are Pouring Into Exchanges Amid Regulatory Uncertainty</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>On-chain activity indicates a notable reaction to regulatory uncertainties surrounding the second-largest digital asset by market capitalization, Ethereum.</strong></p>
-
-
-
-<p>A significant spike was registered in the number of tokens sent to centralized crypto exchanges. This is the biggest ever recorded since September 2022, profoundly influencing the price of Ethereum.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-ethereum-sees-largest-exchange-inflow-in-2-years">Ethereum Sees Largest Exchange Inflow in 2 Years</h2>
-
-
-
-<p>Ethereum has faced considerable scrutiny recently. Critics within the cryptocurrency community cite its lackluster price performance and the rise of Solana as evidence of <a href="https://beincrypto.com/blackrock-ethereum-etf-no-demand/" target="_blank" rel="noreferrer noopener">Ethereum&#8217;s declining influence</a>. Furthermore, regulatory bodies are purportedly targeting the Ethereum Foundation, questioning ETH&#8217;s classification as a security.</p>
-
-
-
-<p>Indeed, concerns escalated as reports emerged about the US Securities and Exchange Commission (SEC) <a href="https://beincrypto.com/ethereum-foundation-scrutiny-state-authority/" target="_blank" rel="noreferrer noopener">investigations into entities associated with Ethereum.</a> The resulting negative sentiment <a href="https://medium.com/intotheblock/ethereum-shows-signs-of-growth-despite-fud-e2177356c060" target="_blank" rel="noreferrer noopener nofollow">led</a> to the transfer of over $720 million in ETH into centralized exchanges during the past week, according to IntoTheBlock. </p>
-
-
-
-<p>Notably, SpotOnchain <a href="https://twitter.com/spotonchain/status/1771364181415014601?s=46&amp;t=aw6ZR-6aD050XLPVXY8AQA" target="_blank" rel="noreferrer noopener nofollow">identified</a> three notable long-term ETH traders who deposited 32,527 ETH valued at approximately $109 million onto centralized platforms in the last 24 hours. Specifically, these traders shifted 12,500, 11,600, and 8,427 ETH to Kraken and Binance.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>&#8220;Three long-term ETH traders/funds deposited 32,527 ETH ($109 million) to CEX in the past 24 hours. Did the whales think that the recent correction was still not enough?,&#8221; SpotOnChain wondered.</p>
-</blockquote>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="520" src="https://beincrypto.com/wp-content/uploads/2024/03/image-184-850x520.png" alt="Ethereum Transfers to Exchanges" class="wp-image-488807" srcset="https://beincrypto.com/wp-content/uploads/2024/03/image-184-850x520.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/image-184-360x220.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/image-184-768x470.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/image-184-150x92.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/image-184.png 900w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Ethereum Transfers to Exchanges. Source: <a href="https://twitter.com/spotonchain/status/1771364181415014601?s=46&amp;t=aw6ZR-6aD050XLPVXY8AQA" target="_blank" rel="noreferrer noopener nofollow">SpotOnChain</a></figcaption></figure>
-
-
-
-<p>When funds move to exchanges, it is typically viewed as a bearish signal for the market. This indicates that a holder is prepared to sell their assets. As a result, Ethereum has witnessed a noteworthy dip in its price. </p>
-
-
-
-<p>According to BeInCrypto&#8217;s data, <a href="https://beincrypto.com/ethereum-price-analysis-drop/" target="_blank" rel="noreferrer noopener">ETH price dropped</a> by 10% over the past week, settling at $3,371 at the time of reporting.</p>
-
-
-
-<p>Lucas Outumouro, Head of Research at IntoTheBlock, highlighted ETH&#8217;s underperformance compared to Bitcoin and even the S&amp;P 500. However, he emphasized the enduring strength of Ethereum&#8217;s fundamentals, which continue to reassure long-term holders.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>&#8220;Overall, after undergoing a major upgrade, ETH hodlers continue to be bullish. Despite recent headwinds, the data supports continued growth for Ethereum both on layer 1 and layer 2s,&#8221; Outumouro <a href="https://twitter.com/LucasOutumuro/status/1771163863683092952" target="_blank" rel="noreferrer noopener nofollow">stated</a>.</p>
-</blockquote>
-
-
-
-<p>Supporting this stance, analysts at Santiment observed a transaction surge among Ethereum whales. Between March 19 and March 21, this group executed 59,137 transactions exceeding $100,000. The firm also noted a significant 7% reduction in the average 30-day ETH traders, signaling the potential for a market rebound.</p>
-
-
-
-<p><strong>Read more: <a href="https://beincrypto.com/learn/ethereum-price-prediction/">Ethereum (ETH) Price Prediction 2024/2025/2030</a></strong></p>
-
-
-
-<figure class="wp-block-image size-large is-resized"><img decoding="async" loading="lazy" width="850" height="539" src="https://beincrypto.com/wp-content/uploads/2024/03/image-185-850x539.png" alt="Ethereum Whales" class="wp-image-488808" style="aspect-ratio:1.5769944341372912;width:1024px;height:auto" srcset="https://beincrypto.com/wp-content/uploads/2024/03/image-185-850x539.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/image-185-360x228.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/image-185-768x487.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/image-185-150x95.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/image-185.png 900w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Ethereum Whales Activity. Source: <a href="https://twitter.com/santimentfeed/status/1771250093250998711" target="_blank" rel="noreferrer noopener nofollow">Santiment</a></figcaption></figure>
-
-
-
-<p>Additionally, analysts revealed a drop in ETH&#8217;s Relative Strength Index (<a href="https://beincrypto.com/learn/rsi-indicator/">RSI</a>) to 28.5, marking its lowest level since late January. The RSI serves as a momentum indicator to identify overbought or oversold market conditions, with readings below 30 typically indicating oversold territory.</p>
-<p>The post <a href="https://beincrypto.com/ethereum-exchange-inflow-spike/">Ethereum Tokens Are Pouring Into Exchanges Amid Regulatory Uncertainty</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://beincrypto.com/wp-content/uploads/2024/03/bic_ETH_Ethereum_Staking-covers_safe.png" medium="image" width="1280" height="720" type="image/png" />
-<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/03/bic_ETH_Ethereum_Staking-covers_safe.png"/>	</item>
-		<item>
-		<title>Bitcoin Whale “Mr. 100” Has Been Doxxed</title>
-		<link>https://beincrypto.com/bitcoin-whale-mr-100-has-been-doxxed/</link>
-		
-		<dc:creator><![CDATA[Bary Rahma]]></dc:creator>
-		<pubDate>Sat, 23 Mar 2024 10:29:53 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[Bitcoin (BTC) News]]></category>
-		<guid isPermaLink="false">https://beincrypto.com/?p=488800</guid>
-
-					<description><![CDATA[<p>Unraveling the mystery of "Mr. 100," a Bitcoin behemoth acquiring thousands of BTC, now identified as Upbit's cold wallet, spotlighting secure digital asset management.</p>
-<p>The post <a href="https://beincrypto.com/bitcoin-whale-mr-100-has-been-doxxed/">Bitcoin Whale “Mr. 100” Has Been Doxxed</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>The emergence of a colossal Bitcoin whale named “Mr. 100,” has stirred waves of intrigue. This entity&#8217;s wallet, swelling with over 52,996 Bitcoin valued north of $3.5 billion, has become a focal point for analysts. </strong></p>
-
-
-
-<p>Notably, on March 15, this whale outdid itself by acquiring at least 1,000 BTC. It seized a staggering 52% of the total buys by the top 10 spot Bitcoin exchange-traded funds (ETFs).</p>
-
-
-
-<h2 class="wp-block-heading" id="h-bitcoin-whale-doxxed">Bitcoin Whale Doxxed</h2>
-
-
-
-<p>Since the <a href="https://beincrypto.com/learn/ftx-collapse-explained/" target="_blank" rel="noreferrer noopener">downfall of crypto exchange FTX</a> in November 2022, Mr. 100 has been on an aggressive accumulation path. It enhanced its holdings by at least 100 BTC daily since mid-February 2023. </p>
-
-
-
-<p>Intriguingly, the wallet&#8217;s behavior indicates a broader strategy, with significant transfers from a secondary wallet that has followed a similar pattern since 2019. This revelation positions Mr. 100 as a seasoned player, engaged in the crypto market well before the current bull run.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="406" src="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-23-at-11.25.17-AM-850x406.png" alt="Mr. 100's Bitcoin Holdings" class="wp-image-488805" srcset="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-23-at-11.25.17-AM-850x406.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-23-at-11.25.17-AM-360x172.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-23-at-11.25.17-AM-768x367.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-23-at-11.25.17-AM-1536x733.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-23-at-11.25.17-AM-2048x977.png 2048w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-23-at-11.25.17-AM-150x72.png 150w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Mr. 100&#8217;s Bitcoin Holdings. Source: <a href="https://www.blockchain.com/" target="_blank" rel="noreferrer noopener nofollow">Blockchain.com</a></figcaption></figure>
-
-
-
-<p>Speculations abound regarding the true nature of Mr. 100. They range from a Hong Kong financial institution laying the groundwork for <a href="https://beincrypto.com/learn/what-is-bitcoin-etf/" target="_blank" rel="noreferrer noopener">Bitcoin ETFs</a> to sovereign wealth funds from the Middle East or even a tech titan&#8217;s covert cryptocurrency venture. Despite the flurry of guesses, Arkham Intelligence&#8217;s investigation offers a compelling theory.</p>
-
-
-
-<p>The blockchain forensics platform identified Mr. 100&#8217;s wallet as an Upbit cold wallet. This classification stems from the wallet&#8217;s transactions and its association with other Upbit addresses, which is a typical exchange cold wallet&#8217;s operational pattern.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>&#8220;Mr. 100 is in fact an Upbit Cold Wallet. This is because of its strong and consistent associations to other Upbit Wallets, which match the pattern of a typical exchange cold wallet. The ‘Mr. 100’ address receives the 100 BTC inflows primarily from sweeping Upbit deposit wallets. Some of its outflows also fund Upbit Hot Wallets used for customer withdrawals,&#8221; analysts at Arkham Intelligence <a href="https://x.com/ArkhamIntel/status/1769008231538381282?s=20" target="_blank" rel="noreferrer noopener nofollow">said</a>.</p>
-</blockquote>
-
-
-
-<p><strong>Read more: <a href="https://beincrypto.com/learn/who-owns-the-most-bitcoin/">Who Owns the Most Bitcoin in 2024?</a></strong></p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="475" src="https://beincrypto.com/wp-content/uploads/2024/03/image-182-850x475.png" alt="Upbit Cold Wallet" class="wp-image-488802" srcset="https://beincrypto.com/wp-content/uploads/2024/03/image-182-850x475.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/image-182-360x201.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/image-182-768x429.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/image-182-1536x858.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/image-182-2048x1143.png 2048w, https://beincrypto.com/wp-content/uploads/2024/03/image-182-150x84.png 150w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Upbit Cold Wallet. Source: <a href="https://www.arkhamintelligence.com" target="_blank" rel="noreferrer noopener nofollow">Arkham Intelligence</a></figcaption></figure>
-
-
-
-<p>Arkham Intelligence&#8217;s commentary demystifies the enigma surrounding Mr. 100, proposing that rather than embodying a single entity&#8217;s strategic market play, it represents the machinations of an established cryptocurrency exchange. This sheds light on the critical role of cold wallets in the secure management of digital assets.</p>
-<p>The post <a href="https://beincrypto.com/bitcoin-whale-mr-100-has-been-doxxed/">Bitcoin Whale “Mr. 100” Has Been Doxxed</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://beincrypto.com/wp-content/uploads/2024/01/bic_Crypto_Whales_4-covers_bullish.jpg" medium="image" width="1280" height="720" type="image/jpeg" />
-<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/01/bic_Crypto_Whales_4-covers_bullish.jpg"/>	</item>
-		<item>
-		<title>Ethereum (ETH) Price Analysis: Brace for a Possible Drop to $3,000</title>
-		<link>https://beincrypto.com/ethereum-price-analysis-drop/</link>
-		
-		<dc:creator><![CDATA[Tiago Amaral]]></dc:creator>
-		<pubDate>Fri, 22 Mar 2024 22:30:00 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[Ethereum (ETH) Analysis]]></category>
-		<guid isPermaLink="false">https://beincrypto.com/?p=488509</guid>
-
-					<description><![CDATA[<p>Despite price corrections, Ethereum's rising Daily Active Addresses suggest strong engagement. As ETH hits the 'Belief-Denial' phase with uncertain EMA signals, the question remains: will user growth stabilize prices or lead to more corrections?</p>
-<p>The post <a href="https://beincrypto.com/ethereum-price-analysis-drop/">Ethereum (ETH) Price Analysis: Brace for a Possible Drop to $3,000</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Despite recent corrections in the Ethereum (ETH) price, Ethereum&#8217;s Daily Active Addresses continue to rise, suggesting sustained interest and engagement within the network. This contradiction between price movement and network activity raises questions about the immediate future of ETH price.</strong></p>
-
-
-
-<p>The move of ETH into the &#8216;Belief — Denial&#8217; zone, as indicated by NUPL data, combined with EMA lines suggesting a potential phase of consolidation or further correction, poses a pivotal question: Will ETH price stabilize in a consolidation phase, or are we on the cusp of additional corrections? </p>
-
-
-
-<h2 class="wp-block-heading" id="h-despite-recent-corrections-daily-active-addresses-are-still-on-the-rise">Despite Recent Corrections, Daily Active Addresses Are Still On The Rise</h2>
-
-
-
-<p>From February 22 to March 11, the price of <a href="https://beincrypto.com/learn/buy-ethereum/" target="_blank" rel="noreferrer noopener">ETH</a> witnessed a significant surge of 36.52%, with its daily active addresses simultaneously increasing from 449,000 to 545,000, highlighting a period of robust growth and engagement within the Ethereum network. However, the trend took a turn recently, as ETH&#8217;s price underwent a correction, declining from approximately $4,000 on March 13 to $3,400 by March 21.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="288" src="https://beincrypto.com/wp-content/uploads/2024/03/Ethereum-ETH-11.28.50-22-Mar-2024-850x288.png" alt="ETH Daily Active Addresses." class="wp-image-488534" srcset="https://beincrypto.com/wp-content/uploads/2024/03/Ethereum-ETH-11.28.50-22-Mar-2024-850x288.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/Ethereum-ETH-11.28.50-22-Mar-2024-360x122.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/Ethereum-ETH-11.28.50-22-Mar-2024-768x260.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/Ethereum-ETH-11.28.50-22-Mar-2024-1536x520.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/Ethereum-ETH-11.28.50-22-Mar-2024-2048x693.png 2048w, https://beincrypto.com/wp-content/uploads/2024/03/Ethereum-ETH-11.28.50-22-Mar-2024-150x51.png 150w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">ETH Daily Active Addresses. Source: <a href="https://app.santiment.net/" target="_blank" rel="noreferrer noopener nofollow">Santiment</a>. </figcaption></figure>
-
-
-
-<p>Traditionally, there has been a noticeable correlation between the number of active addresses on the Ethereum network and the price of ETH, suggesting that active network participation often mirrors price movements. Yet, this past week has seen a divergence from this pattern. </p>
-
-
-
-<p>Despite the price correction, <a href="https://beincrypto.com/learn/buy-eth-credit-card/" target="_blank" rel="noreferrer noopener">Ethereum daily active addresses</a> continued to climb, rising from 540,000 to 626,000 between March 14 and March 21.</p>
-
-
-
-<p>This divergence might imply that the Ethereum network&#8217;s increasing user activity and sustained engagement could potentially buffer against steep price corrections. Instead of witnessing strong downturns, the bolstering number of daily active addresses and ongoing network activity might provide enough support to stabilize the ETH price, hinting at a more consolidated market stance in the face of corrections.</p>
-
-
-
-<p><strong>Read More: </strong><a href="https://beincrypto.com/learn/ethereum-price-prediction/" target="_blank" rel="noreferrer noopener"><strong>Ethereum (ETH) Price Prediction 2024/2025/2030</strong></a></p>
-
-
-
-<h2 class="wp-block-heading" id="h-ethereum-nupl-metric-fluctuates">Ethereum NUPL Metric Fluctuates</h2>
-
-
-
-<p>The ETH Net Unrealized Profit/Loss (NUPL) metric has been oscillating between the &#8216;Optimism &#8211; Anxiety&#8217; and &#8216;Belief — Denial&#8217; states, suggesting that a significant portion of ETH investors perceive their holdings in a positive light. </p>
-
-
-
-<p>This perception shows a growing confidence and an optimistic outlook towards Ethereum&#8217;s value and its future potential. The NUPL metric, by measuring the overall unrealized gains versus losses across Ethereum wallet addresses, provides a comprehensive view of the network&#8217;s overall financial health and investor sentiment. </p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="416" src="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-11.28.29-850x416.png" alt="ETH NUPL." class="wp-image-488544" srcset="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-11.28.29-850x416.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-11.28.29-360x176.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-11.28.29-768x376.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-11.28.29-1536x752.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-11.28.29-2048x1003.png 2048w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-at-11.28.29-150x73.png 150w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">ETH NUPL. Source:&nbsp;<a href="https://studio.glassnode.com/metrics?a=ETH&amp;category=Market%20Indicators&amp;m=indicators.NetUnrealizedProfitLoss&amp;s=1707188400&amp;u=1709780399&amp;zoom=" target="_blank" rel="noreferrer noopener nofollow">Glassnode</a>.</figcaption></figure>
-
-
-
-<p>This wavering between optimism and belief hints at the community&#8217;s anticipation as they closely monitor price movements to strategize their next moves, potentially stabilizing prices through cautious trading behavior. Should the NUPL consistently trend towards &#8216;Optimism &#8211; Anxiety,&#8217; it might indicate the conclusion of recent market corrections, signaling a <a href="https://beincrypto.com/learn/ethereum-restaking-explained/" target="_blank" rel="noreferrer noopener">period of recovery and stability for ETH</a> prices as investor sentiment solidifies in anticipation of Ethereum&#8217;s upward trajectory.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-eth-price-prediction-3-000-next">ETH Price Prediction: $3,000 Next?</h2>
-
-
-
-<p>The ETH price chart has revealed a significant movement: its short-term Exponential Moving Averages (EMAs) have recently dipped below the longer-term EMAs, with all converging near the current price level. This pattern typically suggests a moment of decision for the asset&#8217;s future price direction. </p>
-
-
-
-<p>When short-term EMAs cross below their longer-term counterparts, it often indicates a shift toward bearish sentiment, signaling that recent prices are lower than they have been on average, which could foretell a downward trend. </p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="386" src="https://beincrypto.com/wp-content/uploads/2024/03/ETHUSD_2024-03-22_11-28-01-850x386.png" alt="ETH 4-hour Price Chart." class="wp-image-488554" srcset="https://beincrypto.com/wp-content/uploads/2024/03/ETHUSD_2024-03-22_11-28-01-850x386.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/ETHUSD_2024-03-22_11-28-01-360x163.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/ETHUSD_2024-03-22_11-28-01-768x349.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/ETHUSD_2024-03-22_11-28-01-1536x697.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/ETHUSD_2024-03-22_11-28-01-2048x930.png 2048w, https://beincrypto.com/wp-content/uploads/2024/03/ETHUSD_2024-03-22_11-28-01-150x68.png 150w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">ETH 4-hour Price Chart. Source: <a href="https://www.tradingview.com/chart/V4vUSDS5/?symbol=COINBASE%3AETHUSD" target="_blank" rel="noreferrer noopener nofollow">TradingView</a>. </figcaption></figure>
-
-
-
-<p>EMAs are designed to provide a more responsive measure of an asset&#8217;s trend by emphasizing recent price data over older prices. This sensitivity to new market data makes EMAs particularly useful for traders looking to gauge short-term market momentum and identify potential trend reversals. </p>
-
-
-
-<p>Unlike simple moving averages, EMAs adjust more quickly to price changes, offering a nuanced view of market dynamics and helping investors make informed decisions based on the latest trends.</p>
-
-
-
-<p><strong>Read More: </strong><a href="https://beincrypto.com/learn/wrapped-ethereum/" target="_blank" rel="noreferrer noopener"><strong>What Is Wrapped Ethereum (WETH)?</strong></a></p>
-
-
-
-<p>If this bearish trend happens, as suggested by the EMA lines, the ETH price could soon find itself testing the $3,000 mark, a critical support zone. </p>
-
-
-
-<p>However, ETH is also highly responsive to news and developments within the ecosystem. For instance, positive news, such as developments on the approval of an <a href="https://beincrypto.com/learn/where-to-buy-ethereum-etf/" target="_blank" rel="noreferrer noopener">Ethereum ETF</a>, could swiftly alter investor sentiment and push prices back <a href="https://beincrypto.com/learn/eth-etf-explained/" target="_blank" rel="noreferrer noopener">towards $4,000 or even higher</a>. </p>
-<p>The post <a href="https://beincrypto.com/ethereum-price-analysis-drop/">Ethereum (ETH) Price Analysis: Brace for a Possible Drop to $3,000</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://beincrypto.com/wp-content/uploads/2023/12/bic_Ethereum_ETH_2-covers_neutral.jpg" medium="image" width="1280" height="720" type="image/jpeg" />
-<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2023/12/bic_Ethereum_ETH_2-covers_neutral.jpg"/>	</item>
-		<item>
-		<title>BlackRock Says Ethereum ETF Faces “Little Demand”</title>
-		<link>https://beincrypto.com/blackrock-ethereum-etf-no-demand/</link>
-		
-		<dc:creator><![CDATA[Bary Rahma]]></dc:creator>
-		<pubDate>Fri, 22 Mar 2024 21:30:00 +0000</pubDate>
-				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[Ethereum (ETH) News]]></category>
-		<guid isPermaLink="false">https://beincrypto.com/?p=488646</guid>
-
-					<description><![CDATA[<p>At the Bitcoin Investor Day, BlackRock revealed a preference for Bitcoin, highlighting challenges and a tepid response to an Ethereum ETF.</p>
-<p>The post <a href="https://beincrypto.com/blackrock-ethereum-etf-no-demand/">BlackRock Says Ethereum ETF Faces “Little Demand”</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><strong>Robert Mitchnick, BlackRock&#8217;s Head of Digital Assets, indicated a tepid interest from the firm&#8217;s client base in an Ethereum exchange-traded fund (ETF), starkly contrasting the growing demand for Bitcoin.</strong></p>
-
-
-
-<p>This revelation came during the Bitcoin Investor Day conference in New York, where Mitchnick shared insights into the company&#8217;s digital asset strategy and its reception among investors.</p>
-
-
-
-<h2 class="wp-block-heading" id="h-no-interest-in-ethereum-etf">No Interest in Ethereum ETF</h2>
-
-
-
-<p>Despite the growing interest in various cryptocurrencies, BlackRock&#8217;s clientele exhibits a pronounced preference for Bitcoin, relegating Ethereum to the sidelines. Mitchnick&#8217;s comments reflect a critical assessment of the demand within the crypto market, suggesting that, aside from Bitcoin, the appetite for other cryptocurrencies, including Ethereum, remains tepid at best.</p>
-
-
-
-<blockquote class="wp-block-quote">
-<p>&#8220;I can say that for our client base, Bitcoin is overwhelmingly the number one focus and a little bit Ethereum,&#8221; Mitchnick said. </p>
-</blockquote>
-
-
-
-<p>BlackRock&#8217;s strategic moves in the cryptocurrency market have been closely watched. Especially, following the successful launch of its <a href="https://beincrypto.com/blackrock-bitcoin-etf-milestone/" target="_blank" rel="noreferrer noopener">iShares Bitcoin ETF (IBIT)</a> earlier this year. The fund&#8217;s rapid ascent to becoming one of the top five ETFs in the market, with an impressive $15 billion in assets, reflects a keen investor interest in Bitcoin. </p>
-
-
-
-<p>This contrasts sharply with the &#8220;very, very little&#8221; interest in the possibility of an <a href="https://beincrypto.com/learn/eth-etf-explained/" target="_blank" rel="noreferrer noopener">Ethereum ETF</a>.</p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="535" src="https://beincrypto.com/wp-content/uploads/2024/03/Bitcoin-ETF-Historical-Bitcoin-Holdings-Trend-without-GBTC-2-850x535.png" alt="iShares Bitcoin ETF (IBIT) Holdings" class="wp-image-488656" srcset="https://beincrypto.com/wp-content/uploads/2024/03/Bitcoin-ETF-Historical-Bitcoin-Holdings-Trend-without-GBTC-2-850x535.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/Bitcoin-ETF-Historical-Bitcoin-Holdings-Trend-without-GBTC-2-360x227.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/Bitcoin-ETF-Historical-Bitcoin-Holdings-Trend-without-GBTC-2-768x484.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/Bitcoin-ETF-Historical-Bitcoin-Holdings-Trend-without-GBTC-2-1536x967.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/Bitcoin-ETF-Historical-Bitcoin-Holdings-Trend-without-GBTC-2-2048x1290.png 2048w, https://beincrypto.com/wp-content/uploads/2024/03/Bitcoin-ETF-Historical-Bitcoin-Holdings-Trend-without-GBTC-2-150x94.png 150w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">iShares Bitcoin ETF (IBIT) Holdings. Source: <a href="https://cryptoquant.com/" target="_blank" rel="noreferrer noopener nofollow">CryptoQuant</a></figcaption></figure>
-
-
-
-<p>Still, BlackRock&#8217;s journey into crypto has been fraught with enthusiasm and caution. For example, launching a <a href="https://beincrypto.com/blackrock-100-million-rwa-bet/" target="_blank" rel="noreferrer noopener">$100-million money market fund</a> on the Ethereum blockchain brought to light the unforeseen challenges of operating within the cryptocurrency market. <a href="https://beincrypto.com/blackrock-holds-meme-coins/" target="_blank" rel="noreferrer noopener">BlackRock&#8217;s Ethereum wallet</a>, intended for legitimate transactions, quickly became a magnet for an array of low-quality meme coins and NFTs.</p>
-
-
-
-<p>This incident highlighted the legal and operational challenges that come with embracing blockchain technology, prompting a reevaluation of strategies for managing and securing digital assets.</p>
-<p>The post <a href="https://beincrypto.com/blackrock-ethereum-etf-no-demand/">BlackRock Says Ethereum ETF Faces “Little Demand”</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://beincrypto.com/wp-content/uploads/2023/10/bic_Larry_Fink_1-covers.jpg" medium="image" width="1280" height="720" type="image/jpeg" />
-<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2023/10/bic_Larry_Fink_1-covers.jpg"/>	</item>
-		<item>
-		<title>Aptos (APT) Price Eyes All-Time High: Here&#8217;s How It Aims to Get There</title>
-		<link>https://beincrypto.com/aptos-price-all-time-high-next/</link>
+		<title>Tron (TRX) Price Confirms First Downtrend In Seven Months &#8211; What&#8217;s Next?</title>
+		<link>https://beincrypto.com/tron-price-confirms-downtrend/</link>
 		
 		<dc:creator><![CDATA[Aaryamann Shrivastava]]></dc:creator>
-		<pubDate>Fri, 22 Mar 2024 20:30:00 +0000</pubDate>
+		<pubDate>Mon, 25 Mar 2024 10:30:00 +0000</pubDate>
 				<category><![CDATA[Markets]]></category>
-		<category><![CDATA[Aptos (APT) Analysis]]></category>
-		<guid isPermaLink="false">https://beincrypto.com/?p=488558</guid>
+		<category><![CDATA[Tron (TRX) Analysis]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=489505</guid>
 
-					<description><![CDATA[<p>Aptos price is seeing consistent increases for the past couple of days, which could push it towards new all-time highs. However, this could be a hindrance.</p>
-<p>The post <a href="https://beincrypto.com/aptos-price-all-time-high-next/">Aptos (APT) Price Eyes All-Time High: Here&#8217;s How It Aims to Get There</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+					<description><![CDATA[<p>Tron price is struggling to recover with the bearish market cues getting stronger for the asset. Will TRX continue to decline or make a recovery soon?</p>
+<p>The post <a href="https://beincrypto.com/tron-price-confirms-downtrend/">Tron (TRX) Price Confirms First Downtrend In Seven Months &#8211; What&#8217;s Next?</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><strong>Aptos (APT) price is treading against the broader market cues to consistently post gains on the daily chart.</strong></p>
+<p><strong>The Tron (TRX) price took a downturn towards the end of February, just as most of the crypto market began trending upwards, with many even marking new all-time highs.</strong></p>
 
 
 
-<p>The altcoin now stands less than 20% away from charting fresh all-time highs, provided APT does not lose this crucial support level.</p>
+<p>This bearishness will likely continue going forward as trend indicators signal a drawdown for the altcoin.</p>
 
 
 
-<h2 class="wp-block-heading" id="h-aptos-price-finds-support-from-the-market">Aptos Price Finds Support From the Market</h2>
+<h2 class="wp-block-heading" id="h-tron-price-downtrend-begins">Tron Price Downtrend Begins</h2>
 
 
 
-<p><a href="https://beincrypto.com/aptos-smartphone-web3-access-emerging-markets/" target="_blank" rel="noreferrer noopener">Aptos price, trading at $16</a> at the time of writing, is continuing the bullish trend that began towards the end of February. Despite the prolonged rise in APT by over 80%, the growth remains unstopped and could stay this way.</p>
+<p><a href="https://beincrypto.com/tron-price-analysis-bearish/" target="_blank" rel="noreferrer noopener">Tron price was noting a potential rise</a> over the past week, which failed to trigger a recovery for the asset. The ongoing decline has considerably impacted the overall growth of the crypto asset and the network. </p>
 
 
 
-<p>The first sign of this potential comes from the Average Directional Index (ADX). This indicator measures the strength of a trend to provide a sense of the price’s direction. Values above the 25.0 threshold suggest the active trend is strong and could extend going forward.</p>
+<p><a href="https://beincrypto.com/tron-founder-justin-sun-bitcoin-holdings/" target="_blank" rel="noreferrer noopener">The project is losing traction</a> among users, which can be observed by the fall in the number of users on the network. Weekly average users have taken a hit in the past two weeks, falling by 10% from 5.79 million to 5.25 million.</p>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="373" src="https://beincrypto.com/wp-content/uploads/2024/03/Q5MRTyUU-850x373.png" alt="APT ADX. " class="wp-image-488562" srcset="https://beincrypto.com/wp-content/uploads/2024/03/Q5MRTyUU-850x373.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/Q5MRTyUU-360x158.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/Q5MRTyUU-768x337.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/Q5MRTyUU-1536x675.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/Q5MRTyUU-150x66.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/Q5MRTyUU.png 1755w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Aptos (APT) ADX. Source:&nbsp;<a href="https://www.tradingview.com/" target="_blank" rel="noreferrer noopener nofollow">TradingView</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="850" height="354" src="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-134514-850x354.png" alt="Tron Weekly Users. " class="wp-image-489507" srcset="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-134514-850x354.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-134514-360x150.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-134514-768x320.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-134514-1536x639.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-134514-150x62.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-134514.png 1756w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Tron Weekly Users. Source: <a href="https://dune.com/" target="_blank" rel="noreferrer noopener nofollow">Dune</a></figcaption></figure>
 
 
 
-<p><a href="https://beincrypto.com/major-token-unlocks-december/" target="_blank" rel="noreferrer noopener">This is the case of Aptos price as well</a>, which, in addition to being in an uptrend, is noting strength to its uptrend. Furthermore, investors are likely going to go back to being bullish again as long-term liquidations are now declining.</p>
+<p>Additionally, a chunk of the <a href="https://beincrypto.com/stablecoin-firm-cease-tron-blockchain-support-ipo/" target="_blank" rel="noreferrer noopener">TRX supply is awaiting a profit trigger</a>, which, by its looks, will not take place anytime soon. About 1.36 billion TRX bought within the $0.1165 to $0.1205 range is hanging in uncertainty and might fall back into the loss-bearing territory.</p>
 
 
 
-<p><strong>Read More: <a href="https://beincrypto.com/learn/aptos-crypto-apt/" target="_blank" rel="noreferrer noopener">An Ultimate Guide to Aptos Cryptocurrency (APT) and Its Network</a></strong></p>
+<p><strong>Read More: <a href="https://beincrypto.com/learn/buy-tron/" target="_blank" rel="noreferrer noopener">How To Buy TRON (TRX) and Everything You Need To Know</a></strong></p>
 
 
 
-<p>Long contracts tend to liquidate when the price falls sharply and suddenly, inducing pessimism among investors. This prevents the altcoin from finding support for being bullish again. However, low volumes hint at the bearishness waning, leaving the altcoin open for bullish bets.</p>
+<figure class="wp-block-image size-large"><img decoding="async" width="850" height="273" src="https://beincrypto.com/wp-content/uploads/2024/03/image-199-850x273.png" alt="Tron GIOM. " class="wp-image-489508" srcset="https://beincrypto.com/wp-content/uploads/2024/03/image-199-850x273.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/image-199-360x116.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/image-199-768x246.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/image-199-1536x493.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/image-199-150x48.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/image-199.png 1580w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Tron GIOM. Source:&nbsp;<a href="https://app.intotheblock.com/">Into</a><a href="https://app.intotheblock.com/" target="_blank" rel="noreferrer noopener nofollow">TheBlock</a></figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="208" src="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-202249-850x208.png" alt="Aptos Liquidations. " class="wp-image-488565" srcset="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-202249-850x208.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-202249-360x88.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-202249-768x188.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-202249-1536x376.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-202249-150x37.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-22-202249.png 1726w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Aptos Liquidations. Source: <a href="https://www.coinglass.com/" target="_blank" rel="noreferrer noopener nofollow">Coinglass</a></figcaption></figure>
+<p>This is because all signals point towards potential decline, which would turn the aforementioned price range into a resistance zone.</p>
 
 
 
-<p><a href="https://beincrypto.com/aptos-price-breakout-increase/" target="_blank" rel="noreferrer noopener">Aptos price could benefit from these bullish</a> bets as they would drive the price higher.</p>
+<h2 class="wp-block-heading" id="h-trx-price-prediction-one-downtrend-ends-another-begins">TRX Price Prediction: One Downtrend Ends, Another Begins</h2>
 
 
 
-<h2 class="wp-block-heading" id="h-apt-price-prediction-next-stop-all-time-high">APT Price Prediction: Next Stop &#8211; All-Time High?</h2>
+<p><a href="https://beincrypto.com/stablecoin-firm-cease-tron-blockchain-support-ipo/" target="_blank" rel="noreferrer noopener">Tron&#8217;s price is trading at $0.1174</a> at the time of writing after failing to breach the barrier marked at $0.1219. The decline, while seemingly halted, is potentially set to continue going forward. This is because the crypto asset that has been trading below the Ichimoku Cloud is now noting a confirmed downtrend.</p>
 
 
 
-<p><a href="https://beincrypto.com/aptos-post-mortem-network-outage-code-issues/" target="_blank" rel="noreferrer noopener">Aptos price is less than 20% away</a> from the all-time high of $19.92. This is the present ceiling reached by APT back in January 2023. Breaching through this barrier would mean that not only has the cryptocurrency formed a new all-time high, but it is also closer to hitting $20.</p>
+<p>The Ichimoku Cloud is a technical analysis tool that indicates support, resistance, trend direction, and momentum. Generally, when the price is below the cloud, bearish outcomes are possible; however, as the cloud turns bearish, the asset is expected to trade further lower.</p>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="373" src="https://beincrypto.com/wp-content/uploads/2024/03/2jcvhYmw-850x373.png" alt="APT/USDT 1-day chart. " class="wp-image-488563" srcset="https://beincrypto.com/wp-content/uploads/2024/03/2jcvhYmw-850x373.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/2jcvhYmw-360x158.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/2jcvhYmw-768x337.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/2jcvhYmw-1536x675.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/2jcvhYmw-150x66.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/2jcvhYmw.png 1755w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">APT/USDT 1-day chart. Source:&nbsp;<a href="https://www.tradingview.com/" target="_blank" rel="noreferrer noopener nofollow">TradingView</a></figcaption></figure>
+<p>Such is the case with <a href="https://beincrypto.com/learn/tronlink-guide/" target="_blank" rel="noreferrer noopener">Tron price as well since the Ichimoku Cloud</a> turned red over the last 48 hours. This is a signal confirming a downtrend for TRX, making this the first such instance in seven months since August 2023.</p>
 
 
 
-<p><strong>Read More: <a href="https://beincrypto.com/learn/how-to-buy-aptos/" target="_blank" rel="noreferrer noopener">How to Buy Aptos (APT) and Everything You Need to Know</a></strong></p>
+<figure class="wp-block-image size-large"><img decoding="async" width="850" height="373" src="https://beincrypto.com/wp-content/uploads/2024/03/PtRlzXwg-850x373.png" alt="TRX/USDT 12-hour chart. " class="wp-image-489506" srcset="https://beincrypto.com/wp-content/uploads/2024/03/PtRlzXwg-850x373.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/PtRlzXwg-360x158.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/PtRlzXwg-768x337.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/PtRlzXwg-1536x675.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/PtRlzXwg-150x66.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/PtRlzXwg.png 1755w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">TRX/USDT 12-hour chart. Source:&nbsp;<a href="https://www.tradingview.com/" target="_blank" rel="noreferrer noopener nofollow">TradingView</a></figcaption></figure>
 
 
 
-<p>However, if <a href="https://beincrypto.com/aptos-suffers-5-hour-outage/" target="_blank" rel="noreferrer noopener">Aptos price fails to substantially</a> test the $15.68 line as support it could fall through towards $13.61. Losing this level would invalidate the bullish thesis, pushing APT to $12.16</p>
-<p>The post <a href="https://beincrypto.com/aptos-price-all-time-high-next/">Aptos (APT) Price Eyes All-Time High: Here&#8217;s How It Aims to Get There</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+<p>Thus, Tron&#8217;s price could note a further decline, potentially sending it to test the support level of $0.1123.</p>
+
+
+
+<p><strong>Read More: <a href="https://beincrypto.com/learn/trx-wallet/" target="_blank" rel="noreferrer noopener">7 Best Tron Wallets for Storing TRX Tokens</a></strong></p>
+
+
+
+<p>On the other hand, Ichimoku Cloud is known to be a leading indicator, and given the recent attempt at recovery, TRX might stabilize for a while. If so, Tron&#8217;s price could observe consolidation and continue moving sideways, potentially breaching $0.1219, invalidating the bearish thesis.</p>
+<p>The post <a href="https://beincrypto.com/tron-price-confirms-downtrend/">Tron (TRX) Price Confirms First Downtrend In Seven Months &#8211; What&#8217;s Next?</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
 ]]></content:encoded>
 					
 		
 		
-		<media:content url="https://beincrypto.com/wp-content/uploads/2023/02/bic_Aptos_neutral_2.png" medium="image" width="1280" height="720" type="image/png" />
-<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2023/02/bic_Aptos_neutral_2.png"/>	</item>
+		<media:content url="https://beincrypto.com/wp-content/uploads/2023/01/bic_TRON_neutral_3.png" medium="image" width="5120" height="2880" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2023/01/bic_TRON_neutral_3.png"/>	</item>
+		<item>
+		<title>X (Twitter) AI Grok Hints at Dogecoin Payments</title>
+		<link>https://beincrypto.com/x-twitter-ai-grok-dogecoin-doge-payments/</link>
+		
+		<dc:creator><![CDATA[Ali M.]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 09:30:00 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Dogecoin (DOGE) News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=489386</guid>
+
+					<description><![CDATA[<p>AI Grok's conflicting responses on Dogecoin payments on X (Twitter) spotlight the potential for future cryptocurrency integration and the dynamic role of digital currencies in social media.</p>
+<p>The post <a href="https://beincrypto.com/x-twitter-ai-grok-dogecoin-doge-payments/">X (Twitter) AI Grok Hints at Dogecoin Payments</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>X&#8217;s (formerly Twitter) AI, Grok, has opened up new possibilities for cryptocurrency enthusiasts. With a nod towards enhancing user financial interactions, Grok suggested that users can engage in Dogecoin (DOGE) transactions directly through the platform. </strong></p>
+
+
+
+<p>This notion hints at X&#8217;s leap into the cryptocurrency market, placing Dogecoin alongside traditional payment methods.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-grok-suggests-dogecoin-payments-on-x-twitter">Grok Suggests Dogecoin Payments on X (Twitter)</h2>
+
+
+
+<p>When <a href="https://x.com/kingthies/status/1772104656518566196?s=20" target="_blank" rel="noreferrer noopener nofollow">asked</a>, &#8220;Can I send or receive DOGE on X?,&#8221; the mobile version of Grok said the process is remarkably straightforward for those looking to engage in DOGE transactions. </p>
+
+
+
+<p>According to X&#8217;s generative AI, users wishing to send <a href="https://beincrypto.com/learn/buy-dogecoin/" target="_blank" rel="noreferrer noopener">Dogecoin</a> must first ensure their X wallet is funded with DOGE. By selecting the &#8220;Send&#8221; option within the app, users can then enter the recipient&#8217;s X username or their unique Dogecoin wallet address, specify the amount, and finalize the transaction. </p>
+
+
+
+<p>Receiving DOGE follows a similar user-friendly procedure. Grok suggested that by accessing the &#8220;Receive&#8221; function, users are presented with their exclusive Dogecoin wallet address, which can be shared with potential senders or linked to their X username, facilitating the receipt of funds.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">FULFILL THE PROPHECY <a href="https://twitter.com/hashtag/DOGE?src=hash&amp;ref_src=twsrc%5Etfw">#DOGE</a> <a href="https://t.co/J3fweq2hKH">pic.twitter.com/J3fweq2hKH</a></p>&mdash; Crypto Thies (@kingthies) <a href="https://twitter.com/kingthies/status/1772104656518566196?ref_src=twsrc%5Etfw">March 25, 2024</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>However, the desktop version of Grok painted a different picture, stating that <a href="https://beincrypto.com/x-twitter-dogecoin-doge/" target="_blank" rel="noreferrer noopener">X currently does not support direct Dogecoin</a> transactions. It hinted at possible future integration, advising users to keep an eye on updates from X and Elon Musk.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>“At the moment, there is no direct support for sending or receiving Dogecoin (DOGE) on the X platform. However, recent developments and rumors suggest that crypto assets like DOGE could be integrated into the platform&#8217;s payment offerings in the future. It&#8217;s essential to stay updated with the latest news and announcements from X and Elon Musk to be informed about any changes or updates regarding Dogecoin integration,” the desktop version of Grok stated.</p>
+</blockquote>
+
+
+
+<p>This discrepancy raises questions about the platform&#8217;s direction concerning cryptocurrency integration and its support for Dogecoin. </p>
+
+
+
+<p><strong>Read more: <a href="https://beincrypto.com/learn/doge-dogecoin-price-prediction-2019-2020-5-years-updated-04-28-19-doge-usd-reaches-resistance/">Dogecoin (DOGE) Price Prediction 2024 / 2025 / 2030</a></strong></p>
+
+
+
+<p>This news could signal a significant shift for DOGE holders in how they use and accept the altcoin for payments. Indeed, such an integration could solidify Dogecoin&#8217;s position within the crypto market as more than a meme coin. </p>
+<p>The post <a href="https://beincrypto.com/x-twitter-ai-grok-dogecoin-doge-payments/">X (Twitter) AI Grok Hints at Dogecoin Payments</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2022/12/Dogecoin-DOGE-Price-Up.png" medium="image" width="2560" height="1440" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2022/12/Dogecoin-DOGE-Price-Up.png"/>	</item>
+		<item>
+		<title>This Country Plans to Shift its Focus Away From Bitcoin Mining</title>
+		<link>https://beincrypto.com/country-plans-shift-away-bitcoin-mining/</link>
+		
+		<dc:creator><![CDATA[Ryan James]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 08:30:00 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Bitcoin (BTC) News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=489345</guid>
+
+					<description><![CDATA[<p>Iceland considers pivoting from its thriving Bitcoin mining sector to prioritize food security and sustainable energy. Prime Minister Katrín Jakobsdóttir expresses concerns over energy consumption's impact, prompting reevaluation.</p>
+<p>The post <a href="https://beincrypto.com/country-plans-shift-away-bitcoin-mining/">This Country Plans to Shift its Focus Away From Bitcoin Mining</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>In a significant shift that may redefine its economic landscape, Iceland is contemplating a move away from its burgeoning Bitcoin mining sector. The country will address more pressing concerns related to food security and energy sustainability. </strong></p>
+
+
+
+<p>Prime Minister Katrín Jakobsdóttir voiced her apprehensions about the nation&#8217;s energy consumption patterns. Especially in light of the increasing demands from the <a href="https://www.ft.com/content/6432a24b-b7c4-4c2f-85a8-79108dbe0644" target="_blank" rel="noreferrer noopener nofollow">cryptocurrency mining industry</a>.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-bitcoin-mining-threatens-iceland-s-sustainability-pm-warns">Bitcoin Mining Threatens Iceland&#8217;s Sustainability, PM Warns</h2>
+
+
+
+<p>Iceland, nestled atop the Mid-Atlantic ridge, is a haven for Bitcoin miners, thanks to its abundant renewable energy resources. The country&#8217;s vast reserves of hydro and geothermal energy have made it an attractive destination for data centers dedicated to the energy-intensive process of Bitcoin mining. </p>
+
+
+
+<p>However, this has led to an unprecedented surge in energy consumption. Currently, the country consumes about 120 MW of power, making it the most <a href="https://beincrypto.com/iceland-leads-the-world-in-bitcoin-mining-but-not-everyone-is-thrilled/" target="_blank" rel="noreferrer noopener">Bitcoin-mining-dense region globally</a>.</p>
+
+
+
+<p>The Prime Minister expressed concerns over the sustainability of this energy consumption, especially considering the adverse impacts on other vital sectors like agriculture. </p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>&#8220;Data centers in Iceland use a significant share of our green energy,&#8221; Jakobsdóttir remarked, </p>
+</blockquote>
+
+
+
+<p>This revelation comes at a time when the global balance of Bitcoin mining is experiencing a shift. <a href="https://beincrypto.com/bitcoin-mining-invests-texas-facility-halving/" target="_blank" rel="noreferrer noopener">New players are continuously entering the mining scene</a>. Thanks to its cheap electricity and entrepreneurial spirit, Iceland, once a pioneer in <a href="https://beincrypto.com/iceland-largest-bitcoin-hash-rate-producer-capita/" target="_blank" rel="noreferrer noopener">industrial-scale Bitcoin mining</a>, is now reevaluating its stance in light of broader economic and environmental considerations.</p>
+
+
+
+<p><strong>Read More: <a href="https://beincrypto.com/learn/bitcoin-mining-from-home/">Bitcoin Mining From Home: Is It Possible in 2024?</a></strong></p>
+
+
+
+<p>The island&#8217;s alarming reliance on imports for basic food staples underscores the decision. With only 1% of grains and 43% of vegetables produced domestically. Jakobsdóttir&#8217;s proposed pivot towards bolstering food production signifies a strategic redirection of Iceland&#8217;s renewable energy resources to support more sustainable and essential sectors. This will ensure energy security for households and industries beyond crypto mining.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-crypto-mining-industry-prepares-for-post-halving-shake-up">Crypto Mining Industry Prepares for Post-Halving Shake-Up</h2>
+
+
+
+<p>This strategic shift is reflective of a broader trend within the crypto-mining industry. Which is bracing for significant changes after the anticipated <a href="https://beincrypto.com/bitcoin-mining-stock-soars-halving/" target="_blank" rel="noreferrer noopener">Bitcoin halving event in April</a>. Industry experts, including Marathon Digital Holdings CEO Fred Thiel, have warned of the impending <a href="https://www.cnbc.com/video/2024/03/22/large-scale-bitcoin-miners-are-competing-head-on-with-ai-companies-for-power-marathon-digital-ceo.html" target="_blank" rel="noreferrer noopener">financial pressures on smaller miners</a>. Which could lead to a consolidation in favor of larger players with more robust financial backing.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>“Post halving I think you’ll see the smaller miners come under financial stress, which will enable the bigger miners to consolidate the industry,” Thiel stated.</p>
+</blockquote>
+
+
+
+<p>In navigating a crucial change, Iceland views its shift as more than just a way to secure energy and food. It&#8217;s also a sign of its dedication to sustainable growth. </p>
+
+
+
+<p><strong>Read More: <a href="https://beincrypto.com/learn/how-much-electricity-bitcoin-mining/" target="_blank" rel="noreferrer noopener">How Much Electricity Does Bitcoin Mining Use?</a></strong></p>
+
+
+
+<p>Hence, Iceland is redirecting its renewable energy from crypto mining to vital fields such as agriculture. This move showcases Iceland&#8217;s ability to merge tech progress with eco-friendly practices and economic stability.</p>
+<p>The post <a href="https://beincrypto.com/country-plans-shift-away-bitcoin-mining/">This Country Plans to Shift its Focus Away From Bitcoin Mining</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2022/10/ecoway-crypto-green-mining.jpg" medium="image" width="1280" height="720" type="image/jpeg" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2022/10/ecoway-crypto-green-mining.jpg"/>	</item>
+		<item>
+		<title>BloFin Announces Platinum Sponsor of TOKEN2049 Dubai 2024</title>
+		<link>https://beincrypto.com/blofin-announces-platinum-sponsor-of-token2049-dubai-2024/</link>
+		
+		<dc:creator><![CDATA[Advertorial]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 07:00:00 +0000</pubDate>
+				<category><![CDATA[Press Releases]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=488384</guid>
+
+					<description><![CDATA[<p>BloFin, a top global crypto derivative exchange, is thrilled to reveal its platinum sponsorship for the highly anticipated TOKEN2049 Dubai 2024, a premier crypto event. This sponsorship marks a significant milestone for BloFin, following its successful participation as a Gold Sponsor at TOKEN2049, the premier blockchain event in Singapore in 2023. It is dedicated to &#8230; <a href="https://beincrypto.com/blofin-announces-platinum-sponsor-of-token2049-dubai-2024/">Continued</a></p>
+<p>The post <a href="https://beincrypto.com/blofin-announces-platinum-sponsor-of-token2049-dubai-2024/">BloFin Announces Platinum Sponsor of TOKEN2049 Dubai 2024</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong><a href="https://blofin.com/" target="_blank" rel="noreferrer noopener nofollow">BloFin</a>, a top global crypto derivative exchange, is thrilled to reveal its platinum sponsorship for the highly anticipated TOKEN2049 Dubai 2024, a premier crypto event. </strong></p>
+
+
+
+<p>This sponsorship marks a significant milestone for BloFin, following its successful participation as a Gold Sponsor at TOKEN2049, the premier blockchain event in Singapore in 2023. It is dedicated to furthering the blockchain industry&#8217;s growth and development by partnering once again with TOKEN2049. As a Platinum Sponsor, BloFin aims to showcase its commitment to innovation, technology, and community engagement within the blockchain ecosystem.&nbsp;</p>
+
+
+
+<p>TOKEN2049 Dubai 2024 promises to be a gathering of industry leaders, innovators, and enthusiasts from around the world, and BloFin&#8217;s sponsorship underscores its position as a key player in shaping the future of blockchain technology and digital asset trading.</p>
+
+
+
+<p>Moreover, given Dubai&#8217;s status as a global hub for crypto innovation and the pivotal role of TOKEN2049 in the UAE, BloFin&#8217;s exclusive<a href="https://lu.ma/BloFinWhalesNightDubai" target="_blank" rel="noreferrer noopener nofollow"> WhalesNight AfterParty</a> is poised to make waves. Scheduled to be held at the scenic Sobe Dubai Rooftop Sundowner, the event will commence at 19:30 (UTC+4) on April 18, 2024. </p>
+
+
+
+<p>The BloFin WhalesNight AfterParty will bring together industry leaders, BloFin Whales (influencers), and BloFin VIPs from around the world. Attendees can look forward to engaging discussions, exciting news, and valuable networking opportunities in a vibrant and dynamic atmosphere. It will serve as a platform for participants to connect, share insights, and explore new opportunities in the ever-evolving cryptocurrency landscape. </p>
+
+
+
+<p>With Dubai being a hub for innovation and technological advancement, this event is poised to make a significant impact on the future of blockchain technology and digital assets.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://lh7-us.googleusercontent.com/NfVei8AiU5macxITjam6_3ErHv6soiofADoNuNjeqgU57_J9-ladjnLc5rm8UFSE8ddJewqIT0KTrlXSVWFpXJJxYw7tnZLtvjnK1Vg7g8sZyT80JIvfEbdVkC_MlunZvQ-WFC2R8Q_3-FOKSRg6Kjk" alt=""/></figure>
+
+
+
+<p>With years of experience in the blockchain industry, Matt Hu, the CEO of Blofin, is anticipating this opportunity and recognizes the significance of attending TOKEN 2049 in Dubai as a platinum sponsor for his product:&nbsp;</p>
+
+
+
+<p>&#8220;Bitcoin is being heralded as the modern-day gold, while Dubai is on the rise as the world&#8217;s new financial epicenter. Dubai Token2049 presents an unparalleled platform for dialogue, not just for us, but for global users as well. As one of the most rapidly expanding exchanges, BloFin is excited to showcase our breakthroughs in product innovation, cutting-edge technology, and unparalleled security measures. We&#8217;re not stopping there; BloFin is committed to ongoing investment in our product suite, technological advancements, security protocols, and operational efficiencies to ensure our users receive nothing but the most exceptional and dependable services. Join us at Dubai Token2049 to witness the future of finance, today.&#8221;&nbsp;</p>
+
+
+
+<p>Attendees at TOKEN2049 in Dubai will have the opportunity to delve into the diverse features of the Blofin ecosystem, spanning futures trading, copy trading, and more. Through interactions with experts, Web3 builders, thought leaders, and enthusiasts at TOKEN2049, BloFin aims to forge a robust foundation for the advancement and maturation of the blockchain ecosystem.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-about-blofin"><strong>About BloFin</strong></h2>
+
+
+
+<p>BloFin is a secure and cryptocurrency centralized exchange (CEX) that offers the best services for perpetual &amp; futures trading with an extensive selection of over 300 USDT-M perpetual contracts. Aside from derivatives trading products, BloFin now provides more high-quality services including spot trading, copy trading, earning, API, and more. The team prioritizes user trust and platform transparency above all else. </p>
+
+
+
+<p>BloFin is committed to prioritizing user fund security by partnering with Fireblocks to safeguard users&#8217; assets and providing insurance coverage for potential crypto-related incidents and we continue to shape the future of crypto trading. As BloFin continues to expand its global presence and influence, partnerships with leading industry events like TOKEN2049 serve as a testament to its commitment to excellence and leadership in the cryptocurrency and blockchain sectors.</p>
+<p>The post <a href="https://beincrypto.com/blofin-announces-platinum-sponsor-of-token2049-dubai-2024/">BloFin Announces Platinum Sponsor of TOKEN2049 Dubai 2024</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/03/photo_2024-03-22-14.33.22.jpeg" medium="image" width="1280" height="640" type="image/jpeg" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/03/photo_2024-03-22-14.33.22.jpeg"/>	</item>
+		<item>
+		<title>Real-World Assets Exchange DigiFT Debuts US Treasury Bill Tokens</title>
+		<link>https://beincrypto.com/real-world-assets-rwa-treasury-bill-tokens/</link>
+		
+		<dc:creator><![CDATA[Ali M.]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 06:51:56 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Real-World Assets (RWA) News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=489341</guid>
+
+					<description><![CDATA[<p>DigiFT's new U.S. Treasury Bill tokens revolutionize blockchain investment, providing direct beneficial ownership and legal transparency. This marks a first in blockchain-based real-world asset exchanges.</p>
+<p>The post <a href="https://beincrypto.com/real-world-assets-rwa-treasury-bill-tokens/">Real-World Assets Exchange DigiFT Debuts US Treasury Bill Tokens</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>DigiFT recently unveiled its latest offering in the form of US Treasury Bill depository receipt tokens. This innovation introduces direct beneficial ownership in US Treasury Bills to the blockchain. </strong></p>
+
+
+
+<p>The significance of this launch lies in its approach to solving a longstanding issue within Real-World Asset (RWA) tokenization—the challenge of legally and accurately representing ownership and interest.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-us-treasury-bill-tokens-now-on-real-world-assets-exchange">US Treasury Bill Tokens Now on Real-World Assets Exchange</h2>
+
+
+
+<p>The concept of depositary receipts has a rich history in facilitating international investment, dating back to their inception in the 1920s. Traditionally, these instruments enabled investors to access foreign markets with relative ease. Adapting this established structure, DigiFT aims to address the legal representation of token holders&#8217; interests in <a href="https://beincrypto.com/learn/real-world-asset-tokens/" target="_blank" rel="noreferrer noopener">Real-World Assets</a>.</p>
+
+
+
+<p>Currently, the market is saturated with wrapped tokens, which often come entangled in legal frameworks that obscure direct ownership. This can pose significant hurdles for investors seeking to navigate the implications of their investments. By contrast, DigiFT’s <a href="https://www.digift.sg/announcements/first-rwa-depository-receipt-tokens.html" target="_blank" rel="noreferrer noopener nofollow">deployment</a> of depository receipt tokens offers a clear, legally coherent framework. </p>
+
+
+
+<p>This model simplifies investment comprehension and ensures investors have a direct claim on the returns of the underlying assets.</p>
+
+
+
+<p><strong>Read more: <a href="https://beincrypto.com/learn/tokenization-rwas/">What is The Impact of Real World Asset (RWA) Tokenization?</a></strong></p>
+
+
+
+<p>Henry Zhang, Founder and CEO of DigiFT, highlighted the importance of the DR structure. It helps address market needs, particularly in terms of direct ownership and return on investment. </p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>“DigiFT&#8217;s innovative DR structure addresses a pain point in the current RWA market, empowering investors with direct ownership of underlying assets and returns. Looking ahead, DigiFT remains committed to expanding the universe of traditional financial assets in the Web3 space through the DR model, offering better investor protection and transparency,” Zhang said. </p>
+</blockquote>
+
+
+
+<p>As the first licensed Real-World Assets exchange, DigiFT merges deep financial insights with advanced technological capabilities. The newly launched US Treasury Tokens (DRUST) are emblematic of this fusion, providing a regulated, blockchain-based option for managing treasury and cash flows. Highly liquid US Treasury Bills directly back these tokens, which appeal to a broad spectrum of institutional investors.</p>
+<p>The post <a href="https://beincrypto.com/real-world-assets-rwa-treasury-bill-tokens/">Real-World Assets Exchange DigiFT Debuts US Treasury Bill Tokens</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/02/BIC_Tokenization_token_2-covers.png" medium="image" width="1280" height="720" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/02/BIC_Tokenization_token_2-covers.png"/>	</item>
+		<item>
+		<title>Finticipate &#8211; Third Annual SEE Fintech Forum is back, promising insights into future fintech trends</title>
+		<link>https://beincrypto.com/finticipate-unveils-third-annual-see-fintech-forum-promising-insight-into-future-trends/</link>
+		
+		<dc:creator><![CDATA[Advertorial]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 06:00:00 +0000</pubDate>
+				<category><![CDATA[Press Releases]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=485874</guid>
+
+					<description><![CDATA[<p>Finticipate thrilled to announce the upcoming third annual Finticipate &#8211; SEE Fintech Forum, scheduled for May 31st, 2024, at the Mona Plaza Hotel in Belgrade, and via online platform. This event promises to be a highlight on the calendars of industry leaders and enthusiasts alike. Building on the success of previous editions, Finticipate Vol3 – &#8230; <a href="https://beincrypto.com/finticipate-unveils-third-annual-see-fintech-forum-promising-insight-into-future-trends/">Continued</a></p>
+<p>The post <a href="https://beincrypto.com/finticipate-unveils-third-annual-see-fintech-forum-promising-insight-into-future-trends/">Finticipate &#8211; Third Annual SEE Fintech Forum is back, promising insights into future fintech trends</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Finticipate thrilled to announce the upcoming third annual Finticipate &#8211; SEE Fintech Forum, scheduled for May 31<sup>st</sup>, 2024, at the Mona Plaza Hotel in Belgrade, and via online platform. This event promises to be a highlight on the calendars of industry leaders and enthusiasts alike.</strong></p>
+
+
+
+<p>Building on the success of previous editions, Finticipate Vol3 – SEE Fintech Forum is poised to bring together prominent figures from the regional and European fintech and finance communities. Attendees can anticipate the presence of regulatory authorities, traditional banks, innovative neobanks, crypto exchanges, web 3 service providers, burgeoning startups, fintech payment platforms, international fintech associations, established financial institutions, BNPL (Buy Now, Pay Later) services, and more.</p>
+
+
+
+<p>This year, Finticipate aims to delve deep into the emerging trends that will shape the future of the fintech landscape. From disruptive technologies to regulatory shifts, the forum will offer invaluable insights and perspectives on the evolving industry dynamics.</p>
+
+
+
+<p>&#8220;We are excited to once again convene thought leaders and industry pioneers at SEE Fintech Forum,&#8221; said Jasna Nedic, Program director at Finticipate. &#8220;As the fintech ecosystem continues to evolve, this event serves as a vital platform for collaboration, knowledge-sharing, and networking.&#8221;</p>
+
+
+
+<p><strong>Rare Bird discount</strong> is still on, priced at <strong>€370 + VAT</strong> per person until <strong>April 30th</strong>. For companies registering 3 or more attendees, the fee is reduced to €320 + VAT per person. <strong>Standard registration costs €450 + VAT</strong>, whereas <strong>online registration</strong> is available for <strong>€130 + VAT</strong>. Seating is limited, so ensure you register on time to secure your spot!</p>
+
+
+
+<p>Registration for the forum is now open via the official <a href="https://finticipate.com/registration/" target="_blank" rel="noreferrer noopener nofollow">website</a>, or interested individuals can reach out via <a href="office@finticipate.com" target="_blank" rel="noreferrer noopener nofollow">email</a>. Limited slots are available, so early registration is encouraged.</p>
+
+
+
+<p>Join Finticipate on May 31st as we embark on an immersive fintech journey, exploring diverse viewpoints on the most pressing topics shaping the industry&#8217;s future.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-about-finticipate">About Finticipate</h2>
+
+
+
+<p>Finticipate is a leading platform provided by New Angles Consulting dedicated to exploring the latest trends, innovations, and disruptions in the fintech and finance sectors. Through forum and online content, Finticipate fosters collaboration and knowledge-sharing among industry stakeholders, driving forward the evolution of financial technology worldwide. Visit <a href="https://finticipate.com/" target="_blank" rel="noreferrer noopener nofollow">website</a> to learn more.<br><br><a href="https://finticipate.com/" target="_blank" rel="noreferrer noopener nofollow">Website</a> | <a href="https://www.linkedin.com/company/finticipate-see-fintech-forum/" target="_blank" rel="noreferrer noopener nofollow">LinkedIn</a> | <a href="https://www.instagram.com/new_angles_consulting/?hl=sr" target="_blank" rel="noreferrer noopener nofollow">Instagram</a></p>
+<p>The post <a href="https://beincrypto.com/finticipate-unveils-third-annual-see-fintech-forum-promising-insight-into-future-trends/">Finticipate &#8211; Third Annual SEE Fintech Forum is back, promising insights into future fintech trends</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/03/Banner_1200x627.png" medium="image" width="1200" height="627" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/03/Banner_1200x627.png"/>	</item>
+		<item>
+		<title>High-Risk Appetite Evident as PUNDU Meme Coin Raises $100 Million</title>
+		<link>https://beincrypto.com/solana-meme-coin-nears-100-million/</link>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Sun, 24 Mar 2024 21:00:00 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Memecoin News]]></category>
+		<category><![CDATA[Solana (SOL) News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=488925</guid>
+
+					<description><![CDATA[<p>Solana-based PUNDU meme coin presale achieved exceptional success, raising nearly $100 million in record time.</p>
+<p>The post <a href="https://beincrypto.com/solana-meme-coin-nears-100-million/">High-Risk Appetite Evident as PUNDU Meme Coin Raises $100 Million</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>DAO Maker has achieved a remarkable feat, securing nearly $100 million in a presale for the PUNDU meme coin.</strong></p>
+
+
+
+<p>The significant investment contributed within 36 hours reflects a pronounced appetite for high-risk ventures in the crypto market. However, the overwhelming response resulted in an oversubscription, necessitating refunds for contributors who sent funds post-target attainment.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-solana-meme-coins-in-high-demand">Solana Meme Coins in High Demand</h2>
+
+
+
+<p>DAO Maker unveiled an impressive $97.6 million raised across Binance Smart Chain and <a href="https://beincrypto.com/learn/what-is-solana/" target="_blank" rel="noreferrer noopener">Solana</a>, drawing support from over 20,000 users. PUNDU, introduced by the launchpad just days ago, swiftly captured investor interest, with contributions exchanging SOL and USDT for PUNDU allocations.</p>
+
+
+
+<p>This success marks a milestone, establishing PUNDU&#8217;s presale as the largest for a meme coin. Most deposits originated from Binance Smart Chain, amassing $60 million. However, the Solana presale address also saw substantial activity. It received 212,404 SOL, equivalent to $37.6 million, surpassing the 33,333 SOL hard cap, highlighting the fervent <a href="https://beincrypto.com/crypto-traders-solana-base-meme-coins/" target="_blank" rel="noreferrer noopener">interest in meme coins within the Solana ecosystem.</a></p>
+
+
+
+<p>While PUNDU awaits its launch date, the meme coin pledges a fair rollout, earmarking 40% of tokens for the presale, another 40% for liquidity pools, and distributing the remaining 10% equally between marketing efforts and long-term exchange listings.</p>
+
+
+
+<p><strong>Read more: <a href="https://beincrypto.com/learn/solana-platforms-buy/">6 Best Platforms To Buy Solana (SOL) in 2024</a></strong></p>
+
+
+
+<p>According to crypto investigator ZachXBT, Solana presales have raised more than 796,000 SOL, equivalent to around $149.20 million. Such mania urged Solana Labs Co-Founder Anatoly Yakovenko to <a href="https://twitter.com/aeyakovenko" target="_blank" rel="noreferrer noopener nofollow">advise</a> investors to &#8220;stop&#8221; sending SOL presales.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>&#8220;To me, it&#8217;s just a bizarre thing, I think, of people being terminally online and kind of having nothing better to do,&#8221; Yakovenko <a href="https://www.coindesk.com/podcasts/the-protocol/solana-its-meme-coin-craze-growth-and-vision-with-ceo-anatoly-yakovenko" target="_blank" rel="noreferrer noopener">said</a>.</p>
+</blockquote>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Stop doing this. <a href="https://t.co/wY7E38MqYh">https://t.co/wY7E38MqYh</a></p>&mdash; toly <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f1fa-1f1f8.png" alt="🇺🇸" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@aeyakovenko) <a href="https://twitter.com/aeyakovenko/status/1770086226919575677?ref_src=twsrc%5Etfw">March 19, 2024</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Moreover, the frenzy surrounding meme coins led to the emergence of racist tokens. These <a href="https://beincrypto.com/racist-memecoins-condemnation/">meme coins, with offensive names, symbols, and imagery</a>, include racial slurs, anti-Semitic references, and Nazi imagery.</p>
+<p>The post <a href="https://beincrypto.com/solana-meme-coin-nears-100-million/">High-Risk Appetite Evident as PUNDU Meme Coin Raises $100 Million</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2023/03/BIC_Memecoins_rocket_shib_positive.png" medium="image" width="1280" height="720" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2023/03/BIC_Memecoins_rocket_shib_positive.png"/>	</item>
+		<item>
+		<title>Altcoin Trader Reveals Strategy For the Meme Coin Mania</title>
+		<link>https://beincrypto.com/altcoin-trader-strategy-meme-coin-mania/</link>
+		
+		<dc:creator><![CDATA[Bary Rahma]]></dc:creator>
+		<pubDate>Sun, 24 Mar 2024 19:09:56 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Altcoin News]]></category>
+		<category><![CDATA[Memecoin News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=488933</guid>
+
+					<description><![CDATA[<p>Rekt Fencer shares his controversial yet effective strategy for trading meme coins, leveraging 'sniping' and meticulous market analysis to achieve significant returns. Despite inherent risks, his method illuminates the lucrative potential of cryptocurrency trading.</p>
+<p>The post <a href="https://beincrypto.com/altcoin-trader-strategy-meme-coin-mania/">Altcoin Trader Reveals Strategy For the Meme Coin Mania</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Altcoin trader Rekt Fencer has caused a stir with his candid revelation on achieving a staggering 1,000X gains through meme coins. </strong></p>
+
+
+
+<p>Fencer&#8217;s strategy, centered on the concept of &#8216;sniping&#8217; new token launches, is allegedly profitable even for those with investors modest capital.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-secrets-to-trading-meme-coins">Secrets to Trading Meme Coins</h2>
+
+
+
+<p>Fencer <a href="https://x.com/rektfencer/status/1771821959963099517?s=20" target="_blank" rel="noreferrer noopener nofollow">explained</a> one of the easiest methods to achieve significant returns with <a href="https://beincrypto.com/learn/meme-coins/" target="_blank" rel="noreferrer noopener">meme coins</a>. This approach, while controversial, has shown to be effective for him in a market where timing and information are everything.</p>
+
+
+
+<p>The key to Fencer&#8217;s method lies in meticulous pre-analysis and constant monitoring of the market for new listings. By utilizing resources like DEX Screener, traders can identify trending narratives and potential catalysts that could drive the price of newly listed meme coins. </p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>&#8220;The longer the narrative in the Top Gainers, the stronger it becomes,&#8221; Fencer noted </p>
+</blockquote>
+
+
+
+<p><strong>Read more: <a href="https://beincrypto.com/learn/top-meme-coins/">7 Hot Meme Coins and Altcoins that are Trending in 2024</a></strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="403" src="https://beincrypto.com/wp-content/uploads/2024/03/image-197-850x403.png" alt="DEX Screener Top Gainers" class="wp-image-488934" srcset="https://beincrypto.com/wp-content/uploads/2024/03/image-197-850x403.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/image-197-360x171.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/image-197-768x364.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/image-197-1536x728.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/image-197-150x71.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/image-197.png 1795w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">DEX Screener Top Gainers. Source: <a href="https://dexscreener.com" target="_blank" rel="noreferrer noopener nofollow">DEX Screener</a></figcaption></figure>
+
+
+
+<p>Moreover, Fencer shed light on the critical role of sniper bots in executing this strategy. These bots are designed to buy tokens as quickly as possible at launch. Therefore, they can significantly increase the chances of securing a token before its value skyrockets. </p>
+
+
+
+<p>Among the recommended tools are BONKbot for Solana on-chain trading, BananaGun for Ethereum and Solana, and <a href="https://beincrypto.com/learn/unibot-guide/" target="_blank" rel="noreferrer noopener">Unibot</a>, a popular choice for EVM and soon Solana.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>&#8220;To buy tokens as fast as possible, you need to use sniper bots. There isn&#8217;t a universal bot that works perfectly for every chain. Each bot has its own customization instructions. Mastering this skill isn&#8217;t easy, but the rewards that follow will more than compensate for your efforts,&#8221; Fencer added. </p>
+</blockquote>
+
+
+
+<p><strong>Read more: <a href="https://beincrypto.com/learn/ai-crypto-trading-bots/">13 Best AI Crypto Trading Bots To Maximize Your Profits</a></strong></p>
+
+
+
+<p>However, Fencer&#8217;s method is not without its risks. The volatile nature of meme coins and the potential for <a href="https://beincrypto.com/learn/crypto-scams/" target="_blank" rel="noreferrer noopener">crypto scams</a> underscore the importance of diligence and risk management. Investors are advised to verify the security of tokens through platforms like Rug Check and Coin Scan. Traders must also be prepared for the possibility that not every investment will yield the anticipated returns.</p>
+
+
+
+<p>Despite the inherent risks, Fencer&#8217;s strategy offers a tantalizing glimpse into the potential rewards of cryptocurrency trading. By combining thorough research, strategic use of technology, and an understanding of market dynamics, traders can position themselves to capture significant gains.</p>
+<p>The post <a href="https://beincrypto.com/altcoin-trader-strategy-meme-coin-mania/">Altcoin Trader Reveals Strategy For the Meme Coin Mania</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2023/06/bic_Developer_1-covers_neutral.png" medium="image" width="1280" height="720" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2023/06/bic_Developer_1-covers_neutral.png"/>	</item>
+		<item>
+		<title>Grayscale&#8217;s GBTC Will Run Out of Bitcoin in 96 Days</title>
+		<link>https://beincrypto.com/grayscale-gbtc-bitcoin-outflows/</link>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Sun, 24 Mar 2024 17:00:00 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Bitcoin (BTC) News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=488883</guid>
+
+					<description><![CDATA[<p>Grayscale is exploring strategies to counteract these outflows, including introducing a mini fund as an alternative to GBTC.</p>
+<p>The post <a href="https://beincrypto.com/grayscale-gbtc-bitcoin-outflows/">Grayscale&#8217;s GBTC Will Run Out of Bitcoin in 96 Days</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Bitcoin exchange-traded funds (ETFs) have significantly impacted the crypto market since their debut in January. Even marker observers have been impressed with the record performance of these financial products. </strong></p>
+
+
+
+<p>However, Grayscale&#8217;s Bitcoin Trust (GBTC), one of the prominent products, has experienced consistent outflows, sparking concerns about its future trajectory.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-grayscale-s-gbtc-bitcoin-reserve-depletes">Grayscale&#8217;s GBTC Bitcoin Reserve Depletes</h2>
+
+
+
+<p>Arkham Intelligence, a blockchain analytics firm, has forecasted that GBTC could deplete its Bitcoin reserves within the next 96 days if the current rate of redemptions persists. </p>
+
+
+
+<p>Since its conversion into a spot Bitcoin ETF in January, Grayscale&#8217;s Bitcoin balance has plummeted by 266,470 BTC. This marks a significant decline from its initial holding of approximately 620,000 BTC. </p>
+
+
+
+<p>The downward trend is attributed to <a href="https://beincrypto.com/grayscale-outtflows-skyrocket/" target="_blank" rel="noreferrer noopener">consistent outflows from GBTC</a> averaging 25,900 BTC per week.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>&#8220;Grayscale started the year holding 618,280 BTC for their Bitcoin Trust GBTC. They now hold only 356,440 BTC. If they carry on like this, there’s only 14 weeks until they run out for good,&#8221; analysts at Arkham Intelligence <a href="https://x.com/ArkhamIntel/status/1771567644040458478?s=20" target="_blank" rel="noreferrer noopener nofollow">remarked</a>.</p>
+</blockquote>
+
+
+
+<p><strong>Read more: <a href="https://beincrypto.com/learn/how-to-prepare-bitcoin-etf/">How To Trade a Bitcoin ETF: A Step-by-Step Approach</a></strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="535" src="https://beincrypto.com/wp-content/uploads/2024/03/Bitcoin-ETF-Historical-Bitcoin-Holdings-Trend-2-850x535.png" alt="Grayscale GBTC Bitcoin Holdings" class="wp-image-488928" srcset="https://beincrypto.com/wp-content/uploads/2024/03/Bitcoin-ETF-Historical-Bitcoin-Holdings-Trend-2-850x535.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/Bitcoin-ETF-Historical-Bitcoin-Holdings-Trend-2-360x227.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/Bitcoin-ETF-Historical-Bitcoin-Holdings-Trend-2-768x484.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/Bitcoin-ETF-Historical-Bitcoin-Holdings-Trend-2-1536x967.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/Bitcoin-ETF-Historical-Bitcoin-Holdings-Trend-2-2048x1290.png 2048w, https://beincrypto.com/wp-content/uploads/2024/03/Bitcoin-ETF-Historical-Bitcoin-Holdings-Trend-2-150x94.png 150w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Grayscale&#8217;s GBTC Bitcoin Holdings. Source: CryptoQuant</figcaption></figure>
+
+
+
+<p>Grayscale&#8217;s CEO, Michael Sonnenshein, acknowledged the anticipated outflows, attributing them primarily to profit-taking investors and arbitragers exiting the fund. On the other hand, market observers have attributed the <a href="https://beincrypto.com/grayscale-outflow-bitcoin-price/" target="_blank" rel="noreferrer noopener">GBTC outflows</a> to its high fee structure. At the same time, Eric Balchunas, a senior ETF analyst at Bloomberg, noted that the past week&#8217;s outflows were predominantly from the defunct crypto lender Genesis. </p>
+
+
+
+<p>Grayscale is exploring various initiatives to counteract this outflow trend. Some of these include introducing a mini fund providing a cost-effective alternative to GBTC. Sonnenshein also mentioned the firm&#8217;s plan to reduce its 1.5% fee, which stands in stark contrast to competitors&#8217; rates ranging from 0.2% to 0.5%.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>&#8220;We have seen this in countless other exposures, countless other markets, you name it, where typically when products are earlier in their lifecycle, when they’re new to be introduced, these tend to be higher. And, as those markets mature, and as those funds grow, those fees tend to come down, and we expect the same to be true of GBTC,&#8221; Sonnenshein <a href="https://www.cnbc.com/2024/03/19/grayscale-ceo-says-gbtc-bitcoin-etf-fees-will-come-down-over-time.html" target="_blank" rel="noreferrer noopener nofollow">said</a>.</p>
+</blockquote>
+<p>The post <a href="https://beincrypto.com/grayscale-gbtc-bitcoin-outflows/">Grayscale&#8217;s GBTC Will Run Out of Bitcoin in 96 Days</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/02/bic_Grayscale-covers_negative.png" medium="image" width="1280" height="720" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/02/bic_Grayscale-covers_negative.png"/>	</item>
+		<item>
+		<title>Shiba Inu&#8217;s (SHIB) Shibarium TVL Surges 170% in Two Days</title>
+		<link>https://beincrypto.com/shiba-inu-shibarium-tvl-increases/</link>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Sun, 24 Mar 2024 15:00:00 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Shiba Inu (SHIB) Analysis]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=488881</guid>
+
+					<description><![CDATA[<p>Shiba Inu ecosystem witnessed an unexpected decline in SHIB's burn rate despite the overall growth in trading activity.</p>
+<p>The post <a href="https://beincrypto.com/shiba-inu-shibarium-tvl-increases/">Shiba Inu&#8217;s (SHIB) Shibarium TVL Surges 170% in Two Days</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Shibarium, the Layer 2 blockchain within the Shiba Inu (SHIB) ecosystem, has reached noteworthy milestones, indicative of its growing utility and adoption.</strong></p>
+
+
+
+<p>On-chain data shows a remarkable surge in the total value of assets locked (TVL) on Shibarium, marking an increase of approximately 170% within the last two days. The value now stands at $3.85 million, underlining the platform&#8217;s expanding utility and user engagement.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-shibarium-s-tvl-surged-by-170">Shibarium&#8217;s TVL Surged by 170%</h2>
+
+
+
+<p><a href="https://beincrypto.com/shiba-inu-price-rally-shibarium-tvl/" target="_blank" rel="noreferrer noopener">Shibarium&#8217;s TVL surge</a> can be attributed to the rollout of new features within the ecosystem. Notably, the recent introduction of the DAMN <a href="https://beincrypto.com/learn/meme-coins/" target="_blank" rel="noreferrer noopener">meme coin</a> on the Woofswap decentralized exchange has added to <a href="https://beincrypto.com/crypto-traders-solana-base-meme-coins/" target="_blank" rel="noreferrer noopener">excitement revolving around meme coins</a> across various blockchains. </p>
+
+
+
+<p>Among them, DAMN emerges as a notable contender, garnering significant attention from the Shib army and the broader crypto community. What sets DAMN apart is its feature enabling the burning of Bone Shibaswap, Shibarium&#8217;s native gas token, enhancing its appeal.</p>
+
+
+
+<p><a href="https://beincrypto.com/learn/buy-shiba-inu/" target="_blank" rel="noreferrer noopener">Shiba Inu</a> market analyst Lucie explained that DAMN was &#8220;about the people — primarily BONE holders and the Shibarium community.&#8221;</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>&#8220;We’re not spending on marketing; it’s a collective effort to spotlight our ecosystem. A little effort from each one of us can lead to great achievements. Let’s unite and propel forward together,&#8221; Lucie <a href="https://x.com/LucieSHIB/status/1771636575157260628?s=20" target="_blank" rel="noreferrer noopener nofollow">said</a>.</p>
+</blockquote>
+
+
+
+<p><strong>Read more: <a href="https://beincrypto.com/learn/top-meme-coins/">7 Hot Meme Coins and Altcoins that are Trending in 2024</a></strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="447" src="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-2.21.42-PM-850x447.png" alt="Shibarium's Total Value Locked" class="wp-image-488912" srcset="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-2.21.42-PM-850x447.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-2.21.42-PM-360x189.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-2.21.42-PM-768x404.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-2.21.42-PM-1536x808.png 1536w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-2.21.42-PM-150x79.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-2.21.42-PM.png 1654w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Shibarium&#8217;s Total Value Locked. Source: <a href="https://defillama.com/chain/Shibarium" target="_blank" rel="noreferrer noopener nofollow">DeFiLlama</a></figcaption></figure>
+
+
+
+<p>Interestingly, DAMN&#8217;s price has been on an uptrend since its debut, resulting in significant trading activity on the Woofswap decentralized exchange, which inadvertently impacted Shibarium&#8217;s TVL. The DEX currently commands approximately 64% of Shibarium&#8217;s total ecosystem activity.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-shiba-inu-shib-price-increases">Shiba Inu (SHIB) Price Increases</h2>
+
+
+
+<p>Recent market data illustrates the Shiba Inu meme coin&#8217;s ongoing ascent, coinciding with its ecosystem&#8217;s expansion. According to BeInCrypto data, <a href="https://beincrypto.com/learn/shiba-inu-shib-price-prediction/" target="_blank" rel="noreferrer noopener">SHIB&#8217;s price</a> has surged by over 2.45% within the last 24 hours, reaching $0.00002791. This upward trajectory extends a remarkable growth streak, surpassing 193% in the past month.</p>
+
+
+
+<p>Notably, this surge aligns with a surge in short-term investors acquiring SHIB. This class of investors accumulated 64 trillion tokens over the last 30 days, according to analysts at IntoTheBlock.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>&#8220;Shiba Inu traders with holdings spanning less than a month have seen a remarkable surge, marking a 278% increase in the last 30 days,&#8221; IntoTheBlock&#8217;s content creator Slim Daddy <a href="https://x.com/felixreads/status/1771055582583165030?s=20" target="_blank" rel="noreferrer noopener nofollow">said</a>.</p>
+</blockquote>
+
+
+
+<p><strong>Read more: <a href="https://beincrypto.com/learn/shiba-inu-shib-price-prediction/">Shiba Inu (SHIB) Price Prediction 2024 / 2025 / 2030</a></strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="281" src="https://beincrypto.com/wp-content/uploads/2024/03/image-193-850x281.png" alt="SHIB Holders" class="wp-image-488894" srcset="https://beincrypto.com/wp-content/uploads/2024/03/image-193-850x281.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/image-193-360x119.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/image-193-768x253.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/image-193-150x50.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/image-193.png 900w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Shiba Inu Short-Term Holders. Source: <a href="https://www.intotheblock.com/" target="_blank" rel="noreferrer noopener nofollow">IntoTheBlock</a></figcaption></figure>
+
+
+
+<p>However, despite this positive momentum, the Shiba Inu ecosystem experienced an unexpected decline in <a href="https://beincrypto.com/learn/shiba-inu-burn-rate/" target="_blank" rel="noreferrer noopener">SHIB&#8217;s burn rate</a>. Over the previous week, the meme coin&#8217;s burn rate <a href="https://x.com/shibburn/status/1771869619239719134?s=20" target="_blank" rel="noreferrer noopener nofollow">dropped</a> by 52%, marked by approximately 360 million SHIB tokens being withdrawn from circulation.</p>
+<p>The post <a href="https://beincrypto.com/shiba-inu-shibarium-tvl-increases/">Shiba Inu&#8217;s (SHIB) Shibarium TVL Surges 170% in Two Days</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2024/01/bic_Shiba_inu-covers_bullish.jpg" medium="image" width="1280" height="720" type="image/jpeg" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2024/01/bic_Shiba_inu-covers_bullish.jpg"/>	</item>
+		<item>
+		<title>Spain Temporarily Suspends Telegram Following Media Companies&#8217; Complaints</title>
+		<link>https://beincrypto.com/spain-suspends-telegram-access/</link>
+		
+		<dc:creator><![CDATA[Bary Rahma]]></dc:creator>
+		<pubDate>Sun, 24 Mar 2024 13:55:03 +0000</pubDate>
+				<category><![CDATA[Regulation]]></category>
+		<category><![CDATA[Telegram News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=488916</guid>
+
+					<description><![CDATA[<p>Spain's High Court suspends Telegram to investigate media companies' copyright complaints, impacting its 19% user base. The move prompts a debate on digital rights and copyright laws.</p>
+<p>The post <a href="https://beincrypto.com/spain-suspends-telegram-access/">Spain Temporarily Suspends Telegram Following Media Companies&#8217; Complaints</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Spain&#8217;s High Court has ordered a temporary suspension of the popular messaging app, Telegram, effective from March 25, 2024. </strong></p>
+
+
+
+<p>This decision comes after several media companies, including Atresmedia, EGEDA, Mediaset, and Telefonica, lodged complaints alleging that Telegram facilitated the unauthorized sharing of their content. Judge Santiago Pedraz sanctioned the suspension to allow a thorough investigation into these claims.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-spain-suspends-telegram">Spain Suspends Telegram</h2>
+
+
+
+<p>Under this <a href="https://www.reuters.com/world/europe/high-court-orders-temporary-suspension-telegrams-services-spain-2024-03-23/" target="_blank" rel="noreferrer noopener nofollow">directive</a>, it will be incumbent upon mobile service providers across Spain to implement the blockade against Telegram&#8217;s operations. This measure marks a significant development, considering <a href="https://beincrypto.com/telegram-300-million-toncoin-price/" target="_blank" rel="noreferrer noopener">Telegram&#8217;s status</a> as the country&#8217;s fourth most utilized messaging platform. </p>
+
+
+
+<p>The platform, celebrated for its robust encryption and privacy features, boasts a user base encompassing nearly 19% of the Spanish population.</p>
+
+
+
+<p>FACUA, an NGO for the defense of consumer rights, warns of the enormous damages the judicial decision will cause for this messaging application&#8217;s millions of users and the companies, organizations, and public and private institutions that disseminate content lawfully through their channels on this platform.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>&#8220;It&#8217;s as if they shut down the internet because there are websites that illegally host content protected by copyright, as if they cut off all television signals because there are networks that engage in piracy,&#8221; FACUA Activist Rubén Sánchez <a href="https://facua.org/noticias/audiencia-nacional-ordena-bloqueo-telegram/" target="_blank" rel="noreferrer noopener nofollow">said</a>.</p>
+</blockquote>
+
+
+
+<p><strong>Read more: <a href="https://beincrypto.com/learn/crypto-social-media-scams/">Crypto Social Media Scams: How to Stay Safe</a></strong></p>
+
+
+
+<p>The suspension raises questions about the balance between copyright protection and digital freedoms. Telegram, which reported over 700 million monthly active users globally in 2023, is at a critical juncture. The company&#8217;s response to the suspension, as well as further commentary from the High Court, remains pending.</p>
+
+
+
+<p>This development <a href="https://beincrypto.com/telegram-channels-promoting-crypto-scams/" target="_blank" rel="noreferrer noopener">affects millions of Telegram users</a> and sets a precedent for how digital platforms are regulated in Spain. </p>
+<p>The post <a href="https://beincrypto.com/spain-suspends-telegram-access/">Spain Temporarily Suspends Telegram Following Media Companies&#8217; Complaints</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2023/03/best-crypto-telegram-group-cover-850x478-1.jpg" medium="image" width="850" height="478" type="image/jpeg" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2023/03/best-crypto-telegram-group-cover-850x478-1.jpg"/>	</item>
+		<item>
+		<title>Coinbase’s Base Hits $2 Billion TVL: Airdrops, Meme Coins to Watch</title>
+		<link>https://beincrypto.com/coinbases-base-airdrops-meme-coins/</link>
+		
+		<dc:creator><![CDATA[Bary Rahma]]></dc:creator>
+		<pubDate>Sun, 24 Mar 2024 13:08:10 +0000</pubDate>
+				<category><![CDATA[Markets]]></category>
+		<category><![CDATA[Coinbase News]]></category>
+		<guid isPermaLink="false">https://beincrypto.com/?p=488891</guid>
+
+					<description><![CDATA[<p>Coinbase's Layer 2 solution, Base, surpasses $2 billion in Total Value Locked, marking a significant uptick in interest, particularly for meme coins and airdrops, setting the stage for further expansion.</p>
+<p>The post <a href="https://beincrypto.com/coinbases-base-airdrops-meme-coins/">Coinbase’s Base Hits $2 Billion TVL: Airdrops, Meme Coins to Watch</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Coinbase&#8217;s Layer 2 solution, Base, has surpassed $2 billion in Total Value Locked (TVL), marking a 43.61% surge over the past week. </strong></p>
+
+
+
+<p>This milestone reflects the growing traction and interest in this network, particularly focusing on meme coins and airdrops.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-coinbase-s-base-network-on-the-rise">Coinbase’s Base Network on the Rise</h2>
+
+
+
+<p>Base, engineered on the Optimism tech stack, has been pivotal in scaling Ethereum by enhancing transaction speed and reducing costs, all while maintaining the robust security of the Ethereum mainnet. <a href="https://beincrypto.com/base-boom-headache-coinbase/" target="_blank" rel="noreferrer noopener">The success of Base</a> can largely be attributed to its parent company, Coinbase. </p>
+
+
+
+<p>This is a behemoth cryptocurrency exchange with a valuation surpassing $60 billion. Coinbase&#8217;s strategic positioning as the custodian for 90% of US spot Bitcoin exchange-traded funds (ETFs) and its <a href="https://beincrypto.com/blackrock-crypto-giant-tokenized-fund/" target="_blank" rel="noreferrer noopener">alliance with giants like Blackrock</a> and Circle have significantly contributed to Base&#8217;s momentum. </p>
+
+
+
+<p>Indeed, Jesse Pollak, the architect behind Base, <a href="https://x.com/jessepollak/status/1770130669110538680?s=20" target="_blank" rel="noreferrer noopener nofollow">highlighted</a> that a substantial portion of Coinbase&#8217;s revenue is funneled into Base&#8217;s development. </p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>&#8220;We are ramping up gas grants to let builders get started building for free and build gasless experiences, [as well as] builder grants to reward folks who make a positive impact on base and give them resources to build the next thing. Gas grants will be upfront, with path to scaling. Builder grants will be primarily retroactive because we&#8217;ve observed that creates aligned incentives and a strong builder culture,&#8221; Pollak said. <a href="https://twitter.com/jessepollak/status/1770130669110538680"></a></p>
+</blockquote>
+
+
+
+<p>This strategic move reflects Coinbase&#8217;s vision of leveraging Base as a gateway for over 110 million users into the crypto market. The platform&#8217;s integration with Coinbase&#8217;s expansive user base provides a fertile ground for user acquisition, a common challenge for new blockchains.</p>
+
+
+
+<p><strong>Read more: <a href="https://beincrypto.com/learn/coinbase-review/">Coinbase Review 2024: The Best Crypto Exchange for Beginners?</a></strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="464" src="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-1.54.55-PM-850x464.png" alt="Base Network Users" class="wp-image-488899" srcset="https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-1.54.55-PM-850x464.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-1.54.55-PM-360x196.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-1.54.55-PM-768x419.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-1.54.55-PM-150x82.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/Screenshot-2024-03-24-at-1.54.55-PM.png 1444w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Base Network Users. Source: <a href="https://dune.com" target="_blank" rel="noreferrer noopener nofollow">Dune</a></figcaption></figure>
+
+
+
+<p>For this reason, this strategy has led to an unprecedented <a href="https://beincrypto.com/crypto-traders-solana-base-meme-coins/" target="_blank" rel="noreferrer noopener">uptick in Base&#8217;s adoption</a>. In March, daily new users hit 800,000, revenue climbed from $18 million to $28 million, and daily transactions soared from 500,000 to 2 million. </p>
+
+
+
+<p>This surge is partially attributed to the <a href="https://beincrypto.com/learn/dencun-upgrade-explained/" target="_blank" rel="noreferrer noopener">Ethereum Dencun upgrade</a>. The implementation of EIP-4844 drastically reduced network fees, making Base a formidable competitor for high-frequency trading.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-base-meme-coins-and-airdrops-to-watch">Base Meme Coins and Airdrops to Watch </h2>
+
+
+
+<p>The momentum around Base suggests a growing interest in <a href="https://beincrypto.com/learn/meme-coins/" target="_blank" rel="noreferrer noopener">meme coins</a> and airdrops. With the ecosystem still in its infancy, the potential for discovery and investment in meme coins is vast. </p>
+
+
+
+<p>According to analyst Miles Deutscher, a methodical approach involving the tracking of token trading volumes and holder counts can unveil promising opportunities within this space. Toshi Base, for instance, is a meme coin that stands due to its strong community and its position as a first mover.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>&#8220;Those who follow my content know I&#8217;m a proponent of following the leader when it comes to narrative trading, in this case TOSHI is the leading meme on Base,&#8221; Deutscher <a href="https://x.com/milesdeutscher/status/1771267594554916915?s=20" target="_blank" rel="noreferrer noopener nofollow">emphasized</a>. </p>
+</blockquote>
+
+
+
+<p><strong>Read more: <a href="https://beincrypto.com/learn/top-meme-coins/">7 Hot Meme Coins and Altcoins that are Trending in 2024</a></strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="850" height="564" src="https://beincrypto.com/wp-content/uploads/2024/03/image-192-850x564.png" alt="Protocols Running on Base" class="wp-image-488892" srcset="https://beincrypto.com/wp-content/uploads/2024/03/image-192-850x564.png 850w, https://beincrypto.com/wp-content/uploads/2024/03/image-192-360x239.png 360w, https://beincrypto.com/wp-content/uploads/2024/03/image-192-768x510.png 768w, https://beincrypto.com/wp-content/uploads/2024/03/image-192-150x100.png 150w, https://beincrypto.com/wp-content/uploads/2024/03/image-192.png 1024w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Protocols Running on Base. Source: <a href="https://twitter.com/degargoyle" target="_blank" rel="noreferrer noopener nofollow">Gargoyle</a></figcaption></figure>
+
+
+
+<p>Moreover, the anticipation of new protocols launching on Base and the potential for ecosystem airdrops presents a lucrative prospect for users and investors. </p>
+
+
+
+<p>Influencer Gargoyle <a href="https://x.com/degargoyle/status/1769739206828446188?s=20" target="_blank" rel="noreferrer noopener nofollow">pointed out</a> that the most profitable on Base may have a good chance of launching an airdrop. These include bridges like Across and Stargate, decentralized exchanges like ODOS and Aerodrome, and lending protocols like Moonwell and Seamless. </p>
+
+
+
+<p>Although Base has no immediate plans for a native token, history suggests anything is possible. With opportunities abounding in meme coins and airdrops, Base appears poised for further expansion. </p>
+<p>The post <a href="https://beincrypto.com/coinbases-base-airdrops-meme-coins/">Coinbase’s Base Hits $2 Billion TVL: Airdrops, Meme Coins to Watch</a> appeared first on <a href="https://beincrypto.com">BeInCrypto</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://beincrypto.com/wp-content/uploads/2023/06/bic_Coinbase_2-covers_neutral.png" medium="image" width="1280" height="720" type="image/png" />
+<media:thumbnail url="https://beincrypto.com/wp-content/uploads/2023/06/bic_Coinbase_2-covers_neutral.png"/>	</item>
 	</channel>
 </rss>

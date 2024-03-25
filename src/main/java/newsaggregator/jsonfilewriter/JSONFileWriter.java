@@ -24,6 +24,7 @@ public class JSONFileWriter {
         JSONArray jArray = new JSONArray();
         for (Post post : postList) {
             JSONObject currentPost = new JSONObject();
+            currentPost.put("guid", post.getGuid());
             currentPost.put("article_link", post.getArticleLink());
             currentPost.put("website_source", post.getWebsiteSource());
             currentPost.put("article_type", post.getArticleType());

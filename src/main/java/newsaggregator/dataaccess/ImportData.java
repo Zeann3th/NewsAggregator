@@ -3,10 +3,7 @@ package newsaggregator.dataaccess;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.mongodb.MongoException;
-import com.mongodb.client.MongoClient;
-import com.mongodb.client.MongoClients;
-import com.mongodb.client.MongoCollection;
-import com.mongodb.client.MongoDatabase;
+import com.mongodb.client.*;
 import org.bson.Document;
 
 import java.io.File;
@@ -27,17 +24,38 @@ public class ImportData {
      */
     public static void importJSON(String filePath) throws IOException {
         // Nối tới database
-        try (MongoClient mongoClient = MongoClients.create(System.getProperty("mongodb.uri"))){
+        try (MongoClient mongoClient = MongoClients.create(System.getProperty("mongodb.uri"))) {
             MongoDatabase db = mongoClient.getDatabase("WebData");
             MongoCollection<Document> collection = db.getCollection("articles");
-            collection.drop(); // Xoá trước khi nhập vào phòng trường hợp duplicate
             File jsonFile = new File(filePath);
             ObjectMapper mapper = new ObjectMapper();
             List<Document> documents = mapper.readValue(jsonFile, new TypeReference<>() {});
+            int count = 0;
             for (Document doc : documents) {
-                collection.insertOne(doc);
+                try (MongoCursor<Document> cursor = collection.find(new Document("guid", doc.getString("guid"))).iterator()) {
+                    if (cursor.hasNext()) {
+                        System.out.println("Bài viết đã tồn tại trong database...");
+                    } else {
+                        collection.insertOne(doc);
+                        count++;
+                    }
+                } catch (MongoException e) {
+                    System.out.println("Lỗi khi đẩy dữ liệu lên database...");
+                    e.printStackTrace();
+                }
             }
-            System.out.println("Đã đẩy lên database...");
+            System.out.println("Đã đẩy " + count + " bài báo lên database...");
         }
+    }
+
+    @Deprecated // Chỉ dùng được cho phiên bản trả tiền của mongoDB Atlas
+    public static void createSearchIndex() {
+        try (MongoClient mongoClient = MongoClients.create(System.getProperty("mongodb.uri"))) {
+            MongoDatabase database = mongoClient.getDatabase("WebData");
+            MongoCollection<Document> collection = database.getCollection("articles");
+            Document index = new Document("mappings",
+                    new Document("dynamic", true));
+            collection.createSearchIndex("searchArticles", index);
+            }
     }
 }
