@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptoslate.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptoslate.com/</link>
 	<description>Cryptocurrency News and Real-time Coin Data</description>
-	<lastBuildDate>Mon, 25 Mar 2024 13:34:45 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 Mar 2024 01:50:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,400 +29,444 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Binance ends Tron USDC support as it faces blockade in the Philippines</title>
-		<link>https://cryptoslate.com/binance-ends-tron-usdc-support-as-it-faces-blockade-in-the-philippines/</link>
-					<comments>https://cryptoslate.com/binance-ends-tron-usdc-support-as-it-faces-blockade-in-the-philippines/#respond</comments>
+		<title>SWIFT completes second test phase of CBDC with smart contract, atomic settlement capability</title>
+		<link>https://cryptoslate.com/swift-completes-second-test-phase-of-cbdc-with-smart-contract-atomic-settlement-capability/</link>
+					<comments>https://cryptoslate.com/swift-completes-second-test-phase-of-cbdc-with-smart-contract-atomic-settlement-capability/#respond</comments>
 		
-		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
-		<pubDate>Mon, 25 Mar 2024 13:34:45 +0000</pubDate>
-				<category><![CDATA[Exchanges]]></category>
-		<category><![CDATA[Regulation]]></category>
-		<category><![CDATA[Stablecoins]]></category>
-		<category><![CDATA[binance]]></category>
-		<category><![CDATA[Circle]]></category>
-		<category><![CDATA[tron]]></category>
-		<category><![CDATA[USDC]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=406720</guid>
+		<dc:creator><![CDATA[Mike Dalton]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2024 01:00:10 +0000</pubDate>
+				<category><![CDATA[CBDCs]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=406974</guid>
 
-					<description><![CDATA[<p>Crypto exchange Binance said it would end support for Tron network-based USD Coin (USDC) stablecoins by April 5, according to a March 25 statement, following recent news Circle is pulling out of the Tron blockchain entirely. Consequently, Binance users have less than two weeks to withdraw their assets or convert them to USDC on alternative [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/binance-ends-tron-usdc-support-as-it-faces-blockade-in-the-philippines/">Binance ends Tron USDC support as it faces blockade in the Philippines</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+					<description><![CDATA[<p>SWIFT said on March 25 that it discovered several applications for its central bank digital currency (CBDC) solution following a successful six-month test. The company did not create its own CBDC but instead developed an interlinking solution for existing CBDCs — dubbed the SWIFT connector. The company wrote: &#8220;At the core of our solution is [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/swift-completes-second-test-phase-of-cbdc-with-smart-contract-atomic-settlement-capability/">SWIFT completes second test phase of CBDC with smart contract, atomic settlement capability</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>Crypto exchange <a href="https://cryptoslate.com/companies/binance/">Binance</a> said it would end support for <a href="https://cryptoslate.com/coins/tron/">Tron</a> network-based USD Coin (<a href="https://cryptoslate.com/coins/usd-coin/">USDC</a>) stablecoins by April 5, according to a March 25 <a href="https://www.binance.com/en/support/announcement/binance-will-cease-support-for-deposits-and-withdrawals-of-usdc-via-the-tron-network-trc20-33df0ff0e2e94259950b5c4b1f4952f7">statement</a>, following recent news <a href="https://cryptoslate.com/circle-to-end-support-for-300-million-usdc-on-tron-amid-compliance-push/">Circle is pulling out</a> of the Tron blockchain entirely.</p>
-<p>Consequently, Binance users have less than two weeks to withdraw their assets or convert them to USDC on alternative networks. Notably, transactions involving USDC via other supported networks like <a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a> remain unaffected.</p>
-<p>Amid these developments, the Philippines&#8217; Securities and Exchange Commission (SEC) will reportedly block its citizen access to Binance within the next three months because the crypto trading platform is unregistered in the country.</p>
-<h2>Why Binance ended support for Tron-based USDC</h2>
-<p>Last month, Circle abruptly <a href="https://cryptoslate.com/circle-to-end-support-for-300-million-usdc-on-tron-amid-compliance-push/">announced</a> that it ended support for Tron-based USDC as part of &#8220;an enterprise-wide approach&#8221; involving various departments, including business organization and compliance.</p>
-<p>In response, Tron network&#8217;s founder, <a href="https://cryptoslate.com/people/justin-sun/">Justin Sun</a>, respected the company&#8217;s decision, adding that his blockchain network shares a decentralized structure akin to <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a> and Ethereum.</p>
-<p>Notably, Circle had <a href="https://cryptoslate.com/circle-denies-terror-finance-claims/">disassociated</a> from Sun last year after <a href="https://cryptoslate.com/justin-sun-tron-respond-to-un-report-on-trc-20-usdt-use-in-illicit-finance/">reports</a> from prominent international bodies like the United Nations raised concerns about the blockchain&#8217;s alleged involvement in illicit financial activities.</p>
-<p>USDC is the second-largest stablecoin by market capitalization and has grown its <a href="https://cryptoslate.com/usdc-supply-surge-as-circles-expands-native-issuance-to-celo-for-better-payments/">circulating supply rapidly</a> since the beginning of the year. Blockchain <a href="https://tronscan.io/#/token20/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8">data</a> shows $172 million worth of USDC on the Tron blockchain.</p>
-<h2>Philippines to block Binance</h2>
-<p>The Philippines SEC reportedly <a href="https://mb.com.ph/2024/3/25/sec-asks-ntc-to-block-crypto-giant-binance-in-ph">said</a>:</p>
-<blockquote><p>&#8220;The Securities and Exchange Commission (SEC) is warning the public against using online cryptocurrency exchange Binance, as it moves to have the platform blocked in the Philippines to safeguard the public from unregistered investment products.&#8221;</p></blockquote>
-<p>The financial regulator further urged tech giants Google and Meta to cease Binance-related advertising targeting Filipino users on their platforms.</p>
-<p>Last year, the Philippines SEC issued a <a href="https://cryptoslate.com/philippines-sec-says-binance-operates-without-the-necessary-license-in-its-jurisdiction/">cautionary advisory</a> against the crypto trading platform, citing its unregistered operations in the Asian country.</p>
-<p>Meanwhile, this prohibition marks the latest <a href="https://cryptoslate.com/binances-uk-subsidiary-withdraws-fca-registration-as-european-exodus-continues/">regulatory setback</a> for Binance, as it contends with heightened scrutiny across various jurisdictions, including the <a href="https://cryptoslate.com/binances-changpeng-zhao-pleads-guilty-to-money-laundering-comments-on-resignation/">United States</a> and <a href="https://cryptoslate.com/detained-binance-executive-escapes-from-nigerian-custody-amid-tax-evasion-charges/">Nigeria</a>.</p>
-<p>The post <a href="https://cryptoslate.com/binance-ends-tron-usdc-support-as-it-faces-blockade-in-the-philippines/">Binance ends Tron USDC support as it faces blockade in the Philippines</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+										<content:encoded><![CDATA[<p>SWIFT said on <a href="https://www.swift.com/news-events/news/new-collaborative-experiments-explore-more-complex-cbdc-use-cases">March 25</a> that it discovered several applications for its central bank digital currency (CBDC) solution following a successful six-month test.</p>
+<p>The company did not create its own CBDC but instead developed an interlinking solution for existing CBDCs — dubbed the SWIFT connector.</p>
+<p>The company wrote:</p>
+<blockquote><p>&#8220;At the core of our solution is the DLT and smart contract layer, which maintains consistent records of transactions.&#8221;</p></blockquote>
+<p>SWIFT broadly described the platform as having applications in digital trade, securities, and foreign trade. It also noted that future versions of the platform could be expanded to areas beyond CBDCs, such as bank-led tokenized deposit networks.</p>
+<h2>Smart contracts for TradFi</h2>
+<p>Specific use cases include trade payments, foreign exchange, delivery versus payment (DvP), and liquidity-saving mechanisms.</p>
+<p>SWIFT said its sandbox solution involves multiple digital ledger technology (DLT) networks. The company used <a href="https://cryptoslate.com/companies/hyperledger/">Hyperledger</a> Besu for the tokenization platform. It used <a href="https://cryptoslate.com/companies/r3/">R3</a> Corda and Hyperledger Fabric for buyer and seller networks and settlement instructions.</p>
+<p>SWIFT also described atomic settlements and swaps, a blockchain or DLT-based approach to settlement involving the instant and simultaneous exchange of two assets. This type of settlement is similar to delivery versus payment (DVP) in traditional financial networks.</p>
+<p>The platform also used smart contracts to automatically ensure that payments were executed once conditions were met. All four of SWIFT&#8217;s major use cases involved the use of smart contracts.</p>
+<h2>Largest test of its kind</h2>
+<p>SWIFT said its sandbox test involved 38 institutions over six months and called it &#8220;one of the largest known CBDC experiments to date&#8221; in this regard.</p>
+<p>It added that, in terms of network activity, over 125 sandbox users carried out more than 750 transactions in the process. About 60 representatives from participating financial institutions participated in 20 collaborative working group meetings to discuss use cases.</p>
+<p>The company plans to develop a production roadmap for the SWIFT connector but noted that progress will be based on &#8220;market developments and readiness.&#8221;</p>
+<p>The service could meet growing interest in CBDCs around the world. Countries with active CBDCs include China, the Bahamas, Jamaica, and Nigeria. At least 130 other countries and regions are also exploring CBDCs, with recent developments in <a href="https://cryptoslate.com/ecb-executive-pens-november-2025-rollout-for-digital-euro-cbdc/">Europe</a>, the <a href="https://cryptoslate.com/philippines-to-launch-cbdc-within-2-years-to-counter-rising-crypto-use/">Philippines</a>, and <a href="https://cryptoslate.com/spanish-central-bank-finalizes-partners-for-wholesale-cbdc-pilot/">Spain</a>.</p>
+<p>The post <a href="https://cryptoslate.com/swift-completes-second-test-phase-of-cbdc-with-smart-contract-atomic-settlement-capability/">SWIFT completes second test phase of CBDC with smart contract, atomic settlement capability</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://cryptoslate.com/binance-ends-tron-usdc-support-as-it-faces-blockade-in-the-philippines/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cryptoslate.com/swift-completes-second-test-phase-of-cbdc-with-smart-contract-atomic-settlement-capability/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/tron-network.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/tron-network.jpg" length="1200" type="image/jpg"/>
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/swift-cbdc.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/swift-cbdc.jpg" length="1200" type="image/jpg"/>
 	</item>
 		<item>
-		<title>Arbitrum community argues for memecoins over DeFi in $3.3 million DAO fund proposal</title>
-		<link>https://cryptoslate.com/arbitrum-community-argues-for-memecoins-over-defi-in-3-3-million-dao-fund-proposal/</link>
-					<comments>https://cryptoslate.com/arbitrum-community-argues-for-memecoins-over-defi-in-3-3-million-dao-fund-proposal/#respond</comments>
+		<title>Ripple execs reveal SEC seeking $2 billion in fines, say regulator has &#8216;become unhinged&#8217;</title>
+		<link>https://cryptoslate.com/ripple-ceo-reveals-sec-seeking-2-billion-in-fines-says-regulator-has-become-unhinged/</link>
+					<comments>https://cryptoslate.com/ripple-ceo-reveals-sec-seeking-2-billion-in-fines-says-regulator-has-become-unhinged/#respond</comments>
 		
-		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
-		<pubDate>Mon, 25 Mar 2024 12:35:15 +0000</pubDate>
-				<category><![CDATA[DAOs]]></category>
-		<category><![CDATA[Memecoins]]></category>
-		<category><![CDATA[Arbitrum]]></category>
-		<category><![CDATA[Memecoin]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=406721</guid>
-
-					<description><![CDATA[<p>The Arbitrum Decentralized Autonomous Organization (DAO) is contemplating a $3.3 million memecoin fund to foster a memecoin-friendly ecosystem within the Ethereum layer-2 blockchain network, according to a March 24 proposal on the platform&#8217;s discourse forum. According to the proposal: &#8220;The motivation of the memecoin fund is to help the Arbitrum ecosystem as a whole. Draw [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/arbitrum-community-argues-for-memecoins-over-defi-in-3-3-million-dao-fund-proposal/">Arbitrum community argues for memecoins over DeFi in $3.3 million DAO fund proposal</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>The <a href="https://cryptoslate.com/coins/arbitrum/">Arbitrum</a> Decentralized Autonomous Organization (DAO) is contemplating a $3.3 million <a href="https://cryptoslate.com/cryptos/meme/">memecoin</a> fund to foster a memecoin-friendly ecosystem within the <a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a> layer-2 blockchain network, according to a March 24 proposal on the platform&#8217;s discourse forum.</p>
-<p>According to the <a href="https://forum.arbitrum.foundation/t/arbitrums-memecoin-fund/22743?ref=daotimes.com">proposal</a>:</p>
-<blockquote><p>&#8220;The motivation of the memecoin fund is to help the Arbitrum ecosystem as a whole. Draw attention, new users, more chain usage, more DeFi activity, and more.&#8221;</p></blockquote>
-<p>The author wrote the proposal in <a href="https://twitter.com/0xKawz/status/1771501321595519145">response</a> to learning about new DeFi incentives, which they believe are throwing &#8220;more money at protocols so they can be farmed by whales/teams.&#8221; They further argued the DAO should &#8220;stop focusing on defi protocols&#8221; and &#8220;focus on bringing new participants that will inevitably use the defi protocols.&#8221; In a final call to action they declared,</p>
-<blockquote><p>&#8220;I just wrote a proposal on the arb forums so I don&#8217;t look like just a shit talker without any action But that&#8217;s my last attempt to kickstart the conversation. Up to arbitrum now what to do.&#8221;</p></blockquote>
-<p>Arbitrum is the largest Ethereum-based layer-2 network, controlling more than 40% of the market. The total value of assets locked on the network currently amounts to $16.84 billion, according to L2Beats <a href="https://l2beat.com/scaling/summary">data</a>.</p>
-<h2>Proposal details</h2>
-<p>The proposal outlines the governance structure of the memecoin fund, consisting of five board members and three collaborators operating via a 5/9 multi-signature scheme. Notably, members of the board and collaborators would be barred from investing in tokens supported by the fund.</p>
-<p>Furthermore, the proposal delineates criteria for selecting the memecoins, including secure contracts, widespread holder distribution, minimal whale holdings, ample liquidity, and a minimum market capitalization of $1 million.</p>
-<p>The $3.3 million funding covers various expenses, including monthly compensation for board members, collaborators, and graphic designers. This funding also includes the initial allocation of $3 million worth of ARB, which will be used to start the fund for the first six months.</p>
-<p>The proposed timeline anticipates the fund&#8217;s swift launch, followed by a six-month promotional period. However, the proposal allows for a reassessment after this period, with the Arbitrum DAO empowered to vote on increasing funding or terminating the memecoin fund entirely. In the event of dissolution, assets will be converted to the ARB token and returned to the Arbitrum DAO.</p>
-<h2>Memecoins popularity</h2>
-<p>The Arbitrum Foundation proposal comes when memecoins have become increasingly popular in<a href="https://cryptoslate.com/solana-ceo-anatoly-yakovenko-denounces-influx-of-racist-and-offensive-memecoins/"> the crypto industry.</a></p>
-<p>Over the past weeks, these digital assets have driven <a href="https://cryptoslate.com/amid-investor-craze-solana-memecoin-founder-accidentally-burns-10-million-pre-sale-tokens/">network activity</a> on the Solana blockchain and <a href="https://cryptoslate.com/coinbase-backed-base-leads-in-ethereum-layer-2-fees-amid-trading-activity-surge/">Coinbase-backed layer-2 network Base.</a></p>
-<p>Earlier this month, the Avalanche Foundation <a href="https://cryptoslate.com/avalanche-foundation-buys-self-proclaimed-completely-useless-memecoins-for-treasury/">acquired</a> five memecoins, including Coq Inu, Gecko, Kimbo, NoChill, and Tech, as part of its Culture Catalyst program to promote broader blockchain adoption.</p>
-<p>The post <a href="https://cryptoslate.com/arbitrum-community-argues-for-memecoins-over-defi-in-3-3-million-dao-fund-proposal/">Arbitrum community argues for memecoins over DeFi in $3.3 million DAO fund proposal</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://cryptoslate.com/arbitrum-community-argues-for-memecoins-over-defi-in-3-3-million-dao-fund-proposal/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/arbitrum.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/arbitrum.jpg" length="1200" type="image/jpg"/>
-	</item>
-		<item>
-		<title>Bitcoin edges closer to gold with market cap nearing 10%</title>
-		<link>https://cryptoslate.com/insights/bitcoin-edges-closer-to-gold-with-market-cap-nearing-10/</link>
-		
-		<dc:creator><![CDATA[James Van Straten]]></dc:creator>
-		<pubDate>Mon, 25 Mar 2024 11:25:48 +0000</pubDate>
-				<guid isPermaLink="false">https://cryptoslate.com/?post_type=crypto_insight&#038;p=406677</guid>
-
-					<description><![CDATA[<p>Quick Take Bitcoin, often referred to as &#8216;digital gold,&#8217; is nearing a notable juncture, as its market capitalization approaches 10% of gold&#8217;s massive $14.55 trillion market cap, currently at 9.5%, according to data from the Clarkmoody dashboard. As Bitcoin hovers at approximately $67,000, its market capitalization stands at an estimated $1.314 trillion. This comes amidst [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/insights/bitcoin-edges-closer-to-gold-with-market-cap-nearing-10/">Bitcoin edges closer to gold with market cap nearing 10%</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<h2>Quick Take</h2>
-<p>Bitcoin, often referred to as &#8216;digital gold,&#8217; is nearing a notable juncture, as its market capitalization approaches 10% of gold&#8217;s massive $14.55 trillion market cap, currently at 9.5%, according to data from the <a href="https://bitcoin.clarkmoody.com/dashboard/">Clarkmoody dashboard</a>.</p>
-<p>As Bitcoin hovers at approximately $67,000, its market capitalization stands at an estimated <a href="https://companiesmarketcap.com/assets-by-market-cap/">$1.314 trillion</a>. This comes amidst a year of impressive growth for Bitcoin, with its value increasing by 58% compared to gold&#8217;s 5%.</p>
-<figure id="attachment_406722" aria-describedby="caption-attachment-406722" style="width: 1311px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" class="wp-image-406722 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/btc-2.png" alt="BTCUSD vs Gold YTD: (Source: TradingView)" width="1311" height="741" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/btc-2.png 1311w, https://cryptoslate.com/wp-content/uploads/2024/03/btc-2-300x170.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/btc-2-1024x579.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/btc-2-768x434.png 768w" sizes="(max-width: 1311px) 100vw, 1311px" /><figcaption id="caption-attachment-406722" class="wp-caption-text">BTCUSD vs Gold YTD: (Source: TradingView)</figcaption></figure>
-<p>This shift isn&#8217;t limited to capitalization alone. Exchange Traded Funds (ETFs) revolving around the two assets are seeing <a href="https://cryptoslate.com/insights/bitcoin-etfs-attract-4-1-billion-amid-3-billion-gold-outflows/">divergent trends</a>. Gold ETFs are experiencing significant outflows, with the <a href="https://bold.report/gold/fund-flows">Bold Report</a> noting 2.7 million ounces of gold flowing out over a 90-day period. At its peak in March, gold outflows hit over 4.1 million ounces.</p>
-<p>However, it is worth noting that in the past week, Gold ETFs have experienced substantial inflows of approximately 530,537 ounces, mainly coming from SPDR Gold Shares, according to the Bold Report.</p>
-<figure id="attachment_406723" aria-describedby="caption-attachment-406723" style="width: 1486px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-406723 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/gold.png" alt="Gold ETF Inflows: (Source: bold.report)" width="1486" height="780" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/gold.png 1486w, https://cryptoslate.com/wp-content/uploads/2024/03/gold-300x157.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/gold-1024x537.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/gold-768x403.png 768w" sizes="(max-width: 1486px) 100vw, 1486px" /><figcaption id="caption-attachment-406723" class="wp-caption-text">Gold ETF Inflows: (Source: bold.report)</figcaption></figure>
-<p>Bitcoin ETFs, as reported by <a href="https://x.com/BitMEXResearch/status/1771465855680823612?s=20">BitMEX</a>, witnessed inflows amounting to roughly $11.269 billion.</p>
-<p>The post <a href="https://cryptoslate.com/insights/bitcoin-edges-closer-to-gold-with-market-cap-nearing-10/">Bitcoin edges closer to gold with market cap nearing 10%</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-10.42.28-e1711366374512.png" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-10.42.28-e1711366374512.png" length="2677" type="image/jpg"/>
-	</item>
-		<item>
-		<title>Detained Binance executive escapes from Nigerian custody amid tax evasion charges</title>
-		<link>https://cryptoslate.com/detained-binance-executive-escapes-from-nigerian-custody-amid-tax-evasion-charges/</link>
-					<comments>https://cryptoslate.com/detained-binance-executive-escapes-from-nigerian-custody-amid-tax-evasion-charges/#respond</comments>
-		
-		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
-		<pubDate>Mon, 25 Mar 2024 10:45:29 +0000</pubDate>
-				<category><![CDATA[Exchanges]]></category>
-		<category><![CDATA[binance]]></category>
-		<category><![CDATA[Nigeria]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=406676</guid>
-
-					<description><![CDATA[<p>Binance confirmed to CryptoSlate that Nadeem Anjarwalla, one of its executives detained by the Nigerian authorities, has escaped custody. A Binance spokesperson said: &#8220;We were made aware that Nadeem is no longer in Nigerian custody. Our primary focus remains on the safety of our employees and we are working collaboratively with Nigerian authorities to quickly [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/detained-binance-executive-escapes-from-nigerian-custody-amid-tax-evasion-charges/">Detained Binance executive escapes from Nigerian custody amid tax evasion charges</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/binance/">Binance</a> confirmed to <em>CryptoSlate</em> that Nadeem Anjarwalla, one of its executives detained by the Nigerian authorities, has escaped custody.</p>
-<p>A Binance spokesperson said:</p>
-<blockquote><p>&#8220;We were made aware that Nadeem is no longer in Nigerian custody. Our primary focus remains on the safety of our employees and we are working collaboratively with Nigerian authorities to quickly resolve this issue.&#8221;</p></blockquote>
-<p>Meanwhile, Tigran Gambaryan, the other detained Binance executive and US citizen, remains in custody of the authorities.</p>
-<p>Amid this development, the Nigerian authorities have <a href="https://guardian.ng/breakingnews/nigeria-files-tax-evasion-charges-against-binance/?utm_term=Autofeed&amp;echobox=twitter_post&amp;utm_medium=Social&amp;utm_source=Twitter#Echobox=1711355227">reportedly</a> levied a four-count tax evasion charge and complicity in tax fraud against Binance Holdings and the detained executives. The case is pending trial at the Federal High Court.</p>
-<h2>How Anjarwalla escaped</h2>
-<p>Anjarwalla, holding dual citizenship from Kenya and the UK, <a href="https://www.premiumtimesng.com/news/top-news/680511-exclusive-detained-binance-executive-escapes-from-custody-in-nigeria.html">reportedly</a> absconded on March 22 during Friday prayers at a mosque in Abuja.</p>
-<p>According to the report, Anjarwalla used a Kenyan passport to board a flight operated by an unnamed Middle Eastern airline.</p>
-<p>The authorities are puzzled over how Anjarwalla obtained this new passport, especially since he possessed no travel documents except his British passport when taken into custody.</p>
-<p>There are suggestions that Anjarwalla might have planned his escape, leveraging certain privileges granted to him during detention, such as access to telephones.</p>
-<p>While Nigerian authorities have not yet released an official statement, there are speculations of ongoing covert operations to ascertain his destination and facilitate his return to custody.</p>
-<h2>Binance vs Nigeria</h2>
-<p>This development further complicates the ongoing tensions between Nigeria and Binance, the largest crypto exchange by trading volume.</p>
-<p>Recently, Nigerian authorities have accused Binance of exacerbating the country&#8217;s foreign exchange challenges by allegedly manipulating rates for personal profit. This led to the exchange&#8217;s official website being <a href="https://cryptoslate.com/nigeria-reportedly-considers-10-billion-binance-fine-over-illegal-transactions-and-registration/">blocked</a> and the <a href="https://cryptoslate.com/former-us-irs-agent-among-binance-staff-detained-in-nigeria/">detention of the two senior executives who</a> attempted to address the concerns.</p>
-<p>Notably, a High Court <a href="https://cryptoslate.com/nigeria-intensifies-probe-into-binance-with-court-ordered-data-disclosure/">directed</a> Binance to provide the Economic and Financial Crimes Commission (EFCC) with data related to Nigerian users on its platform. However, the crypto trading platform has yet to comply with this directive.</p>
-<p>Meanwhile, the detention of these executives sparked <a href="https://cryptoslate.com/kenya-and-us-crypto-groups-unite-in-demand-for-release-of-detained-binance-execs-in-nigeria/">widespread condemnation</a> from international crypto organizations, particularly in the United States and Kenya, who criticized the actions of the Nigerian government.</p>
-<p>The post <a href="https://cryptoslate.com/detained-binance-executive-escapes-from-nigerian-custody-amid-tax-evasion-charges/">Detained Binance executive escapes from Nigerian custody amid tax evasion charges</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://cryptoslate.com/detained-binance-executive-escapes-from-nigerian-custody-amid-tax-evasion-charges/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/nigerian-flag.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/nigerian-flag.jpg" length="1200" type="image/jpg"/>
-	</item>
-		<item>
-		<title>Bitcoin experiences near-historic levels of net profit realization</title>
-		<link>https://cryptoslate.com/insights/bitcoin-experiences-near-historic-levels-of-net-profit-realization/</link>
-		
-		<dc:creator><![CDATA[James Van Straten]]></dc:creator>
-		<pubDate>Mon, 25 Mar 2024 10:26:56 +0000</pubDate>
-				<guid isPermaLink="false">https://cryptoslate.com/?post_type=crypto_insight&#038;p=406682</guid>
-
-					<description><![CDATA[<p>Quick Take Analyzing Bitcoin&#8217;s net profit/loss, a key metric calculated from the difference between realized gains and losses. Utilizing a seven-day moving average to sift through the noise and pinpoint a more accurate trend, Bitcoin&#8217;s net realized profit nearly matched its record high set in January 2021 &#8211; a whopping $3.8 billion. This trend was [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/insights/bitcoin-experiences-near-historic-levels-of-net-profit-realization/">Bitcoin experiences near-historic levels of net profit realization</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<h2>Quick Take</h2>
-<p>Analyzing Bitcoin&#8217;s net profit/loss, a key metric calculated from the difference between realized gains and losses. Utilizing a seven-day moving average to sift through the noise and pinpoint a more accurate trend, Bitcoin&#8217;s net realized profit nearly matched its record high set in January 2021 &#8211; a whopping $3.8 billion.</p>
-<figure id="attachment_406683" aria-describedby="caption-attachment-406683" style="width: 638px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-406683" src="https://cryptoslate.com/wp-content/uploads/2024/03/RPL.png" alt="Net Realized Profit/Loss: (Source: Glassnode)" width="638" height="359" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/RPL.png 1800w, https://cryptoslate.com/wp-content/uploads/2024/03/RPL-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/RPL-1024x576.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/RPL-768x432.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/RPL-1536x864.png 1536w" sizes="(max-width: 638px) 100vw, 638px" /><figcaption id="caption-attachment-406683" class="wp-caption-text">Net Realized Profit/Loss: (Source: Glassnode)</figcaption></figure>
-<p>This trend was particularly notable on March 14, when Bitcoin reached its zenith of roughly $73,600, witnessing approximately $3.6 billion in net realized profit.</p>
-<p>Interestingly, this cyclical trend of net realized profit-taking has been on the rise. On Feb. 26, <em>CryptoSlate</em> recorded a <a href="https://cryptoslate.com/insights/bitcoin-investors-realize-net-profits-for-128-consecutive-days/">128-day</a> net realized profit-taking. Fast forward a month, and the number surged to 157 days, surpassing the 155-day period in 2021.</p>
-<p>As of March 24, net realized profit dropped to $1.5 billion, slightly higher than pre-peak figures but less than half of the peak at $3.6 billion. This decline corresponds with <a href="https://cryptoslate.com/insights/500-million-liquidated-as-bitcoin-breaks-below-64k/">Bitcoin&#8217;s dip</a> from its peak, an event largely attributed to the record <a href="https://cryptoslate.com/insights/short-term-holders-transfer-record-4-3-billion-in-profits-to-exchanges/">profit-taking</a>.</p>
-<p>The post <a href="https://cryptoslate.com/insights/bitcoin-experiences-near-historic-levels-of-net-profit-realization/">Bitcoin experiences near-historic levels of net profit realization</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/RPL.png" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/RPL.png" length="1800" type="image/jpg"/>
-	</item>
-		<item>
-		<title>Why anonymous crypto wallets are NOT being banned in the EU</title>
-		<link>https://cryptoslate.com/anonymous-crypto-wallets-are-not-being-banned-in-the-eu/</link>
-					<comments>https://cryptoslate.com/anonymous-crypto-wallets-are-not-being-banned-in-the-eu/#respond</comments>
-		
-		<dc:creator><![CDATA[Liam 'Akiba' Wright]]></dc:creator>
-		<pubDate>Mon, 25 Mar 2024 09:31:15 +0000</pubDate>
-				<category><![CDATA[Exchanges]]></category>
+		<dc:creator><![CDATA[Mike Dalton]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 23:11:19 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Regulation]]></category>
-		<category><![CDATA[Wallets]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=406695</guid>
+		<category><![CDATA[Legal]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=406885</guid>
 
-					<description><![CDATA[<p>Recent EU anti-money laundering regulations (AMLR) have sparked a heated debate about balancing combating financial crime and preserving citizens&#8217; rights to privacy and economic freedom. The new laws, approved by most of the EU Parliament&#8217;s lead committees, have drawn criticism and support from various stakeholders. Following an article from Finbold on March 22, originally titled [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/anonymous-crypto-wallets-are-not-being-banned-in-the-eu/">Why anonymous crypto wallets are NOT being banned in the EU</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+					<description><![CDATA[<p>Ripple CEO Brad Garlinghouse and CLO Stuart Alderoty have revealed that the SEC is seeking a staggering $2 billion in fines and penalties. According to the company&#8217;s executives, the fines have been proposed in a court filing that will be unsealed on March 26. &#8216;Unhinged&#8217; SEC Garlinghouse said the SEC is seeking heavy penalties despite [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/ripple-ceo-reveals-sec-seeking-2-billion-in-fines-says-regulator-has-become-unhinged/">Ripple execs reveal SEC seeking $2 billion in fines, say regulator has &#8216;become unhinged&#8217;</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>Recent EU anti-money laundering regulations (AMLR) have sparked a heated debate about balancing combating financial crime and preserving citizens&#8217; rights to privacy and economic freedom. The new laws, <a href="https://www.europarl.europa.eu/meetdocs/2014_2019/plmrep/COMMITTEES/CJ12/AG/2024/03-19/1297044EN.pdf">approved by most</a> of the EU Parliament&#8217;s lead committees, have drawn criticism and support from various stakeholders.</p>
-<p>Following an article from Finbold on March 22, <a href="https://twitter.com/paddi_hansen/status/1771929859704389954/photo/2">originally titled</a> &#8220;Anonymous crypto wallets now illegal in the EU,&#8221; a flurry of <a href="https://twitter.com/freddienew/status/1771492593676714091?t=wxOs6dz_yXlLV9YPYuRzvA">activity</a> occurred over the weekend on social media. The article used a <a href="https://www.patrick-breyer.de/en/eu-cash-cap-and-ban-on-anonymous-crypto-payments-results-in-financial-paternalism/">blog post</a> by Patrick Breyer, a Member of the European Parliament (MEP), as the core source and took a scathing view of the restrictive new legislation. The article&#8217;s title has since been updated to &#8220;EU bans anonymous crypto payments to hosted wallets&#8221; following debate on whether the article&#8217;s focus was overly alarmist.</p>
-<h2>Why anonymous crypto wallets were thought to be banned</h2>
-<p>Breyer&#8217;s original post highlighted that anonymous cash payments over €3,000 in commercial transactions will be banned under the new regulations, and cash payments over €10,000 will be prohibited entirely in business transactions. Additionally, anonymous crypto payments to hosted wallets will be banned without a minimum threshold.</p>
-<p>Breyer, a self-proclaimed digital freedom fighter from the Pirate Party, voiced <a href="https://www.patrick-breyer.de/en/eu-cash-cap-and-ban-on-anonymous-crypto-payments-results-in-financial-paternalism/">strong opposition to the new laws</a> in his post. He argues that prohibiting anonymous payments would have minimal effects on crime while depriving innocent citizens of their financial freedom and privacy. Breyer points out that dissidents like the late Alexei Navalny and his wife and organizations like Wikileaks rely on anonymous donations, often in virtual currencies, to fund their activities.</p>
-<p>Furthermore, Breyer expresses concern about the potential consequences of the EU&#8217;s &#8220;war on cash.&#8221; He warns that the creeping abolition of cash could lead to negative interest rates and increased dependence on banks, ultimately resulting in financial disenfranchisement. Instead, he calls for ways to bring the best attributes of cash into the digital future, allowing citizens to pay and donate online without their personal transactions being recorded.</p>
-<h2>Payments to anonymous wallets are banned from exchanges</h2>
-<p>However, Patrick Hansen, the EU Director of Strategy for Circle, has <a href="https://twitter.com/paddi_hansen/thread/1771929859704389954">sought to clarify</a> what he believes to be misinformation surrounding the AMLR. Hansen, a former MEP staff member, reported regularly on EU legislation before joining Circle and has shown a comprehensive understanding of policy. Hansen emphasizes that self-custody wallets and payments to/from these wallets are not banned under the new regulations. P2P transfers are also explicitly excluded from the AMLR.</p>
-<p>However, Hansen acknowledges that paying merchants with crypto using a non-KYC&#8217;d (Know Your Customer) self-custody wallet will become more difficult or banned, depending on the merchant&#8217;s setup. He notes that the AMLR applies only to &#8216;obliged entities&#8217; and service providers, not providers of hardware, software, or self-custody wallets that don&#8217;t have access to or control over the crypto-assets.</p>
-<p>Under the AMLR, crypto-asset service providers (CASPs) such as exchanges will be required to follow standard KYC/AML procedures and be prohibited from providing anonymous accounts or accounts for privacy coins. Hansen argues that this aligns with existing practices and is nothing new in the industry.</p>
-<p>For transfers between CASPs and self-custody wallets, the AMLR mandates &#8220;risk-mitigating&#8221; measures, such as blockchain analytics or collecting additional data about the origin/destination of the crypto-assets. This aligns with the Transfer of Funds Regulation (TFR), the EU implementation of the Financial Action Task Force (FATF) travel rule.</p>
-<h2>Regulatory debate on self-custodied crypto wallets in European Union continues</h2>
-<p>Ultimately, the debate surrounding the EU&#8217;s new anti-money laundering regulations highlights the ongoing tension between combating financial crime and preserving citizens&#8217; rights to privacy and economic freedom.</p>
-<p>While critics like Patrick Breyer see the regulations as a significant threat to these rights, others like Patrick Hansen believe that the rules largely align with existing practices and that some concerns may be overblown. As the regulations come into effect, it will be crucial to monitor their impact on the fight against money laundering and the rights of EU citizens.</p>
-<p>It is clear that the new regulations are exceedingly strict, and there is a debate as to how requiring wallets to be KYC&#8217;d will stop illicit activity. Criminals illegally sending crypto to anonymous wallets may now simply be breaking <a href="https://x.com/akibablade/status/1771488393706213662?s=20">two laws as opposed to one</a>, while private citizens may potentially be required to KYC in order to pay for a coffee with a <a href="https://cryptoslate.com/bitcoin-lightning-network-experiences-capacity-and-channel-surge/">Lightning Wallet</a>.</p>
-<p>Still, a critical fact remains: holding crypto in an anonymous, non-KYC wallet will not be illegal in the EU. There will just be severe limitations on what can be done with it without being doxed. When the <a href="https://cryptoslate.com/ecb-executive-pens-november-2025-rollout-for-digital-euro-cbdc/">latest plans for the digital Euro CBDC</a> are considered, restrictions on money transfers may become even stricter.</p>
-<p>The post <a href="https://cryptoslate.com/anonymous-crypto-wallets-are-not-being-banned-in-the-eu/">Why anonymous crypto wallets are NOT being banned in the EU</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/ripple/">Ripple</a> CEO <a href="https://cryptoslate.com/people/brad-garlinghouse/">Brad Garlinghouse</a> and CLO Stuart Alderoty have revealed that the SEC is seeking a staggering <a href="https://twitter.com/s_alderoty/status/1772339308151849153">$2 billion</a> in fines and penalties.</p>
+<p>According to the company&#8217;s executives, the fines have been proposed in a <a href="https://twitter.com/bgarlinghouse/status/1772340438671966496">court filing</a> that will be unsealed on March 26.</p>
+<h2>&#8216;Unhinged&#8217; SEC</h2>
+<p>Garlinghouse said the SEC is seeking heavy penalties despite its claims involving &#8220;no allegations &#8230; of fraud or recklessness.&#8221; He added that there is &#8220;absolutely no precedent&#8221; for the request and asserted that Ripple&#8217;s response will &#8220;expose&#8221; the SEC.</p>
+<p>In <a href="https://twitter.com/bgarlinghouse/status/1772340430597931132">another tweet</a>, Garlinghouse condemned the SEC by referencing an earlier decision that found the SEC lacked &#8220;<span class="css-1qaijid r-bcqeeo r-qvutc0 r-poiln3">faithful allegiance to the law</span>&#8221; in its treatment of Ripple.</p>
+<p><a href="https://cryptoslate.com/people/chris-larsen/">Chris Larsen</a>, co-founder and executive chairman of Ripple, also commented, <a href="https://x.com/chrislarsensf/status/1772343294237847623">writing:</a></p>
+<blockquote><p><span class="css-1qaijid r-bcqeeo r-qvutc0 r-poiln3">&#8220;Gensler’s SEC has become unhinged.&#8221;</span></p></blockquote>
+<p>Larsen added that the watchdog &#8220;thinks it&#8217;s above the law&#8221; and argued that this mentality has caused the US to lag behind other nations. He emphasized that the regulator&#8217;s failings &#8220;should not &#8230; go unnoticed in an election year.&#8221;</p>
+<p>A Republican victory in this year&#8217;s US elections could lead to the SEC being restructured, possibly replacing current SEC chair <a href="https://cryptoslate.com/people/gary-gensler/">Gary Gensler</a>.</p>
+<p>Meanwhile, Alderoty separately asserted the SEC is &#8220;bent on wanting to punish and intimidate Ripple.&#8221; He added that the regulator &#8220;trades in statements that are false, mischaracterized, and designed to mislead.&#8221;</p>
+<h2>Institutional sales</h2>
+<p>Earlier rumors suggested that Ripple could face a fine above $2 billion based on institutional sales of XRP, as past rulings only found that these offerings constituted securities sales.</p>
+<p>On Feb. 26, Ashley Prosper <a href="https://twitter.com/AshleyPROSPER1/status/1761792125761454387">identified</a> 4.9 billion XRP of institutional sales in a court filing, leading to widespread predictions of $2.6 billion in fines based on a $0.55 token price.</p>
+<p>However, as of March 25, XRP is priced somewhat higher at $0.66, putting the value of the same 4.9 billion XRP at $3.2 billion. This means that the SEC&#8217;s intended fine is either not based on the current XRP price or is less than the total institutional sale amount.</p>
+<p>Programmatic sales of XRP, including on-exchange sales, did not constitute securities. The SEC also dropped allegations that Garlinghouse and Larsen&#8217;s personal XRP sales were securities. As such, those sale amounts likely did not contribute to the SEC&#8217;s currently requested fine.</p>
+<p>The post <a href="https://cryptoslate.com/ripple-ceo-reveals-sec-seeking-2-billion-in-fines-says-regulator-has-become-unhinged/">Ripple execs reveal SEC seeking $2 billion in fines, say regulator has &#8216;become unhinged&#8217;</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://cryptoslate.com/anonymous-crypto-wallets-are-not-being-banned-in-the-eu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cryptoslate.com/ripple-ceo-reveals-sec-seeking-2-billion-in-fines-says-regulator-has-become-unhinged/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/eu-crypto-wallet.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/eu-crypto-wallet.jpg" length="1200" type="image/jpg"/>
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/xrp-ripple-1.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/xrp-ripple-1.jpg" length="1200" type="image/jpg"/>
 	</item>
 		<item>
-		<title>Bitcoin ETFs become hottest product in BlackRock, Fidelity&#8217;s repertoire of funds</title>
-		<link>https://cryptoslate.com/bitcoin-etfs-become-hottest-product-in-blackrock-fidelitys-repertoire-of-funds/</link>
-					<comments>https://cryptoslate.com/bitcoin-etfs-become-hottest-product-in-blackrock-fidelitys-repertoire-of-funds/#respond</comments>
+		<title>BlackRock&#8217;s Bitcoin ETF achieves legendary status after hitting second-largest inflows for 2024</title>
+		<link>https://cryptoslate.com/insights/blackrocks-ibit-emerges-as-us-etf-with-second-largest-inflows-for-2024/</link>
+		
+		<dc:creator><![CDATA[James Van Straten]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 22:30:22 +0000</pubDate>
+				<guid isPermaLink="false">https://cryptoslate.com/?post_type=crypto_insight&#038;p=406787</guid>
+
+					<description><![CDATA[<p>Quick Take VettaFI&#8217;s data showcases the impressive traction of BlackRock&#8217;s IBIT, marking it as the US ETF with the second-largest inflows year to date. IBIT only trails behind the Vanguard S&#38;P 500 ETF, which has garnered inflows of $21.6 billion year-to-date (YTD), positioning it at the forefront. Notably, despite IBIT&#8217;s trading activity spanning merely 50 [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/insights/blackrocks-ibit-emerges-as-us-etf-with-second-largest-inflows-for-2024/">BlackRock&#8217;s Bitcoin ETF achieves legendary status after hitting second-largest inflows for 2024</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>Quick Take</h2>
+<p><a href="https://etfdb.com/screener/#tab=fund-flows&amp;sort_by=ytd_ff&amp;sort_direction=desc">VettaFI&#8217;s</a> data showcases the impressive traction of BlackRock&#8217;s IBIT, marking it as the US ETF with the second-largest inflows year to date.</p>
+<p>IBIT only trails behind the Vanguard S&amp;P 500 ETF, which has garnered inflows of $21.6 billion year-to-date (YTD), positioning it at the forefront. Notably, despite IBIT&#8217;s trading activity spanning merely 50 days, it achieved the ninth-highest inflow in a one-year review.</p>
+<p>On a 4-week analysis, IBIT again ranks second with inflows amounting to $7.3 billion, this time following the SPDR S&amp;P 500 ETF Trust, which leads with $21.4 billion, according to VettaFI.</p>
+<table>
+<tbody>
+<thead>
+<tr>
+<th>Symbol</th>
+<th>ETF Name</th>
+<th>1 Week ($MM)</th>
+<th>4 Week ($MM)</th>
+<th>YTD ($MM)</th>
+<th>1 Year ($MM)</th>
+<th>3 Year ($MM)</th>
+<th>5 Year ($MM)</th>
+</tr>
+</thead>
+<tr>
+<td>VOO</td>
+<td>Vanguard S&amp;P 500 ETF</td>
+<td>-2,835.75</td>
+<td>7,006.49</td>
+<td>21,640.69</td>
+<td>60,597.88</td>
+<td>134,882.64</td>
+<td>179,565.43</td>
+</tr>
+<tr>
+<td>IBIT</td>
+<td>iShares Bitcoin Trust Registered</td>
+<td>715.82</td>
+<td>7,348.23</td>
+<td>13,089.01</td>
+<td>13,089.01</td>
+<td>13,089.01</td>
+<td>13,089.01</td>
+</tr>
+<tr>
+<td>VTI</td>
+<td>Vanguard Total Stock Market ETF</td>
+<td>-649.13</td>
+<td>3,251.86</td>
+<td>9,343.79</td>
+<td>27,160.83</td>
+<td>91,957.24</td>
+<td>145,947.28</td>
+</tr>
+<tr>
+<td>FBTC</td>
+<td>Fidelity Wise Origin Bitcoin Fund</td>
+<td>213.98</td>
+<td>2,877.62</td>
+<td>7,339.88</td>
+<td>7,339.88</td>
+<td>7,339.88</td>
+<td>7,339.88</td>
+</tr>
+<tr>
+<td>QQQ</td>
+<td>Invesco QQQ Trust Series I</td>
+<td>3,045.09</td>
+<td>4,108.80</td>
+<td>7,136.59</td>
+<td>13,984.59</td>
+<td>42,035.26</td>
+<td>57,387.51</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center; font-size: small;">Source: VettaFI</p>
+<p><em>CryptoSlate</em> highlighted that IBIT experienced <a href="https://cryptoslate.com/bitcoin-etfs-become-hottest-product-in-blackrock-fidelitys-repertoire-of-funds/">49 days of continuous inflows</a>, a streak that <a href="https://x.com/EricBalchunas/status/1772242404034167025?s=20">Eric Balchunas</a>, Senior ETF Analyst for Bloomberg, has now updated to 50 consecutive days. Fidelity&#8217;s FBTC and BlackRock&#8217;s IBIT have set a record with the <a href="https://cryptoslate.com/bitcoin-etfs-become-hottest-product-in-blackrock-fidelitys-repertoire-of-funds/">longest active streak</a> of daily inflows.</p>
+<p>Balchunas further notes that despite its milestone, there&#8217;s still a significant gap to surpass the all-time record of 160 days of inflows set by JEPI.</p>
+<figure style="width: 536px" class="wp-caption alignnone"><img fetchpriority="high" decoding="async" src="https://pbs.twimg.com/media/GJhEhx9W8AAO7SR?format=jpg&amp;name=large" alt="Longest Active Daily Inflows Streak: (Source: Eric Balchunas, Bloomberg Intelligence)" width="536" height="443" /><figcaption class="wp-caption-text">Longest Active Daily Inflows Streak: (Source: Eric Balchunas, Bloomberg Intelligence)</figcaption></figure>
+<p>The post <a href="https://cryptoslate.com/insights/blackrocks-ibit-emerges-as-us-etf-with-second-largest-inflows-for-2024/">BlackRock&#8217;s Bitcoin ETF achieves legendary status after hitting second-largest inflows for 2024</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/blackrock-bitcoin-etf-1.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/blackrock-bitcoin-etf-1.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>DeFi Education Fund files lawsuit to exempt airdrops from SEC’s securities classification</title>
+		<link>https://cryptoslate.com/defi-education-fund-files-lawsuit-to-exempt-airdrops-from-secs-securities-classification/</link>
+					<comments>https://cryptoslate.com/defi-education-fund-files-lawsuit-to-exempt-airdrops-from-secs-securities-classification/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 22:00:30 +0000</pubDate>
+				<category><![CDATA[Legal]]></category>
+		<category><![CDATA[airdrop]]></category>
+		<category><![CDATA[Beba]]></category>
+		<category><![CDATA[SEC]]></category>
+		<category><![CDATA[The DeFi Education Fund]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=406823</guid>
+
+					<description><![CDATA[<p>The DeFi Education Fund, a crypto advocacy group, and Texas-based apparel company Beba LLC have jointly initiated legal proceedings against the US SEC to clarify the status of airdrops as non-securities offerings. The March 25 court filing emphasized the need to halt the SEC&#8217;s regulatory actions, which the two entities perceive as an overreach into [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/defi-education-fund-files-lawsuit-to-exempt-airdrops-from-secs-securities-classification/">DeFi Education Fund files lawsuit to exempt airdrops from SEC’s securities classification</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The DeFi Education Fund, a crypto advocacy group, and Texas-based apparel company Beba LLC have jointly initiated legal proceedings against the US SEC to clarify the status of <a href="https://cryptoslate.com/glossary/airdrop/">airdrops</a> as non-securities offerings.</p>
+<p>The March 25 <a href="https://www.defieducationfund.org/_files/ugd/84ba66_3f7a8f2ca6614d7381122cb1beeed4a8.pdf">court filing</a> emphasized the need to halt the <a href="https://cryptoslate.com/ripple-must-provide-financial-statements-at-secs-request-judge-rules/">SEC&#8217;s regulatory actions</a>, which the two entities perceive as an overreach into the emerging industry.</p>
+<p><a href="https://twitter.com/fund_defi/status/1772277652742652359">According </a>to the DeFi Education Fund:</p>
+<blockquote><p>&#8220;The crypto industry is facing an existential threat from an overzealous regulator who is abusing its power by targeting our industry through unending aggressive enforcement actions. It’s time for the court to put an end to it.&#8221;</p></blockquote>
+<p>Consequently, the lawsuit seeks a declaration from the Court that airdropped tokens do not qualify as securities. Additionally, it aims to prevent the SEC from pursuing further enforcement actions within the sector.</p>
+<h2>&#8216;Airdrops are free&#8217;</h2>
+<p>DeFi Education Fund Chief Legal Officer Amanda Tuminelli disclosed Beba&#8217;s apprehension regarding potential <a href="https://cryptoslate.com/sec-issues-new-investor-warning-over-crypto-assets/">SEC scrutiny</a> over its BEBA token airdrop.</p>
+<p>To address this concern, Beba took legal action against the SEC to establish that the BEBA token airdrop does not constitute a security. The company asserts several grounds for this, notably the absence of monetary investment, lack of shared enterprise, absence of a reasonable expectation of profit, and absence of a contractual arrangement or scheme.</p>
+<p>The lawsuit stated:</p>
+<blockquote><p>&#8220;The BEBA token airdrops are free, there is no common enterprise between Beba and token recipients, and there is no reasonable expectation of profits based on the efforts of others.&#8221;</p></blockquote>
+<h2>APA violations</h2>
+<p>Furthermore, the lawsuit contends that the <a href="https://cryptoslate.com/people/gary-gensler/">Gary Gensler</a>-led Commission breached the Administrative Procedure Act (APA) by adopting a policy that asserted that almost all digital assets constitute investment contracts and most digital asset transactions qualify as securities transactions.</p>
+<p>According to Tuminelli, this approach is a <a href="https://cryptoslate.com/friend-tech-rebrands-token-to-keys-amid-speculation-of-sec-scrutiny/">consistent pattern</a> observed in the SEC&#8217;s enforcement actions against actors in the emerging industry. She noted that the SEC <a href="https://cryptoslate.com/sec-denies-coinbase-petition-for-new-crypto-asset-rules/">has failed to provide detailed guidelines</a> for the sector because &#8220;they know they will face a massive backlash&#8221; and &#8220;they know Congress hasn&#8217;t given them the authority to cast such a wide net.&#8221;</p>
+<p>She added:</p>
+<blockquote><p>&#8220;The SEC’s enforcement activities, whether they be subpoenas, secret investigations, or complaints filed in federal court, are unlawful and pose an existential threat to our future. They have to be stopped.&#8221;</p></blockquote>
+<p>The post <a href="https://cryptoslate.com/defi-education-fund-files-lawsuit-to-exempt-airdrops-from-secs-securities-classification/">DeFi Education Fund files lawsuit to exempt airdrops from SEC’s securities classification</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/defi-education-fund-files-lawsuit-to-exempt-airdrops-from-secs-securities-classification/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/sec-lawsuit.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/sec-lawsuit.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>SEC begins multi-billion dollar fraud trial against Terraform Labs, Do Kwon</title>
+		<link>https://cryptoslate.com/sec-begins-multi-billion-dollar-fraud-trial-against-terraform-labs-do-kwon/</link>
+					<comments>https://cryptoslate.com/sec-begins-multi-billion-dollar-fraud-trial-against-terraform-labs-do-kwon/#respond</comments>
 		
 		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
-		<pubDate>Sun, 24 Mar 2024 18:44:07 +0000</pubDate>
-				<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[ETF]]></category>
+		<pubDate>Mon, 25 Mar 2024 21:13:25 +0000</pubDate>
+				<category><![CDATA[Bankruptcy]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Legal]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=406869</guid>
+
+					<description><![CDATA[<p>In a dramatic opening to a much-anticipated trial, the US SEC cast Terraform Labs and its co-founder, Do Kwon, as central figures in a vast financial deception that left investors nearly destitute following its collapse, Reuters reported on March 26. The trial, unfolding in the US District Court for the Southern District of New York, [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/sec-begins-multi-billion-dollar-fraud-trial-against-terraform-labs-do-kwon/">SEC begins multi-billion dollar fraud trial against Terraform Labs, Do Kwon</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In a dramatic opening to a much-anticipated trial, the US SEC cast <a href="https://cryptoslate.com/companies/terraform-labs/">Terraform Labs</a> and its co-founder, <a href="https://cryptoslate.com/people/do-kwon/">Do Kwon</a>, as central figures in a vast financial deception that left investors nearly destitute following its collapse, Reuters <a href="https://www.reuters.com/technology/terraform-labs-civil-fraud-trial-set-begin-new-york-2024-03-25/">reported</a> on March 26.</p>
+<p>The trial, unfolding in the US District Court for the Southern District of New York, marks a significant moment in closing the chapter on one of the biggest black swan events in the crypto industry.</p>
+<p>The SEC accused Terraform Labs and Kwon of conducting a multi-billion dollar crypto asset securities fraud, leading to the lawsuit filed in February 2023.</p>
+<h2>House of cards</h2>
+<p>The SEC&#8217;s legal team, led by attorney Devon Staren, did not mince words, describing Terra as a &#8220;house of cards&#8221; that inevitably toppled, erasing vast amounts of investor capital.</p>
+<p>Central to the SEC&#8217;s allegations is the claim that Terraform Labs and Kwon deliberately misled investors regarding the <a href="https://cryptoslate.com/terra-ustc-surges-66-following-approval-to-re-peg-to-1/">stability</a> of Terra USD (<a href="https://cryptoslate.com/coins/terrausd/">USTC</a>).</p>
+<p>The algorithmic stablecoin <a href="https://cryptoslate.com/terra-co-founder-daniel-shin-blames-ecosystem-failure-on-do-kwons-management/">dramatically failed</a> to maintain its peg to the US dollar, resulting in billions of dollars being wiped from the network within hours. This failure is cited as a catalyst for broader turbulence in the crypto market during 2022, leading to a cascade of bankruptcies among various crypto enterprises.</p>
+<p>Originally slated to begin in January, the legal saga was <a href="https://cryptoslate.com/sec-agrees-to-delay-terra-trial-so-that-do-kwon-can-attend-proceedings/">postponed</a> to March, partially due to expectations that Kwon would attend in person to mount a defense. However, Kwon remains in Montenegro after the country overturned a previous ruling to extradite him to the US.</p>
+<p>In a December 2023 development, Judge Jed Rakoff issued a summary judgment favoring the SEC&#8217;s stance on Terra&#8217;s dealings with unregistered securities while siding with Kwon and the platform on charges related to the offer and sale of security-based swaps.</p>
+<h2>Terra&#8217;s side of the story</h2>
+<p>In a poignant message released just before the trial, Terraform Labs broke its recent silence, expressing the gravity of the situation.</p>
+<p>CEO Chris Amani <a href="https://twitter.com/fleece_cannon/status/1772312524559364498?s=46&amp;t=aw6ZR-6aD050XLPVXY8AQA">acknowledged</a> the intense preparation that preceded the trial and the company&#8217;s strategic decision to limit public communication during the proceedings.</p>
+<p>Amani wrote:</p>
+<blockquote><p>&#8220;The next couple of weeks will determine the future of TFL. There have been a lot of allegations and this is our chance to finally tell our side of the story.&#8221;</p></blockquote>
+<p>The statement urged followers and observers to keep an open mind and assess the facts as they unfold in court.</p>
+<p>Gratitude was a recurring theme in the message, with heartfelt thanks directed toward the Terra community, which has stood by the company through tumultuous times. The acknowledgment extended to developers who continued to build on the Terra platform and partners who maintained their collaborations, illustrating a steadfast support network.</p>
+<p>The post <a href="https://cryptoslate.com/sec-begins-multi-billion-dollar-fraud-trial-against-terraform-labs-do-kwon/">SEC begins multi-billion dollar fraud trial against Terraform Labs, Do Kwon</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/sec-begins-multi-billion-dollar-fraud-trial-against-terraform-labs-do-kwon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2023/01/do-kwon-terra-labs.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2023/01/do-kwon-terra-labs.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>London Stock Exchange sets May 28 launch date for Bitcoin, Ethereum ETNs</title>
+		<link>https://cryptoslate.com/london-stock-exchange-sets-may-28-launch-date-for-crypto-etns/</link>
+					<comments>https://cryptoslate.com/london-stock-exchange-sets-may-28-launch-date-for-crypto-etns/#respond</comments>
+		
+		<dc:creator><![CDATA[Mike Dalton]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 19:56:17 +0000</pubDate>
+				<category><![CDATA[ETF]]></category>
+		<category><![CDATA[Exchanges]]></category>
 		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Trading]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=406643</guid>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=406844</guid>
 
-					<description><![CDATA[<p>BlackRock and Fidelity Investment&#8217;s spot Bitcoin ETFs — IBIT and FBTC — have become the most popular funds the two asset managers currently offer in less than 50 days of trading, based on data shared by Bloomberg ETF analyst Eric Balchunas. IBIT and FBTC were launched on Jan. 11 and have consistently posted record-setting numbers [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/bitcoin-etfs-become-hottest-product-in-blackrock-fidelitys-repertoire-of-funds/">Bitcoin ETFs become hottest product in BlackRock, Fidelity&#8217;s repertoire of funds</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+					<description><![CDATA[<p>The London Stock Exchange said in a March 25 notice that it plans for Bitcoin (BTC) and Ethereum (ETH) crypto exchange-traded notes (ETNs) to begin trading on May 28. The latest announcement also details other key dates. The London Stock Exchange will begin accepting applications for admission from issuers on April 8. The FCA must [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/london-stock-exchange-sets-may-28-launch-date-for-crypto-etns/">London Stock Exchange sets May 28 launch date for Bitcoin, Ethereum ETNs</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/blackrock/">BlackRock</a> and <a href="https://cryptoslate.com/companies/fidelity-investments/">Fidelity Investment&#8217;s</a> spot Bitcoin ETFs — <a href="https://cryptoslate.com/products/category/bitcoin-etf/">IBIT</a> and <a href="https://cryptoslate.com/products/fidelity-wise-origin-bitcoin-trust/">FBTC</a> — have become the most popular funds the two asset managers currently offer in less than 50 days of trading, based on <a href="https://twitter.com/ericbalchunas/status/1771185154221850921?s=46&amp;t=wxOs6dz_yXlLV9YPYuRzvA">data</a> shared by Bloomberg ETF analyst Eric Balchunas.</p>
-<p>IBIT and FBTC were launched on Jan. 11 and have consistently posted <a href="https://cryptoslate.com/spot-bitcoin-etfs-record-10-billion-in-daily-volume-breaking-previous-record/">record-setting numbers</a> and generally outperformed the wider ETF market. The strong performance is evidence of Bitcoin&#8217;s <a href="https://cryptoslate.com/blackrock-sees-bitcoin-as-integral-part-of-financial-system-little-interest-in-other-crypto/">growing popularity</a> in traditional financial circles.</p>
-<h2>49-day streak</h2>
-<p>According to the data, IBIT made up more than half of BlackRock&#8217;s net inflows for the year despite the company&#8217;s large portfolio of 420 ETFs. The <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a> fund has attracted <a href="https://cryptoslate.com/blackrocks-spot-bitcoin-etf-surpasses-10b-in-aum-faster-than-any-other-to-date/">double the capital</a> of every other ETF offered by the company since its launch in January.</p>
-<p>Similarly, FBTC accounted for 70% of Fidelity&#8217;s YTD flows, attracting 5x more capital than any other ETF in the company&#8217;s lineup. These figures highlight the significant role these ETFs play in attracting investor capital.</p>
-<p>Balchunas also highlighted that the two <a href="https://cryptoslate.com/products/category/bitcoin-etf/">spot Bitcoin ETFs</a> have also achieved a notable milestone by securing continuous cash inflows for 49 consecutive days, a rare achievement in the ETF market.</p>
-<p>This achievement places them fourth among active streaks, trailing only behind $COWZ and $CALF — which have seen over 100 days of continuous inflows, and $SDVY.</p>
-<p>The sustained inflows into IBIT and FBTC indicate growing investor interest and confidence in these ETFs. Such consistent performance is exceptional, with only 30 other ETFs ever having achieved a similar streak of inflows and none from their launch like the two funds have.</p>
-<h2>ETF hodlers?</h2>
-<p>Recent discussions have focused on ETF investor behavior, especially during market dips. Despite perceptions of ETF investors withdrawing during downturns, the actual movements in the market present a different picture.</p>
-<p>Balchunas challenged recent assertions in the community that ETF investors lack sophistication or resilience. He noted that the Newborn Nine collectively received about <a href="https://twitter.com/EricBalchunas/status/1771248222444437764">$1.2 billion</a> over the past five days, even as Bitcoin prices fell by 8%.</p>
-<p>This inflow contradicts the idea of mass withdrawals from Bitcoin-related ETFs and indicates strategic investment choices by ETF investors.</p>
-<p>Balchunas further clarified that while $GBTC experienced outflows, these actions primarily involved strategic exchanges by Genesis and did not signify a broader lack of confidence among ETF investors.</p>
-<p>In fact, these movements were largely neutral in impact. He also pointed to historical data supporting the resilience of ETF investors. In 2008, ETFs attracted $167 billion in inflows when the S&amp;P 500 was down by 35%.</p>
-<p>Similarly, in 2021, despite an 18% drop in the S&amp;P 500, ETFs drew another $600 billion. These events highlight the strategic patience and confidence of ETF investors across various market conditions.</p>
-<p>The post <a href="https://cryptoslate.com/bitcoin-etfs-become-hottest-product-in-blackrock-fidelitys-repertoire-of-funds/">Bitcoin ETFs become hottest product in BlackRock, Fidelity&#8217;s repertoire of funds</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+										<content:encoded><![CDATA[<p>The London Stock Exchange said in a <a href="https://docs.londonstockexchange.com/sites/default/files/documents/n0324.pdf">March 25</a> notice that it plans for Bitcoin (<a href="https://cryptoslate.com/coins/bitcoin/">BTC</a>) and Ethereum (<a href="https://cryptoslate.com/coins/ethereum/">ETH</a>) crypto exchange-traded notes (ETNs) to begin trading on May 28.</p>
+<p>The latest announcement also details other key dates. The London Stock Exchange will begin accepting applications for admission from issuers on April 8. The FCA must also decide on base prospectuses that intend to launch on the first day of trading by May 22.</p>
+<p>Issuers aiming for the May 28 launch date must submit a letter detailing how their ETN satisfies all requirements in a factsheet plus a base prospectus draft by April 15.</p>
+<p>The exchange said its chosen launch date would allow the maximum number of issuers to be present on the first trading day. That date will give applicants time to prepare relevant documentation and allow the exchange to evaluate whether issuers satisfy requirements.</p>
+<p>The launch date depends on the Financial Conduct Authority (FCA) approving base prospectuses from applicants, as the authority must list crypto ETNs on its Main Market and Official List.</p>
+<h2>Earlier expectations</h2>
+<p>On <a href="https://cryptoslate.com/bitcoin-and-ethereum-investment-options-to-debut-on-london-stock-exchange/">March 11</a>, the London Stock Exchange said it would accept applications in the second quarter of 2024 but did not provide a precise date.</p>
+<p>It also provided a factsheet detailing various requirements, including a block on retail trading. Relevant funds must also be non-leveraged and physically backed by Bitcoin or Ethereum, held at least 90% in cold storage or an equivalent method, and kept with a qualified custodian.</p>
+<p>Independent from the London Stock Exchange, the FCA said on <a href="https://www.fca.org.uk/news/statements/fca-updates-position-cryptoasset-exchange-traded-notes-professional-investors">March 20</a> that it would not object to requests to create crypto ETNs from Recognised Investment Exchanges.</p>
+<p>The UK&#8217;s apparent willingness to permit crypto ETNs is notable as these vehicles provide professional investors in the country with new ways to invest in crypto.</p>
+<p>Though crypto ETNs are similar to exchange-traded funds (ETF) in that they track the price of the underlying crypto, they otherwise differ in many aspects of their design.</p>
+<p>The post <a href="https://cryptoslate.com/london-stock-exchange-sets-may-28-launch-date-for-crypto-etns/">London Stock Exchange sets May 28 launch date for Bitcoin, Ethereum ETNs</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://cryptoslate.com/bitcoin-etfs-become-hottest-product-in-blackrock-fidelitys-repertoire-of-funds/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cryptoslate.com/london-stock-exchange-sets-may-28-launch-date-for-crypto-etns/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-etf.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-etf.jpg" length="1200" type="image/jpg"/>
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/london-bitcoin.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/london-bitcoin.jpg" length="1456" type="image/jpg"/>
 	</item>
 		<item>
-		<title>The seven deadly sins of crypto privacy</title>
-		<link>https://cryptoslate.com/the-seven-deadly-sins-of-crypto-privacy/</link>
-					<comments>https://cryptoslate.com/the-seven-deadly-sins-of-crypto-privacy/#respond</comments>
+		<title>Canary network testing proposed after AMM launch issues on Ripple&#8217;s XRP Ledger</title>
+		<link>https://cryptoslate.com/canary-network-testing-proposed-after-amm-launch-issues-on-ripples-xrp-ledger/</link>
+					<comments>https://cryptoslate.com/canary-network-testing-proposed-after-amm-launch-issues-on-ripples-xrp-ledger/#respond</comments>
 		
-		<dc:creator><![CDATA[Bill Liang]]></dc:creator>
-		<pubDate>Sun, 24 Mar 2024 14:10:47 +0000</pubDate>
-				<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Guest Post]]></category>
-		<category><![CDATA[Op-Ed]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=404794</guid>
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 17:00:07 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[AMM Pools]]></category>
+		<category><![CDATA[Canary Network]]></category>
+		<category><![CDATA[Ripple]]></category>
+		<category><![CDATA[xrp]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=406788</guid>
 
-					<description><![CDATA[<p>The lack of privacy protection is the Original Sin of all public blockchains – from Satoshi&#8217;s original Bitcoin whitepaper down to the most cutting-edge, modular, and parallelized network that does 100 million transactions per second with a zeptosecond finality time. Generally speaking, user privacy goes against the nature of public blockchains: For a public ledger [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/the-seven-deadly-sins-of-crypto-privacy/">The seven deadly sins of crypto privacy</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+					<description><![CDATA[<p>Ripple&#8216;s developer arm, RippleX, revealed that some of the recently introduced Automated Market Maker (AMM) pools on XRP Ledger (XRPL) encountered technical issues that prevented transactions from processing correctly. In a March 24 statement on X (formerly Twitter), the developers said: &#8220;The discrepancy affected how the DEX payment engine routes liquidity through AMM pools and order [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/canary-network-testing-proposed-after-amm-launch-issues-on-ripples-xrp-ledger/">Canary network testing proposed after AMM launch issues on Ripple&#8217;s XRP Ledger</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><span style="font-weight: 400;">The lack of privacy protection is the Original Sin of all public blockchains – from Satoshi&#8217;s original Bitcoin whitepaper down to the most cutting-edge, modular, and parallelized network that does 100 million transactions per second with a zeptosecond finality time.</span></p>
-<p><span style="font-weight: 400;">Generally speaking, user privacy goes against the nature of public blockchains: For a public ledger to function, some transaction data must be shared with nodes and network participants. The shortcut to quickly getting these systems online is simply to just make everything public by default.</span></p>
-<p><span style="font-weight: 400;">However, that ultimate transparency exposes users to surveillance, coercion, and unintended consequences like trade signal leakage. This is commercially unviable and corrosive of the right to determine one&#8217;s destiny. True self-custody cannot exist if users don&#8217;t control their data; privacy is about reinstating users&#8217; freedom to select what they do and don&#8217;t reveal to the outside world.</span></p>
-<p><span style="font-weight: 400;">Here are seven fatal flaws that are common in crypto privacy tools:</span></p>
-<h2><b>Sin 1 – Centralized Systems</b></h2>
-<p><span style="font-weight: 400;">In a decentralized world, centralization is </span><b><i>sloth</i></b><span style="font-weight: 400;">. It&#8217;s easier (faster and cheaper) to run a ledger on a bank&#8217;s internal SQL database than sending transactions on even the most performant blockchains. </span></p>
-<p><span style="font-weight: 400;">However, decentralization equates to resilience. It’s the reason crypto has any market value. Without it, users would be better off with centralized institutions&#8217; speed and cost savings.</span></p>
-<p><span style="font-weight: 400;">This is even more important for privacy protocols, where centralization means developers are giving themselves privileged access to users’ data.</span></p>
-<p><span style="font-weight: 400;">Protocol creators should </span><i><span style="font-weight: 400;">never</span></i><span style="font-weight: 400;"> give themselves admin keys that can freeze or deanonymize users. (RAILGUN uses mechanisms like </span><strong><a href="https://docs.railgun.org/wiki/learn/wallets-and-keys#viewing-keys">Viewing Keys</a></strong><span style="font-weight: 400;"> to provide non-discriminatory, user-controlled transparency where needed.) </span></p>
-<p><span style="font-weight: 400;">Another centralization vector is threshold multi-sigs, particularly for protocols seeking to bypass insecure bridges. Even when set up “properly,” a 3 of 5 multi-sig is arguably worse regarding trust assumptions than your neighborhood bank.</span></p>
-<p><span style="font-weight: 400;">And when the multi-sig isn’t configured correctly….  </span></p>
-<p><img decoding="async" class="wp-image-404796 aligncenter" src="https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-11.17.58 PM.png" alt="" width="451" height="443" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-11.17.58 PM.png 514w, https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-11.17.58 PM-300x295.png 300w" sizes="(max-width: 451px) 100vw, 451px" /></p>
-<h2><img decoding="async" class="size-full wp-image-404797 aligncenter" src="https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-11.18.39 PM.png" alt="" width="451" height="406" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-11.18.39 PM.png 451w, https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-11.18.39 PM-300x270.png 300w" sizes="(max-width: 451px) 100vw, 451px" /></h2>
-<h2><b>Sin 2 – Lust for Logging</b></h2>
-<p><span style="font-weight: 400;">Privacy tools should take every measure to ensure no tracking of user activity, particularly personally identifiable data such as IP addresses and browsing activity.</span></p>
-<p><span style="font-weight: 400;">Privacy protocols should be designed with an all-encompassing philosophy that only uses a momentary lack of judgment to deanonymize users.</span></p>
-<p><span style="font-weight: 400;">For example, Railway Wallet (which has integrated RAILGUN privacy tech) proxies RPC calls by default for all users so that even if someone isn&#8217;t using a VPN (which they should <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" />), their IP isn’t leaked to RPC nodes.</span></p>
-<h2><b>Sin 3 – Encrypted State</b></h2>
-<p><span style="font-weight: 400;">Why not make the entire system private? It&#8217;s tempting… but having a fully encrypted state is as undesirable, in some ways, as being fully public.</span></p>
-<p><span style="font-weight: 400;">The encrypting state creates a black box where users and observers do no know what the dApp is doing. It eliminates the most significant security feature of blockchains: public auditability.</span></p>
-<p><span style="font-weight: 400;">If the dApp is private, how do you verify that economics and actors are acting correctly? How do you respond properly to an exploit or malicious attempt if you don’t know if something has happened?</span></p>
-<p><span style="font-weight: 400;">User privacy is good – and so is protocol transparency.</span></p>
-<h2><b>Sin 4 – Dependency on Specific Manufacturers</b></h2>
-<p><span style="font-weight: 400;">Being “trustless&#8221; means you don&#8217;t have to trust a third party (i.e., a company, agent or bank teller) to ensure a protocol works. A strength of zero knowledge-based encryption is it creates fewer dependencies, including on manufacturers.</span></p>
-<p><span style="font-weight: 400;">Consider, for example, if you create a privacy system that relies on Software Guard Extensions built by Intel into their CPUs. The security of your system depends on a potential single point of failure – trusting Intel to have implemented its product correctly.</span></p>
-<p><span style="font-weight: 400;">Intel&#8217;s incentives are to act appropriately, but relying on SGX creates a constant vulnerability and unnecessary assumption of trust. There are also gatekeeping-by-design considerations, as SGX requires specialized hardware that is relatively expensive, obscure and hard to maintain –. In contrast, a proof-of-stake validator can be run on a Raspberry Pi.</span></p>
-<h2><b>Sin 5 – Going rogue</b></h2>
-<p><span style="font-weight: 400;">Crypto privacy is a compelling narrative, but it’s not a strong enough value proposition to warrant building an entirely new blockchain or rollup (unless the specialty chain brings a strict technical innovation).</span></p>
-<p><span style="font-weight: 400;">Privacy systems are most impactful when available on chains where users and financial activity exist. For better or worse, <a href="https://cryptoslate.com/glossary/defi/">DeFi</a> has congregated around <a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a>, <a href="https://cryptoslate.com/glossary/evm/">EVM</a>, and a few other environments like <a href="https://cryptoslate.com/coins/solana/">Solana</a>. Solidity is the king and thus has benefited from the most security research.</span></p>
-<p><span style="font-weight: 400;">Spinning up a novel execution environment and enticing developers and users takes time and often unsustainable incentives. Meanwhile, billions of dollars in value is already sitting on public chains desperately needing privacy.</span></p>
-<p><span style="font-weight: 400;">Dedicated privacy chains also create additional security questions, such as requiring bridges – which have been demonstrated time and time again to be the least secure component of blockchain networks. Other concerns include centralization of consensus, validation and sequencers.</span></p>
-<h2><b>Sin 6 – Builder Complexity</b></h2>
-<p><span style="font-weight: 400;">Developers are often thought of as being geniuses (and some are). However, cryptography is difficult enough that forcing builders to learn and use a proprietary language, toolchain, or ecosystem is unnecessarily complex and counterproductive. </span></p>
-<p><span style="font-weight: 400;">Contracts written in languages like Solidity or Vyper are portable among networks supporting EVM. That&#8217;s not the case for Rust and other WebAssembly chains. They all have their own standards for runtime. From a builder standpoint, that means separate contract codebases need to be maintained for each chain despite them using the same language.</span></p>
-<p><span style="font-weight: 400;">As a result, the product is less accessible.</span></p>
-<h2><b>Sin 7 – Immature Tech</b></h2>
-<p><span style="font-weight: 400;">“Magic Internet Money&#8221; is a genuinely excellent meme. However, crypto developers are building financial technology that has real-world consequences and handles real money.</span></p>
-<p><span style="font-weight: 400;">Privacy tech has the double duty of taking the “realness of money” into account and &#8220;privacy&#8221; itself – i.e., it has to be secure against financial exploits AND anything that may deanonymize users. The significant body of existing academic research on the technology is there for a reason.</span></p>
-<p><span style="font-weight: 400;">Lest you end up like </span><strong><a href="https://medium.com/@neha/cryptographic-vulnerabilities-in-iota-9a6a9ddc4367">IOTA</a></strong><span style="font-weight: 400;">, a tried-and-true axiom is &#8220;never roll your cryptography.&#8221;</span></p>
-<p><span style="font-weight: 400;">Privacy tech, in particular, should be battle-tested and thought-through, with extensive audits from security firms, assessments from privacy advocates, pen testing by white hats, etc.</span></p>
-<p><span style="font-weight: 400;">Otherwise, how can you expect people – especially the hoped-for new mainstream users – to risk their identity and money on a complex technological platform?</span></p>
-<h2><b>Conclusion</b></h2>
-<p><span style="font-weight: 400;">Public blockchains are “dox-by-design.” It’s no easy feat to build on-chain privacy systems while preserving the reasons to use crypto in the first place, such as auditability and decentralization.</span></p>
-<p><span style="font-weight: 400;">A great resource for assessing the privacy levels of your chosen privacy tool is the </span><a href="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Scoring%201.2%20community%20reflection.md"><span style="font-weight: 400;"><strong>Web3 Privacy</strong> <strong>Now initiative</strong></span></a><span style="font-weight: 400;"> which have categorized and scored various crypto privacy tools. Check it out as an excellent first step toward safeguarding your online identity and your finances.</span></p>
-<p>The post <a href="https://cryptoslate.com/the-seven-deadly-sins-of-crypto-privacy/">The seven deadly sins of crypto privacy</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/ripple/">Ripple</a>&#8216;s developer arm, RippleX, revealed that some of the recently introduced Automated Market Maker (AMM) pools on <a href="https://cryptoslate.com/ripples-xrp-ledger-surging-network-activity-stirs-ddos-attack-concerns/">XRP Ledger (XRPL) encountered technical issues</a> that prevented transactions from processing correctly.</p>
+<p>In a March 24 statement on X (formerly Twitter), the developers <a href="https://twitter.com/RippleXDev/status/1771961354297241930">said</a>:</p>
+<blockquote><p>&#8220;The discrepancy affected how the DEX payment engine routes liquidity through AMM pools and order books in some complex payment path scenarios.&#8221;</p></blockquote>
+<p><a href="https://cryptoslate.com/people/david-schwartz/">David Schwartz</a>, the CTO of <a href="https://cryptoslate.com/companies/ripple/">Ripple</a>, further explained that the issue did not originate from the single-sided deposit feature, as it aligns with the intended functionality of the AMM design. He added:</p>
+<blockquote><p>&#8220;Single-sided deposits allow for a more streamlined user experience, but can lead to price impacts when pools have less liquidity. It’s best for users to review the price impact in their tooling before submitting a transaction and front-end apps should display this information to users.&#8221;</p></blockquote>
+<p>AMMs were <a href="https://x.com/JoelKatz/status/1771284874931925459?s=20">launched on XRPL</a> on March 22 after the community had waited two years. The project was designed to unlock additional liquidity sources and trading opportunities for XRPL users.</p>
+<p>However, due to the early teething problems, AMM users have been advised against depositing new funds into these pools until the issue is resolved.</p>
+<p>Furthermore, RippleX revealed that a proposed solution is under community review and will soon be put to an amendment voting process.</p>
+<h2 class="s3">&#8216;Canary network&#8217;</h2>
+<p>XRPL developer Wietse Wind <a href="https://twitter.com/WietseWind/status/1771998717832278162?s=20">proposed</a> the concept of a Canary network for the blockchain network in response to the challenges encountered during the launch of AMM.</p>
+<p>According to him:</p>
+<blockquote><p>&#8220;The recent finding of a bug in the freshly launched AMM on the XRP Ledger shows the need for better testing. Testing with real value, on a network that isn&#8217;t mainnet. Testing when an amendment is available, not when it was voted in and went live.&#8221;</p></blockquote>
+<p>The Canary network would operate independently with its native tangible asset. This setup will encourage real-life usage, providing a practical environment for users and developers to test and identify vulnerabilities.</p>
+<p>Notably, Wind&#8217;s idea echoes existing practices in blockchain development, such as <a href="https://cryptoslate.com/coins/ethereum/">Ethereum&#8217;s</a> utilization of <a href="https://cryptoslate.com/ethereum-holesky-testnet-launch-flops-relaunch-is-expected-in-coming-weeks/">multiple testnets like Sepolia</a>. These test environments serve as crucial <a href="https://cryptoslate.com/ethereum-nears-staking-withdrawals-with-shapella-upgrade-on-sepolia/">platforms for testing upgrades</a> and amendments before their deployment on the mainnet.</p>
+<p>The post <a href="https://cryptoslate.com/canary-network-testing-proposed-after-amm-launch-issues-on-ripples-xrp-ledger/">Canary network testing proposed after AMM launch issues on Ripple&#8217;s XRP Ledger</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://cryptoslate.com/the-seven-deadly-sins-of-crypto-privacy/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cryptoslate.com/canary-network-testing-proposed-after-amm-launch-issues-on-ripples-xrp-ledger/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/crypto-privacy-1.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/crypto-privacy-1.jpg" length="1456" type="image/jpg"/>
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/canary-xrp.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/canary-xrp.jpg" length="1456" type="image/jpg"/>
 	</item>
 		<item>
-		<title>Bitcoin and traditional indices: Exploring the volatile correlation with SPX and DJI</title>
-		<link>https://cryptoslate.com/market-reports/bitcoin-and-indices-exploring-the-volatile-correlation-with-spx-and-dji/</link>
+		<title>Bitcoin CEX trading volume hits record high in March</title>
+		<link>https://cryptoslate.com/bitcoin-cex-trading-volume-hits-record-high-in-march/</link>
+					<comments>https://cryptoslate.com/bitcoin-cex-trading-volume-hits-record-high-in-march/#respond</comments>
 		
 		<dc:creator><![CDATA[Andjela Radmilac]]></dc:creator>
-		<pubDate>Sun, 24 Mar 2024 12:19:37 +0000</pubDate>
-				<guid isPermaLink="false">https://cryptoslate.com/?post_type=crypto_market_report&#038;p=406048</guid>
+		<pubDate>Mon, 25 Mar 2024 16:02:28 +0000</pubDate>
+				<category><![CDATA[Alpha]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[binance]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[bitcoin trading volume]]></category>
+		<category><![CDATA[centralized exchanges]]></category>
+		<category><![CDATA[CEX volume]]></category>
+		<category><![CDATA[Coinbase]]></category>
+		<category><![CDATA[OKX]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=406693</guid>
 
-					<description><![CDATA[<p>The post <a href="https://cryptoslate.com/market-reports/bitcoin-and-indices-exploring-the-volatile-correlation-with-spx-and-dji/">Bitcoin and traditional indices: Exploring the volatile correlation with SPX and DJI</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+					<description><![CDATA[<p>Bitcoin&#8216;s trading volume on centralized exchanges (CEXs) saw a significant spike in March, marking the highest recorded CEX volume since May 2021 — and the month isn&#8217;t over yet. Monitoring trading volume on CEXs offers invaluable insights into market sentiment, liquidity, and the overall health of the crypto market. From September 2023 to Mar. 24, [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/bitcoin-cex-trading-volume-hits-record-high-in-march/">Bitcoin CEX trading volume hits record high in March</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>The post <a href="https://cryptoslate.com/market-reports/bitcoin-and-indices-exploring-the-volatile-correlation-with-spx-and-dji/">Bitcoin and traditional indices: Exploring the volatile correlation with SPX and DJI</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+										<content:encoded><![CDATA[<p class="p1"><a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>&#8216;s trading volume on centralized exchanges (CEXs) saw a significant spike in March, marking the highest recorded CEX volume since May 2021 — and the month isn&#8217;t over yet. Monitoring trading volume on CEXs offers invaluable insights into market sentiment, liquidity, and the overall health of the crypto market.</p>
+<p class="p1">From September 2023 to Mar. 24, 2024, Bitcoin&#8217;s trading volume on CEXs saw an <a href="https://cryptoslate.com/cexs-saw-record-breaking-trading-volume-as-bitcoin-touched-ath/">astronomical rise</a> from $18.409 billion to $494.056 billion. This eightfold increase in volume over just seven months is particularly noteworthy, considering Bitcoin&#8217;s price escalated from a close of $34,667 in September to over $73,000 in mid-March 2024. Despite a substantial correction, with Bitcoin consolidating at $67,000 by Mar. 23, trading volume continued its upward trajectory, indicating robust market participation and liquidity.</p>
+<p class="p1">The distribution of this trading volume across various exchanges reveals a surprising trend, especially considering the significant role the US plays in the global crypto market. Despite hosting popular spot Bitcoin ETFs and driving much of the market sentiment, a comparatively <a href="https://cryptoslate.com/what-bitcoins-trading-patterns-on-centralized-exchanges-tell-us-about-the-market/">small portion of CEX trading volume</a> occurs in the US. On Mar. 24, data showed that 52% of Bitcoin&#8217;s total CEX trading volume was on Binance, aligning with the year-to-date average of above 50%. Following legal challenges last fall, Binance saw its BTC trading volume surge from $91.9 billion in October 2023 to $321.6 billion in March 2024, with the month yet to close.</p>
+<figure id="attachment_406741" aria-describedby="caption-attachment-406741" style="width: 2025px" class="wp-caption aligncenter"><img decoding="async" class="size-full wp-image-406741" src="https://cryptoslate.com/wp-content/uploads/2024/03/cryptocurrency-monthly-exchange-volume-btc-only.png" alt="bitcoin monthly trading volume CEX" width="2025" height="975" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/cryptocurrency-monthly-exchange-volume-btc-only.png 2025w, https://cryptoslate.com/wp-content/uploads/2024/03/cryptocurrency-monthly-exchange-volume-btc-only-300x144.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/cryptocurrency-monthly-exchange-volume-btc-only-1024x493.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/cryptocurrency-monthly-exchange-volume-btc-only-768x370.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/cryptocurrency-monthly-exchange-volume-btc-only-1536x740.png 1536w" sizes="(max-width: 2025px) 100vw, 2025px" /><figcaption id="caption-attachment-406741" class="wp-caption-text">Chart showing the monthly spot market volume for BTC pairs across crypto exchanges from September 2023 to March 2024 (Source: <a href="https://newhedge.io/terminal/bitcoin/btc-monthly-exchange-volume">Newhedge</a>)</figcaption></figure>
+<p class="p1">In contrast, Coinbase accounted for only 4.22% of the total CEX trading volume, ranking third overall, while OKX held the second position with just 6.41% of the total BTC trading volume. This dominance of Binance, raking in hundreds of billions in BTC volume, highlights its continued dominance in the CEX landscape, consistently accounting for half of the trading volume on centralized exchanges.</p>
+<p class="p1">Binance&#8217;s position becomes even more pronounced when considering Bitcoin&#8217;s trading volume relative to the rest of the market. As of Mar. 24, Bitcoin represented just over 29% of the total crypto trading volume on CEXs, according to data from Newhedge. Despite the emergence of numerous altcoins and the growth of DeFi platforms, CEX volumes remain a critical gauge of market sentiment and an integral component of the crypto market infrastructure.</p>
+<figure id="attachment_406742" aria-describedby="caption-attachment-406742" style="width: 2025px" class="wp-caption aligncenter"><img decoding="async" class="size-full wp-image-406742" src="https://cryptoslate.com/wp-content/uploads/2024/03/cryptocurrency-exchange-volume-btc-dominance.png" alt="Bitcoin dominance over total CEX volume" width="2025" height="975" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/cryptocurrency-exchange-volume-btc-dominance.png 2025w, https://cryptoslate.com/wp-content/uploads/2024/03/cryptocurrency-exchange-volume-btc-dominance-300x144.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/cryptocurrency-exchange-volume-btc-dominance-1024x493.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/cryptocurrency-exchange-volume-btc-dominance-768x370.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/cryptocurrency-exchange-volume-btc-dominance-1536x740.png 1536w" sizes="(max-width: 2025px) 100vw, 2025px" /><figcaption id="caption-attachment-406742" class="wp-caption-text">Graph showing the total crypto trading volume on centralized exchanges specifically attributed to Bitcoin from Feb. 23 to Mar. 24, 2024 (Source: <a href="https://newhedge.io/terminal/bitcoin/exchange-volume-btc-dominance">Newhedge</a>)</figcaption></figure>
+<p class="p1">The significant price correction after Bitcoin&#8217;s peak in early March, coupled with the sustained increase in trading volume, suggests a market that, despite its inherent volatility, is moving towards greater resilience and stability over the long term. This indicates a maturing market landscape, where increased participation and liquidity contribute to a more stabilized price environment capable of absorbing market shocks and fluctuations.</p>
+<p>The post <a href="https://cryptoslate.com/bitcoin-cex-trading-volume-hits-record-high-in-march/">Bitcoin CEX trading volume hits record high in March</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></content:encoded>
 					
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-market-report.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-market-report.jpg" length="1200" type="image/jpg"/>
-	</item>
-		<item>
-		<title>Op-ed: Funding isn’t the core solution to bridging the gender gap in Web3</title>
-		<link>https://cryptoslate.com/op-ed-funding-isnt-the-core-solution-to-bridging-the-gender-gap-in-web3/</link>
-					<comments>https://cryptoslate.com/op-ed-funding-isnt-the-core-solution-to-bridging-the-gender-gap-in-web3/#respond</comments>
-		
-		<dc:creator><![CDATA[Sonia Shaw]]></dc:creator>
-		<pubDate>Sat, 23 Mar 2024 11:48:31 +0000</pubDate>
-				<category><![CDATA[Guest Post]]></category>
-		<category><![CDATA[Op-Ed]]></category>
-		<category><![CDATA[Web3]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=404640</guid>
-
-					<description><![CDATA[<p>Web3 has always felt like an inclusive and empowering community to be a part of. In making the transition from traditional finance to DeFi, there has been no lack of support, encouragement, and guidance. Embodying a leadership role as a female has also felt free from obstacles or adversity. Gender Gap Still Evident However, despite [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/op-ed-funding-isnt-the-core-solution-to-bridging-the-gender-gap-in-web3/">Op-ed: Funding isn’t the core solution to bridging the gender gap in Web3</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Web3 has always felt like an inclusive and empowering community to be a part of. </span><span style="font-weight: 400;"><br />
-</span><span style="font-weight: 400;">In making the transition from traditional finance to <a href="http://cryptoslate.com/defi">DeFi</a>, there has been no lack of support, encouragement, and guidance. Embodying a leadership role as a female has also felt free from obstacles or adversity.</span></p>
-<h2><b>Gender Gap Still Evident</b></h2>
-<p><span style="font-weight: 400;">However, despite personal experience, it cannot be ignored that the evident gender gap in <a href="https://cryptoslate.com/web3/">Web3</a> has been brought to attention recently. With the recent celebration of International Women&#8217;s Day, the community must acknowledge that </span><strong><a href="https://www.forbes.com/sites/digital-assets/2023/09/13/from-glass-ceiling-to-digital-frontier-women-in-web3-and-ai-are-essential/?sh=2babbd765065">only 13% of founding teams in Web3 include at least ONE woman. </a></strong></p>
-<p><span style="font-weight: 400;">2023 data from Swiss Fintech Innovations also highlighted that </span><strong><a href="https://www.forbes.com/sites/jemmagreen/2024/03/06/why-women-matter-in-shaping-the-future-of-web3-innovation/?sh=304a7087d370">only 3.5% of Web3 investment reached women-led Web3 business </a></strong><span style="font-weight: 400;">in the first half of 2023.</span><span style="font-weight: 400;">Clearly, there is a disparity and a balance that needs amending. Powerful female leaders, with the innovative approaches they can bring, are needed for Web3’s continued evolution. But does the answer to bridging the gap simply lie in providing more funding?</span></p>
-<h2><b>Beyond Funding: Self-Empowerment As A Multi-Sided Solution</b></h2>
-<p><span style="font-weight: 400;">Partially, yes. But more money for female startups isn’t a complete solution. That’s one-dimensional. All women in Web3, founders or not, can continue to empower themselves in day-to-day approaches.</span><span style="font-weight: 400;"><br />
-</span><span style="font-weight: 400;"><br />
-</span><span style="font-weight: 400;">Three main areas to consider are: embracing fear, leveraging existing expertise, and building connections.</span></p>
-<h2><b>Embracing the Fear</b></h2>
-<p><span style="font-weight: 400;">Blockchain technology, decentralization, and <a href="http://cryptoslate.com/web3">Web3 ecosystems</a> can be confusing areas to navigate. Nonetheless, acquiring new knowledge should breed excitement alongside any potential fear or doubt. It&#8217;s easy to allow thoughts of “not knowing enough&#8221; and “not being up to speed” take over. This can trigger feelings of inadequacy or overwhelm in a male-dominated industry. But women should embrace their unique ability to learn.</span></p>
-<p><span style="font-weight: 400;">With a fluid and curious approach, women&#8217;s compassionate abilities often shine through in taking on diverse information. Complexities in understanding should not be feared to the point of freeze or flight. Instead, women must recognize their capabilities and choose to fight through them. Study; ask questions &#8211; with confidence. The more knowledge acquired, the more empowerment comes. The dissolution of boundaries and barriers follow, and the playing field will naturally level out.</span></p>
-<h2><b>Leveraging Existing Experience</b></h2>
-<p><span style="font-weight: 400;">Because Web3 is such a novel, unique space &#8211; it’s easy to slip into the idea that fresh and unique personalities, approaches, and ideas will be the only route to success. Again, doubt can creep in.</span></p>
-<p><span style="font-weight: 400;">But women in Web3 need to remind themselves of the wealth of experience, leadership skills, and knowledge they’ve carried over from Web2 industries. Communication counts in Web3. Marketing counts in Web3. Creative arts count in Web3.</span></p>
-<p><span style="font-weight: 400;">Traditional financial knowledge counts in Web3. HR counts in Web3. Event management counts in Web3. Gender is irrelevant when it comes to niche professional strengths. Women should constantly be supported to self-advocate for what they can bring from past careers. They must identify and utilize their strengths; this will serve best as they continue learning in conjunction. </span></p>
-<h2><b>Building Genuine and Empowering Connections</b></h2>
-<p><span style="font-weight: 400;">Ideas are the currency of Web3, and creative individuality is the compass. It doesn&#8217;t matter who it is coming from &#8211; so long as direction and purpose are expressed with confidence and conviction. That said, the opportunity to form potential partnerships and connections is abundant. </span></p>
-<p><span style="font-weight: 400;"> Women in Web3 should consciously sharpen their ability to spot and capitalize on this potential everywhere. It&#8217;s important to recognize and place faith in the mutual respect, collaborative energy, and inclusive environment found in abundance in Web3 communities. It is the cornerstone for the exponential innovation that has occurred in such a short period within the space.</span></p>
-<p><span style="font-weight: 400;"> Women in Web3 should consciously sharpen their ability to spot and capitalize on this potential everywhere. Strength in unity extends beyond any gender divide, and the more it is nurtured, the easier it gets for everyone.</span></p>
-<h2><b>Steering The Ship</b></h2>
-<p><span style="font-weight: 400;">Overall, Web3 is progressing in many different verticals, and inclusion must be one of them. Women in Web3 play a crucial role in upholding and nourishing the broader ecosystem. Whether within regulatory landscapes, creative industries, educational reform, or digital asset development, Web3 needs women. Funding is welcomed </span><span style="font-weight: 400;">&#8211; but there is no need to wait for it.</span></p>
-<p><span style="font-weight: 400;">Females can take the lead and be assured that the community will support and nurture their efforts. Initiative, confidence, and commitment will be the most significant determinants of an improved female influence &#8211; not money.</span></p>
-<p>The post <a href="https://cryptoslate.com/op-ed-funding-isnt-the-core-solution-to-bridging-the-gender-gap-in-web3/">Op-ed: Funding isn’t the core solution to bridging the gender gap in Web3</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://cryptoslate.com/op-ed-funding-isnt-the-core-solution-to-bridging-the-gender-gap-in-web3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cryptoslate.com/bitcoin-cex-trading-volume-hits-record-high-in-march/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/women-web3.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/women-web3.jpg" length="1200" type="image/jpg"/>
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-cex-volume.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-cex-volume.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Last week&#8217;s market correction spurred $942 million outflow from investment products</title>
+		<link>https://cryptoslate.com/last-weeks-market-correction-spurred-942-million-outflow-from-investment-products/</link>
+					<comments>https://cryptoslate.com/last-weeks-market-correction-spurred-942-million-outflow-from-investment-products/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 15:15:17 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Market]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[Solana]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=406755</guid>
+
+					<description><![CDATA[<p>Crypto-related investment products experienced a downturn after a streak of record inflows, with a total outflow of $942 million reported last week, according to CoinShares&#8216; latest weekly report. This marks the first instance of outflows in the past eight weeks, signaling the conclusion of an impressive seven-week inflow totaling $12.3 billion. Market correction impacts crypto [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/last-weeks-market-correction-spurred-942-million-outflow-from-investment-products/">Last week&#8217;s market correction spurred $942 million outflow from investment products</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Crypto-related investment products experienced a downturn after a streak of record inflows, with a total outflow of $942 million reported last week, according to <a href="https://cryptoslate.com/companies/coinshares/">CoinShares</a>&#8216; latest weekly <a href="https://blog.coinshares.com/volume-175-digital-asset-fund-flows-weekly-report-6af2a10c0b30">report</a>.</p>
+<p>This marks the first instance of outflows in the past eight weeks, signaling the conclusion of an impressive <a href="https://cryptoslate.com/record-13-2-billion-ytd-inflow-into-digital-assets-eclipses-2021s-total/">seven-week inflow totaling $12.3 billion</a>.</p>
+<h2>Market correction impacts crypto products</h2>
+<p>The substantial outflows observed coincide with a <a href="https://cryptoslate.com/bitcoin-sees-dramatic-slide-below-65k-over-four-hours/">price correction</a> in the crypto market, with <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin&#8217;s</a> price dropping to a multi-week low of $60,976 and other digital assets following suit.</p>
+<p>James Butterfill, CoinShares&#8217; research head, explained that this market correction slashed $10 billion from the total assets under management (AuM) for crypto-related investment products. Nevertheless, the current balance of $88 billion stands notably above previous market cycle levels.</p>
+<p>Furthermore, the overall trading volume for these investment products declined to $28 billion compared to over $40 billion recorded in the preceding two weeks.</p>
+<p>Notably, this negative market performance engendered bearish sentiments among investors, resulting in diminished inflows of just $1.1 billion into the new spot Bitcoin ETFs in the US.</p>
+<p>As a result, the modest inflows could not offset the substantial $2 billion <a href="https://cryptoslate.com/insights/no-outflows-for-bitcoin-newborn-nine-etfs-as-grayscale-forces-154-million-net-outflow/">outflows recorded from Grayscale</a>&#8216;s Bitcoin Trust (<a href="https://cryptoslate.com/products/grayscale-bitcoin-trust/">GBTC</a>). Consequently, Bitcoin-related products ended the week with a negative net flow of $904 million.</p>
+<p><a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a> also sustained outflows for the second consecutive week, with $34.2 million exiting the asset. This brings its month-to-date flow to a negative $46.2 million.</p>
+<p>Other products, such as Multiassets and <a href="https://cryptoslate.com/coins/solana/">Solana</a>, also experienced outflows of $7.3 million and $5.6 million, respectively.</p>
+<p>Meanwhile, the negative sentiment reverberated globally, with products in various regions, including the US, Germany, Switzerland, Hong Kong, and Sweden, all witnessing outflows. However, Canada and Brazil experienced minor inflows of $8.4 million and $9 million, respectively.</p>
+<p>Interestingly, even short Bitcoin positions experienced an outflow of $3.7 million last week.</p>
+<p>On a brighter note, lesser-known cryptocurrencies such as <a href="https://cryptoslate.com/coins/xrp/">XRP</a>, <a href="https://cryptoslate.com/coins/polkadot/">Polkadot</a>, <a href="https://cryptoslate.com/coins/avalanche/">Avalanche</a>, and <a href="https://cryptoslate.com/coins/litecoin/">Litecoin</a> saw modest inflows, indicating a positive week for these assets amidst the broader market downturn.</p>
+<p>The post <a href="https://cryptoslate.com/last-weeks-market-correction-spurred-942-million-outflow-from-investment-products/">Last week&#8217;s market correction spurred $942 million outflow from investment products</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/last-weeks-market-correction-spurred-942-million-outflow-from-investment-products/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/crypto-outflow-.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/crypto-outflow-.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Bitcoin&#8217;s price rally above $69,000 leads to widespread market liquidations</title>
+		<link>https://cryptoslate.com/insights/bitcoins-price-rally-above-69000-leads-to-widespread-market-liquidations/</link>
+		
+		<dc:creator><![CDATA[James Van Straten]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 14:52:14 +0000</pubDate>
+				<guid isPermaLink="false">https://cryptoslate.com/?post_type=crypto_insight&#038;p=406793</guid>
+
+					<description><![CDATA[<p>Quick Take Bitcoin has started the week strong with a push above $69,000—up more than 3% today and marking its highest value since March 16. The move triggered a flood of liquidations in the digital asset ecosystem. These liquidations stem partly from the digital assets strong rally, peaking at an impressive $69,400. Coinglass data shows [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/insights/bitcoins-price-rally-above-69000-leads-to-widespread-market-liquidations/">Bitcoin&#8217;s price rally above $69,000 leads to widespread market liquidations</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>Quick Take</h2>
+<p>Bitcoin has started the week strong with a push above $69,000—up more than 3% today and marking its highest value since March 16. The move triggered a flood of liquidations in the digital asset ecosystem. These liquidations stem partly from the digital assets strong rally, peaking at an impressive $69,400.</p>
+<figure id="attachment_406796" aria-describedby="caption-attachment-406796" style="width: 1514px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-406796 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/69.png" alt="BTCUSD Bitstamp: (Source: TradingView)" width="1514" height="853" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/69.png 1514w, https://cryptoslate.com/wp-content/uploads/2024/03/69-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/69-1024x577.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/69-768x433.png 768w" sizes="(max-width: 1514px) 100vw, 1514px" /><figcaption id="caption-attachment-406796" class="wp-caption-text">BTCUSD Bitstamp: (Source: TradingView)</figcaption></figure>
+<p><a href="https://www.coinglass.com/LiquidationData">Coinglass</a> data shows that, in the past 24 hours, the ecosystem has seen nearly $200 million in liquidations, with shorts accounting for a predominant portion of the total, around $129 million. The last hour alone witnessed a massive $35 million worth of liquidations, primarily comprising of shorts.</p>
+<figure id="attachment_406794" aria-describedby="caption-attachment-406794" style="width: 905px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-406794 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/Liq.png" alt="Liquidation Heatmap: (Source: Coinglass)" width="905" height="476" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/Liq.png 905w, https://cryptoslate.com/wp-content/uploads/2024/03/Liq-300x158.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/Liq-768x404.png 768w" sizes="(max-width: 905px) 100vw, 905px" /><figcaption id="caption-attachment-406794" class="wp-caption-text">Liquidation Heatmap: (Source: Coinglass)</figcaption></figure>
+<p>Data from Coinglass indicates a substantial amount of leverage, approximately $1.18 billion, parked just above the $73,000 mark.</p>
+<figure id="attachment_406797" aria-describedby="caption-attachment-406797" style="width: 4080px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-406797 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/leverage.png" alt="Binance BTC/USDT Liquidation Heatmap: (Source: Coinglass)" width="4080" height="2409" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/leverage.png 4080w, https://cryptoslate.com/wp-content/uploads/2024/03/leverage-300x177.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/leverage-1024x605.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/leverage-768x453.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/leverage-1536x907.png 1536w, https://cryptoslate.com/wp-content/uploads/2024/03/leverage-2048x1209.png 2048w" sizes="(max-width: 4080px) 100vw, 4080px" /><figcaption id="caption-attachment-406797" class="wp-caption-text">Binance BTC/USDT Liquidation Heatmap: (Source: Coinglass)</figcaption></figure>
+<p>The post <a href="https://cryptoslate.com/insights/bitcoins-price-rally-above-69000-leads-to-widespread-market-liquidations/">Bitcoin&#8217;s price rally above $69,000 leads to widespread market liquidations</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/01/bitcoin-green-1.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/01/bitcoin-green-1.jpg" length="1200" type="image/jpg"/>
 	</item>
 	</channel>
 </rss>

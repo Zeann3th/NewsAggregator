@@ -15,7 +15,7 @@
 	<atom:link href="https://bitcoinist.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bitcoinist.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 25 Mar 2024 12:38:26 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Mar 2024 21:18:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,395 +31,362 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">225283986</site>	<item>
-		<title>XRP Ledger’s Shiny New AMM Runs Into Problems &#8211; Here’s What We Know</title>
-		<link>https://bitcoinist.com/xrp-ledger-amm-problems/</link>
+		<title>FTX Set To Cash In $884 Million From Majority Stake Sale In Anthropic</title>
+		<link>https://bitcoinist.com/ftx-set-to-cash-in-884-million-from-sale-anthropic/</link>
 		
-		<dc:creator><![CDATA[Scott Matherson]]></dc:creator>
-		<pubDate>Mon, 25 Mar 2024 14:00:21 +0000</pubDate>
-				<category><![CDATA[XRP]]></category>
-		<category><![CDATA[ripple]]></category>
-		<category><![CDATA[ripple news]]></category>
-		<category><![CDATA[XRP Ledger]]></category>
-		<category><![CDATA[XRP Ledger news]]></category>
-		<category><![CDATA[XRP price]]></category>
-		<category><![CDATA[XRPL]]></category>
-		<category><![CDATA[XRPL news]]></category>
-		<category><![CDATA[XRPUSD]]></category>
-		<category><![CDATA[XRPUSDT]]></category>
-		<guid isPermaLink="false">https://bitcoinist.com/?p=289396</guid>
+		<dc:creator><![CDATA[Ronaldo Marquez]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2024 03:00:50 +0000</pubDate>
+				<category><![CDATA[FTX]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Crypto Exchange FTX]]></category>
+		<category><![CDATA[crypto news]]></category>
+		<category><![CDATA[cryptocurrencies]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[digital currency]]></category>
+		<category><![CDATA[FTT]]></category>
+		<category><![CDATA[FTT news]]></category>
+		<category><![CDATA[FTT price]]></category>
+		<category><![CDATA[FTT:USD]]></category>
+		<category><![CDATA[FTTUSDT]]></category>
+		<category><![CDATA[FTX assets]]></category>
+		<category><![CDATA[FTX bankruptcy]]></category>
+		<category><![CDATA[FTX claims]]></category>
+		<category><![CDATA[FTX creditors]]></category>
+		<category><![CDATA[FTX crypto]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289559</guid>
 
-					<description><![CDATA[Following the official launch of XRP Ledger’s (XRPL) Automated Market Maker (AMM), XLS-30, on March 22, developers unearthed various discrepancies linked to a system bug. As a result, an XRPL developer has called for a fix, highlighting the need for enhanced testing procedures and the incorporation of a Canary Network to bolster the AMM’s stability.  [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Following the <a href="https://x.com/ripplexdev/status/1771271093468193241?s=46" rel="nofollow" target="_blank">official launch</a> of XRP Ledger’s (XRPL) <a href="https://www.newsbtc.com/analysis/xrp/ripple-amms-to-xrpl-xrp-price/" rel="nofollow noopener" target="_blank">Automated Market Maker (AMM)</a>, XLS-30, on March 22, developers unearthed various discrepancies linked to a system bug. As a result, an XRPL developer has called for a fix, highlighting the need for enhanced testing procedures and the incorporation of a Canary Network to bolster the AMM’s stability. </p>
-<h2>XRPL’s New AMM Encounters Unexpected Bug</h2>
-<p>On March 24, the RippleX development team <a href="https://x.com/ripplexdev/status/1771680918895558913?s=46" rel="nofollow" target="_blank">unveiled</a> a technical glitch in its newly launched AMM. The revelation comes as a <a href="https://x.com/maria06801698/status/1771969474310127774?s=46" rel="nofollow" target="_blank">surprise</a> to the general XRPL community, as they had been eagerly waiting for the <a href="https://www.newsbtc.com/xrp-news/xrp-not-bank-stablecoin-post-amm/" rel="nofollow noopener" target="_blank">protocol to roll out</a>. </p>
+					<description><![CDATA[Bankrupt crypto exchange FTX will sell two-thirds of its stake in artificial intelligence (AI) startup Anthropic for $884 million, according to a Bloomberg report. The move comes as FTX seeks to repay its creditors and bolster its cash reserves.  The sale involves various buyers, including ATIC Third International Investment Company LLC, associated with the United [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Bankrupt crypto exchange FTX will sell two-thirds of its stake in artificial intelligence (AI) startup Anthropic for $884 million, according to a Bloomberg <a href="https://news.bloomberglaw.com/ip-law/ftx-to-sell-majority-of-anthropic-stake-for-884-million" target="_blank" rel="noopener nofollow">report</a>. The move comes as FTX seeks to repay its creditors and bolster its cash reserves. </p>
+<p>The sale involves various buyers, including ATIC Third International Investment Company LLC, associated with the United Arab Emirates (UAE) <a href="https://bitcoinist.com/uaes-address-unauthorized-digital-asset-usage/" target="_blank" rel="noopener ">sovereign wealth fund</a> Mubadala, Jane Street, Fidelity Management and Research, and venture capital firm HOF Capital.</p>
+<h2>FTX Approved To Sell Ownership</h2>
+<p>In 2021, FTX invested $500 million in Anthropic, a year before facing bankruptcy amidst allegations of fraud. Anthropic, known for its AI research work, attracted significant investments from tech giants <a href="https://bitcoinist.com/amazon-will-invest-4-billion-ftx-backed-ai-startup/" target="_blank" rel="noopener ">Amazon </a>and Alphabet Inc.&#8217;s Google in 2023, valuing the startup at up to $6 billion.</p>
 
-<p>According to the official statement released by the <a href="https://bitcoinist.com/ripple-releases-amm-devnet-unlocks-defi-potential/">RippleX team</a>, the technical glitch surfaced as a result of multiple discrepancies identified in several <a href="https://www.newsbtc.com/analysis/xrp/ripple-cto-amm-xrp-income/" rel="nofollow noopener" target="_blank">AMM pools</a>. Upon investigation, the team revealed that the inconsistencies had “affected how the DEX payment engine routes liquidity through the AMM pools and order books.”</p>
-<p>Addressing the issue, the development team has assured users that the engineering team were working diligently to resolve the bug issue and restore normal operation in the <a href="https://bitcoinist.com/ripple-cto-breaks-down-the-amm-feature/">AMM</a>. Additionally, they have advised users to remain cautious and avoid depositing new funds into the AMM pools until the dilemma has been rectified.</p>
-<p>Despite the temporary setback, optimism remains in the <a href="https://bitcoinist.com/primary-threat-to-xrp-ledger-uncovered/">XRPL</a> community, with many <a href="https://x.com/gootecks/status/1771974042817528258?s=46" rel="nofollow" target="_blank">expressing</a> confidence in the development team’s ability to swiftly address the issue. The RippleX team has also <a href="https://x.com/ripplexdev/status/1771961354297241930?s=46" rel="nofollow" target="_blank">stated</a> that it has begun reviewing several proposed fixes for the AMM glitch, highlighting that the proposals will have to go through an amendment voting process before any solution is implemented.  </p>
-<h2>XRPL Dev Calls For Canary Network</h2>
-<p>In response to the <a href="https://bitcoinist.com/ripple-xrp-ledger-amm-launch-not-affected/">technical challenges </a>faced by XRPL’s new AMM, WietseWind, one of the developers of the <a href="https://bitcoinist.com/xrp-ledger-foundation-ripplex-governance-overhaul/">XRP Ledger</a> has <a href="https://x.com/wietsewind/status/1771998717832278162?s=46" rel="nofollow" target="_blank">proposed</a> a long-term solution that could potentially ensure a more stable protocol. According to the developer, the discovery of a bug in the newly <a href="https://bitcoinist.com/coreum-founder-teases-gains-for-xrp-users-with-amm/">launched AMM</a> is evidence of the fragility of the protocol, emphasizing a lack of proper testing before launch.</p>
+<p>The FTX bankruptcy estate currently owns an 8% stake in Anthropic, making it one of the estate&#8217;s most valuable assets. As of last month, the estate&#8217;s cash reserves were valued at approximately $6.4 billion. </p>
+<p>FTX officials have expressed confidence in repaying all of the company&#8217;s <a href="https://bitcoinist.com/sam-bankman-fried-prosecutors-slams-questions-jury/" target="_blank" rel="noopener ">creditors</a>, and the sale of the Anthropic stake is expected to significantly contribute to that effort.</p>
+<p>As previously <a href="https://bitcoinist.com/ftx-creditors-1-billion-crypto/" target="_blank" rel="noopener ">reported </a>by Bitcoinist, US bankruptcy Judge John Dorsey approved the decision to sell the Anthropic shares in February. Initially, FTX&#8217;s creditors had reservations about the sale, asserting that FTX had acquired the shares using customer funds. </p>
+<p>However, FTX&#8217;s promise to use the sale proceeds to repay its creditors convinced them to approve the proposal. The condition for approval was that the sale proceeds be used to repay the creditors.</p>
+<h2>Anthropic Undergoes Ownership Change</h2>
+<p>According to Bloomberg, the sale of the majority stake in Anthropic will allow FTX to generate substantial funds, which will be crucial in addressing its financial obligations. </p>
+<p>For Anthropic, the sale represents a change in ownership but does not diminish its position as a key artificial intelligence startup. The company&#8217;s previous investments from Amazon and Alphabet Inc.&#8217;s Google have bolstered its position in the rapidly growing field.</p>
+<p>Following the sale of the majority of the exchange’s <a href="https://bitcoinist.com/former-ftx-executives-platform-secures-60-million/" target="_blank" rel="noopener ">shares </a>in the startup, which company will have the majority of ownership in Antrophic remains to be seen. </p>
 
-<p>WietseWind has stated the need for the development of a Canary Network to enhance and improve the AMM. He revealed that the Canary Network will have to be separate from the AMM, while also offering a native asset of some value so individuals can use it for real-life scenarios.</p>
-<p>The developer has disclosed that the Canary Network would enable better testing with real value on a network that is not the mainnet. Additionally, it would be an inclusive network for the developers, projects, and everyone within the <a href="https://bitcoinist.com/xrps-underperformance-ruffles-feathers-as-community-asks-ripple-to-do-something-about-price/">XRPL community.</a></p>
-<p><img fetchpriority="high" decoding="async" class="aligncenter size-medium" src="https://www.tradingview.com/x/ARb5diBS/" alt="XRP price chart from Tradingview.com" width="3286" height="1530" /></p>
+<p>FTX&#8217;s decision to sell its majority stake in Anthropic for $884 million is an important step in the bankruptcy reorganization process. By selling its stake, FTX aims to fully repay its creditors and strengthen its financial position. The sale also demonstrates the increased interest in <a href="https://bitcoinist.com/worldcoin-up-46-in-wake-of-altman-board-reunion/" target="_blank" rel="noopener ">AI-related startups</a> that has significantly increased the exchange&#8217;s initial $500 million investment. </p>
+<img fetchpriority="high" decoding="async" class="size-large" src="https://www.tradingview.com/x/kAtuBUuU/" alt="FTX" width="1815" height="858" />
+<p>As of the current update, the native token of the exchange, FTT, is trading at $2.22, showing a 9% rebound in the last 24 hours. This follows its notable year-to-date surge of 74%. </p>
+<p>Featured image from Shutterstock, chart from TradingView.com </p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/shutterstock_download-7-4.jpg?fit=390%2C260" width="390" height="260" /><post-id xmlns="com-wordpress:feed-additions:1">289559</post-id>	</item>
+		<item>
+		<title>Crypto Houdini? Binance Exec Escapes From Nigerian Custody Amid Tax Evasion Charges – Report</title>
+		<link>https://bitcoinist.com/crypto-houdini-binance-exec-escapes-from-nigerian-custody-amid-tax-evasion-charges-report/</link>
+		
+		<dc:creator><![CDATA[Rubmar Garcia]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2024 01:30:37 +0000</pubDate>
+				<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[binance]]></category>
+		<category><![CDATA[Binance Nigeria]]></category>
+		<category><![CDATA[Binance regulation]]></category>
+		<category><![CDATA[BNB]]></category>
+		<category><![CDATA[bnbusdt]]></category>
+		<category><![CDATA[Nigerian government]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289531</guid>
+
+					<description><![CDATA[One of the two senior executives from crypto exchange Binance has escaped from the Nigerian authorities as criminal charges were pressed against him. The executive was first detained on February 26 as part of Nigeria’s actions against the exchange. According to local reports, Nigeria’s Federal Government filed Tax evasion charges against Binance amid the escapist [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="font-weight: 400;">One of the two senior executives from crypto exchange Binance has escaped from the Nigerian authorities as criminal charges were pressed against him. The executive was <a href="https://bitcoinist.com/nigeria-detains-binances-crypto-crime-investigator/" target="_blank" rel="noopener ">first detained</a> on February 26 as part of Nigeria’s actions against the exchange.</p>
+<p style="font-weight: 400;">According to local reports, Nigeria’s Federal Government filed Tax evasion charges against Binance amid the escapist turmoil.</p>
+
+<h2 style="font-weight: 400;">From Binance Executive To Crypto Escapist</h2>
+<p style="font-weight: 400;">A Nigerian newspaper <a href="https://www.premiumtimesng.com/news/top-news/680511-exclusive-detained-binance-executive-escapes-from-custody-in-nigeria.html" target="_blank" rel="noopener nofollow">revealed</a> that Nadeem Anjarwalla, one of the two detained Binance executives, escaped from the government’s custody almost a month after his detention. According to the report, the executive fled the country on March 22.</p>
+<p style="font-weight: 400;">After the detention, Anjarwalla remained in custody at an Abuja guest house with Tigran Gambaryan, who was also detained. On Friday, guards on duty took the now-fugitive to a nearby mosque “for prayer in the spirit of the ongoing Ramadan fast.” However, Anjarwalla escaped and allegedly flew out of Abuja on a Middle East Airline.</p>
+<p style="font-weight: 400;">The logistics for the escape have raised plenty of questions for authorities. The executive, who holds dual British and Kenyan citizenship, had his passport confiscated during the detention.</p>
+<p style="font-weight: 400;">The investigation has unveiled that the fugitive fled the country with his Kenyan passport. Nonetheless, how he got access to this passport remains a mystery to authorities as he only carried his British travel document when detained in February.</p>
+<p style="font-weight: 400;">Sources told the local news publication that the guest house where the Binance executives were held was “comfortable” and “allowed many rights.” The phone privileges are now believed to have been exploited by Anjarwalla to plot his escape.</p>
+<p style="font-weight: 400;">Authorities are working on discovering the fugitive&#8217;s intended destination to get him back into custody. Moreover, the country’s authorities are allegedly in talks with Interpol to issue an international arrest warrant.</p>
+<p style="font-weight: 400;">A Binance representative <a href="https://www.cnbc.com/2024/03/25/binance-executive-escapes-nigerian-custody-as-authorities-file-new-tax-charges.html" target="_blank" rel="noopener nofollow">confirmed</a> to CNBC that the exchange is aware of the situation and affirmed that they are collaborating with Nigerian authorities on the matter:</p>
+<blockquote>
+<p style="font-weight: 400;">We were made aware that Nadeem is no longer in Nigerian custody. Our primary focus remains on the safety of our employees and we are working collaboratively with Nigerian authorities to quickly resolve this issue.</p>
+</blockquote>
+<h2 style="font-weight: 400;">Binance Faces Tax Evasion Charges In Nigeria</h2>
+<p style="font-weight: 400;">As reported by Bitcoinist, Nigeria’s <a href="https://bitcoinist.com/nigeria-fines-binance-10-billion/" target="_blank" rel="noopener ">crackdown</a> on Binance saw the crypto exchange fined $10 billion earlier this month, alleging that the platform was responsible for the devaluation of the Nigerian naira.</p>
+<p style="font-weight: 400;">Subsequently, the government sent a request to the exchange’s CEO, Richard Teng. The ultimatum demanded Teng to address the allegations of “terrorist financing, money laundering, and tax evasion” in the country.</p>
+<p style="font-weight: 400;">The most recent reports <a href="https://punchng.com/fg-files-tax-evasion-charges-against-binance/" target="_blank" rel="noopener nofollow">show</a> that the Nigerian government filed tax evasion charges against the crypto exchange as the shocking news of Anjarwalla&#8217;s escape hit the world.</p>
+<p style="font-weight: 400;">The four charges were filed at the Federal High Court in Abuja by the Federal Inland Revenue Service. Besides Binance, Anjarwalla and Gambaryan appear as the second and third defendants against the accusations.</p>
+<p style="font-weight: 400;">Per the local report, the charges levied against the exchange include “non-payment of Value-Added Tax, Company Income Tax, failure to file tax returns, and complicity in aiding customers to evade taxes through its platform.”</p>
+<p style="font-weight: 400;">The Nigerian federal government also accused the crypto exchange of failing to register with the Federal Inland Revenue Service (FIRS) for tax purposes and “contravening existing tax regulations within the country.”</p>
+<p style="font-weight: 400;">In November 2023, <a href="https://bitcoinist.com/binances-4-3b-settlement-marks-crucial-shift/" target="_blank" rel="noopener ">Binance</a> pleaded guilty to charges relating to anti-money laundering in the US. This resulted in a $4.3 billion settlement with authorities, including Changpeng Zhao, stepping down as the crypto exchange’s CEO.</p>
+
+<p><img decoding="async" class="aligncenter wp-image-289535 size-large" src="https://bitcoinist.com/wp-content/uploads/2024/03/BNBUSDT_2024-03-25_12-41-40.png?resize=980%2C493" alt="BNB, BNBUSDT, Binance, crypto" width="980" height="493" srcset="https://bitcoinist.com/wp-content/uploads/2024/03/BNBUSDT_2024-03-25_12-41-40.png?w=1022 1022w, https://bitcoinist.com/wp-content/uploads/2024/03/BNBUSDT_2024-03-25_12-41-40.png?w=640 640w, https://bitcoinist.com/wp-content/uploads/2024/03/BNBUSDT_2024-03-25_12-41-40.png?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/03/BNBUSDT_2024-03-25_12-41-40.png?w=980 980w, https://bitcoinist.com/wp-content/uploads/2024/03/BNBUSDT_2024-03-25_12-41-40.png?w=360 360w, https://bitcoinist.com/wp-content/uploads/2024/03/BNBUSDT_2024-03-25_12-41-40.png?w=750 750w" sizes="(max-width: 980px) 100vw, 980px" data-recalc-dims="1" /></p>
 
 
 ]]></content:encoded>
 					
 		
 		
-		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/XRP-Ledger.jpeg?fit=300%2C168" width="300" height="168" /><post-id xmlns="com-wordpress:feed-additions:1">289396</post-id>	</item>
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/vadim-artyukhin-_92BitC3QEU-unsplash.jpeg?fit=630%2C420" width="630" height="420" /><post-id xmlns="com-wordpress:feed-additions:1">289531</post-id>	</item>
 		<item>
-		<title>Weekly Crypto Preview: Top Events And Coins To Watch</title>
-		<link>https://bitcoinist.com/weekly-crypto-preview-top-events-coins-to-watch/</link>
+		<title>SEC Declares Binance A &#8216;Threat&#8217;, Imposes Access Restrictions On Philippine Users</title>
+		<link>https://bitcoinist.com/binance-users-philippines-face-access-restriction/</link>
 		
-		<dc:creator><![CDATA[Jake Simmons]]></dc:creator>
-		<pubDate>Mon, 25 Mar 2024 12:30:32 +0000</pubDate>
-				<category><![CDATA[Crypto News]]></category>
-		<category><![CDATA[altcoins]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[btc]]></category>
+		<dc:creator><![CDATA[Ronaldo Marquez]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2024 00:00:05 +0000</pubDate>
+				<category><![CDATA[Binance]]></category>
+		<category><![CDATA[binance]]></category>
+		<category><![CDATA[binance analysis]]></category>
+		<category><![CDATA[Binance Coin]]></category>
+		<category><![CDATA[Binance Coin (BNB)]]></category>
+		<category><![CDATA[bnbusd]]></category>
+		<category><![CDATA[bnbusdt]]></category>
 		<category><![CDATA[crypto]]></category>
 		<category><![CDATA[crypto news]]></category>
+		<category><![CDATA[crypto regulation]]></category>
+		<category><![CDATA[Crypto Regulations]]></category>
+		<category><![CDATA[cryptocurrencies]]></category>
 		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[digital currency]]></category>
+		<category><![CDATA[Philippines]]></category>
+		<category><![CDATA[Philippines crypto]]></category>
+		<category><![CDATA[Philippines SEC]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289511</guid>
+
+					<description><![CDATA[The Philippines Securities and Exchange Commission (SEC) has taken a significant regulatory step by blocking local access to Binance, the world&#8217;s largest cryptocurrency exchange by trading volume.  According to a release issued by the regulator on Monday, the SEC&#8217;s decision was based on Binance&#8217;s failure to obtain the necessary license from the commission to operate [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>The Philippines Securities and Exchange Commission (SEC) has taken a significant regulatory step by blocking local access to Binance, the world&#8217;s largest <a href="https://bitcoinist.com/bitcoin-surging-beyond-80000-driven-by-etf-inflows/" target="_blank" rel="noopener ">cryptocurrency exchange</a> by trading volume. </p>
+<p>According to a <a href="https://www.sec.gov.ph/pr-2024/sec-proceeds-with-blocking-of-binance/#gsc.tab=0" target="_blank" rel="noopener nofollow">release </a>issued by the regulator on Monday, the SEC&#8217;s decision was based on Binance&#8217;s failure to obtain the necessary license from the commission to operate as an investment and trading platform. </p>
+<h2>Binance&#8217;s Website And Services Blocked </h2>
+<p>In its March 12 meeting, the SEC approved filing a formal request with the National Telecommunications Commission (NTC) to assist in blocking Binance&#8217;s website and related web pages. </p>
+
+<p>The SEC said Binance was offering investment and trading services without the <a href="https://bitcoinist.com/binance-implements-stricter-token-listing-procedure/" target="_blank" rel="noopener ">required license</a> and allegedly posed a &#8220;threat&#8221; to the safety of Filipino investors&#8217; funds. SEC Chairman Emilio Aquino emphasized the importance of protecting the interests of investors in the request sent to the NTC. Aquino states:</p>
+<blockquote><p>The SEC has identified the aforementioned platform and concluded that the public’s continued access to these websites/apps poses a threat to the security of the funds of investing  Filipinos.</p></blockquote>
+<p>With an average <a href="https://bitcoinist.com/binance-investigates-300m-bome-token-pre-listing/" target="_blank" rel="noopener ">daily trading volume</a> of $65 billion and support for over 402 cryptocurrencies, Binance has gained a substantial user base of more than 183 million members in the Asian country, according to the regulator.</p>
+<p>However, the SEC emphasized that Binance has not obtained the necessary license to solicit investments from the public or operate a securities exchange. Consequently, the SEC issued a public warning against investing in or using Binance&#8217;s services. </p>
+<p>The commission has been actively exploring the possibility of blocking Binance&#8217;s website and online presence in the Philippines since November 2023. However, due to the “sizable operations” of Binance, the SEC has allowed sufficient time for investors to transition their portfolios toward authorized investment products and platforms.</p>
+<h2>CommEX To Close Operations Following Binance Acquisition</h2>
+<p>CommEX, the exchange that acquired Binance&#8217;s Russia business in September, has announced its decision to shut down. As per the company&#8217;s <a href="https://commex.zendesk.com/hc/en-us/articles/9278429425807-CommEX-Notice-of-Operation-Suspension" target="_blank" rel="noopener nofollow">statement </a>on its website, the delisting process will commence on May 10, rendering users unable to access any content associated with the exchange. However, a series of steps will be implemented, leading to the closure.</p>
+<p>Effective March 25, 2024, <a href="https://bitcoinist.com/binance-russian-exodus-did-key-players-shift-commex/" target="_blank" rel="noopener ">CommEX </a>will stop new user registrations, asset transfers from Binance, and fiat and cryptocurrency deposit services. Then, on March 28, the exchange will stop opening positions for simple futures and futures trading and only allow users to close existing positions.</p>
+
+<p>More changes will follow: Starting April 2, 2024, P2P services will prohibit merchants from creating new advertisements and prevent users from creating new orders; the system will automatically close existing P2P orders and advertising services.</p>
+<p>Trading pairs for Simple Futures and Futures Trading will be delisted on April 18, prompting users to close all open positions to avoid automatic settlements. In addition, the<a href="https://bitcoinist.com/nigeria-detains-binances-crypto-crime-investigator/" target="_blank" rel="noopener "> spot market</a> will be closed on April 23rd, automatically canceling all spot orders and disabling the Convert feature.</p>
+<p>Finally, on May 10, 2024, the official website of CommEX will be delisted, resulting in the unavailability of any content related to the exchange.</p>
+<img decoding="async" class="size-large" src="https://www.tradingview.com/x/NgBPFfVs/" alt="Binance" width="1815" height="858" />
+<p>Featured image from Shutterstock, chart from TradingView.com </p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/shutterstock_download-7-3.jpg?fit=390%2C260" width="390" height="260" /><post-id xmlns="com-wordpress:feed-additions:1">289511</post-id>	</item>
+		<item>
+		<title>Dogecoin Price Action: Why A 10% Drop Would Cost Traders $66 Million</title>
+		<link>https://bitcoinist.com/dogecoin-10-drop-66-million/</link>
+		
+		<dc:creator><![CDATA[Scott Matherson]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 23:00:24 +0000</pubDate>
+				<category><![CDATA[Dogecoin]]></category>
+		<category><![CDATA[Doge]]></category>
+		<category><![CDATA[DOGE news]]></category>
+		<category><![CDATA[doge price]]></category>
+		<category><![CDATA[DOGE traders]]></category>
 		<category><![CDATA[dogecoin]]></category>
-		<category><![CDATA[fantom]]></category>
-		<category><![CDATA[PCE]]></category>
-		<category><![CDATA[US inflation]]></category>
-		<category><![CDATA[Weekly Crypto Preview]]></category>
-		<guid isPermaLink="false">https://bitcoinist.com/?p=289359</guid>
+		<category><![CDATA[Dogecoin news]]></category>
+		<category><![CDATA[dogecoin price]]></category>
+		<category><![CDATA[dogeusd]]></category>
+		<category><![CDATA[dogeusdt]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289398</guid>
 
-					<description><![CDATA[The crypto space is bracing for another eventful week, marked by several key developments and coins that are poised to influence market dynamics. So, here’s what investors and enthusiasts should be on the lookout for. Bitcoin: A Watchful Eye On Spot ETF Outflows Bitcoin remains at the forefront of investor attention, with the spotlight intensifying [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>The crypto space is bracing for another eventful week, marked by several key developments and coins that are poised to influence market dynamics. So, here’s what investors and enthusiasts should be on the lookout for.</p>
-<h2>Bitcoin: A Watchful Eye On Spot ETF Outflows</h2>
-<p>Bitcoin remains at the forefront of investor attention, with the spotlight intensifying on the movements within spot Bitcoin ETFs. After experiencing an unprecedented <a href="https://www.newsbtc.com/news/bitcoin/bitcoin-price-reclaims-66000-despite-4-day-etf-outflow-streak/" target="_blank" rel="noopener nofollow">streak</a> of five consecutive days of net negative flows—a first since their inception on January 11—the market is keenly awaiting a potential turnaround.</p>
-<p>Historically, ETFs have been<a href="https://bitcoinist.com/spot-bitcoin-etf-noobs-panic-selling/" target="_blank" rel="noopener "> significant for BTC</a>, with a daily net inflow of $225 million on average &#8211; a target bulls will want to see. Financial Times recently wrote a hit piece, &#8220;Have the inflows into Bitcoin funds dried up?&#8221; The market needs to prove otherwise.</p>
-<p>Meanwhile, renowned ETF expert Nate Geraci commented on the article, &#8220;Spot bitcoin ETFs have taken in a net $11bil &amp; have $50bil AUM in 2+ months &amp; the media is already trying to call it over… No idea what happens w/ flows moving forward, but someone pls tell them numerous RIAs &amp; brokerage platforms haven’t even approved these things for use yet.&#8221;</p>
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
-<p lang="en" dir="ltr">Spot bitcoin ETFs have taken in a net $11bil &amp; have $50bil AUM in 2+ months &amp; the media is already trying to call it over…</p>
-<p>No idea what happens w/ flows moving forward, but someone pls tell them numerous RIAs &amp; brokerage platforms haven’t even approved these things for use yet. <a href="https://t.co/ECZTGe4f0g" rel="nofollow" target="_blank">pic.twitter.com/ECZTGe4f0g</a></p>
-<p>&mdash; Nate Geraci (@NateGeraci) <a href="https://twitter.com/NateGeraci/status/1772063794404921554?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">March 25, 2024</a></p></blockquote>
-<p></p>
-<h2>US Inflation Data: The PCE Index</h2>
-<p>The Personal Consumption Expenditures (PCE) Index, set for release this Friday, could have a significant impact on the market. The PCE Index, particularly its core component that excludes food and energy, is the Federal Reserve&#8217;s preferred inflation measure. It offers a broad view of the inflationary pressures within the economy, influencing monetary policy decisions.</p>
+					<description><![CDATA[Dogecoin has been quite strong over the weekend despite other assets in the crypto space taking a beating. This has seen the meme coin favor long traders during this time. However, bulls are not completely out of the woods and a drop in price from here would be detrimental to the tune of tens of [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2 class="p2">Dogecoin Price Drop To $0.15 Would Wipe Out $66 Million</h2>
+<p class="p2">The Dogecoin price is still holding steady above $0.17, but long traders face a threat if the price were to break down and retreat from here. According to <a href="https://www.coinglass.com/pro/futures/LiquidationMap" rel="nofollow noopener" target="_blank">data</a> from Coinglass, there are a lot of traders who would lose money if the <a href="https://bitcoinist.com/shiba-inu-outperform-dogecoin/">DOGE price</a> were to fall 10% from its current level.</p>
 
-<p>The upcoming release, expected to show year-over-year core PCE at 2.8%(last 2.8%) and month-over-month at 0.3% (last 0.4%), holds weight in the Fed&#8217;s interest rate trajectory. Given the Fed&#8217;s pause on rate cuts, the market is keenly observing this data for signals on future monetary policy, especially with Fed Chair Jerome Powell&#8217;s insights anticipated at the end of the week (Friday).</p>
-<p>This <a href="https://bitcoinist.com/bitcoin-btc-leading-indicator-cpi-inflation/" target="_blank" rel="noopener ">inflation data</a> not only affects traditional finance but could also sway crypto markets, as Bitcoin and other digital assets have increasingly reacted to macroeconomic indicators in recent weeks.</p>
-Dogecoin: Futures Trading And &#8216;Doge Day&#8217;
-<p>Dogecoin is taking a significant leap forward with Coinbase International&#8217;s announcement of launching DOGE futures trading starting April 1. Coinbase officially <a href="https://bitcoinist.com/dogecoin-surges-x-payments-secures-3-new-licenses/" target="_blank" rel="noopener ">announced</a> on Thursday last week, “Coinbase Derivatives will launch the first leveraged and CFTC-regulated futures contracts for Bitcoin Cash, Dogecoin, and Litecoin in April!”</p>
-<p>Futures trading for cryptocurrencies like Dogecoin allows investors to speculate on the future price of DOGE without holding the actual cryptocurrency. This can increase liquidity and volatility but also introduce a mechanism for price discovery and hedging against price movements. Coinbase Derivatives&#8217; decision to offer these contracts could attract a new class of investors and traders to Dogecoin, potentially increasing its volatility.</p>
-Aptos: Anticipation Of Major Announcements
-<p>The Aptos network is on the cusp of potentially game-changing announcements, with speculation about partnerships with major asset managers like <a href="https://bitcoinist.com/blackrock-private-bitcoin-event/" target="_blank" rel="noopener ">BlackRock</a> or Franklin Templeton. The forthcoming &#8216;Aptos DeFi DAYS&#8217; event in Hong Kong from April 2 to 5 could serve as the stage for these revelations, with significant implications for the network&#8217;s valuation and strategic positioning in the DeFi space.</p>
-<p>“Aptos is poised for a significant RWA announcement in April. Potential partnership rumors with a major asset manager. (BlackRock/Franklin Templeton) I anticipate that details will be revealed at the &#8216;Aptos DeFi DAYS&#8217; event on April 2”,” research firm Layergg <a href="https://twitter.com/layerggofficial/status/1771797316279980134" target="_blank" rel="noopener nofollow">remarked</a> via X.</p>
-Fantom: The Sonic Mainnet Launch
-<p>The Fantom Foundation is on the verge of <a href="https://www.newsbtc.com/news/fantom-ftm-jumps-180-4-weeks-just-the-beginning/" target="_blank" rel="noopener nofollow">launching</a> the Sonic mainnet, a major technological advancement that promises to significantly enhance the blockchain&#8217;s performance and scalability. This upgrade is not just an incremental update but a comprehensive overhaul of Fantom&#8217;s infrastructure, aiming to address some of the most pressing challenges in the blockchain and decentralized application (dApp) ecosystem.</p>
+<p class="p2">The liquidation heat map on the website shows that right above the $0.153 level, there is a lot of leveraged longs. A total of 2.43 million <a href="https://bitcoinist.com/shiba-inu-outperform-dogecoin/">DOGE</a> in leveraged longs have their liquidation price at this point, and a drop below this price mark would lead to massive liquidations. In total, there are $66.89 million worth of longs at this level, and a 10% drop would trigger this liquidation trend.</p>
+<p style="text-align: center;"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-289440 aligncenter" src="https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-13.40.09.png?w=640&#038;resize=640%2C264" alt="Dogecoin liquidation map" width="640" height="264" srcset="https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-13.40.09.png?w=2756 2756w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-13.40.09.png?w=640&#038;resize=640%2C264 640w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-13.40.09.png?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-13.40.09.png?w=980 980w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-13.40.09.png?w=1536 1536w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-13.40.09.png?w=2048 2048w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-13.40.09.png?w=750 750w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-13.40.09.png?w=1140 1140w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" />Source: Coinglass</p>
+<p class="p2">On the other end of the spectrum, there are a large number of leveraged shorts that will be liquidated if the price were to rise another 10% from here. Coinglass data shows that the liquidation volumes, if Dogecoin moves above $0.1908, would cross more than $55 million.</p>
+<p class="p2">In the shorter term, short traders stand to suffer $20 million in liquidations if the <a href="https://bitcoinist.com/big-money-eyes-dogecoin-whale-activity-explodes-600/">DOGE price</a> reaches $0.18. Whole long traders risk a similar amount if the price of the meme coin breaks down below $0.17.</p>
+<h2 class="p2">Can DOGE Price Reclaim $0.2?</h2>
+<p class="p2">The Dogecoin price continues to get a lot of support, and one of the most recent instances of this is the price surging when the social media platform X (formerly Twitter) announced that it had gotten a number of licenses for its money transmitter business.</p>
 
-<p>At the heart of the Sonic upgrade is the Fantom Virtual Machine (FVM), a newly developed engine designed to dramatically increase transaction speed and efficiency. This is complemented by the Carmen Database, a breakthrough in data storage that promises to reduce storage requirements by up to 90%. Moreover, the upgrade includes an optimized version of the Lachesis Consensus mechanism, further enhancing the blockchain&#8217;s performance.</p>
-<p>These innovations collectively aim to propel Fantom&#8217;s transaction capacity to over 2,000 transactions per second, marking a significant leap towards solving scalability issues that have long plagued blockchain platforms. Scheduled for launch in spring 2024, the Sonic Mainnet could further bolster the Fantom (FTM) price prior to the official release.</p>
-Ondo Finance: Riding The Crypto Wave Of RWA
-<p>Ondo Finance is the best-performing crypto asset in the top 100 by market cap in the last seven days, with a staggering 93.5% increase in price, following BlackRock&#8217;s announcement of a $100M tokenized asset to fund. As RWA becomes a focal point in the crypto narrative, Ondo Finance&#8217;s association with BlackRock places it at the heart of this burgeoning trend, highlighting the growing intersection between traditional finance and blockchain technology.</p>
-<p>“Ondo Finance is the RWA project most associated with BlackRock at this point and Real World Assets (RWA) could be the next major trend in crypto. They are also mentioned as a key project in Bitwise&#8217;s ‘Crypto Use Case 2024’ report,” research firm Layergg stated via X.</p>
-<p>At press time, BTC traded at $66,967.</p>
-<img decoding="async" class="size-full wp-image-289377" src="https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472" alt="Bitcoin price" width="1024" height="472" srcset="https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=3628 3628w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=640 640w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=980 980w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=1536 1536w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=2048 2048w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=750 750w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=1140 1140w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSD_2024-03-25_11-48-26.png?resize=1024%2C472?w=3000 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+<p class="p2">Crypto analysts have also shown bullishness toward the meme coin, expecting the Dogecoin price to continue to rise. One such case is from crypto analyst DonAlt who <a href="https://bitcoinist.com/crypto-pundit-predicts-price-surge-for-dogecoin/">believes that the DOGE price could reach a new all-time high with a target at $1</a>.</p>
+<p class="p2">DonAlt explains that the meme coin has being trading quite well alongside Bitcoin, so the possibility that it rallies towards $1 is high. The crypto analyst believes that <a href="https://bitcoinist.com/dogecoin-surges-x-payments-secures-3-new-licenses/">DOGE</a> is a great investment and it would be a great buy if it does dip to $1 again.</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-medium" src="https://www.tradingview.com/x/yPABAshh/" alt="Dogecoin price chart from Tradingview.com" width="3286" height="1530" /></p>
+
 
 ]]></content:encoded>
 					
 		
 		
-		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/iStock-1460700055.jpg?fit=640%2C360" width="640" height="360" /><post-id xmlns="com-wordpress:feed-additions:1">289359</post-id>	</item>
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/Dogecoin-price.jpeg?fit=304%2C166" width="304" height="166" /><post-id xmlns="com-wordpress:feed-additions:1">289398</post-id>	</item>
 		<item>
-		<title>Bitcoin Buying Spree: Robert Kiyosaki Set To Buy 10 More BTC Before April&#8221;</title>
-		<link>https://bitcoinist.com/kiyosaki-set-to-buy-10-more-bitcoin-before-april/</link>
+		<title>Bitcoin Shatters Profit-Taking Streak From 2021 Bull Run</title>
+		<link>https://bitcoinist.com/bitcoin-shatters-profit-taking-streak-2021-bull-run/</link>
 		
-		<dc:creator><![CDATA[Godspower Owie]]></dc:creator>
-		<pubDate>Mon, 25 Mar 2024 11:04:35 +0000</pubDate>
-				<category><![CDATA[Bitcoin]]></category>
-		<category><![CDATA[Andy Schectman]]></category>
+		<dc:creator><![CDATA[Keshav Verma]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 22:00:15 +0000</pubDate>
+				<category><![CDATA[Bitcoin News]]></category>
 		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[Bitcoin Halving]]></category>
+		<category><![CDATA[Bitcoin Bull Run]]></category>
+		<category><![CDATA[Bitcoin profit-taking]]></category>
+		<category><![CDATA[Bitcoin Profits]]></category>
+		<category><![CDATA[Bitcoin Rally]]></category>
+		<category><![CDATA[Bitcoin Record]]></category>
 		<category><![CDATA[btc]]></category>
 		<category><![CDATA[btcusd]]></category>
-		<category><![CDATA[BTCUSDT]]></category>
-		<category><![CDATA[gold]]></category>
-		<category><![CDATA[michael saylor]]></category>
-		<category><![CDATA[Rich Dad Poor Dad]]></category>
-		<category><![CDATA[Robert Kiyosaki]]></category>
-		<category><![CDATA[silver]]></category>
-		<guid isPermaLink="false">https://bitcoinist.com/?p=289365</guid>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289443</guid>
 
-					<description><![CDATA[Acclaimed Author and Bitcoin bull Robert Kiyosaki has once again displayed his confidence in BTC, revealing his intentions of increasing his holdings as he predicts significant gains for the largest cryptocurrency asset. Robert Kiyosaki Targets Bitcoin At $100,000 Robert Kiyosaki reiterated his positive view on Bitcoin in a recent X post where he spelled out [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Acclaimed Author and <a href="https://bitcoinist.com/cathie-wood-says-bitcoin-headed-to-1-5-m/" target="_blank" rel="noopener ">Bitcoin</a> bull Robert Kiyosaki has once again displayed his confidence in BTC, revealing his intentions of increasing his holdings as he predicts significant gains for the largest cryptocurrency asset.</p>
-<h2>Robert Kiyosaki Targets Bitcoin At $100,000</h2>
-<p><a href="https://bitcoinist.com/robert-kiyosaki-avocates-bitcoin-investment/" target="_blank" rel="noopener ">Robert Kiyosaki</a> reiterated his positive view on Bitcoin in a recent X <a href="https://x.com/theRealKiyosaki/status/1772115533502259692?s=20" target="_blank" rel="noopener nofollow">post</a> where he spelled out his thoughts on the digital asset and disclosed his ambitions to purchase an additional 10 BTC before the month of April. The author cites the upcoming Bitcoin Halving event as the true motivation behind his plans to acquire 10 more BTC.</p>
-<p>It is noteworthy that the highly anticipated <a href="https://bitcoinist.com/why-bitcoin-halving-could-bring-uncertainty-to-mining-industry/" target="_blank" rel="noopener ">Bitcoin halving</a> is anticipated to take place in less than 30 days from now. The event is believed to have the potential to be the next big trigger for the entire crypto market.</p>
+					<description><![CDATA[On-chain data shows the recent Bitcoin consecutive profit-taking day streak has now surpassed the longest run from the 2021 bull rally. Bitcoin Has Now Seen 157 Straight Days Of Net Profit-Taking As analyst James Van Straten explained as a new post on X, BTC has already surpassed the longest profit-taking spree from the previous bull [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>On-chain data shows the recent Bitcoin consecutive profit-taking day streak has now surpassed the longest run from the 2021 bull rally.</p>
+<h2>Bitcoin Has Now Seen 157 Straight Days Of Net Profit-Taking</h2>
+<p>As analyst James Van Straten explained as a new <a href="https://twitter.com/jvs_btc/status/1772226408451875076" target="_blank" rel="noopener nofollow">post</a> on X, BTC has already surpassed the longest profit-taking spree from the previous bull run during this rally so far.</p>
+<p>The relevant indicator here is the &#8220;<a href="https://bitcoinist.com/bitcoin-going-through-one-profit-taking-events-data/" target="_blank" rel="noopener ">Net Realized Profit/Loss</a>,&#8221; which tracks the net amount of profit or loss (in USD) that Bitcoin investors as a whole are realizing with their selling.</p>
 
-<p>He further provided an accumulation strategy for investors who are concerned about affordability, suggesting, &#8220;If a buyer is unable to afford a whole BTC, they could want to think about purchasing 1/10 of the coin through Satoshi&#8217;s or the new ETFs.&#8221;</p>
-<p>The post stated:</p>
-<blockquote><p>I am buying 10 more Bitcoin before April. Why?  The “Having.” If you can not afford a whole Bitcoin, you may want to consider buying 1/10 of a coin, via the new ETFs or Satoshi’s.</p></blockquote>
-<p>According to Robert Kiyosaki, if the aforementioned strategy plays out very well, an investor could own an entire BTC by the end of the year. Kiyosaki is very bullish about the leading crypto asset as he expects BTC to hit the $100,000 threshold by September this year.</p>
-<p>He also advocates acquiring Silver coins, especially the United States silver eagles, if an investor is not interested in BTC. His friend Andy Schectman claims that the silver supply, which was formerly plentiful, is almost depleted. The reasons behind this is that China&#8217;s real estate market is toast, and smart money is aware that the US is the world&#8217;s biggest debtor nation. </p>
-<p>Additionally, since 1990, Japan has been undergoing a depression; Germany is also experiencing one; mom-and-pop consumers are surviving solely on credit cards; banks are having troubles; and global conflict looms. </p>
-<p>As a result, Kiyosaki is urging investors to consider investing in silver in order not to be poor given the current <a href="https://bitcoinist.com/robert-kiyosaki-safeguard-your-wealth-with-bitcoin/" target="_blank" rel="noopener ">economic uncertainty</a> around the world today.</p>
-<h2>Investing In Fiat Currencies Is Not A Smart Idea</h2>
-<p>Fiat currencies, sometimes considered fake money, are dangerous to save with, according to Kiyosaki and his associates Andy Schectman and <a href="https://bitcoinist.com/good-things-on-the-way-for-bitcoin-investors/" target="_blank" rel="noopener ">Michael Saylor</a>. This simply suggested that investing in fiat currencies is not a smart move, and those engaging in the act are bound to end up poor in the future.</p>
+<p>This metric works by going through the on-chain history of each sold coin to see what price it was moved at before this. Assuming that the last transaction of the coin was the last point at which it changed hands, the price at its time would have been its cost basis leading up to its latest sale.</p>
+<p>The indicator then subtracts this price from the current spot price at which it&#8217;s being sold/transferred to calculate the realized profit or loss. Naturally, if this difference is positive, the coin&#8217;s sale is contributing to the profit-taking volume, while it being negative implies loss realization.</p>
+<p>The Net Realized Profit/Loss sums up all these profits and losses for all the coins being sold at a given moment to output the overall situation in the market.</p>
+<p>Now, here is a chart that shows the trend in the 7-day moving average (MA) of this Bitcoin indicator over the past few years:</p>
+<p><img loading="lazy" decoding="async" class="alignnone aligncenter" src="https://pbs.twimg.com/media/GJg1wsVWQAEEwoU?format=jpg&amp;name=large" alt="Bitcoin Net Realized Profit/Loss" width="1800" height="1013" /></p>
 
-<p>Thus, they advise everyone to invest in either silver, gold, or Bitcoin, citing that silver is the most affordable among these assets, and nearly everyone in the world can afford one silver coin or BTC Satoshi. &#8220;Coin prices for Bitcoin, Gold, and Silver are approximately $70,000, $2,500, and $35.00, respectively,&#8221; Kiyosaki added.</p>
-<img decoding="async" class="size-medium" src="https://www.tradingview.com/x/bQtrJeLS/" alt="Bitcoin" width="2273" height="1351" />
+<p>As displayed in the above graph, the 7-day MA of the Bitcoin Net Realized Profit/Loss has been positive for the past few months. To be more particular, the indicator has held these values for 157 consecutive days now.</p>
+<p>When this metric has green values, it means that the market as a whole is participating in a net amount of profit-taking. Similarly, red values imply the dominance of loss-taking.</p>
+<p>It would appear that the investors have been taking net profit for 157 straight days now, which is longer than the longest profit-taking streak during the <a href="https://bitcoinist.com/bitcoin-volume-79-lower-2021-bull-run-glassnode/" target="_blank" rel="noopener ">2021 bull run</a> (155 days).</p>
+<p>From the chart, it&#8217;s visible that Bitcoin Net Realized Profit/Loss shot especially high as the cryptocurrency&#8217;s price explored <a href="https://bitcoinist.com/bitcoin-breaks-through-69000-setting-new-record/" target="_blank" rel="noopener ">new all-time highs</a> earlier. The price top so far coincided with the peak of this spike in the indicator, where its 7-day MA value hit $3.6 billion.</p>
+<p>This profit-taking level was similar to the largest event observed during the last bull run. According to Straten, this is one of the reasons the asset has seen such a massive selloff.</p>
+
+<p>Despite hitting record levels already, the profit-taking may not be ending anytime soon; however, as the analyst says, &#8220;this trend will continue as we are in a bull run and is still relatively mild compared to the 2021 bull run.&#8221;</p>
+<h2>BTC Price</h2>
+<p>Bullish momentum appears to have returned for Bitcoin as the cryptocurrency has surpassed the $69,000 level after a surge of more than 5% over the past day.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-medium aligncenter" src="https://www.tradingview.com/x/NtaxTQBf/" alt="Bitcoin Price Chart" width="1534" height="854" /></p>
+
 
 ]]></content:encoded>
 					
 		
 		
-		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2023/12/iStock-1252711675.jpg?fit=640%2C330" width="640" height="330" /><post-id xmlns="com-wordpress:feed-additions:1">289365</post-id>	</item>
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/shutterstock_1063376348-1.jpg?fit=630%2C420" width="630" height="420" /><post-id xmlns="com-wordpress:feed-additions:1">289443</post-id>	</item>
 		<item>
-		<title>Battle Of Titans: Bitcoin Leads S&#038;P 500, Michael Saylor Asserts Amid Disagreement</title>
-		<link>https://bitcoinist.com/bitcoin-leads-sp-500-michael-saylor-asserts/</link>
+		<title>Bitcoin Stalls As Evening Star Forms: Can BTC Bulls Still Shine?</title>
+		<link>https://bitcoinist.com/bitcoin-evening-star-btc-bulls-still-shine/</link>
 		
-		<dc:creator><![CDATA[Christian Encila]]></dc:creator>
-		<pubDate>Mon, 25 Mar 2024 08:30:54 +0000</pubDate>
-				<category><![CDATA[Bitcoin]]></category>
+		<dc:creator><![CDATA[Dalmas Ngetich]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 21:00:54 +0000</pubDate>
+				<category><![CDATA[Bitcoin News]]></category>
 		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[bitcoin price]]></category>
+		<category><![CDATA[BlackRock]]></category>
 		<category><![CDATA[btc]]></category>
-		<category><![CDATA[michael saylor]]></category>
-		<category><![CDATA[MicroStrategy]]></category>
-		<category><![CDATA[Peter Schiff]]></category>
-		<guid isPermaLink="false">https://bitcoinist.com/?p=289324</guid>
+		<category><![CDATA[btc price]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[GBTC]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289500</guid>
 
-					<description><![CDATA[The allure of Bitcoin continues to spark debate, with proponents touting its skyrocketing value and critics warning of a potential bubble. This weekend, a prominent crypto advocate and CEO, Michael Saylor, reignited the discussion by showcasing Bitcoin&#8217;s impressive gains compared to traditional assets. Related Reading: SEC Chair Gary Gensler Says Crypto Industry Needs ‘Disinfectant’ – [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p data-sourcepos="3:1-3:304">The allure of Bitcoin continues to spark debate, with proponents touting its skyrocketing value and critics warning of a potential bubble. This weekend, a prominent crypto advocate and CEO, Michael Saylor, reignited the discussion by showcasing Bitcoin&#8217;s impressive gains compared to traditional assets.</p>
+					<description><![CDATA[Tony &#8220;The Bull&#8221; Severino, the Head of Research at NewsBTC and a certified CME, has identified an &#8220;Evening Star&#8221; candlestick pattern on the monthly chart of the Bitcoin CME futures. This formation, which traditionally indicates a potential trend reversal, is forming at a critical point for Bitcoin. According to Severino, there could be tell-tale signs suggesting [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Tony &#8220;The Bull&#8221; Severino, the Head of Research at NewsBTC and a certified CME, has <a href="https://twitter.com/tonythebullBTC/status/1772234677207625779" target="_blank" rel="noopener nofollow">identified</a><a href="https://twitter.com/tonythebullBTC/status/1772234677207625779" rel="nofollow noopener" target="_blank"> </a>an &#8220;Evening Star&#8221; candlestick pattern on the monthly chart of the Bitcoin CME futures. This formation, which traditionally indicates a potential trend reversal, is forming at a critical point for Bitcoin. </p>
+<p>According to Severino, there could be tell-tale signs suggesting that the Bitcoin upswing could end as the momentum fades.</p>
+<h2>The Evening Star Formation: BTC Bull Run Over?</h2>
+<p>Though there are concerns that the pattern is forming on the Bitcoin CME futures chart, it is absent from the spot BTCUSD chart on ordinary charts from Binance or Coinbase, for example. Accordingly, the lack of uniformity on charts has also left Severino questioning the reliability of the signal. </p>
 
-<h2 data-sourcepos="5:1-5:326"><strong>Bitcoin Debate: Saylor Vs. Schiff</strong></h2>
-<p data-sourcepos="5:1-5:326">Saylor, the chairman of MicroStrategy, a business intelligence firm, shared a chart highlighting the leading crypto&#8217;s over 430% growth against a backdrop of more modest gains from established investment options like the S&amp;P 500 (56%) and gold (7%). This, according to Saylor, underscores Bitcoin&#8217;s position as a dominant investment force.</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en"><a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">#Bitcoin</a> is Winning. <a href="https://t.co/3ESQRHKEDa" rel="nofollow" target="_blank">pic.twitter.com/3ESQRHKEDa</a></p>
-<p>— Michael Saylor<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/26a1.png" alt="⚡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@saylor) <a href="https://twitter.com/saylor/status/1771638958906110426?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">March 23, 2024</a></p></blockquote>
-<p></p>
-<p data-sourcepos="7:1-7:440">However, not everyone is convinced. Renowned economist Peter Schiff, a vocal critic of cryptocurrencies, remains unconvinced. He expressed concern over Saylor&#8217;s aggressive investment strategy, particularly MicroStrategy&#8217;s recent acquisition of over 9,000 BTCs. Schiff emphasizes the inherent volatility of digital currencies, highlighting the potential for significant losses, especially considering MicroStrategy&#8217;s leveraged purchases.</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">MicroStrategy has acquired an additional 9,245 BTC for ~$623.0M using proceeds from convertible notes &amp; excess cash for ~$67,382 per <a href="https://twitter.com/hashtag/bitcoin?src=hash&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">#bitcoin</a>. As of 3/18/24, <a href="https://twitter.com/search?q=%24MSTR&amp;src=ctag&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">$MSTR</a> hodls 214,246 <a href="https://twitter.com/search?q=%24BTC&amp;src=ctag&amp;ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">$BTC</a> acquired for ~$7.53B at average price of $35,160 per bitcoin. <a href="https://t.co/oeYJGgiuy0" rel="nofollow" target="_blank">https://t.co/oeYJGgiuy0</a></p>
-<p>— Michael Saylor<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/26a1.png" alt="⚡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@saylor) <a href="https://twitter.com/saylor/status/1770061111146033385?ref_src=twsrc%5Etfw" rel="nofollow noopener" target="_blank">March 19, 2024</a></p></blockquote>
-<p></p>
-<p data-sourcepos="9:1-9:461"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-289357" src="https://bitcoinist.com/wp-content/uploads/2024/03/a_8a90a8.png?resize=403%2C224" alt="" width="403" height="224" data-recalc-dims="1" /></p>
-<p data-sourcepos="9:1-9:461">Saylor, however, remains <a href="https://bitcoinist.com/michael-saylor-to-buy-bitcoin-forever-details/" target="_blank" rel="noopener ">unfazed by the recent price dip</a> (nearly 12%) following Bitcoin&#8217;s record high. He views volatility as a natural market phenomenon, even coining the phrase &#8220;volatility is vitality&#8221; to emphasize its role in a healthy market. This confidence extends to MicroStrategy&#8217;s investment strategy. The company has significantly increased its holdings, now totaling over 214,000 BTC, showcasing their long-term faith in the digital currency.</p>
-<p data-sourcepos="11:1-11:355">The contrasting views of Saylor and Schiff represent the ongoing debate surrounding Bitcoin. Proponents like Saylor point to its historical growth trajectory and its potential to disrupt traditional financial systems. They believe the digital asset&#8217;s limited supply (21 million coins will ever be mined) makes it a valuable hedge against inflation, similar to gold.</p>
-<p data-sourcepos="11:1-11:355"><img loading="lazy" decoding="async" class="aligncenter size-full" src="https://www.tradingview.com/x/vWYGx9uW/" width="1835" height="883" /></p>
+<p>While the Evening Star pattern suggests a possible reversal, Severino cautions that Bitcoin could still reach higher highs in the coming months before peaking and reversing. However, the analyst stresses that predicting the exact timing of these events is a challenge. </p>
+<p>Based on candlestick analysis, Severino predicts that Bitcoin could peak within the next two quarters, possibly in mid- or late Q3 2024. </p>
+<a href="https://www.tradingview.com/x/EU4owKnQ/" rel="nofollow noopener" target="_blank"><img loading="lazy" decoding="async" class="size-full" src="https://www.tradingview.com/x/EU4owKnQ/" alt="Bitcoin price trending upward on the daily chart | Source: BTCUSDT on Binance, TradingView" width="1787" height="904" /></a>
+<p>When writing, Bitcoin is trading at around all-time highs. Following the cool-off of last week, the coin bounced back strongly over the weekend, wiping out some losses. The coin is technically within a bearish breakout formation, trading below the 20-day moving average, clear in the daily chart.</p>
+<p>For the uptrend to continue and extend from the formation in the daily chart, BTC must push above $70,000. The validity of this uptrend will be solid if the leg up is with expanding trading volume. </p>
 
-<h2 data-sourcepos="13:1-13:404"><strong>Risks And Regulations</strong></h2>
-<p data-sourcepos="13:1-13:404">However, skeptics like Schiff highlight the risks associated with <a href="https://www.coingecko.com/" target="_blank" rel="noopener nofollow">BTC price fluctuations.</a> Unlike established assets with underlying fundamentals like company performance or resource scarcity, Bitcoin&#8217;s value relies heavily on speculation and market sentiment. A sudden shift in investor confidence could trigger a dramatic price drop, leading to significant losses for investors like MicroStrategy.</p>
-<p data-sourcepos="15:1-15:291">Further complicating the picture is the evolving regulatory landscape surrounding cryptocurrencies. Governments worldwide are still grappling with how to regulate this new asset class. Stringent regulations could stifle innovation and adoption, potentially hindering Bitcoin&#8217;s future growth.</p>
-
-<p data-sourcepos="19:1-19:306"><em>Featured image from Pexels, chart from TradingView</em></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/a_1fb6c5.jpg?fit=640%2C360" width="640" height="360" /><post-id xmlns="com-wordpress:feed-additions:1">289324</post-id>	</item>
-		<item>
-		<title>Why Tomorrow (March 26) Will Be Pivotal For Ripple And XRP</title>
-		<link>https://bitcoinist.com/march-26-pivotal-for-ripple-xrp/</link>
-		
-		<dc:creator><![CDATA[Jake Simmons]]></dc:creator>
-		<pubDate>Mon, 25 Mar 2024 07:30:49 +0000</pubDate>
-				<category><![CDATA[XRP]]></category>
-		<category><![CDATA[ripple]]></category>
-		<category><![CDATA[ripple labs]]></category>
-		<category><![CDATA[ripple news]]></category>
-		<category><![CDATA[Ripple vs SEC]]></category>
-		<category><![CDATA[XRP lawsuit]]></category>
-		<category><![CDATA[XRP news]]></category>
-		<category><![CDATA[XRP price]]></category>
-		<guid isPermaLink="false">https://bitcoinist.com/?p=289305</guid>
-
-					<description><![CDATA[In the XRP lawsuit, the next crucial phase is set to commence for Ripple Labs against the US Securities and Exchange Commission (SEC) tomorrow. Defense lawyer James K. Filan has recently casted the spotlight on March 26. The SEC has already submitted its opening remedies-related brief along with supporting documentation, albeit under seal, to the [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>In the XRP lawsuit, the next crucial phase is set to commence for Ripple Labs against the US Securities and Exchange Commission (SEC) tomorrow. Defense lawyer James K. Filan has recently casted the spotlight on March 26.</p>
-<p>The SEC has already submitted its opening remedies-related brief along with supporting documentation, albeit under seal, to the court. This step is a significant progression in the protracted legal dispute that has spanned several years. Filan&#8217;s <a href="https://twitter.com/FilanLaw/status/1771316749641687403" target="_blank" rel="noopener nofollow">statement</a> via X emphasizes the forthcoming public disclosure of these documents, slated for no later than March 26, 2024.</p>
-
-<p>&#8220;The SEC has filed, under seal, its opening remedies-related brief and supporting documents. These documents are not public yet. Public, redacted versions will be filed no later than Tuesday, March 26, 2024,&#8221; Filan communicated, highlighting the importance of this date in the context of the Ripple vs. SEC case.</p>
-<h2>Ripple Vs. SEC: What To Expect</h2>
-<p>It&#8217;s crucial to understand the nature and significance of an &#8220;opening remedies-related brief.&#8221; This document represents a foundational element in the litigation process. Essentially, the opening remedies-related brief is the initial submission by a party—in this instance, the SEC—outlining the specific legal and financial remedies it seeks from the court against the opposing party, Ripple Labs.</p>
-<p>The amount of remedies that the SEC is demanding is eagerly awaited. In particular, it will be interesting to see how much the SEC demands for the institutional XRP sales after the start of the legal dispute.</p>
-<p>As Bitcoinist <a href="https://bitcoinist.com/sec-victory-ripple-disclosure-financial-statements/" target="_blank" rel="noopener ">reported</a>, US District Judge Analisa Torres has ordered Ripple to provide its financial statements from 2022-2023 and contracts about <a href="https://bitcoinist.com/xrp-lawsuit-ripple-sec-settlement-rumors/" target="_blank" rel="noopener ">“Institutional Sales” of XRP</a> in February, which the SEC argues are essential for determining an appropriate remedy.</p>
-
-<p>Despite Ripple&#8217;s assertion that details regarding its financial health are both irrelevant to the case and highly confidential, the court has found such information potentially significant to the remedy stage of the proceedings. In its motion, the SEC contended that access to the company&#8217;s financial data is crucial for establishing the scale and nature of penalties and remedies that should be applied.</p>
-<p>Just a few days ago, Ripple Labs and the SEC <a href="https://bitcoinist.com/xrp-lawsuit-ripple-sec-agreement-schedule/" target="_blank" rel="noopener ">presented</a> a detailed schedule for the remedies phase to the Southern District Court of New York. This agenda outlines the procedures for sealing and redacting court documents pertinent to the remedies phase of the lawsuit—a critical aspect of the proceedings that will determine the legal and financial repercussions for Ripple Labs</p>
-<ul>
-<li><strong>March 22, 2024:</strong> The SEC filed its remedies brief under seal.</li>
-<li><strong>March 25, 2024:</strong> A meeting between the SEC and Ripple to discuss and finalize the necessary redactions is happening today.</li>
-<li><strong>March 26, 2024:</strong> The SEC&#8217;s deadline to file a public, redacted version of its opening brief.</li>
-<li><strong>April 22, 2024:</strong> Ripple&#8217;s deadline to file its opposition brief.</li>
-<li><strong>April 23-24, 2024:</strong> A planned meeting to finalize redactions for Ripple&#8217;s documents. If necessary Ripple will file a public, redacted version of its opposition brief.</li>
-<li><strong>May 8, 2024:</strong> The SEC&#8217;s deadline for the public submission of its reply brief.</li>
-</ul>
-<p>The provided timeline offers clarity on the immediate procedural steps. Despite this clarity, there remains a level of uncertainty regarding the ultimate resolution of the case. Speculation about potential delays persists, particularly concerning whether the SEC may request an extension.</p>
-<p>At press time, XRP traded at $0.63218.</p>
-<img loading="lazy" decoding="async" class="size-full wp-image-289307" src="https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-25_07-55-22.png?resize=1024%2C472" alt="XRP price" width="1024" height="472" srcset="https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-25_07-55-22.png?resize=1024%2C472?w=3628 3628w, https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-25_07-55-22.png?resize=1024%2C472?w=640 640w, https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-25_07-55-22.png?resize=1024%2C472?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-25_07-55-22.png?resize=1024%2C472?w=980 980w, https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-25_07-55-22.png?resize=1024%2C472?w=1536 1536w, https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-25_07-55-22.png?resize=1024%2C472?w=2048 2048w, https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-25_07-55-22.png?resize=1024%2C472?w=750 750w, https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-25_07-55-22.png?resize=1024%2C472?w=1140 1140w, https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-25_07-55-22.png?resize=1024%2C472?w=3000 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+<p>Severino also notes that the leg up will be valid and the Evening Star formation invalid if there is a strong close above $74,000 by the end of the month. Bitcoin prices peaked at around $73,800 in early March, buoyed by expanding demand, especially from spot Bitcoin ETFs.</p>
+<h2>Spot Bitcoin ETFs Post More Outflows</h2>
+<p>Despite the potential for a continued rally, some fundamental factors pose challenges. Notably, outflows from spot Bitcoin exchange-traded funds (ETFs), particularly from the Grayscale Bitcoin Trust (GBTC), are rising. Rumors suggest that bankrupt crypto lender <a href="https://bitcoinist.com/genesis-face-21-million-penalty-sec-charges-settled/" target="_blank" rel="noopener ">Genesis</a> could be liquidating its GBTC holdings, adding further selling pressure to the market.</p>
+<img loading="lazy" decoding="async" class="size-full wp-image-289501" src="https://bitcoinist.com/wp-content/uploads/2024/03/GJSkwmTacAAmJM3.png?resize=1024%2C768" alt="Outflows from spot BTC ETF issuers | Source: Lookonchain data" width="1024" height="768" srcset="https://bitcoinist.com/wp-content/uploads/2024/03/GJSkwmTacAAmJM3.png?resize=1024%2C768?w=2645 2645w, https://bitcoinist.com/wp-content/uploads/2024/03/GJSkwmTacAAmJM3.png?resize=1024%2C768?w=560 560w, https://bitcoinist.com/wp-content/uploads/2024/03/GJSkwmTacAAmJM3.png?resize=1024%2C768?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/03/GJSkwmTacAAmJM3.png?resize=1024%2C768?w=879 879w, https://bitcoinist.com/wp-content/uploads/2024/03/GJSkwmTacAAmJM3.png?resize=1024%2C768?w=1536 1536w, https://bitcoinist.com/wp-content/uploads/2024/03/GJSkwmTacAAmJM3.png?resize=1024%2C768?w=2048 2048w, https://bitcoinist.com/wp-content/uploads/2024/03/GJSkwmTacAAmJM3.png?resize=1024%2C768?w=750 750w, https://bitcoinist.com/wp-content/uploads/2024/03/GJSkwmTacAAmJM3.png?resize=1024%2C768?w=1140 1140w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+<p> By March 22, spot Bitcoin ETF issuers had experienced <a class="editor-rtfLink" href="https://twitter.com/lookonchain/status/1771221747318075748" target="_blank" rel="noopener nofollow">outflows</a> for five straight days, according to Lookonchain data. Nonetheless, as GBTC posts outflows, BlackRock&#8217;s IBIT continues attracting more clients seeking BTC exposure.</p>
 
 ]]></content:encoded>
 					
 		
 		
-		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/08.2023.SEC_Ripple.1000px.v2.jpg?fit=640%2C415" width="640" height="415" /><post-id xmlns="com-wordpress:feed-additions:1">289305</post-id>	</item>
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/01/Crypto-news-Template176.jpg?fit=640%2C362" width="640" height="362" /><post-id xmlns="com-wordpress:feed-additions:1">289500</post-id>	</item>
 		<item>
-		<title>Shiba Inu’s Shibarium Hits New Record Amid Chaotic Market Movements</title>
-		<link>https://bitcoinist.com/shiba-inus-shibarium-hits-new-record-amid-chaotic-market-movements/</link>
+		<title>Large Shiba Inu Transactions Spark Fears Of A Massive Dumping Spree</title>
+		<link>https://bitcoinist.com/shiba-inu-transactions-spree/</link>
 		
 		<dc:creator><![CDATA[Scott Matherson]]></dc:creator>
-		<pubDate>Sun, 24 Mar 2024 18:30:57 +0000</pubDate>
+		<pubDate>Mon, 25 Mar 2024 20:00:23 +0000</pubDate>
 				<category><![CDATA[Shiba Inu]]></category>
-		<category><![CDATA[price action]]></category>
-		<category><![CDATA[Price Analysis]]></category>
 		<category><![CDATA[shib]]></category>
-		<category><![CDATA[Shibarium]]></category>
-		<guid isPermaLink="false">https://bitcoinist.com/?p=289288</guid>
+		<category><![CDATA[SHIB news]]></category>
+		<category><![CDATA[SHIB price]]></category>
+		<category><![CDATA[Shiba Inu news]]></category>
+		<category><![CDATA[Shiba Inu price]]></category>
+		<category><![CDATA[Shiba Inu whales]]></category>
+		<category><![CDATA[SHIBUSD]]></category>
+		<category><![CDATA[SHIBUSDT]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289397</guid>
 
-					<description><![CDATA[Shibarium, Shiba Inu’s layer-2 solution, recently reached an all-time high total value locked (TVL) of over $3.67 million. As if the current bullish sentiment around the Shiba Inu&#8217;s ecosystem isn&#8217;t enough, its layer-2 solution has now reached a milestone that could lead to a further price surge.  Related Reading: SEC Chair Gary Gensler Says Crypto [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Shibarium, Shiba Inu’s layer-2 solution, recently reached an all-time high total value locked (TVL) of over $3.67 million. As if the current bullish sentiment around the Shiba Inu&#8217;s ecosystem isn&#8217;t enough, its layer-2 solution has now reached a milestone that could lead to a further price surge. </p>
+					<description><![CDATA[Shiba Inu (SHIB) whales look to be at it again following large transactions involving the meme token in the last 24 hours. As expected, these transactions have raised concerns that crypto investors might be looking to offload their tokens on the market.  Shiba Inu Whales Move Billions Of SHIB On-chain data shows that Shiba Inu [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://bitcoinist.com/shiba-inu-pepe-whales-sold/">Shiba Inu (SHIB) whales</a> look to be at it again following large transactions involving the meme token in the last 24 hours. As expected, these transactions have raised concerns that <a href="https://bitcoinist.com/crypto-23-5-million-shiba-inu/">crypto investors</a> might be looking to offload their tokens on the market. </p>
+<h2>Shiba Inu Whales Move Billions Of SHIB</h2>
+<p><a href="https://etherscan.io/advanced-filter?tkn=0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE&amp;txntype=2&amp;__cf_chl_rt_tk=.f2yRaOf1TUS7udrjffik62iaeQ_18gwUWkSmNcTtu4-1711353862-0.0.1.1-1471" rel="nofollow noopener" target="_blank">On-chain data</a> shows that Shiba Inu whales moved billions of SHIB in different transactions. In one transaction, 77.2 billion SHIB tokens were moved to a <a href="https://bitcoinist.com/coinbase-support-bitcoin-developer-with-3-6-million/">Coinbase wallet</a>. Meanwhile, over 205 billion SHIB tokens were moved across different wallets, some of which were transferred to a <a href="https://bitcoinist.com/shiba-inu-gets-boost-robinhood-wallet/">Robinhood wallet</a>. </p>
 
-<p>According to data from <a href="https://defillama.com/chain/Shibarium" target="_blank" rel="noopener nofollow">DeFiLlama</a>, the total value locked on Shibarium jumped from $1.43 million on March 22 to $3.38 million on March 23, sparking optimism about SHIB’s price.</p>
-<h2><b>Shibarium TVL Surges To New Milestone</b></h2>
-<p>Shibarium’s total value locked hitting a new high shows the network effect in action. Interestingly, data shows Shibarium&#8217;s TVL has spent most of the year below $1 million before crossing over in late February. However, the TVL stands at $3.67 at the time of writing, revealing a positive change in the ecosystem. </p>
-<p>The recent surge in TVL can be particularly attributed to the launch of the DAMN token on WoofSwap, which is a decentralized exchange built on the Shibarium. DAMN quickly gained attention as one of the hottest cryptocurrencies after its launch on March 18. </p>
-<p>According to data from <a href="https://www.shibariumscan.io/stats" target="_blank" rel="noopener nofollow">Shibariumscan</a>, this frenzy led to a surge in the number of daily active users to 2,482 on the day of its launch. Similarly, WoofSwap&#8217;s TVL has grown by 8,988% in the past seven days. </p>
-<p>Another catalyst for the surge in TVL was the launch of KNINE tokens, a liquid staking solution on the Shibarium blockchain.</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full" src="https://www.tradingview.com/x/IdmMEKDj/" width="2475" height="1163" /></p>
+<p>The transfer of some of these tokens to crypto trading platforms, Coinbase and Robinhood, has raised suspicions that these Shiba Inu whales might be planning to sell off their holdings to make some profits. If so, it could massively impact the meme coin’s price due to the magnitude of such transactions. </p>
+<p>The SHIB community has seen several smart traders, including MakerDAO founder Rune Christensen, <a href="https://bitcoinist.com/dogecoin-whale-dumps-substantial-holdings-on-the-market-heres-how-much/">take profits</a> over the past few weeks. This also contributed to the concern that these recent transactions might involve more whales who want to secure their profits. </p>
+<p>However, while the possibility of a sell-off exists, this could be just investors using the recent price dip as an opportunity to <a href="https://www.newsbtc.com/shiba-inu/shiba-inu-whales-shib/" rel="nofollow noopener" target="_blank">accumulate more</a> of the meme coin. SHIB experienced a significant price surge, which saw it climb to become the tenth-largest crypto token by market cap. However, it has dropped out of the top 10 after its recent price decline.</p>
+<p>The theory of SHIB accumulation looks plausible considering that more upward trend is expected for the crypto token. Therefore, investors will still be looking to position themselves ahead of this bull run, which could see the meme coin <a href="https://bitcoinist.com/shiba-inu-dogecoin-shib-excitement/">break its all-time high (ATH)</a>. </p>
+<h2>Shiba Inu Still Has Bullish Momentum</h2>
+<p>SHIB may be ready for another upward movement if the <a href="https://bitcoinist.com/dogecoin-whale-dumps-substantial-holdings-on-the-market-heres-how-much/">wave of profit-taking</a> by investors is now over. Crypto analyst Xanrox <a href="https://bitcoinist.com/dogecoin-whale-dumps-substantial-holdings-on-the-market-heres-how-much/">suggested</a> that the meme coin could hit a new ATH by July, which means more parabolic price moves are to be expected if this price prediction is to be realized by then. </p>
 
-<h2><b>What’s Next For Shiba Inu?</b></h2>
-<p>Naturally, Shibarium’s recent milestones have sparked <a href="https://www.newsbtc.com/shiba-inu/shiba-inu-price-soars-10-in-reaction-to-explosive-2367-shib-burn-surge/" target="_blank" rel="noopener nofollow">optimism about SHIB’s price</a> as the cryptocurrency is well known to react to updates about the layer-2 network. This growth shows that Shibarium is attracting more users, which could boost SHIB’s price. </p>
-<p>Shibarium&#8217;s new milestone saw SHIB rallying 8.8% to $0.00002828 in less than 24 hours. This price rally highlights the close correlation between the growth of Shibarium and the SHIB price.</p>
-<p>SHIB is trading at $0.00002806 at the time of writing. The cryptocurrency is in fact, still riding on the back of a 193% gain in the past 30 days <a href="https://www.newsbtc.com/shiba-inu/shiba-inu-short-term-holders/" target="_blank" rel="noopener nofollow">despite being 37% down</a> from its $0.00004456 earlier in the month. </p>
+<p>SHIB’s fundamentals also suggest that it is only a matter of time before the upward trend continues. The <a href="https://bitcoinist.com/shiba-inu-latest-shib-magazine/">Shiba Inu team</a> continues to develop innovations that can help propel SHIB’s price. Meanwhile, although Shibarium’s daily transactions continue to decline, they are likely to pick up at some point, with a massive increase in <a href="https://bitcoinist.com/shiba-inu-burns-bright-shib/">SHIB burns</a> expected once that happens. </p>
+<p>At the time of writing, SHIB is trading at $0.00002771, down almost 1% in the last 24 hours, according to <a href="https://coinmarketcap.com/currencies/shiba-inu/" rel="nofollow noopener" target="_blank">data</a> from CoinMarketCap. </p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-medium" src="https://www.tradingview.com/x/KS4stUfp/" alt="Shiba Inu price chart from Tradingview.com" width="3286" height="1530" /></p>
 
-<p>On-chain metrics and investor sentiment point to a continued price surge in the near future. On-chain analytics platform Santiment recently pointed out that Bitcoin, along with SHIB and other meme coins, remained the focus of traders throughout the weekend. SHIB, which naturally has a <a href="https://app.intotheblock.com/coin/SHIB" target="_blank" rel="noopener nofollow">strong price correlation</a> with Bitcoin, could <a href="https://www.newsbtc.com/bitcoin-news/bitcoin-market-cap-price-surgeretesting-2021-highs/" target="_blank" rel="noopener nofollow">reignite a surge in tandem</a>.</p>
-<p>According to Lucie, Shiba Inu&#8217;s marketing lead, the price of SHIB could <a href="https://www.newsbtc.com/shiba-inu/shiba-inu-rise-250-pre-bitcoin-halving/" target="_blank" rel="noopener nofollow">surge by 250%</a> before the <a href="https://bitcoinist.com/why-bitcoin-halving-could-bring-uncertainty-to-mining-industry/" target="_blank" rel="noopener ">next Bitcoin halving</a> which is slated to occur in April.</p>
-<p><em>Featured image from Pexels, chart from TradingView</em></p>
+
 ]]></content:encoded>
 					
 		
 		
-		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/a_957668.jpg?fit=630%2C420" width="630" height="420" /><post-id xmlns="com-wordpress:feed-additions:1">289288</post-id>	</item>
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/Shiba-Inu-22.jpeg?fit=640%2C366" width="640" height="366" /><post-id xmlns="com-wordpress:feed-additions:1">289397</post-id>	</item>
 		<item>
-		<title>Investment Genius Cathie Wood Says Bitcoin Is Headed To $1.5 Million &#8211; Here’s Why</title>
-		<link>https://bitcoinist.com/cathie-wood-says-bitcoin-headed-to-1-5-m/</link>
+		<title>Crypto Shockwave: Nearly $1 Billion Vanishes From Global Funds In Historic Outflow</title>
+		<link>https://bitcoinist.com/crypto-shock-nearly-billion-vanishes-global-funds/</link>
 		
-		<dc:creator><![CDATA[Scott Matherson]]></dc:creator>
-		<pubDate>Sun, 24 Mar 2024 15:30:39 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[ARK Invest]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[Price Analysis]]></category>
-		<category><![CDATA[price prediction]]></category>
-		<guid isPermaLink="false">https://bitcoinist.com/?p=289225</guid>
-
-					<description><![CDATA[Ark Invest CEO Cathie Wood has reiterated her bullish stance on Bitcoin. The investment mogul, who recently disclosed she allocated 25% of her wealth into Bitcoin, has now predicted the cryptocurrency is on a highway to new highs.  Related Reading: Crypto In The Spotlight: Estonia Greenlights Regulation Bill Particularly, Wood called Bitcoin a “financial super [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Ark Invest CEO Cathie Wood has reiterated her <a href="https://www.newsbtc.com/news/bitcoin/cathie-wood-bitcoin-gold/" target="_blank" rel="noopener nofollow">bullish stance</a> on Bitcoin. The investment mogul, who recently disclosed she <a href="https://bitcoinist.com/cathie-wood-placed-25-wealth-bitcoin-bold-unveiled/" target="_blank" rel="noopener ">allocated 25% of her wealth</a> into Bitcoin, has now predicted the cryptocurrency is on a highway to new highs. </p>
-
-<p>Particularly, Wood called Bitcoin a “financial super highway,” amidst discussions of its importance in emerging markets. As a result, she reiterated that the price of Bitcoin could end up as high as $3.8 million.</p>
-<h2><b>Cathie Wood Reiterates Bullish Stance On Bitcoin</b></h2>
-<p>Wood made her <a href="https://bitcoinist.com/cathie-wood-bitcoin-is-king-of-security/" target="_blank" rel="noopener ">very bullish prediction</a> at a Friday Bitcoin Investor Day conference in New York. Interestingly, this recent prediction surpasses another one made in January where she predicted that the digital asset <a href="https://bitcoinist.com/cathie-wood-sees-bitcoin-at-1-5m-by-2030/" target="_blank" rel="noopener ">could potentially hit $1.5 million</a> by 2030. This means Bitcoin could increase by another $2.3 million after reaching her existing target. </p>
-<p>Wood credits this price growth to a major shift in the global market dynamics as Bitcoin continues to receive adoption, especially in developing countries. She made a case of Nigeria, whose struggle with unprecedented inflation in recent times has pushed its citizens to run to cryptocurrencies like Bitcoin to hedge against inflation. </p>
-<p>“There are signals that not all is well in the world,” she said.</p>
-<p>Interestingly, Wood revealed that Ark Invest, her investment company, has now <a href="https://www.newsbtc.com/news/bitcoin/ark-invest-pivots-to-bitcoin/" target="_blank" rel="noopener nofollow">diverted most of its attention</a> into emerging markets such as this. She also noted that Bitcoin could continue on a price surge as institution interest continues to rise and institutions start to allocate a little more than 5% of their portfolio to the cryptocurrencies. </p>
-<p>At the same time, Wood believes the US Securities and Exchange Commission’s recent greenlight for institutional investment in Bitcoin is a huge driving force for its growth to $3.8 million.</p>
-<p>“We think Bitcoin has miles to go,” Wood said.</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full" src="https://www.tradingview.com/x/Ju7s87Iy/" width="1835" height="883" /></p>
-
-<h2><b>What’s Next For Bitcoin?</b></h2>
-<p>At the time of writing, Bitcoin is trading at $64,256, up by 25% in the past 30 days. Most of Bitcoin&#8217;s price growth in the past few months has been centered around the launch of Spot Bitcoin ETFs in the US. Wood&#8217;s Ark Invest was one of the Bitcoin ETF issuers approved by the SEC and has done relatively well since then. These ETFs have now received a total net flow of $11.269 billion since their launch.</p>
-
-<p>Bitcoin, however, is <a href="https://www.newsbtc.com/bitcoin-news/bitcoin-long-term-holders-price-top-glassnode/" target="_blank" rel="noopener nofollow">currently struggling</a> with its price surge. The crypto is now down 12% from an all-time high of $73,780 which it <a href="https://www.newsbtc.com/breaking-news-ticker/breaking-bitcoin-hits-new-all-time-high-surging-past-70000-for-the-first-time-in-history/" target="_blank" rel="noopener nofollow">attained earlier in the month</a>. At the same time, Spot Bitcoin ETFs witnessed <a href="https://x.com/BitMEXResearch/status/1771465855680823612?s=20" target="_blank" rel="noopener nofollow">consecutive days of outflows</a> last week amidst the price struggle. On the other hand, Bitcoin continues to <a href="https://x.com/santimentfeed/status/1771358045098086909?s=20" target="_blank" rel="noopener nofollow">attract bullish sentiment</a> from investors and the cryptocurrency could resume its price surge very soon. </p>
-<p><em>Featured image from Pexels, chart from TradingView</em></p>
-]]></content:encoded>
-					
-		
-		
-		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/a_585683.jpg?fit=640%2C391" width="640" height="391" /><post-id xmlns="com-wordpress:feed-additions:1">289225</post-id>	</item>
-		<item>
-		<title>From Bytes To Bites: Iceland Prioritizes Food Over Crypto Mining</title>
-		<link>https://bitcoinist.com/iceland-prioritizes-food-over-crypto-mining/</link>
-		
-		<dc:creator><![CDATA[Christian Encila]]></dc:creator>
-		<pubDate>Sun, 24 Mar 2024 13:00:12 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[agriculture]]></category>
+		<dc:creator><![CDATA[Samuel Edyme]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2024 19:00:52 +0000</pubDate>
+				<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[bitcoin ETF]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[CoinShares]]></category>
 		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[crypto mining]]></category>
-		<category><![CDATA[green energy]]></category>
-		<category><![CDATA[Iceland]]></category>
-		<guid isPermaLink="false">https://bitcoinist.com/?p=289221</guid>
+		<category><![CDATA[Crypto Funds]]></category>
+		<category><![CDATA[ETFs]]></category>
+		<category><![CDATA[Outflow]]></category>
+		<category><![CDATA[solana]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289462</guid>
 
-					<description><![CDATA[Iceland, the volcanic island nation famed for its stunning landscapes and clean energy production, is embarking on a new chapter. In a move that highlights a growing global trend, The country is shifting its focus from supporting the cryptocurrency mining industry towards bolstering domestic food production. Iceland Pivots: From Crypto To Crops This strategic decision, [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p data-sourcepos="3:1-3:475">Iceland, the volcanic island nation famed for its stunning landscapes and clean energy production, is embarking on a new chapter. In a move that highlights a growing global trend, The country is<a href="https://bitperfect.pe/en/iceland-pm-sways-energy-use-away-from-crypto-mining-to-agriculture/" target="_blank" rel="noopener nofollow"> shifting its focus</a> from supporting the cryptocurrency mining industry towards bolstering domestic food production.</p>
-<h2 data-sourcepos="3:1-3:475"><strong>Iceland Pivots: From Crypto To Crops</strong></h2>
-<p data-sourcepos="3:1-3:475">This strategic decision, driven by a desire for increased food security and a more balanced energy grid, positions Iceland for a greener and more self-sufficient future.</p>
-<p data-sourcepos="5:1-5:414">Prime Minister Katrín Jakobsdóttir spearheaded this shift, citing the need to prioritize sectors with a more direct impact on national well-being. While crypto mining has played a role in our renewable energy sector, stated Jakobsdóttir, they recognize the importance of a balanced and sustainable approach. By prioritizing food production, the government ensures its constituents have access to a secure and reliable food supply.</p>
-<p data-sourcepos="5:1-5:414"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-289266" src="https://bitcoinist.com/wp-content/uploads/2024/03/a_335c72.png?resize=523%2C290" alt="" width="523" height="290" data-recalc-dims="1" /></p>
+					<description><![CDATA[Last week, the crypto investment landscape witnessed a significant exodus of capital from global crypto funds. A recent report from CoinShares highlighted nearly $1 billion net outflow from these funds, marking a historic departure from a 7-week inflow streak that had cumulatively amassed $12.3 billion. A Closer Look At The Outflows The magnitude of these [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Last week, the crypto investment landscape <a href="https://blog.coinshares.com/volume-175-digital-asset-fund-flows-weekly-report-6af2a10c0b30" target="_blank" rel="noopener nofollow">witnessed</a> a significant exodus of capital from global crypto funds. A recent report from CoinShares highlighted nearly $1 billion net outflow from these funds, marking a historic departure from a 7-week inflow streak that had cumulatively amassed $12.3 billion.</p>
+<h2>A Closer Look At The Outflows</h2>
+<p>The magnitude of these outflows at roughly $942 million is particularly notable, almost doubling the previous record of $500 million witnessed towards the end of January.</p>
 
+<p>Major players in the asset management space, including BlackRock, Bitwise, Fidelity, Grayscale, ProShares, and 21Shares, felt the brunt of this wave of withdrawals, according to CoinShares.</p>
+<p>The timing of these outflows coincided with a notable correction in the prices of underlying <a href="https://bitcoinist.com/iceland-prioritizes-food-over-crypto-mining/" target="_blank" rel="noopener ">cryptocurrencies</a>, which erased $10 billion from the fund&#8217;s assets under management (AUM). However, the combined AUM of $88 billion still hovers above prior cycle highs.</p>
+<p>Notably, these outflows have pronounced impacted trading volumes and asset valuations within the crypto investment product sector. Last week&#8217;s trading volume plummeted by a third to $28 billion amidst a price correction that significantly diminished the AUM of these funds.</p>
+<p>The US market, particularly new <a href="https://bitcoinist.com/spot-bitcoin-etf-noobs-panic-selling/" target="_blank" rel="noopener ">spot Bitcoin ETFs</a>, witnessed over $1 billion in inflows, which were insufficient to offset the nearly $2 billion <a href="https://bitcoinist.com/back-to-back-negative-bitcoin-etf-flows/" target="_blank" rel="noopener ">outflows from Grayscale&#8217;s GBTC fund</a> conversion.</p>
+<p>According to CoinShares Head of Research James Butterfill, the &#8220;recent price correction&#8221; resulted in &#8220;hesitancy from investors, leading to much lower inflows into new ETF issuers in the US, which saw US$1.1bn inflows, partially offsetting incumbent Grayscale’s significant US$2bn outflows last week.&#8221;</p>
+<h2>Global Crypto Sentiment And Market Responses</h2>
+<p>Meanwhile, last week&#8217;s sentiment was not solely concentrated on US-based funds or Bitcoin. Investment products in Sweden, Hong Kong, Switzerland, and Germany also experienced outflows, though Brazil and Canada-based funds recorded inflows, showcasing a mixed global investor sentiment.</p>
+<img loading="lazy" decoding="async" class="wp-image-289492 size-large" src="https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-14.57.15.png?resize=980%2C582" alt="Crypto asset flows by country." width="980" height="582" srcset="https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-14.57.15.png?w=1388 1388w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-14.57.15.png?w=640 640w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-14.57.15.png?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-14.57.15.png?w=980 980w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-14.57.15.png?w=750 750w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-14.57.15.png?w=1140 1140w" sizes="(max-width: 980px) 100vw, 980px" data-recalc-dims="1" />
+<p>Additionally, Ethereum, Solana, and Cardano-based products faced outflows, underscoring the broad impact of the market&#8217;s downturn. In contrast, other altcoin funds like Polkadot, Avalanche, and Litecoin saw net inflows, indicating selective investor interest in the <a href="https://bitcoinist.com/doge-ada-cardano-altcoin-season/" target="_blank" rel="noopener ">altcoin sector</a>.</p>
+<img loading="lazy" decoding="async" class="wp-image-289495 size-large" src="https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-15.02.47.png?resize=980%2C644" alt="Crypto asset flows." width="980" height="644" srcset="https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-15.02.47.png?w=1396 1396w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-15.02.47.png?w=640 640w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-15.02.47.png?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-15.02.47.png?w=980 980w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-15.02.47.png?w=750 750w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-25-at-15.02.47.png?w=1140 1140w" sizes="(max-width: 980px) 100vw, 980px" data-recalc-dims="1" />
+<p>This period of market recalibration has also sparked a dialogue among industry leaders about the role and accessibility of Bitcoin ETFs in fostering broader market integration.</p>
+<p>Bivu Das of Kraken UK and Daniel Seifert of Coinbase UK have both <a href="https://bitcoinist.com/bitcoin-etf-buzz-in-uk-kraken-executive-pushes-for-market-access/" target="_blank" rel="noopener ">advocated for the UK market&#8217;s access to Bitcoin ETFs</a>, citing the importance of such investment products in establishing a comprehensive crypto ecosystem.</p>
 
-<p data-sourcepos="7:1-7:393">Iceland&#8217;s abundance of geothermal and hydroelectric power plants has made it a global leader in renewable energy production per capita. This same clean energy has also fueled the rise of <a href="https://www.ft.com/content/6432a24b-b7c4-4c2f-85a8-79108dbe0644" target="_blank" rel="noopener nofollow">crypto mining operations</a> within the country. However, concerns surrounding the environmental impact of crypto mining, coupled with a desire for greater food independence, have prompted this strategic pivot.</p>
-<p data-sourcepos="11:1-11:473">The move towards domestic food production presents a multitude of benefits for the country. Increased agricultural output will not only bolster food security but also create new jobs and stimulate the local economy.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-<h2><strong>Renewable Energy And Agriculture</strong></h2>
-<p>Furthermore, this shift creates an opportunity to expand the reach of Iceland&#8217;s robust renewable energy grid. By supplying clean energy to a wider range of agricultural operations, the country can ensure a more sustainable and efficient food production system.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-<p>According to Jakobsdóttir, the energy demands of the country&#8217;s 375,000 citizens should take precedence over data centres and instead use precious renewable electricity for homes and other sectors.</p>
-<p data-sourcepos="11:1-11:473"><img loading="lazy" decoding="async" class="aligncenter size-full" src="https://www.tradingview.com/x/3XxLQse5/" width="1835" height="883" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>“Bitcoin is an issue worldwide . . . but data centers in Iceland use a significant share of our green energy,” the prime minister said. A new proposal to boost wind power would put more premium on clean industries to achieve carbon neutrality, she added.</p>
-
-<p data-sourcepos="15:1-15:372">The transition to a larger-scale food production industry, however, is not without its challenges. Iceland&#8217;s harsh climate and limited arable land necessitate innovative solutions.</p>
-<p data-sourcepos="15:1-15:372">Experts believe that advancements in controlled-environment agriculture (CEA) technologies, such as hydroponics and vertical farming, will play a crucial role in overcoming these limitations.</p>
-<p data-sourcepos="19:1-19:378">The impact of this decision on existing crypto mining operations in Iceland remains to be seen. While some operations may choose to relocate, others might adapt by utilizing more energy-efficient mining practices. Regardless, Iceland&#8217;s strategic shift signifies a growing global conversation about the responsible use of resources and the importance of long-term sustainability.</p>
-<p data-sourcepos="21:1-21:364">By prioritizing food security and a robust domestic agricultural sector, Iceland is charting a course for a greener and more self-sufficient future. This decision serves as a model for other nations grappling with similar challenges, demonstrating the potential of clean energy to not only power a digital future but also cultivate a more sustainable food system.</p>
-<p data-sourcepos="21:1-21:364"><em>Featured image from Pexels, chart from TradingView</em></p>
+<p>As reported, by offering indirect exposure to Bitcoin&#8217;s price movements, these instruments propose a regulated and possibly more accessible avenue for investors, contributing to the diversification and maturity of the investment landscape in the digital currency market.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">ICYMI: Kraken UK Managing Director Bivu Das says he&#8217;d &#8220;absolutely&#8221; like to see a <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener nofollow">#Bitcoin</a> ETF in the UK, providing regulated access to crypto exposure currently lacking and boost UK&#8217;s crypto hub ambitions, and legitimize bitcoin for institutions.</p>
+<p>— AP Crypto (@AP_Crypto_) <a href="https://twitter.com/AP_Crypto_/status/1771514821940547931?ref_src=twsrc%5Etfw" target="_blank" rel="noopener nofollow">March 23, 2024</a></p></blockquote>
+<p>Featured image from Unsplash, Chart from TradingView</p>
 ]]></content:encoded>
 					
 		
 		
-		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/a_6926ee.jpg?fit=640%2C360" width="640" height="360" /><post-id xmlns="com-wordpress:feed-additions:1">289221</post-id>	</item>
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2023/11/Singapores-Top-Banker-Predicts-Endgame-For-Private-Cryptos.webp?fit=631%2C420" width="631" height="420" /><post-id xmlns="com-wordpress:feed-additions:1">289462</post-id>	</item>
 	</channel>
 </rss>

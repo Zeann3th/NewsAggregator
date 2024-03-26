@@ -4,10 +4,6 @@ import newsaggregator.dataaccess.QueryData;
 import newsaggregator.webcrawling.rssloader.RSSReader;
 import org.junit.jupiter.api.Test;
 
-import javax.management.Query;
-
-import static org.junit.jupiter.api.Assertions.*;
-
 class JSONFileWriterTest {
 
     @Test

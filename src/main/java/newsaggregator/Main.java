@@ -10,9 +10,10 @@ public class Main {
     public static void main(String[] args) {
         Crawler rss = new RSSReader();
         rss.crawl();
-        JSONFileWriter.writeFileFromPost(rss.getPostList(), "src/main/resources/data.json");
+        rss.getPostList().forEach(Post::display);
+        JSONFileWriter.writeFileFromPost(rss.getPostList(), "src/main/resources/data/upstream/data.json");
         try {
-            ImportData.importJSON("src/main/resources/data.json");
+            ImportData.importJSON("src/main/resources/data/upstream/data.json");
         } catch (Exception e) {
             e.printStackTrace();
         }

@@ -1,11 +1,11 @@
 package newsaggregator.webcrawling.dynamic;
 
+import newsaggregator.post.Author;
+import newsaggregator.post.Post;
 import newsaggregator.webcrawling.Crawler;
 import org.openqa.selenium.*;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
-import newsaggregator.post.Author;
-import newsaggregator.post.Post;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;

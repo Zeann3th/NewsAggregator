@@ -4,9 +4,7 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.mongodb.MongoException;
 import com.mongodb.client.*;
-import okhttp3.*;
 import org.bson.Document;
-import org.json.JSONObject;
 
 import java.io.File;
 import java.io.IOException;

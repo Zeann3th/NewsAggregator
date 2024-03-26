@@ -4,7 +4,10 @@ import newsaggregator.post.Author;
 import newsaggregator.post.Post;
 import newsaggregator.webcrawling.Crawler;
 import org.jetbrains.annotations.NotNull;
-import org.openqa.selenium.*;
+import org.openqa.selenium.By;
+import org.openqa.selenium.PageLoadStrategy;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -14,8 +17,8 @@ import java.time.Duration;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
 
 public class TheBlockCrawler extends Crawler {
     @Override

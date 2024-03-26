@@ -17,6 +17,11 @@ public class Author {
     // Constructors
 
     public Author() {}
+
+    public Author(String name) {
+        this.name = name;
+    }
+
     public Author(String name, String description) {
         this.name = name;
         this.description = description;
@@ -34,5 +39,10 @@ public class Author {
     }
     public String getDescription() {
         return description;
+    }
+
+    public void display() {
+        System.out.println("Name: " + name);
+        System.out.println("Description: " + description);
     }
 }

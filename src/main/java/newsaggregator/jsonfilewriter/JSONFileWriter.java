@@ -1,9 +1,9 @@
 package newsaggregator.jsonfilewriter;
 
+import newsaggregator.post.Post;
 import org.bson.Document;
 import org.json.JSONArray;
 import org.json.JSONObject;
-import newsaggregator.post.Post;
 
 import java.io.FileWriter;
 import java.util.List;

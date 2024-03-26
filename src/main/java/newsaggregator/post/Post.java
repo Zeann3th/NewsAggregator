@@ -27,27 +27,27 @@ public class Post {
 
     // Constructors
 
-    public Post() {}
+    public Post() {
+    }
 
     public Post(String guid, String articleLink, String websiteSource, String articleType, String articleTitle,
-                String articleSummary, String articleDetailedContent, String creationDate,
-                List<String> associatedTags, Author author, String thumbnailImage, String category) {
-        this.guid = guid;
-        this.articleLink = articleLink;
-        this.websiteSource = websiteSource;
-        this.articleType = articleType;
-        this.articleTitle = articleTitle;
-        this.articleSummary = articleSummary;
-        this.articleDetailedContent = articleDetailedContent;
-        this.creationDate = creationDate;
-        this.associatedTags = associatedTags;
-        this.author = author;
-        this.thumbnailImage = thumbnailImage;
-        this.category = category;
+            String articleSummary, String articleDetailedContent, String creationDate,
+            List<String> associatedTags, Author author, String thumbnailImage, String category) {
+    this.guid = guid;
+    this.articleLink = articleLink;
+    this.websiteSource = websiteSource;
+    this.articleType = articleType;
+    this.articleTitle = articleTitle;
+    this.articleSummary = articleSummary;
+    this.articleDetailedContent = articleDetailedContent;
+    this.creationDate = creationDate;
+    this.associatedTags = associatedTags;
+    this.author = author;
+    this.thumbnailImage = thumbnailImage;
+    this.category = category;
     }
 
     // Methods
-
 
     public void setGuid(String guid) {
         this.guid = guid;
@@ -160,7 +160,7 @@ public class Post {
         System.out.println();
         System.out.println("Creation date: " + creationDate);
         System.out.println("Associated tags: " + associatedTags);
-        System.out.println("Author: " + author.getName() + " | " + author.getDescription());
+        author.display();
         System.out.println("Thumbnail image: " + thumbnailImage);
         System.out.println("Category: " + category);
         System.out.println();

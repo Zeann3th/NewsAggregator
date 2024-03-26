@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptoslate.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptoslate.com/</link>
 	<description>Cryptocurrency News and Real-time Coin Data</description>
-	<lastBuildDate>Mon, 25 Mar 2024 23:30:39 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 Mar 2024 01:50:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>SWIFT completes second test phase of CBDC with smart contract, atomic settlement capability</title>
+		<link>https://cryptoslate.com/swift-completes-second-test-phase-of-cbdc-with-smart-contract-atomic-settlement-capability/</link>
+					<comments>https://cryptoslate.com/swift-completes-second-test-phase-of-cbdc-with-smart-contract-atomic-settlement-capability/#respond</comments>
+		
+		<dc:creator><![CDATA[Mike Dalton]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2024 01:00:10 +0000</pubDate>
+				<category><![CDATA[CBDCs]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=406974</guid>
+
+					<description><![CDATA[<p>SWIFT said on March 25 that it discovered several applications for its central bank digital currency (CBDC) solution following a successful six-month test. The company did not create its own CBDC but instead developed an interlinking solution for existing CBDCs — dubbed the SWIFT connector. The company wrote: &#8220;At the core of our solution is [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/swift-completes-second-test-phase-of-cbdc-with-smart-contract-atomic-settlement-capability/">SWIFT completes second test phase of CBDC with smart contract, atomic settlement capability</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>SWIFT said on <a href="https://www.swift.com/news-events/news/new-collaborative-experiments-explore-more-complex-cbdc-use-cases">March 25</a> that it discovered several applications for its central bank digital currency (CBDC) solution following a successful six-month test.</p>
+<p>The company did not create its own CBDC but instead developed an interlinking solution for existing CBDCs — dubbed the SWIFT connector.</p>
+<p>The company wrote:</p>
+<blockquote><p>&#8220;At the core of our solution is the DLT and smart contract layer, which maintains consistent records of transactions.&#8221;</p></blockquote>
+<p>SWIFT broadly described the platform as having applications in digital trade, securities, and foreign trade. It also noted that future versions of the platform could be expanded to areas beyond CBDCs, such as bank-led tokenized deposit networks.</p>
+<h2>Smart contracts for TradFi</h2>
+<p>Specific use cases include trade payments, foreign exchange, delivery versus payment (DvP), and liquidity-saving mechanisms.</p>
+<p>SWIFT said its sandbox solution involves multiple digital ledger technology (DLT) networks. The company used <a href="https://cryptoslate.com/companies/hyperledger/">Hyperledger</a> Besu for the tokenization platform. It used <a href="https://cryptoslate.com/companies/r3/">R3</a> Corda and Hyperledger Fabric for buyer and seller networks and settlement instructions.</p>
+<p>SWIFT also described atomic settlements and swaps, a blockchain or DLT-based approach to settlement involving the instant and simultaneous exchange of two assets. This type of settlement is similar to delivery versus payment (DVP) in traditional financial networks.</p>
+<p>The platform also used smart contracts to automatically ensure that payments were executed once conditions were met. All four of SWIFT&#8217;s major use cases involved the use of smart contracts.</p>
+<h2>Largest test of its kind</h2>
+<p>SWIFT said its sandbox test involved 38 institutions over six months and called it &#8220;one of the largest known CBDC experiments to date&#8221; in this regard.</p>
+<p>It added that, in terms of network activity, over 125 sandbox users carried out more than 750 transactions in the process. About 60 representatives from participating financial institutions participated in 20 collaborative working group meetings to discuss use cases.</p>
+<p>The company plans to develop a production roadmap for the SWIFT connector but noted that progress will be based on &#8220;market developments and readiness.&#8221;</p>
+<p>The service could meet growing interest in CBDCs around the world. Countries with active CBDCs include China, the Bahamas, Jamaica, and Nigeria. At least 130 other countries and regions are also exploring CBDCs, with recent developments in <a href="https://cryptoslate.com/ecb-executive-pens-november-2025-rollout-for-digital-euro-cbdc/">Europe</a>, the <a href="https://cryptoslate.com/philippines-to-launch-cbdc-within-2-years-to-counter-rising-crypto-use/">Philippines</a>, and <a href="https://cryptoslate.com/spanish-central-bank-finalizes-partners-for-wholesale-cbdc-pilot/">Spain</a>.</p>
+<p>The post <a href="https://cryptoslate.com/swift-completes-second-test-phase-of-cbdc-with-smart-contract-atomic-settlement-capability/">SWIFT completes second test phase of CBDC with smart contract, atomic settlement capability</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/swift-completes-second-test-phase-of-cbdc-with-smart-contract-atomic-settlement-capability/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/swift-cbdc.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/swift-cbdc.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
 		<title>Ripple execs reveal SEC seeking $2 billion in fines, say regulator has &#8216;become unhinged&#8217;</title>
 		<link>https://cryptoslate.com/ripple-ceo-reveals-sec-seeking-2-billion-in-fines-says-regulator-has-become-unhinged/</link>
 					<comments>https://cryptoslate.com/ripple-ceo-reveals-sec-seeking-2-billion-in-fines-says-regulator-has-become-unhinged/#respond</comments>
@@ -65,8 +103,8 @@
 			<slash:comments>0</slash:comments>
 		
 		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2023/07/ripple.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2023/07/ripple.jpg" length="1200" type="image/jpg"/>
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/xrp-ripple-1.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/xrp-ripple-1.jpg" length="1200" type="image/jpg"/>
 	</item>
 		<item>
 		<title>BlackRock&#8217;s Bitcoin ETF achieves legendary status after hitting second-largest inflows for 2024</title>
@@ -85,6 +123,7 @@
 <p>On a 4-week analysis, IBIT again ranks second with inflows amounting to $7.3 billion, this time following the SPDR S&amp;P 500 ETF Trust, which leads with $21.4 billion, according to VettaFI.</p>
 <table>
 <tbody>
+<thead>
 <tr>
 <th>Symbol</th>
 <th>ETF Name</th>
@@ -95,6 +134,7 @@
 <th>3 Year ($MM)</th>
 <th>5 Year ($MM)</th>
 </tr>
+</thead>
 <tr>
 <td>VOO</td>
 <td>Vanguard S&amp;P 500 ETF</td>
@@ -427,30 +467,6 @@
 		
 		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/01/bitcoin-green-1.jpg" medium="image"/>
 <enclosure url="https://cryptoslate.com/wp-content/uploads/2024/01/bitcoin-green-1.jpg" length="1200" type="image/jpg"/>
-	</item>
-		<item>
-		<title>$9 billion in Bitcoin options set to expire on March 29</title>
-		<link>https://cryptoslate.com/insights/9-billion-in-bitcoin-options-set-to-expire-on-march-29/</link>
-		
-		<dc:creator><![CDATA[James Van Straten]]></dc:creator>
-		<pubDate>Mon, 25 Mar 2024 14:40:10 +0000</pubDate>
-				<guid isPermaLink="false">https://cryptoslate.com/?post_type=crypto_insight&#038;p=406678</guid>
-
-					<description><![CDATA[<p>Quick Take Deribit data indicates that nearly $9 billion worth of Bitcoin (BTC) options are due to expire on March 29, the last Friday of the month, with the total open interest amounting to 133,914 BTC. The put/call ratio is reported at 0.80, signifying more calls in circulation compared to puts, and reflects bullish market [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/insights/9-billion-in-bitcoin-options-set-to-expire-on-march-29/">$9 billion in Bitcoin options set to expire on March 29</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<h2>Quick Take</h2>
-<p><a href="https://metrics.deribit.com/options/BTC">Deribit data</a> indicates that nearly $9 billion worth of Bitcoin (BTC) options are due to expire on March 29, the last Friday of the month, with the total open interest amounting to 133,914 BTC. The put/call ratio is reported at 0.80, signifying more calls in circulation compared to puts, and reflects bullish market sentiment — for every 100 calls, there are 80 puts. Call open interest stands at 74,213 BTC, outstripping put open interest, which totals 59,701 BTC.</p>
-<p>Deribit&#8217;s figures highlight the relevance of the put/call ratio with Bitcoin&#8217;s price at roughly $67,000, significantly surpassing the &#8216;max pain&#8217; point of $50,000, indicating that a considerable number of call options are presently in the money.</p>
-<p>The disparity between the elevated current price of BTC and its strike prices may suggest a prior underestimation of its volatility. There is also a marked concentration of open interest in calls at the upper strike prices, starting at $75,000, which could have implications for future volatility perceptions and options pricing.</p>
-<figure id="attachment_406751" aria-describedby="caption-attachment-406751" style="width: 1890px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-406751 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/Deribit.png" alt="Open Interest by strike price: (Source: Deribit)" width="1890" height="478" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/Deribit.png 1890w, https://cryptoslate.com/wp-content/uploads/2024/03/Deribit-300x76.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/Deribit-1024x259.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/Deribit-768x194.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/Deribit-1536x388.png 1536w" sizes="(max-width: 1890px) 100vw, 1890px" /><figcaption id="caption-attachment-406751" class="wp-caption-text">Open Interest by strike price: (Source: Deribit)</figcaption></figure>
-<p>The post <a href="https://cryptoslate.com/insights/9-billion-in-bitcoin-options-set-to-expire-on-march-29/">$9 billion in Bitcoin options set to expire on March 29</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/open-interest-deribit.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/open-interest-deribit.jpg" length="1200" type="image/jpg"/>
 	</item>
 	</channel>
 </rss>

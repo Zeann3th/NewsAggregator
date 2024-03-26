@@ -1,24 +1,28 @@
 package newsaggregator.webcrawling.rssloader;
 
-import javax.xml.parsers.*;
+import newsaggregator.post.Author;
+import newsaggregator.post.Post;
+import newsaggregator.webcrawling.Crawler;
+import org.jsoup.Jsoup;
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.File;
 import java.net.URI;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-import newsaggregator.post.Author;
-import newsaggregator.post.Post;
-import newsaggregator.webcrawling.Crawler;
-import org.jsoup.Jsoup;
-import org.w3c.dom.*;
-
 public class RSSReader extends Crawler {
     /**
      * Lớp RSSReader thực hiện việc đọc file XML từ các nguồn RSS được lưu trữ trong file webSources.txt
      * và trả về một danh sách các bài báo được lưu trữ trong các file XML này
-     * @return danh sách các bài báo được lưu trữ trong các file XML
      * @throws Exception
      * @author: Trần Quang Hưng
      */
@@ -46,6 +50,8 @@ public class RSSReader extends Crawler {
 
     public List<Post> parseXML(String URIString) {
         List<Post> currentPostList = new ArrayList<>();
+        SimpleDateFormat inputFormat = new SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss Z");
+        SimpleDateFormat outputFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'");
         try {
             DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
             DocumentBuilder builder = factory.newDocumentBuilder();
@@ -85,28 +91,31 @@ public class RSSReader extends Crawler {
                             categories[j] = category;
                         }
                         String author = elem.getElementsByTagName("dc:creator").item(0).getTextContent();
+
                         // Author
-                        Author currentAuthor = new Author();
-                        currentAuthor.setName(author);
+                        Author currentAuthor = new Author(author);
+
                         // Post
-                        Post currentPost = new Post();
-                        currentPost.setGuid(guid);
-                        currentPost.setWebsiteSource(URIString
-                                .replace(".xml", "")
-                                .replace("src/main/resources/RSSData/tmp-cache/", "")
-                                .replace("www.", "")
-                                .replace(".com", "")
+                        Post currentPost = new Post(
+                                guid,
+                                link,
+                                URIString.replace(".xml", "")
+                                        .replace("src/main/resources/RSSData/tmp-cache/", "")
+                                        .replace("www.", "")
+                                        .replace(".com", ""),
+                                "article",
+                                title,
+                                summary,
+                                detailedContent,
+                                outputFormat.format(inputFormat.parse(date)),
+                                Arrays.asList(categories),
+                                currentAuthor,
+                                thumbnail,
+                                null
                         );
-                        currentPost.setArticleType("article");
-                        currentPost.setArticleLink(link);
-                        currentPost.setArticleTitle(title);
-                        currentPost.setAuthor(currentAuthor);
-                        currentPost.setCreationDate(date);
-                        currentPost.setThumbnailImage(thumbnail);
-                        currentPost.setArticleSummary(summary);
-                        currentPost.setArticleDetailedContent(detailedContent);
-                        currentPost.setAssociatedTags(Arrays.asList(categories));
+
                         currentPostList.add(currentPost);
+
                     } catch (Exception e) {
                         e.printStackTrace();
                     }

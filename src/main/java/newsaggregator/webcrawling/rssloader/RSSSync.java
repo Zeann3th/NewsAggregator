@@ -1,16 +1,16 @@
 package newsaggregator.webcrawling.rssloader;
 
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.FileOutputStream;
 import java.io.InputStream;
-import java.io.BufferedReader;
-import java.time.ZonedDateTime;
+import java.net.HttpURLConnection;
+import java.net.URI;
+import java.net.URL;
+import java.net.http.HttpRequest;
 import java.time.ZoneOffset;
+import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
-import java.net.*;
-import java.net.http.*;
-import java.util.Arrays;
-import javax.xml.parsers.*;
-import org.w3c.dom.*;
 
 public class RSSSync {
     /**
