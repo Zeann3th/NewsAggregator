@@ -42,7 +42,7 @@ public class ImportData {
             for (Document doc : documents) {
                 try (MongoCursor<Document> cursor = collection.find(new Document("guid", doc.getString("guid"))).iterator()) {
                     if (cursor.hasNext()) {
-                        System.out.println("Bài viết đã tồn tại trong database...");
+//                        System.out.println("Bài viết đã tồn tại trong database...");
                     } else {
                         collection.insertOne(doc);
                         count++;

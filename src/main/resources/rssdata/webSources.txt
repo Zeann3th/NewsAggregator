@@ -7,3 +7,4 @@ https://www.newsbtc.com/feed/
 https://bitcoinist.com/feed/
 https://beincrypto.com/feed/
 https://blockchain.news/RSS/
+https://cointelegraph.com/feed

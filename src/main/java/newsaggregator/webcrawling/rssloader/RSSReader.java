@@ -31,14 +31,14 @@ public class RSSReader extends Crawler {
 //        RSSSync rssSync = new RSSSync();
         List<Post> postList = new ArrayList<>();
         try {
-            File newsList = new File("src/main/resources/RSSData/webSources.txt");
+            File newsList = new File("src/main/resources/rssdata/webSources.txt");
             Scanner newsListScanner = new Scanner(newsList);
             while (newsListScanner.hasNextLine()) {
                 String urlString = newsListScanner.nextLine();
                 String domainString = URI.create(urlString).getHost();
-                RSSSync.getNewUpdate(urlString, "src/main/resources/RSSData/tmp-cache/%s.xml".formatted(domainString));
+                RSSSync.getNewUpdate(urlString, "src/main/resources/rssdata/tmp-cache/%s.xml".formatted(domainString));
                 RSSReader rssReader = new RSSReader();
-                List<Post> currentPostList = rssReader.parseXML("src/main/resources/RSSData/tmp-cache/%s.xml".formatted(domainString));
+                List<Post> currentPostList = rssReader.parseXML("src/main/resources/rssdata/tmp-cache/%s.xml".formatted(domainString));
                 postList.addAll(currentPostList);
             }
         } catch (Exception e) {

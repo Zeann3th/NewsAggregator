@@ -1,6 +1,6 @@
 package newsaggregator.jsonfilewriter;
 
-import newsaggregator.dataaccess.QueryData;
+import newsaggregator.dataaccess.ReadData;
 import newsaggregator.webcrawling.rssloader.RSSReader;
 import org.junit.jupiter.api.Test;
 
@@ -15,7 +15,7 @@ class JSONFileWriterTest {
 
     @Test
     void writeFileFromDocument() {
-        var data = new QueryData();
+        var data = new ReadData();
         data.search("blockchain", "desc");
         JSONFileWriter.writeFileFromDocument(data.getQueryData(), "src/test/resources/data/test_document_data.json");
     }

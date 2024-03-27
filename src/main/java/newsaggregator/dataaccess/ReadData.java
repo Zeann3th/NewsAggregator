@@ -7,6 +7,7 @@ import com.mongodb.client.MongoDatabase;
 import org.bson.Document;
 import org.bson.conversions.Bson;
 
+import javax.print.Doc;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -15,7 +16,7 @@ import java.util.List;
 /**
  * Lớp này dùng để thực hiện thao tác tìm kiếm liệu trên database.
  */
-public class QueryData {
+public class ReadData {
     private List<Document> queryData;
 
     public List<Document> getQueryData() {
@@ -39,19 +40,36 @@ public class QueryData {
         try (MongoClient mongoClient = MongoClients.create(System.getProperty("mongodb.uri"))) {
             MongoDatabase db = mongoClient.getDatabase("WebData");
             MongoCollection<Document> articlesCollection = db.getCollection("articles");
-            List<Bson> search = Arrays.asList(new Document("$search",
+            List<Bson> search = Arrays.asList(
+                    new Document("$search",
                             new Document("index", "searchArticles")
                                     .append("text",
                                             new Document("query", value)
                                                     .append("path",
-                                                            new Document("wildcard", "*")))),
-                    new Document("$addFields",
-                            new Document("converted_creation_date",
-                                    new Document("$dateFromString",
-                                            new Document("dateString", "$creation_date")
-                                                    .append("onError", "$creation_date")))),
+                                                            new Document("wildcard", "*"))
+                                                    .append("fuzzy", new Document()))),
                     new Document("$sort",
-                            new Document("converted_creation_date", "desc".equals(sortOrder) ? -1L : 1L)));
+                            new Document("creation_date", "desc".equals(sortOrder) ? -1L : 1L)));
+            List<Document> articles = articlesCollection.aggregate(search).into(new ArrayList<>());
+            for (Document article : articles) {
+                System.out.println(article.toJson());
+            }
+            setQueryData(articles);
+        }
+    }
+
+    public void autoComplete(String value) {
+        try (MongoClient mongoClient = MongoClients.create(System.getProperty("mongodb.uri"))) {
+            MongoDatabase db = mongoClient.getDatabase("WebData");
+            MongoCollection<Document> articlesCollection = db.getCollection("articles");
+            List<Bson> search = Arrays.asList(
+                    new Document("$search",
+                            new Document("index", "titleAutocomplete")
+                                    .append("autocomplete",
+                                            new Document("query", value)
+                                                    .append("path", "article_title")
+                                                    .append("tokenOrder", "sequential"))),
+                    new Document("$project", new Document("article_title", 1)));
             List<Document> articles = articlesCollection.aggregate(search).into(new ArrayList<>());
             for (Document article : articles) {
                 System.out.println(article.toJson());
