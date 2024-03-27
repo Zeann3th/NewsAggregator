@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Bitcoinist.com</title>
+	<atom:link href="https://bitcoinist.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bitcoinist.com</link>
+	<description></description>
+	<lastBuildDate>Tue, 26 Mar 2024 19:01:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://bitcoinist.com/wp-content/uploads/2021/04/cropped-cropped-cropped-Icon.png?fit=32%2C32</url>
+	<title>Bitcoinist.com</title>
+	<link>https://bitcoinist.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">225283986</site>	<item>
+		<title>Betting Against Bitcoin? Short Sellers Stake $11 Billion Against Crypto-Linked Stock Rise</title>
+		<link>https://bitcoinist.com/bitcoin-short-sellers-bet-against-crypto-stock/</link>
+		
+		<dc:creator><![CDATA[Samuel Edyme]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2024 05:00:25 +0000</pubDate>
+				<category><![CDATA[Bitcoin News]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[BTCUSUDT]]></category>
+		<category><![CDATA[Butcoin]]></category>
+		<category><![CDATA[Cleanspark]]></category>
+		<category><![CDATA[coinbase]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Crypto stocks]]></category>
+		<category><![CDATA[MicroStrategy]]></category>
+		<category><![CDATA[stocks]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289805</guid>
+
+					<description><![CDATA[Despite the bullish momentum witnessed in the cryptocurrency market, fueled by a significant uptick in Bitcoin&#8217;s price, skepticism among short sellers persists, and billions of dollars have been wagered on the downturn of cryptocurrency-linked stocks. For context, Short sellers are investors who speculate that a stock&#8217;s or other asset&#8217;s price will decline. They borrow shares [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Despite the bullish momentum witnessed in the cryptocurrency market, fueled by a significant uptick in Bitcoin&#8217;s price, skepticism among short sellers <a href="https://www.bnnbloomberg.ca/short-sellers-bet-11-billion-that-crypto-stock-rally-won-t-last-1.2051859" target="_blank" rel="noopener nofollow">persists</a>, and billions of dollars have been wagered on the downturn of cryptocurrency-linked <a href="https://bitcoinist.com/bitcoin-reaches-trillion-dollar-valuation-how-it-stacks-up-to-stocks-gold-more/" target="_blank" rel="noopener ">stocks</a>.</p>
+<p>For context, Short sellers are investors who speculate that a stock&#8217;s or other asset&#8217;s price will decline. They borrow shares of the asset from a broker and sell them on the open market at the current price.</p>
+<p>They aim to buy back the same number of shares later at a lower price, return the borrowed shares to the broker, and pocket the difference as profit.</p>
+
+<h2>Betting Against Bitcoin? The Short Selling Surge</h2>
+<p>According to Bloomberg, citing a recent report from S3 Partners LLC, the short interest in the cryptocurrency-linked stock sector has escalated to approximately $11 billion this year, indicating a substantial bet against the sustainability of the <a href="https://bitcoinist.com/bitcoin-correlation-dollar-index-stocks-disappeared/" target="_blank" rel="noopener ">current rally</a>.</p>
+<p>Notably, most of this short interest targets MicroStrategy Inc. and <a href="https://bitcoinist.com/paradigm-industry-titans-rallying-behind-coinbase/" target="_blank" rel="noopener ">Coinbase Global Inc.</a>, accounting for over 80% of the total bets against the crypto sector.</p>
+<img fetchpriority="high" decoding="async" src="https://i0.wp.com/www.bnnbloomberg.ca/polopoly_fs/1.2051860.1711472050!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png?resize=620%2C349&#038;ssl=1" alt="Bet against crypto-linked stock sorted by highest." width="620" height="349" data-recalc-dims="1" />
+<p>This contrarian stance has resulted in paper losses nearing $6 billion for short sellers, as Bitcoin&#8217;s year-to-date gain of over 150% buoyed cryptocurrency-linked stocks. Despite these losses, short sellers appear undeterred, intensifying their positions against the sector.</p>
+<p>According to Ihor Dusaniwsky, managing director of predictive analytics at S3, the increase in short selling is a strategy some investors employ to either anticipate a &#8220;pullback&#8221; in Bitcoin&#8217;s rally or hedge against direct <a href="https://bitcoinist.com/crypto-mining-stocks-bitcoin/" target="_blank" rel="noopener ">Bitcoin investments</a>.</p>
+<h2>Risks And Potential Squeezes</h2>
+<p>The persistence of short sellers in targeting crypto-linked stocks poses risks, particularly if the market does not align with their bearish forecasts. Several stocks within this sector, including <a href="https://bitcoinist.com/microstrategy-1-of-all-bitcoin/" target="_blank" rel="noopener ">MicroStrategy</a>, Coinbase, and Cleanspark Inc., are identified as susceptible to short squeezes, according to Bloomberg, citing S3.</p>
+<p>This phenomenon occurs when short sellers are compelled to purchase stocks to exit their losing positions, inadvertently driving prices up and exerting additional pressure on other short sellers.</p>
+<p>So far this year, MicroStrategy&#8217;s stock has surged by roughly 167%, while Coinbase and Cleanspark have experienced gains of 58.60% and 85.16%, respectively, highlighting the potential for significant short squeezes.</p>
+<p>Amid these market dynamics, the broader cryptocurrency sector has also seen substantial liquidations. Data from Coinglass indicates that over $190 million worth of positions have been liquidated in the last 24 hours alone.</p>
+<img decoding="async" class="wp-image-289806 size-large" src="https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-26-at-18.34.59.png?resize=980%2C532" alt="Crypto market liquidations heatmap." width="980" height="532" srcset="https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-26-at-18.34.59.png?w=1633 1633w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-26-at-18.34.59.png?w=640 640w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-26-at-18.34.59.png?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-26-at-18.34.59.png?w=980 980w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-26-at-18.34.59.png?w=1536 1536w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-26-at-18.34.59.png?w=750 750w, https://bitcoinist.com/wp-content/uploads/2024/03/Screenshot-2024-03-26-at-18.34.59.png?w=1140 1140w" sizes="(max-width: 980px) 100vw, 980px" data-recalc-dims="1" />
+<p>Most of these liquidations were long positions, accounting for approximately 61.45%. Binance traders bore the brunt of these liquidations, experiencing losses of $81.33 million, surpassing the liquidations on OKX, which amounted to $70 million.</p>
+
+<p>This period of liquidations coincides with a slight retracement in Bitcoin&#8217;s price from its 24-hour high above $71,000 to a current trading price of $69,879 at the time of writing.</p>
+<img decoding="async" class="size-medium" src="https://www.tradingview.com/x/VCY0Rrkq/" alt="Bitcoin (BTC) price chart on TradingView.com" width="2770" height="1496" />
+<p>Featured image from Unsplash, Chart from TradingView</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2023/03/Bitcoin.jpeg?fit=587%2C420" width="587" height="420" /><post-id xmlns="com-wordpress:feed-additions:1">289805</post-id>	</item>
+		<item>
+		<title>Battle Over ‘Sam Coins’: FTX Customers Demand Millions From Bankrupt Crypto Firm</title>
+		<link>https://bitcoinist.com/battle-over-sam-coins-ftx-customers-demand-millions/</link>
+		
+		<dc:creator><![CDATA[Ronaldo Marquez]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2024 04:00:52 +0000</pubDate>
+				<category><![CDATA[FTX]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Crypto Exchange FTX]]></category>
+		<category><![CDATA[crypto news]]></category>
+		<category><![CDATA[cryptocurrencies]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[FTT news]]></category>
+		<category><![CDATA[FTT price]]></category>
+		<category><![CDATA[FTT Token]]></category>
+		<category><![CDATA[FTT:USD]]></category>
+		<category><![CDATA[FTTUDST]]></category>
+		<category><![CDATA[FTX aftermath]]></category>
+		<category><![CDATA[FTX bankruptcy]]></category>
+		<category><![CDATA[FTX claims]]></category>
+		<category><![CDATA[FTX co-founder]]></category>
+		<category><![CDATA[FTX creditors]]></category>
+		<category><![CDATA[FTX crypto]]></category>
+		<category><![CDATA[FTX news]]></category>
+		<category><![CDATA[Sam Bankman-Fried]]></category>
+		<category><![CDATA[Sam Bankman-Fried defense]]></category>
+		<category><![CDATA[Sam Bankman-Fried news]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289822</guid>
+
+					<description><![CDATA[FTX customers are demanding substantial payouts from the bankrupt crypto firm. These customers claim three digital tokens, known as &#8220;Sam Coins,&#8221; deserve a higher value despite their association with convicted co-founder Sam Bankman-Fried. Investors Push For Higher Valuation According to a Bloomberg report, the investors holding tokens called Serum, MAPS, and OXY are urging US [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>FTX customers are demanding substantial payouts from the <a href="https://bitcoinist.com/ftx-set-to-cash-in-884-million-from-sale-anthropic/" target="_blank" rel="noopener ">bankrupt crypto firm</a>. These customers claim three digital tokens, known as &#8220;Sam Coins,&#8221; deserve a higher value despite their association with convicted co-founder Sam Bankman-Fried.</p>
+<h2>Investors Push For Higher Valuation</h2>
+<p>According to a Bloomberg <a href="https://www.bloomberg.com/news/articles/2024-03-26/ftx-crypto-creditors-fight-claim-that-sam-coins-are-worthless?sref=2jPYL79S" target="_blank" rel="noopener nofollow">report</a>, the investors holding tokens called Serum, MAPS, and OXY are urging US Bankruptcy Judge John Dorsey to override the company&#8217;s experts&#8217; conclusion that the tokens are “nearly worthless.” </p>
+<p>Notably,<a href="https://bitcoinist.com/ftx-sam-bankman-fried-50-years/" target="_blank" rel="noopener "> Sam Bankman-Fried</a>, who created Serum and obtained control over the other two tokens, was involved in securing deals related to them, as mentioned in court documents.</p>
+
+<p>When FTX filed for bankruptcy in November 2022, the company held a significant majority of the tokens, far exceeding what could be sold, even without considering the fraudulent activities that led to its collapse, as the company argued in a court filing.</p>
+<p>The firm’s advisers have proposed that the tokens should be valued at a minimal amount, possibly just a few cents. However, the token holders argue that this estimate is “flawed” and have presented their <a href="https://bitcoinist.com/ftx-bankruptcy-trade-turns-into-legal-showdown/" target="_blank" rel="noopener ">valuation method</a> in court, suggesting that the tokens are worth hundreds of millions of dollars. They have filed claims demanding payment based on their calculations.</p>
+<h2>FTX Customers Prepare For Legal Showdown</h2>
+<p>FTX&#8217;s lawyers state that other former customers will likely receive full reimbursement for their investments on the trading platform before bankruptcy. These customers had invested in US dollars, Bitcoin (BTC), and other assets that still hold value today. </p>
+<p>The case between the customers and FTX is scheduled to reach its final arguments on Tuesday before Judge Dorsey in federal court in Wilmington, Delaware.</p>
+<p>Per the report, the &#8220;Sam Coins&#8221; played a significant role in this fraudulent scheme, as asserted by bankruptcy officials. While these tokens had distinct names, they were colloquially called &#8220;Sam Coins&#8221; due to their close association with Bankman-Fried.</p>
+
+<p>On the other hand, Sam Bankman-Fried was <a href="https://bitcoinist.com/ftxs-sam-bankman-fried-should-receive-50-year-jail/" target="_blank" rel="noopener ">convicted </a>of fraud for improperly transferring customer assets to a hedge fund under his control. The funds were subsequently utilized for high-risk investments, political donations, and expensive real estate, ultimately leading to the collapse of the FTX empire.</p>
+<img loading="lazy" decoding="async" class="size-large" src="https://www.tradingview.com/x/DCRLaVvO/" alt="FTX" width="1815" height="858" />
+<p>At present, the native token of the exchange, <a href="https://bitcoinist.com/ftx-drops-bombshell-lawsuit/" target="_blank" rel="noopener ">FTT</a>, is trading at $2.15, reflecting a 3% decline in price over the past 24 hours. However, the token has witnessed significant gains in recent months, accumulating a total growth of 65%.</p>
+<p>Meanwhile, the three coins associated with Bankman-Fried display varying trends. Serum (SRM) has experienced a decline of over 5% in the past 24 hours and is currently valued at $0.06318. </p>
+<p>On the other hand, MAPS is trading at $0.03549, demonstrating an upward trend of 9.4% during the same time frame. Lastly, Oxygen (OXY) stands at $0.01629, showcasing a notable surge of 15% within the given period.</p>
+<p>Featured image from Shutterstock, chart from TradingView.com </p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/shutterstock_download-7-7.jpg?fit=462%2C260" width="462" height="260" /><post-id xmlns="com-wordpress:feed-additions:1">289822</post-id>	</item>
+		<item>
+		<title>Russian Crypto Firms Face Sanctions By US Treasury For “Supporting Evasion”</title>
+		<link>https://bitcoinist.com/russian-crypto-firms-face-sanctions-by-us-treasury-for-supporting-evasion/</link>
+		
+		<dc:creator><![CDATA[Rubmar Garcia]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2024 03:00:04 +0000</pubDate>
+				<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[BTCUSDT]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Crypto Russia]]></category>
+		<category><![CDATA[Crypto Sanctions]]></category>
+		<category><![CDATA[OFAC]]></category>
+		<category><![CDATA[Russia dark web]]></category>
+		<category><![CDATA[US Treasury]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289807</guid>
+
+					<description><![CDATA[The US Department of the Treasury’s Office of Foreign Assets Control (OFAC) announced a new round of sanctions on crypto-related companies linked to Russia. The measure is part of the US government’s efforts to combat OFAC-designated entities from evading sanctions through virtual asset services. Related Reading: Rumors Swirl As North Korea’s ETH Transfer To BlackRock [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="font-weight: 400;">The US Department of the Treasury’s Office of Foreign Assets Control (OFAC) announced a new round of sanctions on crypto-related companies linked to Russia. The measure is part of the US government’s efforts to combat OFAC-designated entities from evading sanctions through virtual asset services.</p>
+
+<h2 style="font-weight: 400;">OFAC Designates Russia-Linked Crypto Companies</h2>
+<p style="font-weight: 400;">The US treasury has recently <a href="https://home.treasury.gov/news/press-releases/jy2204" target="_blank" rel="noopener nofollow">designated</a> thirteen entities and two individuals for allegedly facilitating transactions and offering crypto services to help “evade sanctions.”</p>
+<p style="font-weight: 400;">The new designations target companies servicing Russia’s core financial infrastructure for operating in the “financial services and technology sectors of the Russian Federation economy.”</p>
+<p style="font-weight: 400;">The list includes Russia-based and Russia-linked individuals developing and offering virtual asset services that &#8220;enable the evasion of US sanctions by OFAC-designated entities.&#8221;</p>
+<p style="font-weight: 400;">The move bans all transactions and interactions between the designated entities and US individuals. It is part of OFAC and the <a href="https://bitcoinist.com/g7-to-create-strategy-for-crypto/" target="_blank" rel="noopener ">G7’s efforts</a> against the evasion of sanctions and export control measures from the designated parties.</p>
+<p style="font-weight: 400;">Brian E. Nelson, Under Secretary of the Treasury for Terrorism and Financial Intelligence, explained:</p>
+<blockquote>
+<p style="font-weight: 400;">Russia is increasingly turning to alternative payment mechanisms to circumvent U.S. sanctions and continue to fund its war against Ukraine. As the Kremlin seeks to leverage entities in the financial technology space, Treasury will continue to expose and disrupt the companies that seek to help sanctioned Russian financial institutions reconnect to the global financial system.</p>
+</blockquote>
+<h2 style="font-weight: 400;">On-Chain Data Unveils Bitpapa And Netex24 Assistance In Sanctions Evasion</h2>
+<p style="font-weight: 400;">Blockchain research firm Chainalysis <a href="https://www.chainalysis.com/blog/ofac-sanctions-russia-blockchain-companies-netex24-bitpapa/" target="_blank" rel="noopener nofollow">released</a> a report analyzing two of the newly OFAC-designated entities: Netex24, a Moscow-based fintech company that operates as a crypto exchange, and Bitpapa, a peer-to-peer (P2P) exchange that facilitates payments for Russian crypto businesses on OFAC’s list.</p>
+<p style="font-weight: 400;">According to the report, both companies have facilitated significant transactions to sanction entities over the past two years.</p>
+<p style="font-weight: 400;">The company identified “clusters associated with both services using on-chain data.” The report highlights that exchanges without Know Your Customer (KYC) controls and darknet markets make up a significant portion of the companies’ transaction history.</p>
+<p style="font-weight: 400;">These transactions include Russian-language sites offering “on and off ramping with sanctioned Russian banks.” The two companies have registered massive fund outflows sent for seemingly illegal purposes.</p>
+<p style="font-weight: 400;"><img loading="lazy" decoding="async" class="size-large wp-image-289814 aligncenter" src="https://bitcoinist.com/wp-content/uploads/2024/03/cumulative-value-800x538-1.png?w=800&#038;resize=800%2C538" alt="crypto, Russia sanctions " width="800" height="538" srcset="https://bitcoinist.com/wp-content/uploads/2024/03/cumulative-value-800x538-1.png?w=800&#038;resize=800%2C538 800w, https://bitcoinist.com/wp-content/uploads/2024/03/cumulative-value-800x538-1.png?w=625 625w, https://bitcoinist.com/wp-content/uploads/2024/03/cumulative-value-800x538-1.png?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/03/cumulative-value-800x538-1.png?w=750 750w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /></p>
+
+<p style="font-weight: 400;">According to Chainalysis, Bitpapa registered 52% of outflows to Sanctioned entities and 32.6% to darknet markets from October 2019 until March 2024. Meanwhile, Netex24 exhibits 46.7% of outflows to darknet markets and 23.4% to sanctioned entities from October 2016 until March 2024.</p>
+<p style="font-weight: 400;">The cumulative value sent from these companies to <a href="https://bitcoinist.com/crypto-sanctions-imposed-by-these-3-countries/" target="_blank" rel="noopener ">sanctioned</a> parties increased since 2022, when Russia’s war in Ukraine started. As the chart above shows, the darknet market transactions increased alongside those of sanctioned entities during this timeframe, rising above $75 million since the second half of 2023.</p>
+<p style="font-weight: 400;">Per the report, both entities transferred millions of dollars worth of crypto to Hydra Market and crypto exchange Garantex. Additionally, the companies facilitated transactions for several pro-Russia militia and propaganda groups, including OFAC-designated MOO Veche.</p>
+<p style="font-weight: 400;">The US government has intensified its efforts against entities bypassing sanctions through crypto-related services. A round of sanctions was imposed in January on the platforms involved in the facilitation of crypto transactions linked to the terrorist group Hamas as part of the ongoing efforts for</p>
+<p style="font-weight: 400;">Moreover, The US has severely targeted <a href="https://bitcoinist.com/coinbase-treasury-letter-opposing-crypto-regulation/" target="_blank" rel="noopener ">crypto mixers</a> for the misuse of these privacy tools by criminal actors, including bans on Tornado Cash and its founder, which has raised concerns in the crypto community.</p>
+
+<p><img loading="lazy" decoding="async" class="alignnone size-large wp-image-289808 aligncenter" src="https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSDT_2024-03-26_08-00-04.png?w=980&#038;resize=980%2C493" alt="Crypto, BTC, BTCUSDT, Russian crypto firms" width="980" height="493" srcset="https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSDT_2024-03-26_08-00-04.png?w=1022 1022w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSDT_2024-03-26_08-00-04.png?w=640 640w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSDT_2024-03-26_08-00-04.png?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSDT_2024-03-26_08-00-04.png?w=980&#038;resize=980%2C493 980w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSDT_2024-03-26_08-00-04.png?w=360 360w, https://bitcoinist.com/wp-content/uploads/2024/03/BTCUSDT_2024-03-26_08-00-04.png?w=750 750w" sizes="(max-width: 980px) 100vw, 980px" data-recalc-dims="1" /></p>
+
+
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/flyd-Tf_i662QRys-unsplash.jpeg?fit=630%2C420" width="630" height="420" /><post-id xmlns="com-wordpress:feed-additions:1">289807</post-id>	</item>
+		<item>
+		<title>Ethereum Spot ETF On Thin Ice? Expert Predicts 25% Approval Odds Amid SEC Silence</title>
+		<link>https://bitcoinist.com/ethereum-spot-etf-expert-predicts-approval-odds/</link>
+		
+		<dc:creator><![CDATA[Samuel Edyme]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2024 01:30:09 +0000</pubDate>
+				<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Altcoin]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Crypto ETF]]></category>
+		<category><![CDATA[ETF]]></category>
+		<category><![CDATA[ETF Analyst]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[ethereum etf]]></category>
+		<category><![CDATA[Ethereum Prediction]]></category>
+		<category><![CDATA[Ethereum Spot ETF]]></category>
+		<category><![CDATA[ETHUSDT]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289775</guid>
+
+					<description><![CDATA[The discussion surrounding approving a spot Ethereum exchange-traded fund (ETF) by the US Securities and Exchange Commission (SEC) is intensifying as the decision announcement date rapidly approaches. Bloomberg&#8217;s Senior ETF Analyst, Eric Balchunas, has shared a rather cautious outlook, estimating the likelihood of an ETH spot ETF receiving the green light at a mere 25%. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>The discussion surrounding approving a spot Ethereum exchange-traded fund (ETF) by the US Securities and Exchange Commission (SEC) is intensifying as the decision announcement date rapidly approaches.</p>
+<p>Bloomberg&#8217;s Senior ETF Analyst, Eric Balchunas, has <a href="https://twitter.com/EricBalchunas/status/1772372601098162624?ref_src=twsrc%5Etfw" target="_blank" rel="noopener nofollow">shared</a> a rather cautious outlook, estimating the likelihood of an ETH spot ETF receiving the green light at a mere 25%.</p>
+
+<h2>Ethereum Slight Chance To A Spot ETF Approval</h2>
+<p>Skepticism about the unlikelihood of a spot ETH ETF approval is rooted in what Balchunas perceives as deliberate non-engagement from the SEC rather than mere procrastination, leading to an absence of positive indicators for approval in the <a href="https://bitcoinist.com/uk-embraces-crypto-bitcoin-and-ethereum-etns-coming-to-london-stock-exchange/" target="_blank" rel="noopener ">current environment</a>.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Re Eth ETF approval, we are holding the line at 25% odds altho tbh it is a very pessimistic 25%. The lack of engagement seems to be purposeful vs procrastination. No positive signs/intel anywhere you look. Personally hope they do approve it but it just ain&#8217;t looking good. <a href="https://t.co/nuBdCDE18L" target="_blank" rel="noopener nofollow">https://t.co/nuBdCDE18L</a></p>
+<p>— Eric Balchunas (@EricBalchunas) <a href="https://twitter.com/EricBalchunas/status/1772372601098162624?ref_src=twsrc%5Etfw" target="_blank" rel="noopener nofollow">March 25, 2024</a></p></blockquote>
+<p>The debate over the <a href="https://bitcoinist.com/sec-delays-decision-on-grayscales-ethereum-etf-here/" target="_blank" rel="noopener ">SEC&#8217;s stance</a> on a potential Ethereum spot ETF is nuanced, with opinions divided within the industry. On the one hand, Balchunas has expressed disappointment over the lack of encouraging signs for Ethereum spot ETF approval despite holding out hope for a positive outcome.</p>
+<p>On the other hand, Craig Salm, Grayscale&#8217;s Chief Legal Officer, <a href="https://bitcoinist.com/ethereum-spot-etf-mirrors-bitcoins-strength/" target="_blank" rel="noopener ">offers a different perspective</a>, suggesting that the SEC&#8217;s silence should not be<a href="https://bitcoinist.com/elon-musk-queries-ethereum-founder-buterin/" target="_blank" rel="noopener "> interpreted negatively</a>.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">2/ In the final months leading up to <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener nofollow">#Bitcoin</a> ETF approval, <a href="https://twitter.com/Grayscale?ref_src=twsrc%5Etfw" target="_blank" rel="noopener nofollow">@Grayscale</a> and others received positive and constructive engagement from the SEC. We had thoughtful conversations and discussed the finer details of creation/redemption procedures, cash v. in-kind, APs, LPs, custody etc.</p>
+<p>— Craig Salm (@CraigSalm) <a href="https://twitter.com/CraigSalm/status/1772360838793384389?ref_src=twsrc%5Etfw" target="_blank" rel="noopener nofollow">March 25, 2024</a></p></blockquote>
+<p>Salm argues that many operational details relevant to an Ethereum spot ETF have already been addressed during the approval process for the spot Bitcoin ETF, implying that fewer aspects might require engagement this time around.</p>
+<h2>Ethereum&#8217;s Market Performance Amid Regulatory Uncertainty</h2>
+<p>Despite <a href="https://bitcoinist.com/ripple-ceo-predicts-sec-setback-in-ethereum-case/" target="_blank" rel="noopener ">varying opinions</a> on the implications of the SEC&#8217;s current engagement levels, the agency&#8217;s actions indicate a cautious approach toward Ethereum and its classification.</p>
+<p>Recent moves by the SEC, including <a href="https://fortune.com/crypto/2024/03/20/sec-gary-gensler-ethereum-security-commodity-crypto-foundation/" target="_blank" rel="noopener nofollow">issuing</a> &#8220;subpoenas&#8221; to crypto firms about their interactions with the Ethereum Foundation, have fueled speculation about a campaign to classify Ethereum as a security.</p>
+<p>This development, coupled with the regulatory body&#8217;s historical hesitance towards cryptocurrency ETFs, casts doubt on the immediate future of a spot ETH ETF.</p>
+
+<p>Amid this regulatory uncertainty, ETH&#8217;s market performance has been noteworthy. In the past week alone, the cryptocurrency has seen a 10% increase in value, with its price trading above $3,500 at the time of writing.</p>
+<img loading="lazy" decoding="async" class="size-medium" src="https://www.tradingview.com/x/nJUp5tdF/" alt="Ethereum (ETH) price chart on TradingView" width="2770" height="1496" />
+<p>Featured image from Unsplash, Chart from TradingView</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2023/01/Ethereum.jpg?fit=350%2C250" width="350" height="250" /><post-id xmlns="com-wordpress:feed-additions:1">289775</post-id>	</item>
+		<item>
+		<title>SEC Faces Lawsuit Over Crypto Airdrops, Defendants Push For Non-Security Status</title>
+		<link>https://bitcoinist.com/sec-lawsuit-over-crypto-airdrops-defendants-push/</link>
+		
+		<dc:creator><![CDATA[Ronaldo Marquez]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2024 00:00:09 +0000</pubDate>
+				<category><![CDATA[Crypto News]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[crypto news]]></category>
+		<category><![CDATA[crypto regulation]]></category>
+		<category><![CDATA[Crypto Regulations]]></category>
+		<category><![CDATA[cryptocurrencies]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[digital currency]]></category>
+		<category><![CDATA[SEC Crypto]]></category>
+		<category><![CDATA[US crypto]]></category>
+		<category><![CDATA[US crypto market]]></category>
+		<category><![CDATA[US crypto regulation]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289773</guid>
+
+					<description><![CDATA[The US Securities and Exchange Commission (SEC) is facing a new lawsuit that aims to challenge the regulator&#8217;s failure to provide a clear regulatory framework for the crypto industry, specifically regarding classifying crypto airdrops as securities.  The lawsuit, filed by the DeFi Education Fund (DEF) and Beba Collection, an apparel company based in Texas, seeks [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>The US Securities and Exchange Commission (SEC) is facing a new lawsuit that aims to challenge the regulator&#8217;s failure to provide a clear <a href="https://bitcoinist.com/sec-commissioner-crypto-regulation-enforcement/" target="_blank" rel="noopener ">regulatory framework</a> for the crypto industry, specifically regarding classifying crypto airdrops as securities. </p>
+<p>The lawsuit, filed by the DeFi Education Fund (DEF) and Beba Collection, an apparel company based in Texas, seeks to prompt the court to rule that the BEBA token does not fall under the category of a <a href="https://bitcoinist.com/turkey-nears-completion-crypto-regulation-framework/" target="_blank" rel="noopener ">securities </a>investment contract.</p>
+<h2>Lawsuit Targets SEC&#8217;s Treatment Of BEBA Token</h2>
+<p>In their <a href="https://x.com/fund_defi/status/1772277649227878560?s=20" target="_blank" rel="noopener nofollow">announcement</a>, the DeFi Education Fund expressed concerns over the SEC&#8217;s “aggressive enforcement actions,” which they believe pose an existential threat to the crypto industry. The lawsuit focuses on two claims. </p>
+<p>First, Beba Collection requests a declaratory judgment stating that BEBA tokens are not investment contracts and that the free airdrop of BEBA tokens for marketing purposes does not constitute a securities transaction. </p>
+
+<p>Second, the DeFi Education Fund and Beba argue that the SEC violated the Administrative Procedure Act by adopting a policy that treats nearly all crypto assets as investment contracts and digital asset transactions as securities transactions.</p>
+<p>Regarding crypto airdrops, Beba Collection asserts that the free distribution of BEBA tokens does not involve an &#8220;investment of money,&#8221; a key requirement under the Howey test for determining <a href="https://bitcoinist.com/peirce-slams-secs-move-to-target-crypto-auditors/" target="_blank" rel="noopener ">investment contracts</a>. According to Beba, no investment contract exists since the tokens were given away without monetary investment from recipients.</p>
+<h2>Crypto Industry Strikes Back</h2>
+<p>The second claim focuses on the SEC&#8217;s compliance with the Administrative Procedure Act (APA), which requires agencies to adopt <a href="https://bitcoinist.com/brazil-to-introduce-tougher-crypto-regulation/" target="_blank" rel="noopener ">new rules</a> openly and with public input. </p>
+<p>DEF and Beba argue that the SEC implemented a radical new policy under Chairman Gensler&#8217;s leadership without providing the required opportunity for public comment. The DeFi Education Fund further alleged:</p>
+<blockquote><p>Instead, the SEC ramped up its enforcement actions, hired more people to make them happen, and created a “who’s next?” fear in the industry. The natural outcome of the SEC’s actions is: “cross your fingers and hope the SEC does not come knocking on your door.” We can’t allow this state of play to continue.</p></blockquote>
+<p>Ultimately, DEF suggested that the outcome of this case could have significant implications. A ruling in favor of DEF and Beba that the SEC&#8217;s approach to crypto violates the APA would be a major obstacle to the SEC&#8217;s ongoing “regulatory overreach.” </p>
+<p>Additionally, if the court determines that BEBA tokens are not investment contracts and that free <a href="https://bitcoinist.com/mark-cuban-takes-jab-at-sec/" target="_blank" rel="noopener ">airdrops </a>are not securities transactions, it would provide much-needed clarity to the industry.</p>
+
+<p>As the lawsuit unfolds, the crypto community and industry stakeholders eagerly await the court&#8217;s decision, hoping for a favorable outcome that promotes innovation, fosters regulatory clarity, and curtails excessive enforcement actions by the SEC.</p>
+<img loading="lazy" decoding="async" class="size-large" src="https://www.tradingview.com/x/SdUAj3Jb/" alt="Crypto" width="1815" height="858" />
+<p>Featured image from Shutterstock, chart from TradingView.com </p>
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/shutterstock_download-7-5.jpg?fit=568%2C260" width="568" height="260" /><post-id xmlns="com-wordpress:feed-additions:1">289773</post-id>	</item>
+		<item>
+		<title>Pro-XRP Lawyer Sees 40% Settlement Odds For Ripple-SEC After Ruling</title>
+		<link>https://bitcoinist.com/pro-xrp-lawyer-ripple-sec-settlement-odds-40/</link>
+		
+		<dc:creator><![CDATA[Jake Simmons]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2024 23:00:38 +0000</pubDate>
+				<category><![CDATA[XRP]]></category>
+		<category><![CDATA[Fred Rispoli]]></category>
+		<category><![CDATA[Pro-XRP lawyer]]></category>
+		<category><![CDATA[ripple]]></category>
+		<category><![CDATA[ripple labs]]></category>
+		<category><![CDATA[ripple news]]></category>
+		<category><![CDATA[SEC]]></category>
+		<category><![CDATA[US Securities and Exchange Commission]]></category>
+		<category><![CDATA[XRP news]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289747</guid>
+
+					<description><![CDATA[In an escalation of the ongoing legal battle between Ripple Labs and the US Securities and Exchange Commission (SEC), the regulatory agency has advanced its position by filing a Motion for Remedies and Entry of Final Judgment, which notably includes a request for a $2 billion penalty against Ripple. Fred Rispoli, a pro-XRP lawyer and [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>In an escalation of the ongoing legal battle between Ripple Labs and the US Securities and Exchange Commission (SEC), the regulatory agency has advanced its position by <a href="https://twitter.com/FilanLaw/status/1772466842524582296" target="_blank" rel="noopener nofollow">filing</a> a Motion for Remedies and Entry of Final Judgment, which notably includes a request for a $2 billion penalty against Ripple.</p>
+<p>Fred Rispoli, a pro-XRP lawyer and founder of HODL Law, has provided a detailed <a href="https://twitter.com/freddyriz/status/1772441439823077550" target="_blank" rel="noopener nofollow">analysis</a> of the SEC’s motion through a series of comments on X (formerly Twitter). Rispoli’s breakdown offers an insider perspective on the potential outcomes and strategies at play.</p>
+<p>He noted, &#8220;#XRPcommunity The SEC&#8217;s motion for judgment has been publicly filed. TLDR: SEC is following the playbook I outlined two months ago,&#8221; reflecting on the predictability of the SEC&#8217;s actions but also underscoring the gravity of the situation for Ripple.</p>
+<h2>SEC Puts Ripple In Trouble</h2>
+<p>Rispoli’s analysis highlights several key points from the SEC&#8217;s filing, with particular emphasis on the claim that Ripple offered significant discounts on XRP sales to certain <a href="https://bitcoinist.com/sec-victory-ripple-disclosure-financial-statements/" target="_blank" rel="noopener ">institutional buyers</a>. The SEC argues that there were two groups of institutional sales investors while Ripple offered one group significant discounts in XRP price over the other group that did not receive them.</p>
+<p>This practice, according to the SEC, not only skewed some institutional sales investors but also potentially disadvantaged retail investors. The lawyer credited the agency for this tactical move.</p>
+
+<p>“It realized that it needs to show how investors were actually harmed. Ripple has already said the SEC&#8217;s motion is full of mischaracterizations. Let&#8217;s hope that is correct because the picture painted is not a good look for Ripple and lends credence to the XRP haters on why the price is so low. Namely, the deep discounts by Ripple on XRP sales,” Rispoli stated.</p>
+<p>At the same time, he expressed concerns over these revelation, stating, &#8220;If discounts are wide enough, then Institutional Buyers (like GSR) scored unbelievable discounts and have bags-upon-bags of XRP that they could continually sell at astronomical profit,&#8221; pointing to a potential imbalance in the investment landscape fostered by Ripple’s actions.</p>
+
+<p>Furthermore, Rispoli shed light on the SEC&#8217;s portrayal of Ripple’s business practices, notably the company&#8217;s continuation of XRP sales as its primary revenue source, even after legal scrutiny intensified. He elaborates, &#8220;SEC claims the financial discovery it received by court order demonstrates this is by far and away Ripple&#8217;s primary source of revenue,&#8221; suggesting a critical view of Ripple&#8217;s dependency on these sales amidst ongoing litigation.</p>
+<p>Meanwhile, the document also reveals that Ripple is still signing contracts with institutional buyers. Since the start of the XRP lawsuit in December 2020, the company has signed 80 contracts.</p>
+<h2>Pro-XRP Lawyer Predicts Two Possible Outcomes</h2>
+<p>The classification of Ripple&#8217;s<a href="https://bitcoinist.com/ripple-clo-clarifies-xrp-is-not-used-liquidity-hub/" target="_blank" rel="noopener "> On-Demand Liquidity (ODL)</a> transactions represents another crucial aspect of Rispoli’s analysis. The legal determination of whether these transactions constitute unlawful sales or are permissible under law is a significant factor that could influence Ripple&#8217;s operational latitude.</p>
+<p>&#8220;Stakes are very high here,&#8221; Rispoli asserts, adding, “we have to hope Ripple has sufficiently changed its business practices to account for Torres&#8217; ruling.”</p>
+<p>The potential consequences of the SEC’s motion are profound, with Rispoli speculating on the likelihood of a <a href="https://bitcoinist.com/ripple-vs-sec-lawsuit-may-result-in-settlement/" target="_blank" rel="noopener ">settlement</a>. He assessed, &#8220;This motion is of enormous consequence,” with two options on how this ends:</p>
+<blockquote><p><strong>One, the amount ordered by the court is low enough and rulings on newly-structured sales favorable enough (to Ripple) that there is a final settlement after the ruling. I&#8217;m now putting this at 40% odds. More likely is this will come out favorable to Ripple on the amount of money owed but that Ripple takes hits on what is allowed going forward, meaning this is going to an appeal to the 2nd.</strong></p></blockquote>
+<p>At press time, XRP traded at $0.63.</p>
+<img loading="lazy" decoding="async" class="size-full wp-image-289770" src="https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-26_15-27-42.png?resize=1024%2C472" alt="XRP price" width="1024" height="472" srcset="https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-26_15-27-42.png?resize=1024%2C472?w=3628 3628w, https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-26_15-27-42.png?resize=1024%2C472?w=640 640w, https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-26_15-27-42.png?resize=1024%2C472?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-26_15-27-42.png?resize=1024%2C472?w=980 980w, https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-26_15-27-42.png?resize=1024%2C472?w=1536 1536w, https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-26_15-27-42.png?resize=1024%2C472?w=2048 2048w, https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-26_15-27-42.png?resize=1024%2C472?w=750 750w, https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-26_15-27-42.png?resize=1024%2C472?w=1140 1140w, https://bitcoinist.com/wp-content/uploads/2024/03/XRPUSD_2024-03-26_15-27-42.png?resize=1024%2C472?w=3000 3000w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" />
+
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2023/10/shutterstock_2222099581.jpg?fit=640%2C365" width="640" height="365" /><post-id xmlns="com-wordpress:feed-additions:1">289747</post-id>	</item>
+		<item>
+		<title>Shiba Inu On The Rise: Here Are The Latest Developments Driving Bullish Sentiment</title>
+		<link>https://bitcoinist.com/shiba-inu-latest-developments-2/</link>
+		
+		<dc:creator><![CDATA[Scott Matherson]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2024 22:00:18 +0000</pubDate>
+				<category><![CDATA[Shiba Inu]]></category>
+		<category><![CDATA[shib]]></category>
+		<category><![CDATA[SHIB developments]]></category>
+		<category><![CDATA[SHIB news]]></category>
+		<category><![CDATA[SHIB price]]></category>
+		<category><![CDATA[Shiba Inu developments]]></category>
+		<category><![CDATA[Shiba Inu news]]></category>
+		<category><![CDATA[Shiba Inu price]]></category>
+		<category><![CDATA[SHIBUSD]]></category>
+		<category><![CDATA[SHIBUSDT]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289699</guid>
+
+					<description><![CDATA[Several developments and happenings in the Shiba Inu (SHIB) ecosystem continue to highlight the crypto token’s growth. These fundamentals also hint at SHIB’s price being primed for further moves to the upside.  The SHIB Army Is Resilient Shiba Inu team member Ragnar drew the community’s attention to the rise in the number of SHIB’s long-term [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Several <a href="https://bitcoinist.com/shiba-inus-shibarium-hits-new-record-amid-chaotic-market-movements/">developments and happenings</a> in the Shiba Inu (SHIB) ecosystem continue to highlight the crypto token’s growth. These fundamentals also hint at <a href="https://bitcoinist.com/shiba-inu-surge-crypto-shib/#:~:text=Shiba%20Inu%20To%20See%20A%20300%25%20Gain%20Before%20Year%2Dend&amp;text=Looking%20at%20SHIB&#039;s%20chart%2C%20the,invest%20in%20the%20crypto%20token.">SHIB’s price</a> being primed for further <a href="https://bitcoinist.com/shiba-inu-dogecoin-shib-excitement/">moves to the upside</a>. </p>
+<h2>The SHIB Army Is Resilient</h2>
+<p><a href="https://www.newsbtc.com/shiba-inu/shiba-inu-0-001-9-25-trillion-shib/" rel="nofollow noopener" target="_blank">Shiba Inu team member Ragnar</a> drew the community’s attention to the rise in the number of SHIB’s long-term holders in less than a year despite the meme coin’s tepid price movement at some point. Data from the market intelligence platform IntoTheBlock showed that the number of addresses holding $10 million worth of SHIB has grown from 57 to 209 since June 2023. </p>
+
+<p>Meanwhile, there has also been an uptick in the number of addresses holding $1 million worth of SHIB, with 1319 addresses falling under this category. This information underscores the <a href="https://bitcoinist.com/shiba-inu-team-discloses-projects-true-strength/#:~:text=The%20Shiba%20Inu%20team%20unveiled,commonly%20referred%20to%20as%20ShibArmy.">SHIB community’s faith</a> in the meme coin and how they have continued to remain bullish even when there wasn’t enough reason to do so. </p>
+<p>In another X (formerly Twitter) <a href="https://x.com/RagnarShiba/status/1772380489627713731?s=20" rel="nofollow" target="_blank">post</a>, Ragnar highlighted how Shiba Inu’s burning program and innovations to Shibarium are setting SHIB up for further growth. So far, SHIB Burns, <a href="https://www.newsbtc.com/shiba-inu/shiba-inu-shib-burns/" rel="nofollow noopener" target="_blank">a community initiative</a>, has continued to positively impact the meme coin’s price whenever it is carried out. </p>
+<p>These <a href="https://bitcoinist.com/shiba-inu-burns-bright-shib/">token burns</a> have also increased with the help of the <a href="https://bitcoinist.com/shiba-inu-shibarium-public/">layer-2 network Shibarium</a>, with the team committing to converting some of the network fees to SHIB and burning them. Meanwhile, with the advancements in Shibarium, network activity is expected to pick up again, which would ultimately lead to more SHIB tokens being burnt. </p>
+<h2>Shiba Inu Marketing Has Also Helped</h2>
+<p><a href="https://bitcoinist.com/shiba-inu-latest-shib-magazine/">The Shiba Inu team</a> has also chosen not to rest on its laurels. They have continued to actively develop strategies to onboard new users into the ecosystem and maintain the bullish sentiment in the community. <a href="https://bitcoinist.com/shiba-inu-shib-2024/">Shiba Inu’s Marketing Lead, Lucie</a>, has led the way in this regard, actively promoting meme coin trading on Shibarium for some time now. </p>
+
+<p>The reason for this isn’t farfetched, as the meme coin frenzy on networks like <a href="https://bitcoinist.com/solana-network-forces-binance-to-halt-withdrawals/">Solana</a> and <a href="https://bitcoinist.com/coinbase-base-opens-doors-featuring-100-dapps/">Base</a> has attracted more users and caused network activity to skyrocket. As such, the team is no doubt looking to lure some meme coin investors to the <a href="https://bitcoinist.com/shiba-inu-shibarium-99-decline/">Shibarium network</a> in hopes that this will help the ecosystem gain more traction. </p>
+<p>Their efforts already seem to be paying off, as their promotion of the <a href="https://bitcoinist.com/shiba-inus-shibarium-hits-new-record-amid-chaotic-market-movements/">‘DAMN’ meme coin</a> has led to a rise in the number of daily active users on WoofSwap, a decentralized exchange (DEX) on Shibarium. </p>
+<p>At the time of writing, SHIB is trading at around $0.00002914, up over 5% in the last 24 hours according to <a href="https://coinmarketcap.com/currencies/shiba-inu/" rel="nofollow noopener" target="_blank">data</a> from CoinMarketCap. </p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-medium" src="https://www.tradingview.com/x/IfR7wlHy/" alt="Shiba Inu price chart from Tradingview.com" width="3286" height="1530" /></p>
+
+
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/Shiba-Inu-23.jpeg?fit=259%2C195" width="259" height="195" /><post-id xmlns="com-wordpress:feed-additions:1">289699</post-id>	</item>
+		<item>
+		<title>Litecoin Milestone: LTC Holders Cross 8 Million Mark</title>
+		<link>https://bitcoinist.com/litecoin-milestone-ltc-holders-cross-8-million-mark/</link>
+		
+		<dc:creator><![CDATA[Keshav Verma]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2024 21:00:40 +0000</pubDate>
+				<category><![CDATA[Litecoin News]]></category>
+		<category><![CDATA[litecoin]]></category>
+		<category><![CDATA[Litecoin Adoption]]></category>
+		<category><![CDATA[Litecoin Growth]]></category>
+		<category><![CDATA[Litecoin Holders]]></category>
+		<category><![CDATA[Litecoin Interest]]></category>
+		<category><![CDATA[Litecoin Milestone]]></category>
+		<category><![CDATA[LTC]]></category>
+		<category><![CDATA[ltcusd]]></category>
+		<guid isPermaLink="false">https://bitcoinist.com/?p=289695</guid>
+
+					<description><![CDATA[On-chain data shows the Litecoin network has achieved another major milestone recently as total LTC holders now exceed 8 million. Litecoin Has Observed Significant Adoption Over The Past Year As pointed out by Litecoin Foundation Director of Marketing Jay Milla in a post on X, the total number of LTC addresses with a balance has [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>On-chain data shows the Litecoin network has achieved another major milestone recently as total LTC holders now exceed 8 million.</p>
+<h2>Litecoin Has Observed Significant Adoption Over The Past Year</h2>
+<p>As pointed out by Litecoin Foundation Director of Marketing Jay Milla in a <a href="https://twitter.com/MillaLiraj/status/1772326693400887383" target="_blank" rel="noopener nofollow">post</a> on X, the total number of LTC addresses with a balance has grown recently.</p>
+
+<p>Below is a chart using data from the market intelligence platform IntoTheBlock that shows how the total number of LTC addresses carrying a non-zero balance has changed since the start of the year:</p>
+<p><img loading="lazy" decoding="async" class="alignnone aligncenter" src="https://pbs.twimg.com/media/GJiRVtEaQAAdpQS?format=jpg&amp;name=large" alt="Litecoin Addresses" width="1737" height="956" /></p>
+
+<p>From the graph, it&#8217;s visible that the total number of LTC holders has been going up this year, with the metric recently managing to surpass the 8 million mark, a new milestone for the blockchain.</p>
+<p>Uptrends in the indicator can arise from a few different things. The first and most obvious one is fresh <a href="https://bitcoinist.com/shiba-inu-adoption-explodes-20x-shib-dethrone-doge/" target="_blank" rel="noopener ">adoption</a>; brand new users coming into the network would naturally open up new addresses and add coins to them, thus raising the total holder count.</p>
+<p>Another factor that may contribute to a rise in the metric is existing users opening up new addresses for themselves to divide their holdings, perhaps for a purpose like privacy.</p>
+<p>Investors who had left the cryptocurrency earlier, making a return to the network, would also register as a rise in the indicator. In general, all of these factors may be in play at the same time, but the important fact is that a net amount of adoption is usually occurring when the metric goes up.</p>
+<p>For any cryptocurrency network, adoption is a constructive sign, as it means that the coin is able to attract fresh attention to it. It, however, usually doesn&#8217;t impact the asset in the short-term.</p>
+<p>According to Jay, the total number of Litecoin addresses with a balance has increased by more than 1 million within the past year alone, which would imply that the asset&#8217;s adoption has accelerated in this period.</p>
+<p>Historically, the main attraction of the LTC blockchain has been the fact that it offers fast transactions at a cheap rate. It would appear that this quality is still driving interest behind the asset, but unfortunately for its investors, the growth hasn&#8217;t quite reflected in its price, as LTC has lagged behind its peers.</p>
+
+<p>One upcoming development that may be positive for Litecoin, though, is the fact that on the first date of the coming month, the cryptocurrency exchange Coinbase plans to <a href="https://bitcoinist.com/dogecoin-coinbase-futures-listing/" target="_blank" rel="noopener ">launch a futures product</a> for LTC.</p>
+<h2>LTC Price</h2>
+<p>Litecoin has been putting together some upward momentum recently, as its price has now crossed back above the $91 mark. The below chart shows how the asset has performed during the past few days.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-medium aligncenter" src="https://www.tradingview.com/x/nDTNjrpu/" alt="Litecoin Price Chart" width="1534" height="854" /></p>
+
+<p>While the LTC price is up 13% over the past week, these profits have still been weaker than its competitors, which is why the coin is currently only the 22nd largest in the sector based on <a href="https://bitcoinist.com/total-crypto-market-cap-to-hit-7-5-trillion-next-year/" target="_blank" rel="noopener ">market cap</a>.</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-289749 size-large aligncenter" src="https://bitcoinist.com/wp-content/uploads/2024/03/table_54d1e7.png?w=971&#038;resize=971%2C384" alt="Litecoin Market Cap" width="971" height="384" srcset="https://bitcoinist.com/wp-content/uploads/2024/03/table_54d1e7.png?w=971&#038;resize=971%2C384 971w, https://bitcoinist.com/wp-content/uploads/2024/03/table_54d1e7.png?w=640 640w, https://bitcoinist.com/wp-content/uploads/2024/03/table_54d1e7.png?w=768 768w, https://bitcoinist.com/wp-content/uploads/2024/03/table_54d1e7.png?w=750 750w" sizes="(max-width: 971px) 100vw, 971px" data-recalc-dims="1" /></p>
+
+
+]]></content:encoded>
+					
+		
+		
+		<media:content medium="image" url="https://bitcoinist.com/wp-content/uploads/2024/03/michael-fortsch-fYSVVQqiqPs-unsplash.jpg?fit=630%2C420" width="630" height="420" /><post-id xmlns="com-wordpress:feed-additions:1">289695</post-id>	</item>
+	</channel>
+</rss>
