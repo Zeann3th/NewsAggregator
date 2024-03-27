@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptoslate.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptoslate.com/</link>
 	<description>Cryptocurrency News and Real-time Coin Data</description>
-	<lastBuildDate>Tue, 26 Mar 2024 01:50:45 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 Mar 2024 08:36:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,30 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Bitcoin ETFs break trend recording modest inflows as GBTC continues outflow</title>
+		<link>https://cryptoslate.com/insights/bitcoin-etfs-break-trend-recording-modest-inflows-as-gbtc-continues-outflow/</link>
+		
+		<dc:creator><![CDATA[James Van Straten]]></dc:creator>
+		<pubDate>Tue, 26 Mar 2024 08:36:36 +0000</pubDate>
+				<guid isPermaLink="false">https://cryptoslate.com/?post_type=crypto_insight&#038;p=407083</guid>
+
+					<description><![CDATA[<p>Quick Take According to data from BitMEX, the Bitcoin (BTC) ETF market experienced its first day of net inflows since March 15, collecting a modest $15.7 million, or 221.2 Bitcoin. This event paused five consecutive days of net outflows and represented the second-smallest day of inflows recorded. Despite this positive shift, the larger narrative remained [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/insights/bitcoin-etfs-break-trend-recording-modest-inflows-as-gbtc-continues-outflow/">Bitcoin ETFs break trend recording modest inflows as GBTC continues outflow</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>Quick Take</h2>
+<p>According to data from <a href="https://x.com/BitMEXResearch/status/1772521628015956435?s=20">BitMEX</a>, the Bitcoin (BTC) ETF market experienced its first day of net inflows since March 15, collecting a modest $15.7 million, or 221.2 Bitcoin. This event paused five consecutive days of net outflows and represented the second-smallest day of inflows recorded. Despite this positive shift, the larger narrative remained overshadowed by the substantial outflows from GBTC, which amounted to $350.1 million or 4,933.7 BTC. Consequently, GBTC&#8217;s cumulative outflows have reached $14,150.6 billion, equivalent to 275,059 BTC.</p>
+<figure style="width: 470px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" src="https://pbs.twimg.com/media/GJlC5iiXEAAMh2T?format=png&amp;name=large" alt="ETF Data in Dollars: (Source: BitMEX)" width="470" height="622" /><figcaption class="wp-caption-text">ETF Data in Dollars: (Source: BitMEX)</figcaption></figure>
+<p>Data from BitMEX shows that Fidelity experienced an intense day with net inflows of $261.8 million, equivalent to 3,689.3 BTC, pushing its total inflows to $7,213.4 billion, equivalent to 136,886 BTC. It&#8217;s noteworthy that none of the remaining eight ETFs recorded any outflows. Both ARKB and BTCW remained stagnant, registering neither inflows nor outflows. As a cumulative figure, the Bitcoin ETFs have amassed $11,284.8 billion, equivalent to 200,673 BTC.</p>
+<figure style="width: 524px" class="wp-caption aligncenter"><img decoding="async" src="https://pbs.twimg.com/media/GJlDJOQXYAAVuJQ?format=png&amp;name=large" alt="ETF Data in Bitcoin: (Source: BitMEX)" width="524" height="675" /><figcaption class="wp-caption-text">ETF Data in Bitcoin: (Source: BitMEX)</figcaption></figure>
+<p>The post <a href="https://cryptoslate.com/insights/bitcoin-etfs-break-trend-recording-modest-inflows-as-gbtc-continues-outflow/">Bitcoin ETFs break trend recording modest inflows as GBTC continues outflow</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/grayscale-outflow-1.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/grayscale-outflow-1.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
 		<title>SWIFT completes second test phase of CBDC with smart contract, atomic settlement capability</title>
 		<link>https://cryptoslate.com/swift-completes-second-test-phase-of-cbdc-with-smart-contract-atomic-settlement-capability/</link>
 					<comments>https://cryptoslate.com/swift-completes-second-test-phase-of-cbdc-with-smart-contract-atomic-settlement-capability/#respond</comments>
@@ -190,7 +214,7 @@
 <p style="text-align: center; font-size: small;">Source: VettaFI</p>
 <p><em>CryptoSlate</em> highlighted that IBIT experienced <a href="https://cryptoslate.com/bitcoin-etfs-become-hottest-product-in-blackrock-fidelitys-repertoire-of-funds/">49 days of continuous inflows</a>, a streak that <a href="https://x.com/EricBalchunas/status/1772242404034167025?s=20">Eric Balchunas</a>, Senior ETF Analyst for Bloomberg, has now updated to 50 consecutive days. Fidelity&#8217;s FBTC and BlackRock&#8217;s IBIT have set a record with the <a href="https://cryptoslate.com/bitcoin-etfs-become-hottest-product-in-blackrock-fidelitys-repertoire-of-funds/">longest active streak</a> of daily inflows.</p>
 <p>Balchunas further notes that despite its milestone, there&#8217;s still a significant gap to surpass the all-time record of 160 days of inflows set by JEPI.</p>
-<figure style="width: 536px" class="wp-caption alignnone"><img fetchpriority="high" decoding="async" src="https://pbs.twimg.com/media/GJhEhx9W8AAO7SR?format=jpg&amp;name=large" alt="Longest Active Daily Inflows Streak: (Source: Eric Balchunas, Bloomberg Intelligence)" width="536" height="443" /><figcaption class="wp-caption-text">Longest Active Daily Inflows Streak: (Source: Eric Balchunas, Bloomberg Intelligence)</figcaption></figure>
+<figure style="width: 536px" class="wp-caption alignnone"><img decoding="async" src="https://pbs.twimg.com/media/GJhEhx9W8AAO7SR?format=jpg&amp;name=large" alt="Longest Active Daily Inflows Streak: (Source: Eric Balchunas, Bloomberg Intelligence)" width="536" height="443" /><figcaption class="wp-caption-text">Longest Active Daily Inflows Streak: (Source: Eric Balchunas, Bloomberg Intelligence)</figcaption></figure>
 <p>The post <a href="https://cryptoslate.com/insights/blackrocks-ibit-emerges-as-us-etf-with-second-largest-inflows-for-2024/">BlackRock&#8217;s Bitcoin ETF achieves legendary status after hitting second-largest inflows for 2024</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></content:encoded>
 					
@@ -441,32 +465,6 @@
 		
 		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/crypto-outflow-.jpg" medium="image"/>
 <enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/crypto-outflow-.jpg" length="1200" type="image/jpg"/>
-	</item>
-		<item>
-		<title>Bitcoin&#8217;s price rally above $69,000 leads to widespread market liquidations</title>
-		<link>https://cryptoslate.com/insights/bitcoins-price-rally-above-69000-leads-to-widespread-market-liquidations/</link>
-		
-		<dc:creator><![CDATA[James Van Straten]]></dc:creator>
-		<pubDate>Mon, 25 Mar 2024 14:52:14 +0000</pubDate>
-				<guid isPermaLink="false">https://cryptoslate.com/?post_type=crypto_insight&#038;p=406793</guid>
-
-					<description><![CDATA[<p>Quick Take Bitcoin has started the week strong with a push above $69,000—up more than 3% today and marking its highest value since March 16. The move triggered a flood of liquidations in the digital asset ecosystem. These liquidations stem partly from the digital assets strong rally, peaking at an impressive $69,400. Coinglass data shows [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/insights/bitcoins-price-rally-above-69000-leads-to-widespread-market-liquidations/">Bitcoin&#8217;s price rally above $69,000 leads to widespread market liquidations</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<h2>Quick Take</h2>
-<p>Bitcoin has started the week strong with a push above $69,000—up more than 3% today and marking its highest value since March 16. The move triggered a flood of liquidations in the digital asset ecosystem. These liquidations stem partly from the digital assets strong rally, peaking at an impressive $69,400.</p>
-<figure id="attachment_406796" aria-describedby="caption-attachment-406796" style="width: 1514px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-406796 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/69.png" alt="BTCUSD Bitstamp: (Source: TradingView)" width="1514" height="853" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/69.png 1514w, https://cryptoslate.com/wp-content/uploads/2024/03/69-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/69-1024x577.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/69-768x433.png 768w" sizes="(max-width: 1514px) 100vw, 1514px" /><figcaption id="caption-attachment-406796" class="wp-caption-text">BTCUSD Bitstamp: (Source: TradingView)</figcaption></figure>
-<p><a href="https://www.coinglass.com/LiquidationData">Coinglass</a> data shows that, in the past 24 hours, the ecosystem has seen nearly $200 million in liquidations, with shorts accounting for a predominant portion of the total, around $129 million. The last hour alone witnessed a massive $35 million worth of liquidations, primarily comprising of shorts.</p>
-<figure id="attachment_406794" aria-describedby="caption-attachment-406794" style="width: 905px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-406794 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/Liq.png" alt="Liquidation Heatmap: (Source: Coinglass)" width="905" height="476" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/Liq.png 905w, https://cryptoslate.com/wp-content/uploads/2024/03/Liq-300x158.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/Liq-768x404.png 768w" sizes="(max-width: 905px) 100vw, 905px" /><figcaption id="caption-attachment-406794" class="wp-caption-text">Liquidation Heatmap: (Source: Coinglass)</figcaption></figure>
-<p>Data from Coinglass indicates a substantial amount of leverage, approximately $1.18 billion, parked just above the $73,000 mark.</p>
-<figure id="attachment_406797" aria-describedby="caption-attachment-406797" style="width: 4080px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-406797 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/leverage.png" alt="Binance BTC/USDT Liquidation Heatmap: (Source: Coinglass)" width="4080" height="2409" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/leverage.png 4080w, https://cryptoslate.com/wp-content/uploads/2024/03/leverage-300x177.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/leverage-1024x605.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/leverage-768x453.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/leverage-1536x907.png 1536w, https://cryptoslate.com/wp-content/uploads/2024/03/leverage-2048x1209.png 2048w" sizes="(max-width: 4080px) 100vw, 4080px" /><figcaption id="caption-attachment-406797" class="wp-caption-text">Binance BTC/USDT Liquidation Heatmap: (Source: Coinglass)</figcaption></figure>
-<p>The post <a href="https://cryptoslate.com/insights/bitcoins-price-rally-above-69000-leads-to-widespread-market-liquidations/">Bitcoin&#8217;s price rally above $69,000 leads to widespread market liquidations</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/01/bitcoin-green-1.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/01/bitcoin-green-1.jpg" length="1200" type="image/jpg"/>
 	</item>
 	</channel>
 </rss>

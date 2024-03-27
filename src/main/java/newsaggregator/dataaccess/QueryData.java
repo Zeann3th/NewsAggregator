@@ -35,7 +35,7 @@ public class QueryData {
      *      -> Tìm kiếm tất cả các bài viết, các trường trong bài viết có chứa từ "dao" và sắp xếp theo thứ tự mới nhất.
      * TODO: Cần thêm chức năng AutoComplete, Tìm kiếm trường cụ thể, ...
      */
-    public void read(String value, String sortOrder) {
+    public void search(String value, String sortOrder) {
         try (MongoClient mongoClient = MongoClients.create(System.getProperty("mongodb.uri"))) {
             MongoDatabase db = mongoClient.getDatabase("WebData");
             MongoCollection<Document> articlesCollection = db.getCollection("articles");

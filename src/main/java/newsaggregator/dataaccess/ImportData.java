@@ -1,14 +1,22 @@
 package newsaggregator.dataaccess;
 
+import com.burgstaller.okhttp.AuthenticationCacheInterceptor;
+import com.burgstaller.okhttp.CachingAuthenticatorDecorator;
+import com.burgstaller.okhttp.digest.CachingAuthenticator;
+import com.burgstaller.okhttp.digest.Credentials;
+import com.burgstaller.okhttp.digest.DigestAuthenticator;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.mongodb.MongoException;
 import com.mongodb.client.*;
+import okhttp3.*;
 import org.bson.Document;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * Lớp này dùng để nhập dữ liệu từ file JSON/CSV vào database.
@@ -49,12 +57,29 @@ public class ImportData {
     }
 
     public static void createSearchIndex() {
-        try (MongoClient mongoClient = MongoClients.create(System.getProperty("mongodb.uri"))) {
-            MongoDatabase database = mongoClient.getDatabase("WebData");
-            MongoCollection<Document> collection = database.getCollection("articles");
-            Document index = new Document("mappings",
-                    new Document("dynamic", true));
-            collection.createSearchIndex("searchArticles", index);
-            }
+        final DigestAuthenticator authenticator =
+                new DigestAuthenticator(
+                        new Credentials("nuagdxii", "2ae76908-c474-45d9-b7f4-f74c8b3632ac"));
+        final Map<String, CachingAuthenticator> authCache = new ConcurrentHashMap<>();
+        OkHttpClient client = new OkHttpClient.Builder()
+                .authenticator(new CachingAuthenticatorDecorator(authenticator, authCache))
+                .addInterceptor(new AuthenticationCacheInterceptor(authCache))
+                .build();
+        Request request = new Request.Builder()
+                .header("Content-Type", "application/json")
+                .url("https://cloud.mongodb.com/api/atlas/v1.0/groups/65f00270d2fb08238dc138ec/clusters/Cluster0/fts/indexes?pretty=true")
+                .post(RequestBody.create(
+                        "{\"collectionName\": \"articles\", " +
+                                "\"database\": \"WebData\", " +
+                                "\"mappings\": {\"dynamic\": true}, " +
+                                "\"name\": \"searchArticles\"}",
+                        MediaType.parse("application/json")))
+                .build();
+        try (Response response = client.newCall(request).execute()) {
+            System.out.println("Status code: " + response.code());
+            System.out.println("Response body: " + response.body().string());
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 }

@@ -16,7 +16,7 @@ class JSONFileWriterTest {
     @Test
     void writeFileFromDocument() {
         var data = new QueryData();
-        data.read("blockchain", "desc");
+        data.search("blockchain", "desc");
         JSONFileWriter.writeFileFromDocument(data.getQueryData(), "src/test/resources/data/test_document_data.json");
     }
 }
