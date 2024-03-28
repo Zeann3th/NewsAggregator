@@ -42,7 +42,7 @@ public class Author {
     }
 
     public void display() {
-        System.out.println("Name: " + name);
-        System.out.println("Description: " + description);
+        System.out.println("Author name: " + name);
+        System.out.println("Author description: " + description);
     }
 }

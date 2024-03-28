@@ -20,10 +20,9 @@ public class Post {
     private String articleSummary;
     private String articleDetailedContent;
     private String creationDate;
-    private List<String> associatedTags;
     private Author author;
     private String thumbnailImage;
-    private String category;
+    private List<String> category;
 
     // Constructors
 
@@ -32,7 +31,7 @@ public class Post {
 
     public Post(String guid, String articleLink, String websiteSource, String articleType, String articleTitle,
             String articleSummary, String articleDetailedContent, String creationDate,
-            List<String> associatedTags, Author author, String thumbnailImage, String category) {
+                Author author, String thumbnailImage, List<String> category) {
     this.guid = guid;
     this.articleLink = articleLink;
     this.websiteSource = websiteSource;
@@ -41,7 +40,6 @@ public class Post {
     this.articleSummary = articleSummary;
     this.articleDetailedContent = articleDetailedContent;
     this.creationDate = creationDate;
-    this.associatedTags = associatedTags;
     this.author = author;
     this.thumbnailImage = thumbnailImage;
     this.category = category;
@@ -81,9 +79,6 @@ public class Post {
         this.creationDate = creationDate;
     }
 
-    public void setAssociatedTags(List<String> associatedTags) {
-        this.associatedTags = associatedTags;
-    }
 
     public void setAuthor(Author author) {
         this.author = author;
@@ -93,7 +88,7 @@ public class Post {
         this.thumbnailImage = thumbnailImage;
     }
 
-    public void setCategory(String category) {
+    public void setCategory(List<String> category) {
         this.category = category;
     }
 
@@ -129,10 +124,6 @@ public class Post {
         return creationDate;
     }
 
-    public List<String> getAssociatedTags() {
-        return associatedTags;
-    }
-
     public Author getAuthor() {
         return author;
     }
@@ -141,7 +132,7 @@ public class Post {
         return thumbnailImage;
     }
 
-    public String getCategory() {
+    public List<String> getCategory() {
         return category;
     }
 
@@ -159,10 +150,9 @@ public class Post {
         System.out.println("Detailed article content: " + articleDetailedContent);
         System.out.println();
         System.out.println("Creation date: " + creationDate);
-        System.out.println("Associated tags: " + associatedTags);
         author.display();
         System.out.println("Thumbnail image: " + thumbnailImage);
-        System.out.println("Category: " + category);
+        System.out.println("Categories: " + category);
         System.out.println();
         System.out.println("========================================================================================================================");
         System.out.println();

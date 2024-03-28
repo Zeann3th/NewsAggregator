@@ -85,10 +85,10 @@ public class RSSReader extends Crawler {
                         } catch (Exception e) {
                             e.printStackTrace();
                         }
-                        String[] categories = new String[elem.getElementsByTagName("category").getLength()];
+                        ArrayList<String> categories = new ArrayList<>();
                         for (int j = 0; j < elem.getElementsByTagName("category").getLength(); j++) {
                             String category = elem.getElementsByTagName("category").item(j).getTextContent();
-                            categories[j] = category;
+                            categories.add(category);
                         }
                         String author = elem.getElementsByTagName("dc:creator").item(0).getTextContent();
 
@@ -100,7 +100,7 @@ public class RSSReader extends Crawler {
                                 guid,
                                 link,
                                 URIString.replace(".xml", "")
-                                        .replace("src/main/resources/RSSData/tmp-cache/", "")
+                                        .replace("src/main/resources/rssdata/tmp-cache/", "")
                                         .replace("www.", "")
                                         .replace(".com", ""),
                                 "article",
@@ -108,10 +108,9 @@ public class RSSReader extends Crawler {
                                 summary,
                                 detailedContent,
                                 outputFormat.format(inputFormat.parse(date)),
-                                Arrays.asList(categories),
                                 currentAuthor,
                                 thumbnail,
-                                null
+                                categories
                         );
 
                         currentPostList.add(currentPost);

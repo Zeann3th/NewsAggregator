@@ -13,7 +13,7 @@
 	<atom:link href="https://cryptoslate.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cryptoslate.com/</link>
 	<description>Cryptocurrency News and Real-time Coin Data</description>
-	<lastBuildDate>Wed, 27 Mar 2024 01:28:51 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Mar 2024 11:50:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,410 +29,355 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Solana&#8217;s DeFi landscape matures with significant growth in liquidity and lending sectors</title>
-		<link>https://cryptoslate.com/solanas-defi-landscape-matures-with-significant-growth-in-liquidity-and-lending-sectors/</link>
-					<comments>https://cryptoslate.com/solanas-defi-landscape-matures-with-significant-growth-in-liquidity-and-lending-sectors/#respond</comments>
+		<title>Ark&#8217;s Bitcoin ETF witnesses record-breaking inflow day</title>
+		<link>https://cryptoslate.com/insights/arks-bitcoin-etf-witnesses-record-breaking-inflow-day/</link>
+		
+		<dc:creator><![CDATA[James Van Straten]]></dc:creator>
+		<pubDate>Thu, 28 Mar 2024 11:50:56 +0000</pubDate>
+				<guid isPermaLink="false">https://cryptoslate.com/?post_type=crypto_insight&#038;p=407865</guid>
+
+					<description><![CDATA[<p>Quick Take Bitcoin (BTC) ETFs witnessed net inflows on March 27, totaling a solid $243.4 million, equivalent to 3,534.7 BTC. Leading the charge was BlackRock&#8217;s IBIT, which recorded a net inflow of $323.8 million, or 4,701.5 BTC, bringing its total net inflow to an impressive $13,862.7 billion, equivalent to 250,787 BTC. This is the largest [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/insights/arks-bitcoin-etf-witnesses-record-breaking-inflow-day/">Ark&#8217;s Bitcoin ETF witnesses record-breaking inflow day</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>Quick Take</h2>
+<p><a href="https://cryptoslate.com/insights/four-bitcoin-etfs-secure-top-spots-in-bloombergs-global-etf-asset-race-balchunas/">Bitcoin (BTC)</a> ETFs witnessed net inflows on March 27, totaling a solid $243.4 million, equivalent to 3,534.7 BTC. Leading the charge was <a href="https://cryptoslate.com/larry-fink-doubles-down-on-bitcoin-after-ibits-record-breaking-performance/">BlackRock&#8217;s IBIT</a>, which recorded a net inflow of $323.8 million, or 4,701.5 BTC, bringing its total net inflow to an impressive $13,862.7 billion, equivalent to 250,787 BTC. This is the largest inflow BlackRock has seen in 7 days and over ten times more than its lowest inflow just last week.</p>
+<figure style="width: 566px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" src="https://pbs.twimg.com/media/GJv28XlWMAAsaHM?format=jpg&amp;name=large" alt="ETF Data in dollars: (Source: BitMEX)" width="566" height="704" /><figcaption class="wp-caption-text">ETF Data in dollars: (Source: BitMEX)</figcaption></figure>
+<p class="whitespace-pre-wrap break-words">BitMEX data shows that Ark Investment Management&#8217;s ArkB had a record day, raking in $200.7 million in net inflows, equivalent to 2,915.2 BTC, pushing its total net inflows to $2,276.7 billion or equivalent to 44,086 BTC. However, the Grayscale Bitcoin Trust (GBTC) continued to experience outflows, with $299.8 million, or 4,354.2 BTC, leaving the fund, bringing its total net outflows to a staggering $14,662.8 billion, equivalent to 282,454 BTC.</p>
+<p>Fidelity&#8217;s FBTC experienced a notably record low inflow of just $1.5 million, equating to 21.8 BTC. This addition brought their total net inflows to an impressive $7,494.0 billion, equivalent to 140,905 BTC, according to BitMEX.</p>
+<figure style="width: 578px" class="wp-caption aligncenter"><img decoding="async" src="https://pbs.twimg.com/media/GJv3UkiWsAAlwZx?format=jpg&amp;name=large" alt="ETF Data in Bitcoin: (Source: BitMEX)" width="578" height="719" /><figcaption class="wp-caption-text">ETF Data in Bitcoin: (Source: BitMEX)</figcaption></figure>
+<p class="whitespace-pre-wrap break-words">Despite the outflows from GBTC, the overall net inflows into Bitcoin ETFs reached $11,942.6 billion, equivalent to 210,264 BTC, according to BitMEX.</p>
+<p>The post <a href="https://cryptoslate.com/insights/arks-bitcoin-etf-witnesses-record-breaking-inflow-day/">Ark&#8217;s Bitcoin ETF witnesses record-breaking inflow day</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/ark-invest-bitcoin-etf.-jpg.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/ark-invest-bitcoin-etf.-jpg.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>DePIN protocol peaq gears up for mainnet launch as token offering &#8216;closing in by the day&#8217;</title>
+		<link>https://cryptoslate.com/depin-protocol-peaq-gears-up-for-mainnet-launch-as-token-offering-closing-in-by-the-day/</link>
+					<comments>https://cryptoslate.com/depin-protocol-peaq-gears-up-for-mainnet-launch-as-token-offering-closing-in-by-the-day/#respond</comments>
+		
+		<dc:creator><![CDATA[Liam 'Akiba' Wright]]></dc:creator>
+		<pubDate>Thu, 28 Mar 2024 11:25:43 +0000</pubDate>
+				<category><![CDATA[DePIN]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=407884</guid>
+
+					<description><![CDATA[<p>Leonard Dorlochter, the co-founder of peaq, revealed that the layer-1 blockchain focused on decentralized physical infrastructure networks (DePINs) and Machine RWAs is gearing up for its mainnet launch and token offering in an exclusive statement to CryptoSlate. &#8220;The mainnet launch will be a historic milestone for the project, the culmination of years&#8217; worth of research [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/depin-protocol-peaq-gears-up-for-mainnet-launch-as-token-offering-closing-in-by-the-day/">DePIN protocol peaq gears up for mainnet launch as token offering &#8216;closing in by the day&#8217;</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Leonard Dorlochter, the co-founder of peaq, revealed that the layer-1 blockchain focused on decentralized physical infrastructure networks (<a href="/cryptos/iot">DePINs</a>) and Machine <a href="/cryptos/real-world-assets/">RWAs</a> is gearing up for its mainnet launch and token offering in an exclusive statement to <em>CryptoSlate</em>.</p>
+<blockquote><p>&#8220;The mainnet launch will be a historic milestone for the project, the culmination of years&#8217; worth of research and development, of collaborations with industry giants like Bosch.</p>
+<p>Equally exciting is the fact that soon, we will begin to open peaq to the community through the upcoming token offering[&#8230;] these exciting events will take place over the next few weeks, they are closing in by the day.&#8221;</p></blockquote>
+<p>The announcement comes on the heels of peaq&#8217;s successful $15 million pre-launch funding round, led by Generative Ventures and Borderless Capital, with participation from a host of prominent Web3 investors. The substantial investment in peaq highlights the growing interest in the DePIN space, which Messari estimates could reach a market potential of $3.5 trillion by 2028.</p>
+<p>While details about the token offering remain under wraps due to ongoing processes, Dorlochter confirmed that these events are set to unfold over the next few weeks. He also shared plans for a major campaign to support DePINs building on peaq, stating, &#8220;We are planning a major campaign to support the DePINs building on peaq and foster their adoption through a wide variety of gamified challenges with rewards to earn.&#8221;</p>
+<p>peaq&#8217;s layer-1 blockchain is specifically designed to cater to the unique requirements of DePINs, offering crucial backend functions, a machine-centric economic model, and a supportive ecosystem. These features differentiate peaq from other networks, with the aim of positioning it as a leading player in the DePIN space.</p>
+<p>The funding round follows a year of significant growth for peaq, which saw the onboarding of over 20 DePINs spanning various use cases, such as Silencio, ELOOP, and Wingbits. In 2023, peaq showcased its real-world applications through collaborations with industry leaders like <a href="https://cryptoslate.com/bosch-showcases-depin-sensor-kit-using-ai-agents-to-reward-users-for-local-environmental-data-streams/">Bosch</a> and <a href="https://cryptoslate.com/fetch-ocean-singularitynet-tokens-merge-into-single-asi-token-with-7-6-billion-market-cap/">Fetch</a>.ai, demonstrating the potential for DePINs to bridge the gap between Web3 and the physical world.</p>
+<p>As the DePIN sector continues to gain traction, peaq&#8217;s upcoming mainnet launch and token offering hope to play a crucial role in driving the adoption and growth of decentralized physical infrastructure networks. The project&#8217;s focus on providing a robust, scalable, and interoperable platform for DePINs, coupled with its growing ecosystem and industry partnerships, positions it in the middle of a key <a href="https://cryptoslate.com/bosch-showcases-depin-sensor-kit-using-ai-agents-to-reward-users-for-local-environmental-data-streams/">narrative for this cycle</a>.</p>
+<p>The post <a href="https://cryptoslate.com/depin-protocol-peaq-gears-up-for-mainnet-launch-as-token-offering-closing-in-by-the-day/">DePIN protocol peaq gears up for mainnet launch as token offering &#8216;closing in by the day&#8217;</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/depin-protocol-peaq-gears-up-for-mainnet-launch-as-token-offering-closing-in-by-the-day/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/depin-peaq.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/depin-peaq.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Ethereum nears 1 million active validators as network surge strengthens security</title>
+		<link>https://cryptoslate.com/ethereum-nears-1-million-active-validators-as-network-surge-strengthens-security/</link>
+					<comments>https://cryptoslate.com/ethereum-nears-1-million-active-validators-as-network-surge-strengthens-security/#respond</comments>
+		
+		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
+		<pubDate>Thu, 28 Mar 2024 10:50:36 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Staking]]></category>
+		<category><![CDATA[ETH]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[validators]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=407866</guid>
+
+					<description><![CDATA[<p>The Ethereum network has witnessed a surge in validator numbers, with the count nearing one million. On-chain data from Beacon Chain and Ethereum&#8217;s Validator Queue show an active validator count of 979,686. However, a Dune Analytics dashboard curated by Dragonfly analyst Hildobby places the total number on the network above the one million mark. These [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/ethereum-nears-1-million-active-validators-as-network-surge-strengthens-security/">Ethereum nears 1 million active validators as network surge strengthens security</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The <a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a> network has witnessed a surge in validator numbers, with the count nearing one million.</p>
+<p>On-chain data from <a href="https://beaconcha.in/charts">Beacon Chain</a> and Ethereum&#8217;s <a href="https://www.validatorqueue.com/">Validator Queue</a> show an active validator count of 979,686. However, a Dune Analytics <a href="https://dune.com/hildobby/eth2-staking">dashboard</a> curated by Dragonfly analyst Hildobby places the total number on the network above the one million mark.</p>
+<figure id="attachment_407892" aria-describedby="caption-attachment-407892" style="width: 781px" class="wp-caption aligncenter"><img decoding="async" class="size-full wp-image-407892" src="https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-28-112707.jpg" alt="Ethereum Validators" width="781" height="592" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-28-112707.jpg 781w, https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-28-112707-300x227.jpg 300w, https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-28-112707-768x582.jpg 768w" sizes="(max-width: 781px) 100vw, 781px" /><figcaption id="caption-attachment-407892" class="wp-caption-text">Ethereum Active Validators. (Source: Beaconcha.in)</figcaption></figure>
+<p>These validators have collectively staked 31.36 million ETH, constituting approximately 26% of the digital asset&#8217;s total supply.</p>
+<p>Notably, according to Nansen <a href="https://pro.nansen.ai/eth2-deposit-contract">data</a>, most of these validators staked their assets through the liquid staking platform <a href="https://cryptoslate.com/companies/lido/">Lido</a>, which accounts for around 30% of the staked ETH.</p>
+<p>Ethereum validators play a critical role in maintaining the network&#8217;s security through its proof-of-stake mechanism. To participate, they stake a minimum of 32 ETH and, in return, are rewarded with a portion of ETH.</p>
+<p>Consequently, an increasing number of validators signifies a bolstered network and reflects the blockchain&#8217;s enhanced security.</p>
+<p>Meanwhile, this milestone is particularly significant amid a <a href="https://www.validatorqueue.com/">surge in validator interest</a>, evidenced by a growing queue of over 10,000 validators awaiting network entry—the highest seen this year. This waitlist represents over 320,000 ETH, equivalent to $1.1 billion, and is anticipated to clear within the next seven days.</p>
+<h2>Decentralized staking</h2>
+<p><a href="https://cryptoslate.com/people/vitalik-buterin/">Vitalik Buterin</a>, the co-founder of Ethereum, recently put forth a proposal aimed at improving the network&#8217;s<a href="https://cryptoslate.com/sp-global-warns-of-spot-ethereum-etfs-impact-on-staking-concentration/"> staking mechanism.</a></p>
+<p>In his blog <a href="https://ethresear.ch/t/supporting-decentralized-staking-through-more-anti-correlation-incentives/19116">post</a>, Buterin outlined a plan to impose penalties on validators in proportion to their average failure rates. This move addresses the inherent advantage larger ETH stakes possess over smaller ones.</p>
+<p>Additionally, Buterin recommended stricter penalties for failures occurring simultaneously among several validators controlled by one entity.</p>
+<p>According to him:</p>
+<blockquote><p>&#8220;One tactic for incentivizing better decentralization in a protocol is to <em>penalize correlations</em>. That is, if one actor misbehaves (including accidentally), the penalty that they receive would be greater the more other actors (as measured by total ETH) misbehave at the same time as them.&#8221;</p></blockquote>
+<p>Buterin argued that these measures would encourage larger entities to diversify their operations, thus lowering the likelihood of widespread network failures.</p>
+<p>The post <a href="https://cryptoslate.com/ethereum-nears-1-million-active-validators-as-network-surge-strengthens-security/">Ethereum nears 1 million active validators as network surge strengthens security</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/ethereum-nears-1-million-active-validators-as-network-surge-strengthens-security/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/ethereum-validators-.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/ethereum-validators-.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Is Bitcoin set to overshadow Ethereum in the next bull market?</title>
+		<link>https://cryptoslate.com/insights/is-bitcoin-set-to-overshadow-ethereum-in-the-next-bull-market/</link>
+		
+		<dc:creator><![CDATA[James Van Straten]]></dc:creator>
+		<pubDate>Thu, 28 Mar 2024 10:03:27 +0000</pubDate>
+				<guid isPermaLink="false">https://cryptoslate.com/?post_type=crypto_insight&#038;p=407864</guid>
+
+					<description><![CDATA[<p>Quick Take The Ethereum (ETH) to Bitcoin (BTC) exchange rate, currently trading slightly above 0.05, has utilized this support level for the past six months. This enduring stability at the support level may indicate an impending alteration in market dynamics. Historically, Ethereum has closely tracked Bitcoin&#8217;s market movements. However, this correlation has weakened in recent [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/insights/is-bitcoin-set-to-overshadow-ethereum-in-the-next-bull-market/">Is Bitcoin set to overshadow Ethereum in the next bull market?</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>Quick Take</h2>
+<p class="whitespace-pre-wrap break-words">The Ethereum (ETH) to Bitcoin (BTC) exchange rate, currently trading slightly above 0.05, has utilized this support level for the past six months. This enduring stability at the support level may indicate an impending alteration in market dynamics.</p>
+<figure id="attachment_407867" aria-describedby="caption-attachment-407867" style="width: 1514px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-407867 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/ETHBTC.png" alt="BTCUSD vs ETHUSD: (Source: TradingView)" width="1514" height="853" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/ETHBTC.png 1514w, https://cryptoslate.com/wp-content/uploads/2024/03/ETHBTC-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/ETHBTC-1024x577.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/ETHBTC-768x433.png 768w" sizes="(max-width: 1514px) 100vw, 1514px" /><figcaption id="caption-attachment-407867" class="wp-caption-text">BTCUSD vs ETHUSD: (Source: TradingView)</figcaption></figure>
+<p class="whitespace-pre-wrap break-words">Historically, Ethereum has closely tracked Bitcoin&#8217;s market movements. However, this correlation has weakened in recent weeks, now standing at 0.85. Since April 2023, the ETH/BTC ratio has declined by 25%, highlighting Ethereum&#8217;s relative underperformance. This shift is mainly due to the success of <a href="https://cryptoslate.com/insights/four-bitcoin-etfs-secure-top-spots-in-bloombergs-global-etf-asset-race-balchunas/">Bitcoin ETFs</a>.</p>
+<p class="whitespace-pre-wrap break-words">A chart from <a href="https://studio.glassnode.com/workbench/mrkt-btceth-dominance?zoom=all">Glassnode</a> illustrates the BTC-ETH Dominance metric, which monitors overarching trends in market performance. The metric is at -0.002, indicating a marginal period of Ethereum&#8217;s dominance. Nonetheless, the prevailing trend hints at a forthcoming shift favoring Bitcoin&#8217;s dominance. Should this occur, it would mark the first bull market since Ethereum&#8217;s creation in which Bitcoin surpasses its nearest competitor in performance.</p>
+<figure id="attachment_407868" aria-describedby="caption-attachment-407868" style="width: 1800px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-407868 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/btc-3.png" alt="BTC-ETH Market Cap Dominance: (Source: Glassnode)" width="1800" height="1013" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/btc-3.png 1800w, https://cryptoslate.com/wp-content/uploads/2024/03/btc-3-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/btc-3-1024x576.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/btc-3-768x432.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/btc-3-1536x864.png 1536w" sizes="(max-width: 1800px) 100vw, 1800px" /><figcaption id="caption-attachment-407868" class="wp-caption-text">BTC-ETH Market Cap Dominance: (Source: Glassnode)</figcaption></figure>
+<p>The post <a href="https://cryptoslate.com/insights/is-bitcoin-set-to-overshadow-ethereum-in-the-next-bull-market/">Is Bitcoin set to overshadow Ethereum in the next bull market?</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/btc-3.png" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/btc-3.png" length="1800" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Sell-side risk ratio hit 3-year high as Bitcoin broke above $73k</title>
+		<link>https://cryptoslate.com/sell-side-risk-ratio-hit-3-year-high-as-bitcoin-broke-above-73k/</link>
+					<comments>https://cryptoslate.com/sell-side-risk-ratio-hit-3-year-high-as-bitcoin-broke-above-73k/#respond</comments>
 		
 		<dc:creator><![CDATA[Andjela Radmilac]]></dc:creator>
-		<pubDate>Wed, 27 Mar 2024 01:00:03 +0000</pubDate>
+		<pubDate>Thu, 28 Mar 2024 02:00:55 +0000</pubDate>
 				<category><![CDATA[Alpha]]></category>
-		<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Research]]></category>
-		<category><![CDATA[Jito]]></category>
-		<category><![CDATA[kamino]]></category>
-		<category><![CDATA[lending]]></category>
-		<category><![CDATA[Marinade]]></category>
-		<category><![CDATA[raydium]]></category>
-		<category><![CDATA[Solana]]></category>
-		<category><![CDATA[Solend]]></category>
-		<category><![CDATA[staking]]></category>
-		<category><![CDATA[total value locked]]></category>
-		<category><![CDATA[TVL]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=407187</guid>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[BTC]]></category>
+		<category><![CDATA[profit realization]]></category>
+		<category><![CDATA[sell-side risk ratio]]></category>
+		<category><![CDATA[volatility]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=407584</guid>
 
-					<description><![CDATA[<p>Solana&#8216;s total value locked (TVL) currently stands at $4.666 billion, with a bridged TVL reaching just over $21 billion as of press time. This figure is distributed across dozens of protocols, each contributing to the burgeoning ecosystem in a unique way.  The distribution of value across protocols is an indicator of user preferences, emerging trends, [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/solanas-defi-landscape-matures-with-significant-growth-in-liquidity-and-lending-sectors/">Solana&#8217;s DeFi landscape matures with significant growth in liquidity and lending sectors</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+					<description><![CDATA[<p>The Bitcoin sell-side risk ratio is calculated by dividing the sum of all profits and losses realized on-chain by the realized capitalization, offering a comparative view of daily investor activity against the total market capitalization adjusted for real-time inflows and outflows. A rise in this metric indicates a higher likelihood of sell-side pressure, potentially leading [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/sell-side-risk-ratio-hit-3-year-high-as-bitcoin-broke-above-73k/">Sell-side risk ratio hit 3-year high as Bitcoin broke above $73k</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><span data-preserver-spaces="true"><a href="https://cryptoslate.com/coins/solana/">Solana</a>&#8216;s total value locked (TVL) currently stands at $4.666 billion, with a bridged TVL reaching just over $21 billion as of press time. This figure is distributed across dozens of protocols, each contributing to the burgeoning ecosystem in a unique way. </span></p>
-<figure id="attachment_407218" aria-describedby="caption-attachment-407218" style="width: 930px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" class="size-full wp-image-407218" src="https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-26-at-16.29.22.png" alt="Solana TVL" width="930" height="318" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-26-at-16.29.22.png 930w, https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-26-at-16.29.22-300x103.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/Screenshot-2024-03-26-at-16.29.22-768x263.png 768w" sizes="(max-width: 930px) 100vw, 930px" /><figcaption id="caption-attachment-407218" class="wp-caption-text">Graph showing the total value locked (TVL) in the Solana ecosystem from Jan. 1 to Mar. 26, 2024 (Source: <a href="https://defillama.com/chain/Solana">DeFiLlama</a>)</figcaption></figure>
-<p><span data-preserver-spaces="true">The distribution of value across protocols is an indicator of user preferences, emerging trends, and the fast-growing and evolving needs of the Solana community. Analyzing this distribution is crucial in understanding the direction the network is heading and its users&#8217; priorities:</span></p>
-<ol>
-<li><a href="https://cryptoslate.com/coins/marinade-staked-sol/"><strong><span data-preserver-spaces="true">Marinade</span></strong></a><span data-preserver-spaces="true"> ($1.958b) is Solana&#8217;s leading liquid staking solution, allowing users to stake SOL and receive stSOL, enhancing liquidity and flexibility.</span></li>
-<li><a href="https://cryptoslate.com/coins/jito/"><strong><span data-preserver-spaces="true">Jito</span></strong></a><span data-preserver-spaces="true"> ($1.763b) accelerates Solana&#8217;s blockchain performance, focusing on scalability and efficient transaction processing.</span></li>
-<li><strong><span data-preserver-spaces="true">Kamino</span></strong><span data-preserver-spaces="true"> ($1.397b), a liquidity management platform, optimizes yield farming strategies, enhancing the DeFi experience.</span></li>
-<li><strong><span data-preserver-spaces="true">Marginfi</span></strong><span data-preserver-spaces="true"> ($827.77m) integrates trading and lending into a single platform, offering diverse financial products.</span></li>
-<li><a href="https://cryptoslate.com/coins/raydium/"><strong><span data-preserver-spaces="true">Raydium</span></strong></a><span data-preserver-spaces="true"> ($611.32m) is an automated market maker (AMM) and liquidity provider built on the Solana blockchain for the Serum decentralized exchange (DEX).</span></li>
-<li><strong><span data-preserver-spaces="true">BlazeStake</span></strong><span data-preserver-spaces="true"> ($467.54m) focuses on staking solutions, offering users a way to earn rewards by securing the network.</span></li>
-<li><a href="https://cryptoslate.com/coins/jupiter-ag/"><strong><span data-preserver-spaces="true">Jupiter</span></strong></a><span data-preserver-spaces="true"> ($383.4m) offers perpetual swap contracts, enabling leveraged trades without expiry dates.</span></li>
-<li><strong><span data-preserver-spaces="true">Drift</span></strong><span data-preserver-spaces="true"> ($336.49m) is a decentralized platform offering derivatives and leverage trading on Solana.</span></li>
-<li><a href="https://cryptoslate.com/coins/solend/"><strong><span data-preserver-spaces="true">Solend</span></strong></a><span data-preserver-spaces="true"> ($283.35m) is a decentralized protocol for lending and borrowing, showcasing the growth of lending markets on Solana.</span></li>
-<li><a href="https://cryptoslate.com/coins/orca/"><strong><span data-preserver-spaces="true">Orca</span></strong></a><span data-preserver-spaces="true"> ($270.2m) is a user-friendly DEX that emphasizes simplicity and accessibility in trading.</span></li>
-</ol>
-<p><span data-preserver-spaces="true">A closer look at the TVL distribution using <a href="https://defillama.com/chain/Solana">data</a> from DeFiLllama shows a clear inclination towards protocols offering liquidity and lending services, with </span>Marinade<span data-preserver-spaces="true">, </span>Jito<span data-preserver-spaces="true">, and </span>Kamino<span data-preserver-spaces="true"> leading the pack. This indicates a robust demand for liquidity solutions and yield-generating opportunities among Solana&#8217;s users. It also reflects a growing sophistication in the DeFi space, where users seek more than just token swaps — they&#8217;re actively looking for platforms that can provide high leverage and a greater potential to earn.</span></p>
-<p><span data-preserver-spaces="true">As the largest protocol in terms of TVL, Marinade reflects this increased interest in staking solutions, particularly those that provide high liquidity. By offering stSOL in return for staking SOL, Marinade addresses the liquidity dilemma often faced by stakers, allowing them to participate in DeFi activities without locking their assets.</span></p>
-<p>Jito<span data-preserver-spaces="true"> and </span>Kamino<span data-preserver-spaces="true"> reflect a preference for scalability and optimized yield farming. Jito&#8217;s focus on increasing Solana&#8217;s throughput capabilities shows users are looking for a competitive edge in transaction efficiency. On the other hand, Kamino caters to yield farmers and their complex farming strategies, showing the community is gravitating toward more complex financial instruments than just swaps.</span></p>
-<p><span data-preserver-spaces="true">Comparing the popularity of lending protocols against decentralized exchanges (DEXs) shows lending platforms like </span>Solend<span data-preserver-spaces="true"> have amassed significant TVL. While it&#8217;s notably lower than the value locked in staking solutions, it shows a growing preference for lending. While Solana is still in its infancy, even in DeFi terms, this trend indicates a maturing space with a mature subset of users looking into leveraging their assets for loans or earning interest — a stark contrast to the earlier days of DeFi, where DEXs dominated the landscape. </span></p>
-<p><span data-preserver-spaces="true">The distribution of TVL across Solana&#8217;s protocols sheds light on a network that is becoming increasingly diversified. While <a href="https://cryptoslate.com/solana-ceo-anatoly-yakovenko-denounces-influx-of-racist-and-offensive-memecoins/">memecoins</a> have become a significant trend on Solana, their impact on TVL and its distribution seems minimal. As these tokens have a very short lifespan and are predominantly traded on DEXs, their transient nature means they contribute little to the stability or growth of Solana&#8217;s TVL. </span></p>
-<p>The post <a href="https://cryptoslate.com/solanas-defi-landscape-matures-with-significant-growth-in-liquidity-and-lending-sectors/">Solana&#8217;s DeFi landscape matures with significant growth in liquidity and lending sectors</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+										<content:encoded><![CDATA[<p class="p1">The <a href="https://cryptoslate.com/coins/bitcoin/"><span class="s1">Bitcoin</span></a> sell-side risk ratio is calculated by dividing the sum of all profits and losses realized on-chain by the realized capitalization, offering a comparative view of daily investor activity against the total market capitalization adjusted for real-time inflows and outflows.</p>
+<p class="p1">A rise in this metric indicates a higher likelihood of sell-side pressure, potentially leading to increased market volatility.</p>
+<p class="p1">Between Feb. 8 and March 13, the Bitcoin sell-side risk ratio saw a significant surge, climbing from 0.12% to 0.777%. This increase followed a significant rise in Bitcoin&#8217;s price from $45,330 to $73,104. This period marked the highest sell-side risk ratio and the first instance of the ratio surpassing the 0.75% threshold since March 9, 2021.</p>
+<p class="p1">Following this peak, BTC dropped to $61,860 by Mar. 19 before <a href="https://cryptoslate.com/insights/bitcoin-market-absorbs-mining-output-and-more-sparking-price-spike/"><span class="s1">recovering</span></a> to $70,000 on Mar. 26. The sell-side risk ratio adjusted to 0.556%.</p>
+<figure id="attachment_407588" aria-describedby="caption-attachment-407588" style="width: 1800px" class="wp-caption aligncenter"><img decoding="async" class="size-full wp-image-407588" src="https://cryptoslate.com/wp-content/uploads/2024/03/sell-side-risk-ratio-ytd.png" alt="sell side risk ratio ytd" width="1800" height="1013" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/sell-side-risk-ratio-ytd.png 1800w, https://cryptoslate.com/wp-content/uploads/2024/03/sell-side-risk-ratio-ytd-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/sell-side-risk-ratio-ytd-1024x576.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/sell-side-risk-ratio-ytd-768x432.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/sell-side-risk-ratio-ytd-1536x864.png 1536w" sizes="(max-width: 1800px) 100vw, 1800px" /><figcaption id="caption-attachment-407588" class="wp-caption-text">Graph showing Bitcoin&#8217;s sell-side risk ratio from Jan. 1 to Mar. 26, 2024 (Source: <a href="https://studio.glassnode.com/workbench/btc-sellside-risk-ratio?s=1704063600&amp;u=1711543428&amp;zoom=ytd">Glassnode</a>)</figcaption></figure>
+<p class="p1">The increase of the sell-side risk ratio above its upper bound shows a period of <a href="https://cryptoslate.com/insights/bitcoin-experiences-near-historic-levels-of-net-profit-realization/"><span class="s1">high value realization</span></a> among investors, often observed during the late stages of bull markets or bear market capitulation events. However, spikes like these can also occur at the beginning of bull cycles, particularly when the market undergoes initial corrections.</p>
+<p class="p1">The subsequent correction in Bitcoin&#8217;s price and the sell-side risk ratio indicates volatility. However, this volatility is not without precedent. Since 2011, the trend has been toward diminishing returns with each market cycle, leading to lower highs in the sell-side risk ratio. This is consistent with the observed pattern where, with each cycle, investors are realizing less profit, hinting at a maturing market.</p>
+<figure id="attachment_407590" aria-describedby="caption-attachment-407590" style="width: 1800px" class="wp-caption aligncenter"><img decoding="async" class="size-full wp-image-407590" src="https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-sell-side-risk-ratio-14y.png" alt="bitcoin sell side risk ratio 14y" width="1800" height="1013" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-sell-side-risk-ratio-14y.png 1800w, https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-sell-side-risk-ratio-14y-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-sell-side-risk-ratio-14y-1024x576.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-sell-side-risk-ratio-14y-768x432.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-sell-side-risk-ratio-14y-1536x864.png 1536w" sizes="(max-width: 1800px) 100vw, 1800px" /><figcaption id="caption-attachment-407590" class="wp-caption-text">Graph showing Bitcoin&#8217;s sell-side risk ratio from Jul. 19, 2010, to Mar. 26, 2024 (Source: <a href="https://studio.glassnode.com/workbench/btc-sellside-risk-ratio?s=1277998138&amp;u=1711411200&amp;zoom=">Glassnode</a>)</figcaption></figure>
+<p class="p1">The continuous stay of the ratio above the 0.1% mark since Nov. 29, 2023, further emphasizes a shift from the <a href="https://cryptoslate.com/sth-sell-side-risk-ratio-drops-to-decade-low/"><span class="s1">very low value realization</span></a> observed on Sept. 18, 2023, at 0.039%. This transition suggests a move away from market bottoms and accumulation phases towards more active and possibly speculative trading phases.</p>
+<p class="p1">The break above the upper bound signals a significant turning point, likely driven by investor optimism and profit-taking. However, the historical trend towards lower highs in this ratio may indicate a gradual stabilization of the market, with less pronounced peaks in value realization as the market matures.</p>
+<p>The post <a href="https://cryptoslate.com/sell-side-risk-ratio-hit-3-year-high-as-bitcoin-broke-above-73k/">Sell-side risk ratio hit 3-year high as Bitcoin broke above $73k</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://cryptoslate.com/solanas-defi-landscape-matures-with-significant-growth-in-liquidity-and-lending-sectors/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cryptoslate.com/sell-side-risk-ratio-hit-3-year-high-as-bitcoin-broke-above-73k/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/solna-tvl.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/solna-tvl.jpg" length="1200" type="image/jpg"/>
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-neon.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-neon.jpg" length="1200" type="image/jpg"/>
 	</item>
 		<item>
-		<title>Coinbase to store more of its $220 million USDC holdings on Base</title>
-		<link>https://cryptoslate.com/coinbase-to-store-more-of-its-220-million-usdc-holdings-on-base/</link>
-					<comments>https://cryptoslate.com/coinbase-to-store-more-of-its-220-million-usdc-holdings-on-base/#respond</comments>
+		<title>US sanctions Palestinian media group Gaza Now, including its crypto wallets</title>
+		<link>https://cryptoslate.com/us-sanctions-palestinian-media-group-gaza-now-including-its-crypto-wallets/</link>
+					<comments>https://cryptoslate.com/us-sanctions-palestinian-media-group-gaza-now-including-its-crypto-wallets/#respond</comments>
 		
 		<dc:creator><![CDATA[Mike Dalton]]></dc:creator>
-		<pubDate>Tue, 26 Mar 2024 23:59:04 +0000</pubDate>
-				<category><![CDATA[Adoption]]></category>
-		<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[Exchanges]]></category>
-		<category><![CDATA[Stablecoins]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=407378</guid>
-
-					<description><![CDATA[<p>Coinbase said that it will store a greater amount of USDC on its Base network on March 26. Max Branzburg, Vice President of Product, announced the change on X. He wrote: &#8220;Going forward, Coinbase is going to be storing more corporate and customer USDC balances on Base.&#8220; Branzburg said the change will allow Coinbase to [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/coinbase-to-store-more-of-its-220-million-usdc-holdings-on-base/">Coinbase to store more of its $220 million USDC holdings on Base</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/coinbase/">Coinbase</a> said that it will store a greater amount of <a href="https://cryptoslate.com/coins/usd-coin/">USDC</a> on its Base network on March 26.</p>
-<p>Max Branzburg, Vice President of Product, announced the change on X. He <a href="https://twitter.com/maxbranzburg/status/1772716138499039612">wrote</a>:</p>
-<blockquote><p>&#8220;<span class="css-1qaijid r-bcqeeo r-qvutc0 r-poiln3">Going forward, Coinbase is going to be storing more corporate and customer USDC balances on Base.</span>&#8220;</p></blockquote>
-<p>Branzburg said the change will allow Coinbase to manage and secure customer funds with lower fees and faster settlement. He added that the change will not impact user experience.</p>
-<p>Branzburg also urged other companies to follow Coinbase&#8217;s lead as it moves its business on-chain.</p>
-<h2>Coinbase&#8217;s USDC breakdown</h2>
-<p>Data from Arkham Intelligence <a href="https://platform.arkhamintelligence.com/explorer/entity/coinbase">indicates that</a> Coinbase currently holds $220.7 million of USDC in total and stores only 17% of it on Base — equating to $37.4 million.</p>
-<p>Most of its USDC holdings — 155.1 million USDC, amounting to roughly 70% of the total — are currently held on <a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a>.</p>
-<p>Coinbase stores the remaining 13% of its USDC on various other chains, including $17.2 million on Arbitrum (7.8% of the total), $4.9 million on Avalanche (2.2%), $5.1 million on Optimism (2.3%), $1.0 million on Polygon (0.5%), and $38,557 on BNB Chain (0.02%).</p>
-<figure id="attachment_407435" aria-describedby="caption-attachment-407435" style="width: 1043px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-407435 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/Untitled.png" alt="coinbase usdc balance across networks" width="1043" height="600" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/Untitled.png 1043w, https://cryptoslate.com/wp-content/uploads/2024/03/Untitled-300x173.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/Untitled-1024x589.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/Untitled-768x442.png 768w" sizes="(max-width: 1043px) 100vw, 1043px" /><figcaption id="caption-attachment-407435" class="wp-caption-text"><em>Coinbase USDC balance across networks (via. Arkham Intelligence)</em></figcaption></figure>
-<h2>Shifting the balance</h2>
-<p>As of March 26, there was $735.2 million in USDC natively on Base, plus $73.5 million of USDC bridged from Ethereum to Base.</p>
-<p>Coinbase moving hundreds of millions of dollars in the stablecoin to the network could noticeably shift the chain&#8217;s overall USDC balance.</p>
-<p>However, Coinbase&#8217;s USDC holdings are just a small fraction of USDC&#8217;s total $32.3 billion market cap, of which $27.2 billion exists on Ethereum. As such, shifts involving Coinbase&#8217;s USDC balance will not impact USDC&#8217;s broader Ethereum distribution in a significant way.</p>
-<p>Coinbase previously had a key role in governing USDC through the CENTRE consortium. However, in <a href="https://cryptoslate.com/circle-and-coinbase-to-dissolve-centre-usdc-will-remain-fully-available/">August 2023</a>, CENTRE was dissolved, passing governance to Circle.</p>
-<p>Coinbase now holds a stake in Circle, and the two firms maintain a commercial relationship.</p>
-<p>The post <a href="https://cryptoslate.com/coinbase-to-store-more-of-its-220-million-usdc-holdings-on-base/">Coinbase to store more of its $220 million USDC holdings on Base</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://cryptoslate.com/coinbase-to-store-more-of-its-220-million-usdc-holdings-on-base/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2023/03/coinbase-2.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2023/03/coinbase-2.jpg" length="1200" type="image/jpg"/>
-	</item>
-		<item>
-		<title>US lawmakers demand SEC clarity on Ethereum&#8217;s asset classification</title>
-		<link>https://cryptoslate.com/us-lawmakers-demand-sec-clarity-on-ethereums-asset-classification/</link>
-					<comments>https://cryptoslate.com/us-lawmakers-demand-sec-clarity-on-ethereums-asset-classification/#respond</comments>
-		
-		<dc:creator><![CDATA[Mike Dalton]]></dc:creator>
-		<pubDate>Tue, 26 Mar 2024 22:59:22 +0000</pubDate>
-				<category><![CDATA[Featured]]></category>
+		<pubDate>Thu, 28 Mar 2024 00:15:03 +0000</pubDate>
+				<category><![CDATA[Crime]]></category>
 		<category><![CDATA[Regulation]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=407303</guid>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=407798</guid>
 
-					<description><![CDATA[<p>A group of Republican lawmakers, including the chairmen of the House Financial Services Committee and House Committee on Agriculture, has formally requested SEC Chair Gary Gensler to provide clear guidance on the regulatory stance regarding the custody of non-security digital assets by Special Purpose Broker-Dealers (SPBD). The March 26 letter specifically demands clarity on the [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/us-lawmakers-demand-sec-clarity-on-ethereums-asset-classification/">US lawmakers demand SEC clarity on Ethereum&#8217;s asset classification</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+					<description><![CDATA[<p>The US Department of the Treasury and its Office of Foreign Assets Control (OFAC) sanctioned the Palestinian news network Gaza Now on March 27 over allegations of supporting Hamas. The Treasury sanctions also designate several crypto addresses linked to Gaza Now and its related parties. The Treasury designated an empty Bitcoin address and two Ethereum [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/us-sanctions-palestinian-media-group-gaza-now-including-its-crypto-wallets/">US sanctions Palestinian media group Gaza Now, including its crypto wallets</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>A group of Republican lawmakers, including the chairmen of the House Financial Services Committee and House Committee on Agriculture, has formally requested SEC Chair <a href="https://cryptoslate.com/people/gary-gensler/">Gary Gensler</a> to provide clear guidance on the regulatory stance regarding the custody of non-security digital assets by Special Purpose Broker-Dealers (SPBD).</p>
-<p>The <a href="https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=409210">March 26 letter</a> specifically demands clarity on the status of Ethereum (<a href="https://cryptoslate.com/coins/ethereum/">ETH</a>) and further requests the regulator to establish clear definitions for various terms related to crypto, digital assets, securities, and investment contracts.</p>
-<p>The letter was signed by 48 members of Congress, including <span class="middlecopy">House Financial Services Committee chair <a href="https://cryptoslate.com/people/patrick-mchenry/">Patrick McHenry</a> and House Committee on Agriculture chair Glenn Thompson. Lawmakers asked for a response to their questions by April 9.</span></p>
-<h2>Ethereum&#8217;s status</h2>
-<p>According to the letter, the SEC has failed to propose a rule or provide comprehensive guidance for asset classification, and the term &#8220;digital asset securities&#8221; remains undefined.</p>
-<p>Lawmakers said that despite a public record from both the SEC and the CFTC identifying ETH as a non-security digital asset, there is concern over the lack of transparency in the SEC&#8217;s SPBD regime and the potential regulatory implications of allowing such custody services.</p>
-<p>The letter poses the question:</p>
-<blockquote><p>&#8220;Is ETH a digital asset security?&#8221;</p></blockquote>
-<p>The query is followed by several other questions depending on the answer.</p>
-<p>The letter comes in the wake of <a href="https://cryptoslate.com/companies/prometheum/">Prometheum Inc.&#8217;s</a> announcement that its subsidiary — Prometheum Ember Capital, a FINRA-approved SPBD — plans to offer custody services for Ethereum to institutional clients.</p>
-<p>They emphasized the &#8220;alarming scenario&#8221; posed by Prometheum&#8217;s announcement, arguing that it could lead to &#8220;irreparable consequences for the digital asset markets&#8221; if allowed to proceed under the current regulatory framework, which does not explicitly permit SPBD custody of non-security digital assets.</p>
-<h2>Exacerbating the issue</h2>
-<p>Highlighting the discrepancy between the SEC&#8217;s enforcement actions and the historical recognition of ETH as a non-security digital asset, the letter criticized the SEC for not providing comprehensive guidance or rules for the digital asset marketplace regarding asset classification.</p>
-<p>The lawmakers said that this lack of clarity has &#8220;exacerbated&#8221; the uncertainty within the digital asset ecosystem, complicating the ability of regulated entities to comply with SEC regulations.</p>
-<p>The letter also highlights the broader implications of the SEC potentially classifying ETH as a digital asset security, including the impact on CFTC-registered commodity derivative exchanges and the availability of ETH Futures for trading.</p>
-<p>Such a decision could have significant repercussions for market participants, potentially eliminating access to essential risk management tools and causing significant price dislocation across the ETH market.</p>
-<p>The letter concludes by warning of the &#8220;chilling effect&#8221; on US digital asset markets should regulatory uncertainty persist, emphasizing the importance of clear and consistent regulatory guidance to ensure continued growth and innovation within the digital asset space.</p>
-<p>The post <a href="https://cryptoslate.com/us-lawmakers-demand-sec-clarity-on-ethereums-asset-classification/">US lawmakers demand SEC clarity on Ethereum&#8217;s asset classification</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+										<content:encoded><![CDATA[<p>The US Department of the Treasury and its Office of Foreign Assets Control (OFAC) sanctioned the Palestinian news network Gaza Now on March 27 over allegations of supporting Hamas.</p>
+<p>The Treasury sanctions also designate several crypto addresses linked to Gaza Now and its related parties.</p>
+<p>The Treasury designated an empty <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a> address and two Ethereum addresses holding more than $2,690 in <a href="https://cryptoslate.com/coins/ethereum/">ETH</a> and other tokens. It also designated five <a href="https://cryptoslate.com/coins/tether/">USDT</a> addresses holding more than $10,350, though only two addresses appeared to contain funds.</p>
+<p>One of the USDT addresses was linked to Gaza Now founder Mustafa Ayash.</p>
+<p>The Treasury also sanctioned Qureshi Executives, Aakhirah Limited, and their director, Aozma Sultana. It did not designate crypto addresses related to Sultana or either company.</p>
+<h2>Gaza Now aided Hamas fundraising</h2>
+<p>The Treasury said that it imposed the sanctions because Gaza Now allegedly supported Hamas&#8217; fundraising efforts following the Oct. 7, 2023 attacks against Israel. Al-Qureshi Executives and Aakhirah Limited, in turn, supported Gaza Now financially and through advertising.</p>
+<p>Brian E. Nelson, Under Secretary of the Treasury for Terrorism and Financial Intelligence, said:</p>
+<blockquote><p>&#8220;Treasury remains committed to degrading Hamas’ ability to finance its terrorist activities.&#8221;</p></blockquote>
+<p>The Treasury imposed those sanctions in a joint effort with the UK, which <a href="https://www.gov.uk/government/news/new-sanctions-on-persons-linked-to-hamas-supporting-media-network">separately stated</a> that it had performed a full asset freeze. In both countries, individuals and entities cannot do business with the sanctioned parties, and transactions involving their assets are generally prohibited.</p>
+<p>Blockchain analytics firm Elliptic publicly reported in <a href="https://www.elliptic.co/blog/setting-the-record-straight-on-crypto-crowdfunding-by-hamas">October 2023</a> that Gaza Now received $21,000 in crypto following the attacks, including $2,000 frozen by exchanges and $9,000 in USDT frozen by Tether.</p>
+<p>The post <a href="https://cryptoslate.com/us-sanctions-palestinian-media-group-gaza-now-including-its-crypto-wallets/">US sanctions Palestinian media group Gaza Now, including its crypto wallets</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://cryptoslate.com/us-lawmakers-demand-sec-clarity-on-ethereums-asset-classification/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cryptoslate.com/us-sanctions-palestinian-media-group-gaza-now-including-its-crypto-wallets/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/ethereum-capitol.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/ethereum-capitol.jpg" length="1456" type="image/jpg"/>
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/us-treasury-sanction.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/us-treasury-sanction.jpg" length="1200" type="image/jpg"/>
 	</item>
 		<item>
-		<title>Mike Novogratz says ‘boomer’ wealth will drive Bitcoin adoption to new highs</title>
-		<link>https://cryptoslate.com/mike-novogratz-says-boomer-wealth-will-drive-bitcoin-adoption-to-new-highs/</link>
-					<comments>https://cryptoslate.com/mike-novogratz-says-boomer-wealth-will-drive-bitcoin-adoption-to-new-highs/#respond</comments>
+		<title>Ondo Finance adds $95 million to BlackRock&#8217;s BUIDL, bringing total AUM to $240 million</title>
+		<link>https://cryptoslate.com/ondo-finance-adds-95-million-to-blackrocks-buidl-as-it-brings-in-240-million-overall/</link>
+					<comments>https://cryptoslate.com/ondo-finance-adds-95-million-to-blackrocks-buidl-as-it-brings-in-240-million-overall/#respond</comments>
+		
+		<dc:creator><![CDATA[Mike Dalton]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2024 23:23:08 +0000</pubDate>
+				<category><![CDATA[Tokens]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=407752</guid>
+
+					<description><![CDATA[<p>Ondo Finance, a tokenized real-world asset company, announced plans to add $95 million of its own assets to a tokenized fund from BlackRock. In a blog post on March 27, the company said it would move a &#8220;substantial portion&#8221; of the assets behind its OUSG token to the BlackRock USD Institutional Digital Liquidity Fund (BUIDL). [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/ondo-finance-adds-95-million-to-blackrocks-buidl-as-it-brings-in-240-million-overall/">Ondo Finance adds $95 million to BlackRock&#8217;s BUIDL, bringing total AUM to $240 million</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Ondo Finance, a tokenized real-world asset company, announced plans to add $95 million of its own assets to a tokenized fund from <a href="https://cryptoslate.com/companies/blackrock/">BlackRock</a>.</p>
+<p>In a blog post on <a href="https://blog.ondo.finance/introducing-instant-24-7-365-subscriptions-and-redemptions-shifting-ousg-funds-into-blackrocks-buidl/">March 27</a>, the company said it would move a &#8220;substantial portion&#8221; of the assets behind its OUSG token to the BlackRock USD Institutional Digital Liquidity Fund (BUIDL).</p>
+<p>That amount represents OUSG&#8217;s entire total value locked (TVL), according to the asset&#8217;s <a href="https://ondo.finance/ousg">official overview</a>. The same page suggests that some of the funds may also be held in BlackRock&#8217;s FedFund (TFDXX), the USDC stablecoin, and other investments.</p>
+<p>The OUSG token provides liquid exposure to short-term US Treasuries. The company said that the latest developments &#8220;[validate its] original concept of a tokenized US Treasury fund&#8221; and demonstrate that the tokenization of traditional securities is a significant step forward for financial markets.</p>
+<p>Reliance on BUILD is part of Ondo&#8217;s broader strategy to provide instant, 24/7 settlement and redemptions.</p>
+<h2>BUIDL has attracted $240 million</h2>
+<p>The latest news comes alongside a <a href="https://www.bnnbloomberg.ca/blackrock-tokenized-fund-draws-160-million-in-week-since-debut-1.2052365">Bloomberg report</a> indicating that BlackRock&#8217;s BUIDL attracted $240 million in its first week of operations.</p>
+<p>Real-time data from <a href="https://platform.arkhamintelligence.com/explorer/address/0x13e003a57432062e4EdA204F687bE80139AD622f">Arkham Intel</a> suggests that BUIDL&#8217;s Ethereum address has a balance above $100 million, primarily consisting of USDC that seeded the fund. Some of the balance — more than <span class="Header_portfolioValue__4KQk0">$141,000</span> — appears to come from crypto donations from the community rather than assets related to the fund.</p>
+<p>BlackRock launched its BUIDL fund on the Ethereum blockchain on <a href="https://cryptoslate.com/blackrock-launches-100-million-tokenized-asset-fund-using-ethereum/">March 19</a>, as indicated in a regulatory filing. A later public announcement on <a href="https://www.businesswire.com/news/home/20240320771318/en/BlackRock-Launches-Its-First-Tokenized-Fund-BUIDL-on-the-Ethereum-Network">March 20</a> stated that the fund tokenizes assets in the form of the BUIDL token, which allows qualified investors to earn US dollar yields via a subscription with Securitize Markets.</p>
+<p>The fund invests 100% of its assets in cash, US Treasury bills, and repurchase agreements. BlackRock called the fund the &#8220;first tokenized fund issued on a public blockchain.&#8221;</p>
+<p>The post <a href="https://cryptoslate.com/ondo-finance-adds-95-million-to-blackrocks-buidl-as-it-brings-in-240-million-overall/">Ondo Finance adds $95 million to BlackRock&#8217;s BUIDL, bringing total AUM to $240 million</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cryptoslate.com/ondo-finance-adds-95-million-to-blackrocks-buidl-as-it-brings-in-240-million-overall/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/01/blackrock-bitcoin-holdings-1.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/01/blackrock-bitcoin-holdings-1.jpg" length="1200" type="image/jpg"/>
+	</item>
+		<item>
+		<title>Larry Fink &#8216;very bullish&#8217; on Bitcoin after IBIT&#8217;s record-breaking performance</title>
+		<link>https://cryptoslate.com/larry-fink-doubles-down-on-bitcoin-after-ibits-record-breaking-performance/</link>
+					<comments>https://cryptoslate.com/larry-fink-doubles-down-on-bitcoin-after-ibits-record-breaking-performance/#respond</comments>
 		
 		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
-		<pubDate>Tue, 26 Mar 2024 21:13:44 +0000</pubDate>
+		<pubDate>Wed, 27 Mar 2024 21:49:07 +0000</pubDate>
 				<category><![CDATA[Adoption]]></category>
+		<category><![CDATA[Crypto]]></category>
 		<category><![CDATA[Culture]]></category>
 		<category><![CDATA[ETF]]></category>
 		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=407297</guid>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=407744</guid>
 
-					<description><![CDATA[<p>Galaxy Digital CEO Mike Novogratz shared an optimistic outlook for the future of crypto, specifically Bitcoin, in light of recent ETF approvals and the prevailing economic conditions. Novogratz said during the company&#8217;s latest earnings that spot Bitcoin ETFs will continue to attract &#8220;boomer wealth&#8221; that will drive adoption to unprecedented levels. He said: &#8220;With the [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/mike-novogratz-says-boomer-wealth-will-drive-bitcoin-adoption-to-new-highs/">Mike Novogratz says ‘boomer’ wealth will drive Bitcoin adoption to new highs</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+					<description><![CDATA[<p>BlackRock CEO Larry Fink said the record-breaking performance of IBIT has made him more bullish about the future of Bitcoin. Fink made the statement during an interview on Fox Business on March 27, where he called the company&#8217;s spot Bitcoin ETF the most rapidly expanding fund in history. He also stated: &#8220;I’m very bullish on [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/larry-fink-doubles-down-on-bitcoin-after-ibits-record-breaking-performance/">Larry Fink &#8216;very bullish&#8217; on Bitcoin after IBIT&#8217;s record-breaking performance</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/galaxy-digital/">Galaxy Digital</a> CEO <a href="https://cryptoslate.com/people/mike-novogratz/">Mike Novogratz</a> shared an optimistic outlook for the future of crypto, specifically <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>, in light of recent ETF approvals and the prevailing economic conditions.</p>
-<p>Novogratz said during the company&#8217;s latest earnings that <a href="https://cryptoslate.com/galaxy-digitals-mike-novogratz-anticipates-a-spot-bitcoin-etf-approval-by-january-10/">spot Bitcoin ETFs</a> will continue to attract &#8220;boomer wealth&#8221; that will drive adoption to unprecedented levels.</p>
-<p>He said:</p>
-<blockquote><p>&#8220;With the [Bitcoin] ETF, we&#8217;ve unleashed a new era, bringing the $80 trillion baby boomer wealth into the crypto sphere.&#8221;</p></blockquote>
-<p>Novogratz added that the influx of new money into Bitcoin combined with several macro factors paints an optimistic picture of growth for the flagship crypto.</p>
-<h2>Adoption drivers</h2>
-<p>According to Novogratz, the US&#8217;s escalating national debt, now exceeding $34 trillion, and the anticipated Bitcoin halving event are pivotal macro factors that could significantly boost crypto adoption this year.</p>
-<p>The executive emphasized the resilience and <a href="https://cryptoslate.com/bitcoin-to-surge-in-6-months-as-investors-pivot-from-grayscale-to-new-etfs-galaxy-digitals-novogratz-says/">growing appeal of Bitcoin</a> against a backdrop of financial instability. Novogratz said:</p>
-<blockquote><p>&#8220;Until the United States and other countries get their finances in order, the narrative for Bitcoin and other digital assets will only become more compelling.&#8221;</p></blockquote>
-<p>Novogratz further emphasized the role of the recently approved Bitcoin ETFs in <a href="https://cryptoslate.com/proshares-seeks-to-add-more-bitcoin-etps-with-five-leveraged-and-short-etf-filings/">democratizing access</a> to crypto for a broader audience, particularly targeting the substantial wealth held by the baby boomer generation.</p>
-<p>Despite the enthusiasm surrounding Bitcoin ETFs, Novogratz also pointed out the ongoing regulatory challenges that the broader crypto market faces. He referred to the current state of affairs as a &#8220;regulatory tug of war,&#8221; especially for cryptocurrencies other than Bitcoin.</p>
-<p>The anticipation around the SEC decision on spot ether ETFs in May further highlights the uncertain regulatory landscape.</p>
-<h2>IPO challenges</h2>
-<p>Novogratz also touched on the company&#8217;s plans to go public and said the process has been &#8220;frustratingly slow&#8221; due to challenges with the SEC.</p>
-<p>The SEC&#8217;s cautious approach, prioritizing investor protection and market stability, often poses significant hurdles for crypto-related businesses aiming for public listing.</p>
-<p>Novogratz&#8217;s frustration with the SEC&#8217;s slow pace is tempered by his anticipation of possible regulatory shifts that could emerge from changes in the Commission&#8217;s leadership and the broader political landscape.</p>
-<p>With the upcoming presidential election, there&#8217;s a possibility of new appointments within the SEC, which could lead to a shift in regulatory stance towards more openness and efficiency in dealing with crypto-related applications.</p>
-<p>The post <a href="https://cryptoslate.com/mike-novogratz-says-boomer-wealth-will-drive-bitcoin-adoption-to-new-highs/">Mike Novogratz says ‘boomer’ wealth will drive Bitcoin adoption to new highs</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/blackrock/">BlackRock</a> CEO <a href="https://cryptoslate.com/people/larry-fink/">Larry Fink</a> said the record-breaking performance of <a href="https://cryptoslate.com/products/ishares-bitcoin-trust/">IBIT</a> has made him more bullish about the future of <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>.</p>
+<p>Fink made the statement during an <a href="https://www.foxbusiness.com/shows/the-claman-countdown">interview</a> on Fox Business on March 27, where he called the company&#8217;s spot Bitcoin ETF the most rapidly expanding fund in history.</p>
+<p>He also stated:</p>
+<blockquote><p>&#8220;I’m very bullish on the long-term viability of Bitcoin.&#8221;</p></blockquote>
+<p>He also said that the SEC classifying <a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a> as a security would not be that detrimental to its future and would not hamper the company from issuing a spot ETH ETF. However, Fink did not disclose further details about the status of the current application process.</p>
+<h2>Explosive success</h2>
+<p>The BlackRock CEO said he was particularly struck by the performance of IBIT, which has <a href="https://cryptoslate.com/insights/blackrocks-ibit-emerges-as-us-etf-with-second-largest-inflows-for-2024/">shattered expectations</a>, drawing significant retail investor interest beyond initial predictions.</p>
+<p>Fink said:</p>
+<blockquote><p>&#8220;I was pleasantly surprised and would never have predicted before we filed it that we would see this kind of retail demand.&#8221;</p></blockquote>
+<p>The explosive success of the IBIT ETF is rooted in various investor concerns and market conditions, including fears of inflation, prevailing economic uncertainties, and a burgeoning recognition of the importance of portfolio diversification through alternative assets.</p>
+<p>Bitcoin&#8217;s appeal is further magnified by its intrinsic properties, such as a capped supply and decentralized framework, positioning it as both a strategic store of value and a prudent hedge against the vulnerabilities of conventional financial systems.</p>
+<p>Fink&#8217;s commentary highlights a notable pivot in investor sentiment towards Bitcoin, spotlighting the flagship crypto&#8217;s burgeoning appeal in the traditional financial sector.</p>
+<h2>Shifting tides</h2>
+<p>The enthusiasm surrounding the spot Bitcoin ETFs indicates a more <a href="https://cryptoslate.com/blackrock-sees-bitcoin-as-integral-part-of-financial-system-little-interest-in-other-crypto/">significant trend</a> of institutional engagement with Bitcoin on the horizon. This shift suggests a reevaluation of digital assets, transitioning from speculative novelty to a recognized investment avenue.</p>
+<p>Based on his leadership at the helm of the globe&#8217;s preeminent asset management firm, Fink&#8217;s optimism wields considerable influence, potentially shaping financial sector attitudes towards Bitcoin.</p>
+<p>The trajectory of IBIT&#8217;s growth illustrates a burgeoning confidence in Bitcoin&#8217;s lasting value and its emerging role within the broader financial ecosystem.</p>
+<p>Fink&#8217;s comments lend significant support to Bitcoin&#8217;s credibility and its potential role in the global financial landscape. Additionally, the endorsement may encourage further institutional exploration of Bitcoin and other cryptocurrencies, marking a shift towards more inclusive investment strategies that recognize the benefits of digital assets.</p>
+<p>The post <a href="https://cryptoslate.com/larry-fink-doubles-down-on-bitcoin-after-ibits-record-breaking-performance/">Larry Fink &#8216;very bullish&#8217; on Bitcoin after IBIT&#8217;s record-breaking performance</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://cryptoslate.com/mike-novogratz-says-boomer-wealth-will-drive-bitcoin-adoption-to-new-highs/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cryptoslate.com/larry-fink-doubles-down-on-bitcoin-after-ibits-record-breaking-performance/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2023/10/michael-novogratz.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2023/10/michael-novogratz.jpg" length="1200" type="image/jpg"/>
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-larry-fink.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-larry-fink.jpg" length="1200" type="image/jpg"/>
 	</item>
 		<item>
-		<title>Portugal imposes 3 month data collection ban on Worldcoin</title>
-		<link>https://cryptoslate.com/portugal-imposes-3-month-data-collection-ban-on-worldcoin/</link>
-					<comments>https://cryptoslate.com/portugal-imposes-3-month-data-collection-ban-on-worldcoin/#respond</comments>
+		<title>Amazon completes $4 billion deal with Anthropic, deepening strategic AI partnership</title>
+		<link>https://cryptoslate.com/amazon-completes-4-billion-deal-with-anthropic-deepening-strategic-ai-partnership/</link>
+					<comments>https://cryptoslate.com/amazon-completes-4-billion-deal-with-anthropic-deepening-strategic-ai-partnership/#respond</comments>
 		
 		<dc:creator><![CDATA[Mike Dalton]]></dc:creator>
-		<pubDate>Tue, 26 Mar 2024 20:00:50 +0000</pubDate>
-				<category><![CDATA[Regulation]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=407263</guid>
+		<pubDate>Wed, 27 Mar 2024 19:50:18 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=407691</guid>
 
-					<description><![CDATA[<p>Portugal&#8217;s National Data Protection Commission (CNPD) said on March 26 that it will ban Worldcoin from collecting biometric data for three months. The CNPD said that the limitations apply for 90 days until an investigation is concluded and a final decision is reached. The ban applies to biometric data on the iris, eyes, and face. [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/portugal-imposes-3-month-data-collection-ban-on-worldcoin/">Portugal imposes 3 month data collection ban on Worldcoin</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+					<description><![CDATA[<p>Amazon completed an investment deal with AI firm Anthropic after injecting another $2.75 billion into the company on March 27. The latest investment follows $1.25 billion given to the company in September 2023 as part of a $4 billion deal. The deal provides Amazon with minority ownership in Anthropic. Under the deal, the two companies [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/amazon-completes-4-billion-deal-with-anthropic-deepening-strategic-ai-partnership/">Amazon completes $4 billion deal with Anthropic, deepening strategic AI partnership</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>Portugal&#8217;s National Data Protection Commission (CNPD) said on <a href="https://www.cnpd.pt/comunicacao-publica/noticias/cnpd-suspende-recolha-de-dados-biometricos/">March 26</a> that it will ban <a href="https://cryptoslate.com/companies/worldcoin/">Worldcoin</a> from collecting biometric data for three months.</p>
-<p>The CNPD said that the limitations apply for 90 days until an investigation is concluded and a final decision is reached. The ban applies to biometric data on the iris, eyes, and face.</p>
-<h2>Ban details</h2>
-<p>CNPD imposed the ban for several reasons. First, Worldcoin allegedly has &#8220;no mechanism for verifying the age of members&#8221; and allegedly collected data from minors without parental permission.</p>
-<p>Additionally, Worldcoin did not provide sufficient information to users on some matters, leaving users unable to delete their data or revoke consent.</p>
-<p>CNPD said that the General Data Protection Regulation (GDPR) includes special protections for both biometric data and minors. It also mentioned other possible violations of GDPR standards and said that all of these factors justified urgent intervention against Worldcoin.</p>
-<p>Paula Meira Lourenço, President of the CNPD, called the new measures &#8220;an indispensable and justified measure&#8221; at the moment as they will protect the rights of the public and minors.</p>
-<h2>Worldcoin denies wrongdoing</h2>
-<p>According to a separate report from <a href="https://www.reuters.com/markets/currencies/sam-altmans-worldcoin-ordered-stop-data-collection-portugal-2024-03-26/">Reuters</a>, Worldcoin has denied any wrongdoing and claimed that it does not allow minors to register through the ORB.</p>
-<p>Worldcoin Foundation&#8217;s data protection officer, Jannick Preiwisch, said Worldcoin is &#8220;fully compliant with all laws and regulations in its operating areas.</p>
-<p>Preiwisch said that Worldcoin had not previously heard from the CNPD about the issues. He asserted that Worldcoin has &#8220;zero tolerance&#8221; for registrations by minors and said the project is addressing the reports.</p>
-<p>Worldcoin emphasized that it recently introduced a user-controlled <a href="https://worldcoin.org/blog/announcements/worldcoin-implements-personal-custody">Personal Custody</a> model, giving users greater control over their data. It initially announced the new model on March 22 as it released its Orb software under an <a href="https://cryptoslate.com/worldcoin-foundation-makes-orb-software-open-source/">open-source</a> license.</p>
-<p>Spain also imposed a three-month ban on Worldcoin&#8217;s data collection activities on <a href="https://cryptoslate.com/worldcoin-faces-three-month-data-collection-suspension-in-spain-wld-price-drops-10/">March 6</a> for identical reasons. The biometric data collection has raised concerns among regulators in several other countries as well, with Kenya labeling it &#8220;espionage.&#8221;</p>
-<p>The post <a href="https://cryptoslate.com/portugal-imposes-3-month-data-collection-ban-on-worldcoin/">Portugal imposes 3 month data collection ban on Worldcoin</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/amazon/">Amazon</a> completed an investment deal with AI firm <a href="https://cryptoslate.com/companies/anthropic/">Anthropic</a> after injecting another $2.75 billion into the company on <a href="https://www.aboutamazon.com/news/company-news/amazon-anthropic-ai-investment">March 27</a>.</p>
+<p>The latest investment follows $1.25 billion given to the company in <a href="https://cryptoslate.com/amazon-invests-4b-in-openai-alumni-anthropic-launching-ai-cloud-war-with-microsoft-and-google/">September 2023</a> as part of a $4 billion deal. The deal provides Amazon with minority ownership in Anthropic.</p>
+<p>Under the deal, the two companies have entered a strategic collaboration, including making Anthropic&#8217;s AI models accessible via Amazon Bedrock. Additionally, Anthropic will use AWS for some of its operations and the AWS Trainium and Inferentia microchips to power some of its activities.</p>
+<p>Dr. Swami Sivasubramanian, vice president of Data and AI at AWS, said that Amazon has a &#8220;notable history with Anthropic&#8221; and that the two firms have helped organizations worldwide use AI.</p>
+<p>Sivasubramanian called Anthropic&#8217;s work with generative AI &#8220;visionary&#8221; and the &#8220;most transformative technology of our time,&#8221; promising that the collaboration will improve customer experiences.</p>
+<p>Anthropic itself acknowledged its ongoing partnership with Amazon on <a href="https://www.anthropic.com/news/accenture-aws-anthropic">March 20</a>, emphasizing a role for the professional services company Accenture. It said that more than 1,400 Accenture engineers will be trained as specialists using Anthropic models on AWS.</p>
+<h2>Anthropic valued above $18 billion</h2>
+<p>The investment will significantly increase Anthropic&#8217;s finances. In <a href="https://www.cnbc.com/2023/12/21/openai-rival-anthropic-in-talks-to-raise-750-million-funding-round.html">December 2023,</a> the company had a valuation of $18 billion following a funding round led by Menlo Ventures.</p>
+<p>Anthropic has recently attracted attention for its previous ties to the failed crypto exchange FTX. FTX reached a deal in bankruptcy court to sell its stake in Anthropic for $884 million on <a href="https://www.cnbc.com/2024/03/25/ftx-estate-sells-majority-stake-in-startup-anthropic-for-884-million.html">March 22</a>, with most of the sale going toward the UAE sovereign wealth fund Mubadala, as <a href="https://cryptoslate.com/anthropic-founders-block-saudi-arabia-from-buying-ftx-owned-stake/">previously expected</a>.</p>
+<p>Anthropic is best known for its AI chatbot, Claude. The company <a href="https://cryptoslate.com/anthropic-releases-next-generation-of-claude-claims-it-is-superior-to-gpt-4/">released version 3</a> of Claude in early March and claimed superior performance over some competitors.</p>
+<p>The firm is also known for being founded by former OpenAI employees and for its more transparent approach to AI safety.</p>
+<p>The post <a href="https://cryptoslate.com/amazon-completes-4-billion-deal-with-anthropic-deepening-strategic-ai-partnership/">Amazon completes $4 billion deal with Anthropic, deepening strategic AI partnership</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://cryptoslate.com/portugal-imposes-3-month-data-collection-ban-on-worldcoin/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cryptoslate.com/amazon-completes-4-billion-deal-with-anthropic-deepening-strategic-ai-partnership/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/worldcoin-portugal.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/worldcoin-portugal.jpg" length="1200" type="image/jpg"/>
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2023/09/amazon-ai-anthropic.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2023/09/amazon-ai-anthropic.jpg" length="1200" type="image/jpg"/>
 	</item>
 		<item>
-		<title>Bitcoin&#8217;s latest rally upends traditional market expectations with shallower drawdowns</title>
-		<link>https://cryptoslate.com/insights/bitcoins-latest-rally-upends-traditional-market-expectations-with-shallower-drawdowns/</link>
-		
-		<dc:creator><![CDATA[James Van Straten]]></dc:creator>
-		<pubDate>Tue, 26 Mar 2024 19:00:48 +0000</pubDate>
-				<guid isPermaLink="false">https://cryptoslate.com/?post_type=crypto_insight&#038;p=407216</guid>
-
-					<description><![CDATA[<p>Quick Take The latest Bitcoin cycle, starting from the lows of November 2022 at approximately $15,500 and soaring to over $73,000, is drastically altering investor expectations as it deviates from the traditional bull market patterns. Historically, Bitcoin has seen 30% drawdowns in bull markets, which is a common occurrence. However, this cycle has left many [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/insights/bitcoins-latest-rally-upends-traditional-market-expectations-with-shallower-drawdowns/">Bitcoin&#8217;s latest rally upends traditional market expectations with shallower drawdowns</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<h2>Quick Take</h2>
-<p>The latest Bitcoin cycle, starting from the lows of November 2022 at approximately $15,500 and soaring to over $73,000, is drastically altering investor expectations as it deviates from the traditional bull market patterns.</p>
-<p>Historically, Bitcoin has seen 30% drawdowns in bull markets, which is a common occurrence. However, this cycle has left many investors on the sidelines, waiting in vain for the usual hefty drawdowns to happen.</p>
-<figure id="attachment_407221" aria-describedby="caption-attachment-407221" style="width: 1800px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-407221 size-full" src="https://cryptoslate.com/wp-content/uploads/2024/03/bull-market.png" alt="Bull Market Correction Drawdowns: (Source: Glassnode)" width="1800" height="1013" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/bull-market.png 1800w, https://cryptoslate.com/wp-content/uploads/2024/03/bull-market-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/bull-market-1024x576.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/bull-market-768x432.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/bull-market-1536x864.png 1536w" sizes="(max-width: 1800px) 100vw, 1800px" /><figcaption id="caption-attachment-407221" class="wp-caption-text">Bull Market Correction Drawdowns: (Source: Glassnode)</figcaption></figure>
-<p>The most significant drawdown of this cycle, a 20% dip, took place in September 2023, falling from $30,000 to $25,000 from its July peak.</p>
-<p>Since October 2023, Bitcoin has embarked on an impressive climb, jumping from roughly $25,000 to a peak of roughly $73,000, but with two relatively modest drawdowns of 16%.</p>
-<p>These occurred just after the <a href="https://cryptoslate.com/insights/bitcoin-falls-over-20-from-yth-high-with-further-5-drawdown-in-cascading-liquidation-event/">ETF launch in January</a> and again from the all-time high. Glassnode&#8217;s data captures the daily closing prices, indicating that the Bitcoin price may have dipped lower within the day.</p>
-<p>However, the extent and duration of the drawdowns in this Bitcoin cycle have been notably shorter and shallower. This could be indicative of Bitcoin maturing as an asset.</p>
-<p>The post <a href="https://cryptoslate.com/insights/bitcoins-latest-rally-upends-traditional-market-expectations-with-shallower-drawdowns/">Bitcoin&#8217;s latest rally upends traditional market expectations with shallower drawdowns</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/bull-market.png" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/bull-market.png" length="1800" type="image/jpg"/>
-	</item>
-		<item>
-		<title>Bitcoin ETFs could see significant growth in Hong Kong due to in-kind creation model – analysts</title>
-		<link>https://cryptoslate.com/analysts-believe-bitcoin-etfs-could-see-significant-growth-in-hong-kong-due-to-in-kind-creation/</link>
-					<comments>https://cryptoslate.com/analysts-believe-bitcoin-etfs-could-see-significant-growth-in-hong-kong-due-to-in-kind-creation/#respond</comments>
-		
-		<dc:creator><![CDATA[Oluwapelumi Adejumo]]></dc:creator>
-		<pubDate>Tue, 26 Mar 2024 18:39:15 +0000</pubDate>
-				<category><![CDATA[Analysis]]></category>
-		<category><![CDATA[Crypto]]></category>
-		<category><![CDATA[ETF]]></category>
-		<category><![CDATA[Bitcoin ETF]]></category>
-		<category><![CDATA[Hong Kong]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=407194</guid>
-
-					<description><![CDATA[<p>Analysts believe Bitcoin exchange-traded funds (ETFs) could see a significant upswing following their launch in Hong Kong due to the adoption of in-kind creation models. Bloomberg senior ETF analyst Eric Balchunas further pointed out that Hong Kong&#8217;s adoption of an in-kind creation model for spot Bitcoin ETFs could potentially boost the assets under management (AUM) [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/analysts-believe-bitcoin-etfs-could-see-significant-growth-in-hong-kong-due-to-in-kind-creation/">Bitcoin ETFs could see significant growth in Hong Kong due to in-kind creation model – analysts</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>Analysts believe <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a> exchange-traded funds (ETFs) could see a significant upswing following their launch in Hong Kong due to the adoption of in-kind creation models.</p>
-<p>Bloomberg senior ETF analyst <a href="https://cryptoslate.com/people/eric-balchunas/">Eric Balchunas</a> further pointed out that Hong Kong&#8217;s adoption of an <a href="https://twitter.com/EricBalchunas/status/1772602019133423921?t=TeeRFMqlVVghAyl6b0xAGg&amp;s=19">in-kind creation model</a> for spot Bitcoin ETFs could potentially boost the assets under management (AUM) and the trading volume for ETF products in the rapidly expanding region.</p>
-<p>Balchunas&#8217;s position was informed by a research note by Bloomberg ETF analyst Rebecca Sin, which suggested that the in-kind model would present an &#8220;opportunity for the market.&#8221;</p>
-<p>According to Sin:</p>
-<blockquote><p>&#8220;Hong Kong is aiming for in-kind creation of the ETF, unlike the US, where the transaction is cash only — in the US, it’s cash in, Bitcoin ETF out, while Hong Kong aims for Bitcoin in, ETF out. This could be an opportunity for the market.&#8221;</p></blockquote>
-<p>Earlier in the year, Hong Kong authorities signaled their <a href="https://cryptoslate.com/hong-kong-financial-regulators-are-prepared-for-spot-crypto-etf-applications/">readiness</a> to accept applications for spot crypto ETFs, with <a href="https://cryptoslate.com/bitcoin-etfs-expected-to-launch-in-hong-kong-by-mid-2024/">plans to roll o</a>ut these financial products by mid-year. Since then, multiple entities, including Harvest Hong Kong, have filed <a href="https://cryptoslate.com/harvest-hong-kong-leads-the-charge-with-hong-kong-spot-bitcoin-etf-application-report/">applications</a> to launch a spot Bitcoin ETF.</p>
-<h2>In-kind vs. Cash creations</h2>
-<p>Hong Kong&#8217;s potential adoption of the in-kind model approach starkly contrasts the <a href="https://cryptoslate.com/approaching-the-launch-of-spot-bitcoin-etfs-strategies-for-redemption-and-market-impact/">cash-creation model</a> favored by US authorities for its spot Bitcoin ETFs.</p>
-<p>With in-kind redemptions, ETF issuers can exchange the fund&#8217;s underlying assets, such as Bitcoin, with market makers instead of transacting in cash during share creation and redemption. This mechanism enables the ETF to issue creation units without immediately selling the securities for cash.</p>
-<p>In contrast, the cash redemptions <a href="https://cryptoslate.com/sec-rumored-to-be-instructing-spot-bitcoin-etf-applicants-to-include-cash-creates/">favored by the US SEC</a> require fund managers to sell Bitcoin to provide cash to redeeming shareholders.</p>
-<p>Notably, <a href="https://cryptoslate.com/companies/blackrock/">BlackRock</a>, one of the Bitcoin ETF issuers, had <a href="https://cryptoslate.com/blackrock-warned-sec-lack-of-in-kind-orders-for-bitcoin-etf-shares-could-hurt-investors/">warned</a> that this method poses the challenge of maintaining share prices aligned with Bitcoin&#8217;s actual value.</p>
-<p>The post <a href="https://cryptoslate.com/analysts-believe-bitcoin-etfs-could-see-significant-growth-in-hong-kong-due-to-in-kind-creation/">Bitcoin ETFs could see significant growth in Hong Kong due to in-kind creation model – analysts</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://cryptoslate.com/analysts-believe-bitcoin-etfs-could-see-significant-growth-in-hong-kong-due-to-in-kind-creation/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-etf-hongkong.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-etf-hongkong.jpg" length="1200" type="image/jpg"/>
-	</item>
-		<item>
-		<title>KuCoin assures users funds are safe after US levies criminal charges</title>
-		<link>https://cryptoslate.com/kucoin-assures-users-funds-are-safe-after-us-levies-criminal-charges/</link>
-					<comments>https://cryptoslate.com/kucoin-assures-users-funds-are-safe-after-us-levies-criminal-charges/#respond</comments>
+		<title>Fidelity files registration statement for Ethereum ETF despite regulatory uncertainty</title>
+		<link>https://cryptoslate.com/fidelity-files-registration-statement-for-ethereum-etf-despite-regulatory-uncertainty/</link>
+					<comments>https://cryptoslate.com/fidelity-files-registration-statement-for-ethereum-etf-despite-regulatory-uncertainty/#respond</comments>
 		
 		<dc:creator><![CDATA[Assad Jafri]]></dc:creator>
-		<pubDate>Tue, 26 Mar 2024 17:53:29 +0000</pubDate>
-				<category><![CDATA[Exchanges]]></category>
+		<pubDate>Wed, 27 Mar 2024 19:12:48 +0000</pubDate>
+				<category><![CDATA[ETF]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Legal]]></category>
-		<category><![CDATA[Regulation]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=407235</guid>
+		<guid isPermaLink="false">https://cryptoslate.com/?p=407683</guid>
 
-					<description><![CDATA[<p>KuCoin CEO Johnny Lyu said the US criminal charges against the exchange will not affect the platform&#8217;s operational stability and assured users that their funds remain safe. Lyu made the statement on social media after the US Department of Justice (DOJ) announced it is levying criminal charges against the exchange for flouting anti-money laundering (AML) [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/kucoin-assures-users-funds-are-safe-after-us-levies-criminal-charges/">KuCoin assures users funds are safe after US levies criminal charges</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+					<description><![CDATA[<p>Fidelity Investments has taken another step in its effort to launch a spot Ethereum ETF, filing a registration statement on March 27 despite the uncertain regulatory landscape. The move follows a previous filing by Cboe, the exchange planned for this ETF, which submitted a form 19b-4 to the SEC on Fidelity&#8217;s behalf in November 2023. [&#8230;]</p>
+<p>The post <a href="https://cryptoslate.com/fidelity-files-registration-statement-for-ethereum-etf-despite-regulatory-uncertainty/">Fidelity files registration statement for Ethereum ETF despite regulatory uncertainty</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>KuCoin CEO Johnny Lyu said the US criminal charges against the exchange will not affect the platform&#8217;s operational stability and assured users that their funds <a href="https://twitter.com/lyu_johnny/status/1772655006996398519?s=46&amp;t=aw6ZR-6aD050XLPVXY8AQA">remain safe</a>.</p>
-<p>Lyu made the statement on social media after the US Department of Justice (DOJ) announced it is levying criminal charges against the exchange for flouting anti-money laundering (AML) laws.</p>
-<p>Lyu said:</p>
-<blockquote><p>&#8220;Your assets are safe and sound with us. Our team and I will provide timely updates about the progress.&#8221;</p></blockquote>
-<p>KuCoin also made an <a href="https://twitter.com/kucoincom/status/1772649807972315170">official statement</a> regarding the allegations and said its lawyers are investigating the details. The exchange similarly assured users that funds are &#8220;absolutely safe.&#8221;</p>
-<h2>Criminal Charges</h2>
-<p>The US Attorney&#8217;s Office for the Southern District of New York <a href="https://www.justice.gov/usao-sdny/pr/prominent-global-cryptocurrency-exchange-kucoin-and-two-its-founders-criminally">announced</a> the indictment of KuCoin — along with its founders Chun Gan (known as Michael) and Ke Tang (known as Eric) — on charges of operating without the necessary legal permissions and failing to adhere to AML laws on March 26.</p>
-<p>The indictment accuses the platform and its founders of bypassing the Bank Secrecy Act and operating an unlicensed money-transmitting business.</p>
-<p>US Attorney Damian Williams — who is leading the case — outlined the charges, stating that KuCoin and its founders allegedly avoided US regulatory measures despite having a substantial user base in the country.</p>
-<p>The indictment criticizes KuCoin for not implementing essential AML policies, which purportedly allowed the transfer of over $9 billion in suspicious and illicit funds through the exchange.</p>
-<p>The document also points out KuCoin&#8217;s late adoption of customer identification measures, which came into effect in July 2023 after the initiation of a federal investigation and did not retroactively apply to existing customers, including those in the US.</p>
-<p>Additionally, the indictment alleges that KuCoin made efforts to conceal the presence of US customers on its platform and misrepresented this information to investors. The exchange is accused of promoting itself on social media as a platform where US users could trade anonymously.</p>
-<p>Meanwhile, the charges against the exchange&#8217;s two founders include conspiring to operate an unlicensed money-transmitting business and to violate the Bank Secrecy Act, with potential maximum sentences of five years in prison for each charge.</p>
-<p>KuCoin and its related entities face several charges, the most severe of which is a potential ten-year prison sentence for a substantive violation of the Bank Secrecy Act.</p>
-<h2>Crypto commodities</h2>
-<p>The indictment notably mentions that KuCoin violated the Commodity Exchange Act (CEA) by failing to register with the CFTC despite allowing users to trade commodities on its platform.</p>
-<p>According to the filing:</p>
-<blockquote><p>&#8220;Bitcoin and other cryptocurrencies are &#8220;commodities&#8221; under the CEA.&#8221;</p></blockquote>
-<p>The filing does not specify the other cryptocurrencies and only mentions <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a> in relation to the CFTC complaint. However, the indictment does mention <a href="https://cryptoslate.com/?s=Ethereum">Ethereum</a> in a different section that describes KuCoin&#8217;s spot trading activity.</p>
-<p>DeFi Education Fund board member Jake Chervinsky <a href="https://twitter.com/jchervinsky/status/1772666739995595007?s=20">noted</a> that the accompanying CFTC complaint against KuCoin specifically labels three cryptocurrencies as commodities — Bitcoin, Ethereum, and Litecoin.</p>
-<p>The inclusion of ETH in the CFTC complaint is significant, considering <a href="https://cryptoslate.com/ethereum-foundation-facing-inquiry-by-unknown-state-authority/">recent rumors</a> that the SEC is investigating the Ethereum Foundation to try and <a href="https://cryptoslate.com/ripple-leaders-forecast-sec-defeat-in-ethereum-security-saga/">label it a security</a>.</p>
-<p>Chervinsky believes the inclusion implies the CFTC is directly challenging the SEC&#8217;s approach to investigating Ethereum and other digital assets. This development represents a notable departure from the usually discreet stance the agencies have taken in their jurisdictional overlap concerning crypto.</p>
-<p>According to Chervinsky:</p>
-<blockquote><p>&#8220;This may seem minor, but is actually pretty savage interagency drama by DC standards.&#8221;</p></blockquote>
-<p>The post <a href="https://cryptoslate.com/kucoin-assures-users-funds-are-safe-after-us-levies-criminal-charges/">KuCoin assures users funds are safe after US levies criminal charges</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
+										<content:encoded><![CDATA[<p><a href="https://cryptoslate.com/companies/fidelity-investments/">Fidelity Investments</a> has taken another step in its effort to launch a spot <a href="https://cryptoslate.com/coins/ethereum/">Ethereum</a> ETF, filing a registration statement on March 27 despite the uncertain regulatory landscape.</p>
+<p>The move follows a previous filing by Cboe, the exchange planned for this ETF, which submitted a form 19b-4 to the SEC on Fidelity&#8217;s behalf in November 2023.</p>
+<p>Fidelity&#8217;s actions, alongside those of other firms aiming to introduce spot ether ETFs, illustrate the growing interest in integrating digital assets into traditional financial products. Yet, obtaining regulatory approval presents a notable challenge, highlighting the evolving and uncertain nature of crypto regulation.</p>
+<h2>S-1 filing</h2>
+<p>The company&#8217;s recent <a href="https://www.sec.gov/Archives/edgar/data/2000046/000119312524077886/d759655ds1.htm">Form S-1 filing</a> marks an essential step in seeking SEC approval for the Fidelity Ethereum Fund to begin trading. The regulator must approve both the 19b-4 and S-1 forms before the fund can trade,</p>
+<p>Fidelity&#8217;s latest submission did not disclose the fund&#8217;s details, such as the ticker and fees.  However, it detailed the fund&#8217;s intention to stake a portion of its assets with one or more staking infrastructure providers, anticipating that staking rewards of ether could count as income for federal income tax purposes.</p>
+<p>Fidelity Digital Asset Services, serving as the fund custodian, will exclusively maintain the private keys associated with any staked ETH, ensuring security for the fund&#8217;s operations.</p>
+<p>The regulator is expected to decide on ETFs that directly hold ETH by late May. However, industry experts predict the SEC <a href="https://cryptoslate.com/sec-delays-lower-expectations-of-ethereum-etf-approval-by-may-despite-staking-amendments/">may not be as open</a> to Ethereum as <a href="https://cryptoslate.com/coins/bitcoin/">Bitcoin</a>.</p>
+<h2>Uncertain landscape</h2>
+<p>The SEC&#8217;s approval of <a href="https://cryptoslate.com/spot-bitcoin-etfs-record-10-billion-in-daily-volume-breaking-previous-record/">spot Bitcoin ETFs</a> in January led to expectations of a potential opening for other cryptocurrency-based investment products. However, the regulator said at the time that the approval did not mean the regulator had softened its stance toward the digital asset industry.</p>
+<p>The <a href="https://cryptoslate.com/companies/ethereum-foundation/">Ethereum Foundation</a> recently revealed it was <a href="https://cryptoslate.com/ethereum-foundation-facing-inquiry-by-unknown-state-authority/">under scrutiny</a> by an unnamed &#8220;state authority,&#8221; triggering concerns about the impact on Ethereum&#8217;s future and the approval of related ETFs.</p>
+<p>The inquiry has led to speculation about its implications for Ethereum&#8217;s market performance and regulatory status.</p>
+<p>Meanwhile, Republican lawmakers are pressing the SEC for <a href="https://cryptoslate.com/us-lawmakers-demand-sec-clarity-on-ethereums-asset-classification/">clarity on Ethereum&#8217;s regulatory classification</a>, highlighting the need for definitive guidance to mitigate market uncertainties.</p>
+<p>Despite this, the industry <a href="https://cryptoslate.com/grayscale-executive-sees-path-to-ethereum-etf-approval-despite-sec-silence/">remains optimistic</a> about the approval of Ethereum ETFs, citing previous engagements with the SEC over Bitcoin ETFs as a positive precedent.</p>
+<p>The post <a href="https://cryptoslate.com/fidelity-files-registration-statement-for-ethereum-etf-despite-regulatory-uncertainty/">Fidelity files registration statement for Ethereum ETF despite regulatory uncertainty</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://cryptoslate.com/kucoin-assures-users-funds-are-safe-after-us-levies-criminal-charges/feed/</wfw:commentRss>
+					<wfw:commentRss>https://cryptoslate.com/fidelity-files-registration-statement-for-ethereum-etf-despite-regulatory-uncertainty/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/kucoin-us.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/kucoin-us.jpg" length="1200" type="image/jpg"/>
-	</item>
-		<item>
-		<title>Bitcoin market absorbs mining output and more, sparking price spike</title>
-		<link>https://cryptoslate.com/insights/bitcoin-market-absorbs-mining-output-and-more-sparking-price-spike/</link>
-		
-		<dc:creator><![CDATA[James Van Straten]]></dc:creator>
-		<pubDate>Tue, 26 Mar 2024 16:13:19 +0000</pubDate>
-				<guid isPermaLink="false">https://cryptoslate.com/?post_type=crypto_insight&#038;p=407199</guid>
-
-					<description><![CDATA[<p>Quick Take Examining the relative forces between Bitcoin cohort accumulation and monthly issuance offers intriguing insights into the current market situation. The ongoing epoch witnesses daily mining of approximately 900 BTC, translating to nearly 27,000 BTC per month, represented as the blue line in our analysis graph. The distinct cohorts are classified from shrimps (holding [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/insights/bitcoin-market-absorbs-mining-output-and-more-sparking-price-spike/">Bitcoin market absorbs mining output and more, sparking price spike</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<h2>Quick Take</h2>
-<p>Examining the relative forces between Bitcoin cohort accumulation and monthly issuance offers intriguing insights into the current market situation. The ongoing epoch witnesses daily mining of approximately 900 BTC, translating to nearly 27,000 BTC per month, represented as the blue line in our analysis graph.</p>
-<p>The distinct cohorts are classified from shrimps (holding less than one Bitcoin) to super whales (10,000+ BTC), in addition to tracking miners and exchanges. The analysis becomes particularly interesting when the orange bar chart, representing the cohorts&#8217; aggregate accumulation, surpasses the blue line of monthly issuance.</p>
-<p>However, when the orange bar chart falls below the monthly issuance line, it indicates that all cohorts are not accumulating the total monthly issuance on an aggregate basis.</p>
-<figure id="attachment_407207" aria-describedby="caption-attachment-407207" style="width: 1800px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-407207 size-full" style="color: #383838;" src="https://cryptoslate.com/wp-content/uploads/2024/03/issuance-1.png" alt="All Cohorts vs Issuance: (Source: Glassnode)" width="1800" height="1013" srcset="https://cryptoslate.com/wp-content/uploads/2024/03/issuance-1.png 1800w, https://cryptoslate.com/wp-content/uploads/2024/03/issuance-1-300x169.png 300w, https://cryptoslate.com/wp-content/uploads/2024/03/issuance-1-1024x576.png 1024w, https://cryptoslate.com/wp-content/uploads/2024/03/issuance-1-768x432.png 768w, https://cryptoslate.com/wp-content/uploads/2024/03/issuance-1-1536x864.png 1536w" sizes="(max-width: 1800px) 100vw, 1800px" /><figcaption id="caption-attachment-407207" class="wp-caption-text">All Cohorts vs Issuance: (Source: Glassnode)</figcaption></figure>
-<p>Breaking down the data, as of March 25, the monthly issuance stands at 27,000 BTC, while the aggregate cohort accumulation has reached 43,114 BTC. Evidently, in the last 30 days, all cohorts have collectively absorbed the mined Bitcoin and have procured additional quantities from exchanges. This buying trend aligns with the recent surge of Bitcoin prices above the $70k mark.</p>
-<p>Conversely, a contrasting period was observed between March 3 and March 22. Cohorts were accumulating less than the monthly issuance. This trend contributed to the dip in Bitcoin prices from its all-time high of $60k.</p>
-<p>The post <a href="https://cryptoslate.com/insights/bitcoin-market-absorbs-mining-output-and-more-sparking-price-spike/">Bitcoin market absorbs mining output and more, sparking price spike</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/issuance-1.png" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/issuance-1.png" length="1800" type="image/jpg"/>
-	</item>
-		<item>
-		<title>The future of Bitcoin mining post-halving, according to GoMining</title>
-		<link>https://cryptoslate.com/the-future-of-bitcoin-mining-post-halving-according-to-gomining/</link>
-					<comments>https://cryptoslate.com/the-future-of-bitcoin-mining-post-halving-according-to-gomining/#respond</comments>
-		
-		<dc:creator><![CDATA[News Desk]]></dc:creator>
-		<pubDate>Tue, 26 Mar 2024 14:30:45 +0000</pubDate>
-				<category><![CDATA[BTC Halving]]></category>
-		<category><![CDATA[Mining]]></category>
-		<category><![CDATA[Sponsored]]></category>
-		<guid isPermaLink="false">https://cryptoslate.com/?p=406774</guid>
-
-					<description><![CDATA[<p>The phenomenon of the Bitcoin halving is a cornerstone event in the crypto world, fundamentally altering the economic landscape for miners and investors alike. Occurring approximately every four years, this event reduces the reward for mining new Bitcoin blocks by half, a mechanism designed to control the supply of Bitcoin and mimic the scarcity-driven value [&#8230;]</p>
-<p>The post <a href="https://cryptoslate.com/the-future-of-bitcoin-mining-post-halving-according-to-gomining/">The future of Bitcoin mining post-halving, according to GoMining</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><span style="font-weight: 400;">The phenomenon of the Bitcoin halving is a cornerstone event in the crypto world, fundamentally altering the economic landscape for miners and investors alike. Occurring approximately every four years, this event reduces the reward for mining new Bitcoin blocks by half, a mechanism designed to control the supply of Bitcoin and mimic the scarcity-driven value preservation seen in precious metals. </span></p>
-<p><span style="font-weight: 400;">As we approach the next halving in 2024, the Bitcoin community keenly focuses on its potential impacts on the market and mining operations. In this shifting environment, </span><a href="https://gmt.io/"><span style="font-weight: 400;"><strong>GoMining</strong></span></a><span style="font-weight: 400;"> emerges as a noteworthy entity, offering innovative solutions to the challenges posed by the BTC halving event.</span></p>
-<h2><b>Economic Realities of Post-Halving Mining</b></h2>
-<p><span style="font-weight: 400;">The halving event is not merely a technical milestone but a pivotal economic reset that impacts all facets of Bitcoin mining. By halving the block rewards, the event directly challenges the profitability and sustainability of mining operations, compelling miners to reassess their strategies. </span></p>
-<p><span style="font-weight: 400;">Historically, each halving has led to a significant shakeout in the mining industry, with only the most efficient and strategically positioned miners able to maintain profitability in the face of reduced rewards.</span></p>
-<p><span style="font-weight: 400;">In the post-halving landscape, miners face the dual challenge of decreasing rewards and potentially increasing competition as the market adjusts to the new reward structure. This environment favors mining operations that achieve the lowest operational costs, particularly in energy consumption, which is the largest variable cost in Bitcoin mining.</span></p>
-<p><span style="font-weight: 400;">Meanwhile, the increase in mining difficulty, a measure of how hard it is to find a new block, is another critical factor that miners must contend with post-halving. </span></p>
-<p><span style="font-weight: 400;">As the rewards decrease, maintaining the same profitability level requires more efficient hardware and access to cheaper electricity. </span><strong><a href="https://www.entrepreneur.com/en-au/technology/will-bitcoin-halving-in-2024-lead-to-the-next-all-time/469838">This situation</a></strong><span style="font-weight: 400;"> leads to a natural selection process in the mining industry, where only the most efficient operations can thrive.</span></p>
-<h2><b>GoMining&#8217;s Approach to Democratized Mining</b></h2>
-<p><span style="font-weight: 400;">GoMining presents a compelling solution for individuals across the spectrum of cryptocurrency familiarity, from seasoned mining enthusiasts to those new to the crypto world. It offers a seamless and efficient way to engage in Bitcoin mining, even in the face of the complexities introduced by post-halving scenarios. By providing an accessible platform, GoMining enables anyone to participate in mining activities and receive daily rewards without needing deep expertise in the intricacies of Bitcoin mining. This approach not only democratizes access to Bitcoin mining but also emphasizes the importance of efficiency and cost-effectiveness in a rapidly evolving space.</span></p>
-<p><span style="font-weight: 400;">GoMining&#8217;s solution is built upon a unique </span><strong><a href="https://cryptodaily.co.uk/2023/12/how-liquid-bitcoin-hashrate-represents-mining-democratization-gominings-vision">Liquid Bitcoin Hashrate vision</a></strong><span style="font-weight: 400;">, introduced by the company in 2022. According to this concept, Non-Fungible Tokens (NFTs), also known as virtual miners, represent real shares of Bitcoin mining power generated by nine top-notch data centers operated by GoMining.</span></p>
-<p><span style="font-weight: 400;">This model democratizes access to mining and allows users to increase their mining capacity according to their investment strategy simply by acquiring or upgrading these NFTs. This approach eliminates the need for individuals to invest in expensive mining equipment or deal with the logistical challenges of setting up and running a mining operation. </span></p>
-<p><span style="font-weight: 400;">Another key aspect of the ecosystem is the </span><strong><a href="https://coinmarketcap.com/currencies/gomining-token/">GOMINING token</a></strong><span style="font-weight: 400;">, which operates across both Ethereum and Binance Smart Chain networks, facilitating a variety of actions, including purchasing and upgrading NFTs and managing digital assets within the platform. Users can also stake the GOMINING token to earn returns and gain voting rights, influencing platform decisions and contributing to the community&#8217;s direction. </span></p>
-<p><span style="font-weight: 400;">The </span><strong><a href="https://medium.com/@GoMining/gomining-launches-vote-escrow-ve-tokenomics-1c3de4e3e02e">GoMining veTokenomics</a></strong><span style="font-weight: 400;"> framework is designed to increase its value over time through a deflationary model, incorporating burn and mint cycles that enhance its scarcity and utility.</span></p>
-<h2><b>Operational Efficiency and Sustainability</b></h2>
-<p><span style="font-weight: 400;">In anticipation of the challenges posed by the halving, GoMining is actively expanding its total hashrate and exploring innovative ways to enhance the energy efficiency of its operations further. The company&#8217;s roadmap includes significant investments in technology and infrastructure to enhance its mining capacity and maintain competitiveness in the industry.</span></p>
-<p><span style="font-weight: 400;">GoMining&#8217;s operations are designed to focus on energy efficiency and sustainability. The sustainability of mining infrastructure, especially during periods of market fluctuation, is heavily influenced by electricity costs. As such, the company strategically locates its data centers in regions with low electricity costs, significantly reducing one of the largest expenses associated with mining. </span></p>
-<p><span style="font-weight: 400;">GoMining NFTs, also called digital miners, exemplify strategic planning in this aspect, having secured data center locations that grant them access to the most economically priced electrical resources worldwide. With an energy cost of merely $0.05 per kWh, they stand in stark contrast to the global averages, such as $0.44 per kWh in Britain, $0.17 per kWh in the United States, and $0.08 per kWh in both China and the United Arab Emirates, based on </span><strong><a href="https://www.statista.com/statistics/263492/electricity-prices-in-selected-countries/">Statista’s 2023 data</a></strong><span style="font-weight: 400;">.</span></p>
-<p><span style="font-weight: 400;">The mining firm also uses the latest and most energy-efficient mining hardware to ensure its operations have a minimal environmental footprint while maximizing user returns. Strategic partnerships with industry-leading players like </span><strong><a href="https://medium.com/@GoMining/gomining-announces-partnership-with-bitmain-39f45446deb7">Bitmain</a></strong><span style="font-weight: 400;">, a BTC mining hardware manufacturer, and participation in the </span><strong><a href="https://bitcoinminingcouncil.com/">Bitcoin Mining Council</a></strong><span style="font-weight: 400;"> significantly contribute to the company&#8217;s position at the cutting edge of the industry.</span></p>
-<h2><b>Conclusion</b></h2>
-<p><span style="font-weight: 400;">The future of Bitcoin mining post-halving requires innovation, efficiency, and adaptability. GoMining represents a forward-thinking solution that addresses the core challenges miners face today. </span></p>
-<p><span style="font-weight: 400;">By offering an accessible, scalable, and efficient model for Bitcoin mining, GoMining provides a valuable platform for individuals and entities looking to engage in mining without the traditional barriers. </span></p>
-<p><span style="font-weight: 400;">As the mining landscape evolves, GoMining&#8217;s approach could serve as a blueprint for sustainable and profitable mining operations in the era of reduced block rewards.</span></p>
-<p>The post <a href="https://cryptoslate.com/the-future-of-bitcoin-mining-post-halving-according-to-gomining/">The future of Bitcoin mining post-halving, according to GoMining</a> appeared first on <a href="https://cryptoslate.com">CryptoSlate</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://cryptoslate.com/the-future-of-bitcoin-mining-post-halving-according-to-gomining/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-halving.jpg" medium="image"/>
-<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/bitcoin-halving.jpg" length="1200" type="image/jpg"/>
+		<media:content url="https://cryptoslate.com/wp-content/uploads/2024/03/ethereum-lighthouse.jpg" medium="image"/>
+<enclosure url="https://cryptoslate.com/wp-content/uploads/2024/03/ethereum-lighthouse.jpg" length="1456" type="image/jpg"/>
 	</item>
 	</channel>
 </rss>

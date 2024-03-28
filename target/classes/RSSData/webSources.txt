@@ -7,4 +7,13 @@ https://www.newsbtc.com/feed/
 https://bitcoinist.com/feed/
 https://beincrypto.com/feed/
 https://blockchain.news/RSS/
-https://cointelegraph.com/feed
+https://cointelegraph.com/rss
+https://www.ledgerinsights.com/feed/
+https://decrypt.co/feed
+https://feeds.feedburner.com/coinspeaker
+https://themerkle.com/feed/
+https://coinjournal.net/feed/
+https://crypto.news/feed/
+https://bitcoin.tax/blog/feed/
+https://www.financemagnates.com/feed
+https://www.coindesk.com/arc/outboundfeeds/rss/

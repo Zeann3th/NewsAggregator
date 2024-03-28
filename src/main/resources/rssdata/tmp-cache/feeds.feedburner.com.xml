@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+
+<channel>
+	<title>&lt;title&gt;</title>
+	<atom:link href="https://www.coinspeaker.com/news/feed/" rel="self" type="application/rss+xml"/>
+	<link>https://www.coinspeaker.com/news/</link>
+	<description>&lt;description&gt;</description>
+	<lastBuildDate>Thu, 28 Mar 2024 12:00:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.coinspeaker.com/wp-content/uploads/2020/03/cropped-favicon-32x32.png</url>
+	<title>News | Coinspeaker</title>
+	<link>https://www.coinspeaker.com/news/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ethereum Network Hits Record High of 1 Million Validators with $114B Staked</title>
+		<link>https://www.coinspeaker.com/ethereum-record-1m-validators/</link>
+					<comments>https://www.coinspeaker.com/ethereum-record-1m-validators/#respond</comments>
+		
+		<dc:creator><![CDATA[Tolu Ajiboye]]></dc:creator>
+		<pubDate>Thu, 28 Mar 2024 12:00:26 +0000</pubDate>
+				<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[Ethereum News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[eth]]></category>
+		<category><![CDATA[ether]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<guid isPermaLink="false">https://www.coinspeaker.com/?p=293501</guid>
+
+					<description><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/ethereum-record-1m-validators/">Ethereum Network Hits Record High of 1 Million Validators with $114B Staked</a></p>
+<p>Ethereum now has more than 1 million validators, with more than 26% of Ether's total supply currently staked in pools.</p>
+<p><a href="https://www.coinspeaker.com/ethereum-record-1m-validators/">Ethereum Network Hits Record High of 1 Million Validators with $114B Staked</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/ethereum-record-1m-validators/">Ethereum Network Hits Record High of 1 Million Validators with $114B Staked</a></p>
+<p>The number of validators on the Ethereum network has hit 1 million, a new high for the blockchain. In total, the validators have staked 32 million Ether, worth around $114 billion at current market prices.</p>
+<p>According to <a href="https://dune.com/hildobby/eth2-staking" target="_blank" rel="nofollow noopener">data</a> from Dune Analytics on Thursday, the validator count is exactly 1,002,400, with precisely 32,076,797 ETH staked. This translates to 26.74% of the entire ETH supply.</p>
+<h2>Lido Has the Highest Number of Validators</h2>
+<p>The Dune Analytics dashboard also displays further information, including showing Lido as the Ethereum staking pool with the highest volume of staked tokens, at 30%, with more than 9.6 million ETH staked, and 302,000 validators. Coinbase is in the second position with 14%, 4.5 ETH and 141,000 validators, while Binance is the third-largest but well below <a href="https://www.coinspeaker.com/organizations/coinbase/" target="_blank" rel="noopener">Coinbase</a>. Binance has 39,000 validators who have staked 1.24 million ETH, 3.9% of the total supply.</p>
+<p>Validators are necessary for the function of proof-of-stake (PoS) blockchains. Essentially, they validate transactions, create new blocks, and are responsible for network security and consensus. Each validator must stake a minimum of 32 ETH. Unsurprisingly, Lido has the largest market share because it allows users to participate collectively instead of each one single-handedly meeting the 32 ETH minimum.</p>
+<p>Ideally, the number of validators suggests an increase in blockchain security. However, venture investor and former Ethereum Chief Decentralization Officer, Evan Van Ness <a href="https://x.com/evan_van_ness/status/1773028107898826962?s=20" target="_blank" rel="nofollow noopener">believes</a> that there is “already too much staked”.</p>
+<p>Last September, Ethereum developers decided to change a Dencun upgrade code relating to validator set size growth. They considered this necessary because over time, there have been issues and warnings about the effect of a large volume of the validator set size. For instance, when developers were testing the Holesky testnet, they discovered that at 2.1 million active validators, the testnet could not finalize.</p>
+<p>According to Ethereum Foundation DevOps Engineer Parithosh Jayanthi, network attestations were <a href="https://www.galaxy.com/insights/research/ethereum-all-core-developers-consensus-call-115/" target="_blank" rel="nofollow noopener">between 40% and 50%</a> even when block proposals hit 80%. Jayanthi said attestations only grew to the 82% to 84% range when developers reduced the testnet size from 2.1 million to 1.4 million.</p>
+<h2>Restaking Spikes Volume of New Ethereum Validators</h2>
+<p>Last month, the number of <a href="https://www.coinspeaker.com/waitlist-ethereum-validators-longest-october-2023/" target="_blank" rel="noopener">validators on queue hit 7,045</a>, the highest since October 6. At the time, the backlog was for 225,000 ETH, about $562 million. The backlog resulted from Ethereum’s restriction of the number of validators allowed to join the network per epoch &#8211; the block creation duration, which is about 6.4 minutes. The number on the queue later increased to 9,000.</p>
+<p>The large number of validators on the queue may be because of restaking, which allows staking already-staked ETH to boost rewards. The staked ETH in one pool, like Lido, can be restaked on another platform for additional yield.</p>
+<p>While staking increases network security, concerns about validator control were recently raised after a large number of validators made a heavy ETH withdrawal amounting to about $320 million.</p>
+<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/quadrigacx-co-founder-british-columbia/" rel="prev">next</a><p><a href="https://www.coinspeaker.com/ethereum-record-1m-validators/">Ethereum Network Hits Record High of 1 Million Validators with $114B Staked</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.coinspeaker.com/ethereum-record-1m-validators/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>QuadrigaCX Co-Founder Grilled by British Columbia Authorities, Here’s Why</title>
+		<link>https://www.coinspeaker.com/quadrigacx-co-founder-british-columbia/</link>
+					<comments>https://www.coinspeaker.com/quadrigacx-co-founder-british-columbia/#respond</comments>
+		
+		<dc:creator><![CDATA[Godfrey Benjamin]]></dc:creator>
+		<pubDate>Thu, 28 Mar 2024 11:57:10 +0000</pubDate>
+				<category><![CDATA[Altcoin News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[ernst young]]></category>
+		<category><![CDATA[ey]]></category>
+		<category><![CDATA[quadrigacx]]></category>
+		<guid isPermaLink="false">https://www.coinspeaker.com/?p=293487</guid>
+
+					<description><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/quadrigacx-co-founder-british-columbia/">QuadrigaCX Co-Founder Grilled by British Columbia Authorities, Here&#8217;s Why</a></p>
+<p>Records submitted to the British Columbia Supreme Court indicate that Michael Patryn is suspected of having obtained the assets illegally. </p>
+<p><a href="https://www.coinspeaker.com/quadrigacx-co-founder-british-columbia/">QuadrigaCX Co-Founder Grilled by British Columbia Authorities, Here&#8217;s Why</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/quadrigacx-co-founder-british-columbia/">QuadrigaCX Co-Founder Grilled by British Columbia Authorities, Here&#8217;s Why</a></p>
+<p>The British Columbia (BC) government recently filed an unexplained court order, seeking to seize assets belonging to Michael Patryn, co-founder of the defunct crypto exchange QuadrigaCX.</p>
+<h2>Authorities Move to Seize QuadrigaCX Co-Founder’s Assets</h2>
+<p>The director of Civil Forfeiture in B.C. explained in a <a href="https://www.cbc.ca/news/canada/british-columbia/b-c-unexplained-wealth-order-quadriga-crypto-scam-co-founder-1.7157188" target="_blank" rel="nofollow noopener">report</a> that the seizure targets a quarter-million dollars in cash, 45 gold bars, luxury watches, and jewelry contained in a safety deposit box belonging to the co-founder.</p>
+<p>Records submitted to the British Columbia Supreme Court indicate that Michael Patryn, who was once involved with Gerald Cotten in establishing QuadrigaCX, is suspected of having obtained the assets illegally.</p>
+<p>B.C. Solicitor General, Mike Farnworth highlighted that the recent move by B.C. authorities is the third instance that an unexplained wealth order has been issued in British Columbia since amendments were made to the Civil Forfeiture Act. Simply explained, unexplained wealth orders require individuals to explain the origins of their wealth and assets, especially where criminal conduct is suspected.</p>
+<p>&#8220;Through this action, we are demonstrating again that criminals will have to prove that their assets are the proceeds of lawful activity and not financial crime,&#8221; Farnworth explained.</p>
+<p>After Cotten&#8217;s unexplained death in India in 2018, the exchange, which had millions of investor funds under management, experienced turmoil. His passing accelerated the discovery of almost $215 million in missing investor funds, causing QuadrigaCX to file for bankruptcy under a court order in 2019. A subsequent investigation conducted by the Ontario Securities Commission later ruled that QuadrigaCX was not merely a failed business venture but a fraud and Ponzi scheme.</p>
+<p>In June 2021, authorities seized a safety deposit box linked to Michael Patryn at a Vancouver-based CIBC branch. Among the items seized were $250,200 in Canadian currency,  luxury timepieces, 45 gold bars from Australia and Canada, a variety of jewelry, and numerous identity documents linked to different aliases.</p>
+<p>It is estimated that QuadrigaCX defrauded approximately 76,000 customers. The exchange&#8217;s bankruptcy trustee, <a href="https://www.coinspeaker.com/organizations/ernst-young/" target="_blank" rel="noopener">Ernst &amp; Young</a> (EY), was only able to collect $46 million of the <a href="https://www.coinspeaker.com/quadrigacx-trustee-ernst-young-claims/" target="_blank" rel="noopener">$215 million owed to investors</a>. Last year, a law firm representing users of the defunct crypto exchange <a href="https://www.coinspeaker.com/quadrigacx-exchange-interim-fund/" target="_blank" rel="noopener">said</a> it would begin an interim distribution of cash related to the trading platform&#8217;s bankruptcy proceedings.</p>
+<h2>Implications of Civil Forfeiture to QuadrigaCX</h2>
+<p>Civil forfeiture, a legal procedure in place in British Columbia since 2006, allows the province to recover assets without filing criminal charges. This option allows police to dismantle criminal enterprises and recover proceeds from illicit activity.</p>
+<p>In the instance of QuadrigaCX, where thousands of investors were left in financial ruin, seeking justice through civil forfeiture is viewed as a critical step in dealing with the consequences of the fraudulent operation. The QuadrigaCX case serves as a reminder of the dangers of unlicensed cryptocurrency exchanges and the necessity of strict regulation in the nascent field of digital assets.</p>
+<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/okx-17th-proof-of-reserves-22-2b-assets/" rel="prev">next</a><p><a href="https://www.coinspeaker.com/quadrigacx-co-founder-british-columbia/">QuadrigaCX Co-Founder Grilled by British Columbia Authorities, Here&#8217;s Why</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.coinspeaker.com/quadrigacx-co-founder-british-columbia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>OKX Publishes 17th Proof of Reserves Showing $22.2B in Assets</title>
+		<link>https://www.coinspeaker.com/okx-17th-proof-of-reserves-22-2b-assets/</link>
+					<comments>https://www.coinspeaker.com/okx-17th-proof-of-reserves-22-2b-assets/#respond</comments>
+		
+		<dc:creator><![CDATA[Chimamanda U. Martha]]></dc:creator>
+		<pubDate>Thu, 28 Mar 2024 11:52:30 +0000</pubDate>
+				<category><![CDATA[Altcoin News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[binance]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[eth]]></category>
+		<category><![CDATA[ether]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[ftx]]></category>
+		<category><![CDATA[litecoin]]></category>
+		<category><![CDATA[ltc]]></category>
+		<category><![CDATA[okx]]></category>
+		<category><![CDATA[ripple]]></category>
+		<category><![CDATA[tether]]></category>
+		<category><![CDATA[usdt]]></category>
+		<category><![CDATA[xrp]]></category>
+		<guid isPermaLink="false">https://www.coinspeaker.com/?p=293490</guid>
+
+					<description><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/okx-17th-proof-of-reserves-22-2b-assets/">OKX Publishes 17th Proof of Reserves Showing $22.2B in Assets</a></p>
+<p>With its monthly provision of PoR, which allows users to estimate the company's health, the exchange has continued to prove to users that their funds are safe. </p>
+<p><a href="https://www.coinspeaker.com/okx-17th-proof-of-reserves-22-2b-assets/">OKX Publishes 17th Proof of Reserves Showing $22.2B in Assets</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/okx-17th-proof-of-reserves-22-2b-assets/">OKX Publishes 17th Proof of Reserves Showing $22.2B in Assets</a></p>
+<p>In a bid to increase transparency after the 2022 market headwind, crypto exchange <a href="https://www.coinspeaker.com/organizations/okex/">OKX</a> has continued to publish its Proof of Reserves (PoR) every month, showing the company&#8217;s portfolio and how much it holds in various digital assets.</p>
+<p>On March 27, 2024, the exchange published its latest report, the 17th PoR since the downfall of FTX and the Terra (LUNA) fiasco in 2022. It shows a balance of $22.2 billion in primary assets backing users&#8217; funds.</p>
+<h2>User Assets Are Backed 1:1</h2>
+<p>According to the official <a href="https://www.globenewswire.com/news-release/2024/03/28/2853759/0/en/OKX-Publishes-17th-Consecutive-Proof-of-Reserves-Highlighting-USD22-1-Billion-in-Primary-Assets.html" target="_blank" rel="nofollow noopener">press release</a>, the exchange has maintained a reserve ratio surpassing 100% in 22 of the most traded cryptocurrencies on the platform.</p>
+<p>Some of these assets include Bitcoin (BTC), Ethereum (ETH), Bitcoin Cash (BCH), Litecoin (<a href="https://www.coinspeaker.com/coins/litecoin/" target="_blank" rel="noopener">LTC</a>), Tether&#8217;s stablecoin USDT, and Ripple&#8217;s XRP.</p>
+<p>The PoR shows that the exchange has a record of a total BTC reserve of 102%, ETH 104%, USDT 106%, and USD 110%. It also demonstrates the exchange is overcollateralized and users&#8217; assets are backed 1:1 on the platform. In its February report, OKX demonstrated a strong balance sheet of $17.7 billion in primary assets with an average reserve ratio of 104%.</p>
+<p>At the time, BTC was backed over 100% to 103%, while ETH and USDC stood at 104% and 104%, respectively. USDT, on the other hand, achieved the highest record of 105%.</p>
+<h2>Commitment to Transparency</h2>
+<p>With its monthly provision of PoR, which allows users to estimate the company&#8217;s health, the exchange has continued to prove to users that their funds are safe. Commenting on the latest report, the company&#8217;s chief commercial officer, Lennix Lai, said the latest reserve reinforces the exchange&#8217;s commitment to transparency.</p>
+<p>&#8220;Our 17th consecutive PoR reinforces our commitment to trust-building and transparency in the crypto ecosystem. As global crypto adoption accelerates, we believe mechanisms like PoR, which aim to enhance security and transparency, will play a critical role in onboarding the next wave of users,&#8221; said Lai.</p>
+<p>Lai further stated that OKX has achieved numerous milestones since the inception of the PoR mechanism. The firm has received the highest quality rating among major exchanges, according to  blockchain expert Nic Carter.</p>
+<h2>Not the First</h2>
+<p>Meanwhile, OKX is not the only crypto exchange in the industry that has bought into the idea of publishing PoR following the FTX collapse as a way to improve transparency in the industry.</p>
+<p>Binance was the first exchange to publish its PoR audit report after its then-CEO Changpeng Zhao (CZ) suggested the concept. The company initially published only its BTC reserves before subsequently including other cryptocurrencies. Other companies, such as Bybit, KuCoin, CryptoCom, Bitfinex, Gate io, Kraken, and Huobi Global, now known as HTX, have participated in the program and released their various reserves to the public.</p>
+<p>In 2022, CoinMarketCap, a blockchain market researcher and tracker, rolled out a new feature on its platform to aid the exchange&#8217;s mission to provide accurate data to enhance transparency in the crypto space.</p>
+<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/dogecoin-price-meme-season/" rel="prev">next</a><p><a href="https://www.coinspeaker.com/okx-17th-proof-of-reserves-22-2b-assets/">OKX Publishes 17th Proof of Reserves Showing $22.2B in Assets</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.coinspeaker.com/okx-17th-proof-of-reserves-22-2b-assets/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dogecoin (DOGE) Price Breakout Signals Fresh Meme Season, Especially for Dog-themed Coins</title>
+		<link>https://www.coinspeaker.com/dogecoin-price-meme-season/</link>
+					<comments>https://www.coinspeaker.com/dogecoin-price-meme-season/#respond</comments>
+		
+		<dc:creator><![CDATA[Steve Muchoki]]></dc:creator>
+		<pubDate>Thu, 28 Mar 2024 10:40:12 +0000</pubDate>
+				<category><![CDATA[Altcoin News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[baby doge coin]]></category>
+		<category><![CDATA[BabyDoge]]></category>
+		<category><![CDATA[doge]]></category>
+		<category><![CDATA[doge price]]></category>
+		<category><![CDATA[dogecoin]]></category>
+		<category><![CDATA[dogecoin price]]></category>
+		<category><![CDATA[flok]]></category>
+		<category><![CDATA[floki]]></category>
+		<category><![CDATA[shib]]></category>
+		<category><![CDATA[shiba inu]]></category>
+		<guid isPermaLink="false">https://www.coinspeaker.com/?p=293484</guid>
+
+					<description><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/dogecoin-price-meme-season/">Dogecoin (DOGE) Price Breakout Signals Fresh Meme Season, Especially for Dog-themed Coins</a></p>
+<p>Dogecoin (DOGE) price rallied above 20 cents for the first time in more than two years, thus indicating strong conviction from investors on dog-themed meme coins.</p>
+<p><a href="https://www.coinspeaker.com/dogecoin-price-meme-season/">Dogecoin (DOGE) Price Breakout Signals Fresh Meme Season, Especially for Dog-themed Coins</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/dogecoin-price-meme-season/">Dogecoin (DOGE) Price Breakout Signals Fresh Meme Season, Especially for Dog-themed Coins</a></p>
+<p>Elon Musk-backed meme coin, Dogecoin (<a href="https://www.coinspeaker.com/coins/dogecoin/" target="_blank" rel="noopener">DOGE</a>), has recorded increased on-chain and development activities in the recent past. The large-cap meme coin, with a fully diluted valuation (FDV) of about $28.8 billion, has significantly benefited from tangible support from crypto whale investors. Furthermore, Dogecoin price has rallied more than 118% in the past four weeks to trade around 20 cents on Thursday, during the early London session.</p>
+<h2>Top Reasons Dogecoin Price Is Rising</h2>
+<p>Dogecoin, the second largest digital asset that is secured through the legendary proof-of-work (PoW) consensus mechanism, has significantly benefited from the unwavering support from tech billionaire Elon Musk. Earlier this month while in Germany at the Gigafactory for Tesla Inc (NASDAQ: TSLA), Musk highlighted that Dogecoin will soon be enabled for car purchases.</p>
+<p>As Coinspeaker <a href="https://www.coinspeaker.com/dogecoin-gigawallet-v1-0-doge/" target="_blank" rel="noopener">mentioned</a> this week, the Dogecoin Foundation successfully rolled out the GigaWallet v1.0 software to enable seamless integration between the Dogecoin network and online shops for streamlined payment services. Consequently, Dogecoin can be used for mass payments, especially on the unicorn companies backed by Musk.</p>
+<p>Moreover, the X platform (formerly Twitter) has obtained more than 20 money transmitter licenses in different states around the United States.</p>
+<p>Meanwhile, it is worth noting that Dogecoin has more than 7.2 million non-zero addresses that have transacted over 313 million transactions since its inception. According to on-chain data analysis, Dogecoin whales have increased general activity, thus sparking bullish sentiments.</p>
+<blockquote class="twitter-tweet" data-width="474" data-dnt="true">
+<p lang="en" dir="ltr">🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨  1,000,005,008 <a href="https://twitter.com/hashtag/DOGE?src=hash&amp;ref_src=twsrc%5Etfw">#DOGE</a> (178,185,804 USD) transferred from unknown wallet to unknown wallet<a href="https://t.co/GGgqlLP7T6">https://t.co/GGgqlLP7T6</a></p>
+<p>&mdash; Whale Alert (@whale_alert) <a href="https://twitter.com/whale_alert/status/1772723699738714594?ref_src=twsrc%5Etfw">March 26, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Midterm Targets for DOGE</h2>
+<p>Dogecoin has seen its daily average trading volume spike by 51 percent in the past 24 hours to about $5 billion at the time of this writing. The heightened trading volume for the top meme coin has increased the chances of further upsurge in the coming weeks. Furthermore, crypto cash rotation is expected to be heightened in the coming weeks as Bitcoin dominance signals an inevitable reversal in the near term.</p>
+<blockquote class="twitter-tweet" data-width="474" data-dnt="true">
+<p lang="en" dir="ltr"><a href="https://twitter.com/search?q=%24DOGE&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DOGE</a></p>
+<p>Dogecoin successfully retested the Macro Downtrend and rallied +55% to the upside since</p>
+<p>More recently, <a href="https://twitter.com/hashtag/DOGE?src=hash&amp;ref_src=twsrc%5Etfw">#DOGE</a> broke out from its Bull Flag (orange) and now trying to retest the Bull Flag Top as new support as well</p>
+<p>So far, so good<a href="https://twitter.com/hashtag/Crypto?src=hash&amp;ref_src=twsrc%5Etfw">#Crypto</a> <a href="https://twitter.com/hashtag/Dogecoin?src=hash&amp;ref_src=twsrc%5Etfw">#Dogecoin</a> <a href="https://t.co/42GAr8HP0W">https://t.co/42GAr8HP0W</a> <a href="https://t.co/aze1mBpUNr">pic.twitter.com/aze1mBpUNr</a></p>
+<p>&mdash; Rekt Capital (@rektcapital) <a href="https://twitter.com/rektcapital/status/1773053152675221809?ref_src=twsrc%5Etfw">March 27, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>According to a popular crypto analyst alias Rekt Capital, the Dogecoin price is aiming to reach 27 cents after converting the current resistance level of around 20 cents to a support level. Meanwhile, Dogecoin price should experience short-term resistance around 23 cents, which coincides with the 1.618 auto Fibonacci Extension.</p>
+<h2>Market Check</h2>
+<p>The rise of Dogecoin is expected to trigger a fresh bull run for the entire meme coins as more investors proliferate. Ordinary, dog-themed meme coins led by Shiba Inu (SHIB), Floki (FLOKI), and Baby Doge Coin (BABYDOGE) among others have followed the footsteps of Dogecoin. According to the latest update, dog-themed meme coins have a market cap of about $57 billion and a daily trading volume of around $8 billion.</p>
+<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/tokenized-us-treasurys-1b/" rel="prev">next</a><p><a href="https://www.coinspeaker.com/dogecoin-price-meme-season/">Dogecoin (DOGE) Price Breakout Signals Fresh Meme Season, Especially for Dog-themed Coins</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.coinspeaker.com/dogecoin-price-meme-season/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tokenized US Treasurys Cross $1B Mark</title>
+		<link>https://www.coinspeaker.com/tokenized-us-treasurys-1b/</link>
+					<comments>https://www.coinspeaker.com/tokenized-us-treasurys-1b/#respond</comments>
+		
+		<dc:creator><![CDATA[Mayowa Adebajo]]></dc:creator>
+		<pubDate>Thu, 28 Mar 2024 10:34:35 +0000</pubDate>
+				<category><![CDATA[Blockchain News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[blackrock]]></category>
+		<category><![CDATA[larry fink]]></category>
+		<category><![CDATA[tokenization]]></category>
+		<category><![CDATA[tokenized securities]]></category>
+		<category><![CDATA[tokenized us treasurys]]></category>
+		<guid isPermaLink="false">https://www.coinspeaker.com/?p=293480</guid>
+
+					<description><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/tokenized-us-treasurys-1b/">Tokenized US Treasurys Cross $1B Mark</a></p>
+<p>Experts predict that the trend toward asset tokenization will continue to gain momentum.</p>
+<p><a href="https://www.coinspeaker.com/tokenized-us-treasurys-1b/">Tokenized US Treasurys Cross $1B Mark</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/tokenized-us-treasurys-1b/">Tokenized US Treasurys Cross $1B Mark</a></p>
+<p>The financial sector of the United States of America is seeing a remarkable change that suggests a growing fusion of traditional finance and blockchain technology. This follows after a Dune Analytics <a href="https://dune.com/21co/tokenization-government-securities" target="_blank" rel="nofollow noopener">data report</a> showed that tokenized US Treasurys have crossed the $1 billion threshold across 17 products.</p>
+<p>The historic development signals what may best be described as a financial revolution. It indicates that a new era of trading and managing government securities may have just begun.</p>
+<h2>The Growing Demand for Tokenized Assets</h2>
+<p>Tokenized US Treasurys leverage blockchain technology to make traditional assets readily accessible to investors in a digital format. However, there are several other factors also driving the demand apart from its availability. These include improved efficiency, transaction speed, as well as transparency that investors get to benefit from the new alternative.</p>
+<p>According to Jack Chong, an expert analyst and guest researcher at RWA.xyz, the macroeconomic backdrop has completely shifted. Therefore, investors are now more than ever inclined to dip their hands in US Treasurys rather than volatile crypto assets.</p>
+<h2>Implications for the Market</h2>
+<p>When Jack Chong predicted more demand for tokenized assets, tokenized US Treasurys barely just crossed the $600 million mark. However, the latest milestone may have profound positive implications for the market.</p>
+<p>The tokenization of such a massive amount of government securities indicates a strong confidence in the stability and potential of blockchain-based assets. Furthermore, it suggests that traditional financial markets are beginning to affiliate more with blockchain technology.</p>
+<p>Tom Wan, a research strategist at 21.co, also <a href="https://x.com/tomwanhh/status/1773098496926667226" target="_blank" rel="nofollow noopener">noted</a> the significant market cap of BlackRock’s <a href="https://www.coinspeaker.com/blackrock-tokenized-fund-buidl/" target="_blank" rel="noopener">BUIDL</a> fund and its impact on the tokenization trend. “BlackRock’s BUIDL fund, now the second-largest tokenized government securities fund, is a clear indicator of the market’s readiness to embrace blockchain innovations,” says Wan. Similarly, Larry Fink, CEO of BlackRock, also recently expressed his support for tokenization, claiming that it holds the potential of making capital markets more efficient.</p>
+<p>Generally, experts predict that the trend toward asset tokenization will continue to gain momentum, with its effects felt throughout the various sectors of finance. The Boston Consulting Group also estimates that the market for tokenized assets could reach $16 trillion by 2030.</p>
+<p>Whether or not these are ambitious predictions, the crossing of the $1 billion mark is a clear signal that the financial world is ready to embrace the innovations offered by blockchain. As more investors and institutions become comfortable with tokenized assets, we can expect to see an increase in the variety and volume of securities being tokenized.</p>
+<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/hkd-stablecoins-crypto-animoca-brands/" rel="prev">next</a><p><a href="https://www.coinspeaker.com/tokenized-us-treasurys-1b/">Tokenized US Treasurys Cross $1B Mark</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.coinspeaker.com/tokenized-us-treasurys-1b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HKD-Pegged Stablecoins to Boost Hong Kong’s Crypto Market, Says Animoca Brands</title>
+		<link>https://www.coinspeaker.com/hkd-stablecoins-crypto-animoca-brands/</link>
+					<comments>https://www.coinspeaker.com/hkd-stablecoins-crypto-animoca-brands/#respond</comments>
+		
+		<dc:creator><![CDATA[Bhushan Akolkar]]></dc:creator>
+		<pubDate>Thu, 28 Mar 2024 10:05:11 +0000</pubDate>
+				<category><![CDATA[Altcoin News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[animoca brands]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[bitcoin etf]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[btc etf]]></category>
+		<guid isPermaLink="false">https://www.coinspeaker.com/?p=293475</guid>
+
+					<description><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/hkd-stablecoins-crypto-animoca-brands/">HKD-Pegged Stablecoins to Boost Hong Kong&#8217;s Crypto Market, Says Animoca Brands</a></p>
+<p>Animoca Brands Chairman said that HKD-pegged stablecoins would help Hong Kong create unique position for itself in the overly crowded crypto space. He also pushed for crypto ETFs in order to boost Web 3.0 investments in the region. </p>
+<p><a href="https://www.coinspeaker.com/hkd-stablecoins-crypto-animoca-brands/">HKD-Pegged Stablecoins to Boost Hong Kong&#8217;s Crypto Market, Says Animoca Brands</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/hkd-stablecoins-crypto-animoca-brands/">HKD-Pegged Stablecoins to Boost Hong Kong&#8217;s Crypto Market, Says Animoca Brands</a></p>
+<p>Hong Kong regulators have been making enough efforts recently to revive the country&#8217;s crypto markets and foster a conducive environment for crypto firms to set up the base. Speaking at the BUIDL Asia Conference in Seoul on Thursday, Animoca Brands Chairman Yat Siu said that the country needs to adopt a different playbook to boost its crypto sector.</p>
+<p>Siu said that having stablecoins pegged to the Hong Kong Dollar would help them create a unique place for themselves in the overly saturated crypto space. Currently, USD-pegged stablecoins overwhelmingly dominate the broader crypto market. In his interview with The Block, Siu said:</p>
+<blockquote><p>“The interesting thing different about the Hong Kong dollar versus most other currencies is that it’s pegged to the US dollar. Therefore, if you want to have another kind of regulated currency that, however, is non-American, but is yet tied to an American system as in the US dollar, I think the Hong Kong dollar becomes a very interesting proxy.”</p></blockquote>
+<p>Furthermore, Siu also highlighted the potential for significant and unique demand for Hong Kong stablecoins, considering the Hong Kong Dollar (HKD) as a non-US dollar equivalent currency situated outside US jurisdiction.</p>
+<p>For a while, Hong Kong has been preparing to allow the issuance of HKD-pegged stablecoins. Besides, the Hong Kong regulator also conducted a public consultation for regulating and licensing all the stablecoin issuers.</p>
+<p>Here, the Hong Kong Monetary Authority acted as a defacto central bank initiating a sandbox environment to foster dialogue between authorities and stablecoin issuers while also adhering to the upcoming stablecoin regulations. Siu expressed anticipation for further regulatory advancements in the stablecoin sector throughout the year.</p>
+<h2>Hong Kong Expanding Its Crypto Offerings</h2>
+<p>On the other hand, Hong Kong authorities have been in discussion with several local financial firms to introduce its first line of spot <a href="https://www.coinspeaker.com/coins/bitcoin/" target="_blank" rel="noopener">Bitcoin</a> exchange-traded funds (ETFs). this comes amid the mega success of the spot Bitcoin ETF launch earlier this year in the United States.</p>
+<p>Hong Kong&#8217;s local players like Venture Smart Financial Holdings (VSFG) have already submitted their spot Bitcoin ETF application to the Securities and Futures Commission. As per Siu, the approval of the Bitcoin ETFs would boost Web3 investments in the Asian country.</p>
+<p>The chairman of Animoca stated that the Web 3.0 market has experienced a significant resurgence during the current crypto bull cycle. He further emphasized its robustness from the standpoint of a Web 3.0 investment firm.</p>
+<p>Apart from Bitcoin, Siu also pitched for Ether ETFs and funds for GameFi tokens. “It’s entirely possible that after Hong Kong approves bitcoin spot ETFs, it may actually have different types of ETFs ahead of the US because it has broadly, more clarity in the regulatory framework,” <a href="https://www.theblock.co/post/285249/animoca-brands-hong-kong-stablecoin" target="_blank" rel="nofollow noopener">said</a> Siu.</p>
+<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/us-court-coinbase-sec-lawsuit/" rel="prev">next</a><p><a href="https://www.coinspeaker.com/hkd-stablecoins-crypto-animoca-brands/">HKD-Pegged Stablecoins to Boost Hong Kong&#8217;s Crypto Market, Says Animoca Brands</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.coinspeaker.com/hkd-stablecoins-crypto-animoca-brands/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>US Court Rules Coinbase Must Face SEC’s Lawsuit</title>
+		<link>https://www.coinspeaker.com/us-court-coinbase-sec-lawsuit/</link>
+					<comments>https://www.coinspeaker.com/us-court-coinbase-sec-lawsuit/#respond</comments>
+		
+		<dc:creator><![CDATA[Chimamanda U. Martha]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2024 17:43:07 +0000</pubDate>
+				<category><![CDATA[Altcoin News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[coinbase]]></category>
+		<category><![CDATA[sec]]></category>
+		<guid isPermaLink="false">https://www.coinspeaker.com/?p=293385</guid>
+
+					<description><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/us-court-coinbase-sec-lawsuit/">US Court Rules Coinbase Must Face SEC&#8217;s Lawsuit</a></p>
+<p>Despite rejecting most of Coinbase's attempts to dismiss the entire case, the judge found the SEC's arguments insufficient in proving that the company functions as a 'broker' by providing Wallet to customers. </p>
+<p><a href="https://www.coinspeaker.com/us-court-coinbase-sec-lawsuit/">US Court Rules Coinbase Must Face SEC&#8217;s Lawsuit</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/us-court-coinbase-sec-lawsuit/">US Court Rules Coinbase Must Face SEC&#8217;s Lawsuit</a></p>
+<p>A court in the United States has ruled that Coinbase must face the legal actions brought against it by the country&#8217;s Securities and Exchange Commission (<a href="https://www.coinspeaker.com/organizations/sec/" target="_blank" rel="noopener">SEC</a>). In a court hearing on Wednesday, US District&#8217;s Judge Katherine Failla denied the company&#8217;s motion to dismiss the SEC&#8217;s charges, which claimed the exchange violated federal securities rules.</p>
+<h2>Court Denies Coinbase Motion</h2>
+<p>In June 2023, the SEC <a href="https://www.coinspeaker.com/us-sec-coinbase-unregistered-exchange/" target="_blank" rel="noopener">sued</a> Coinbase for operating in the US as an exchange, broker, and clearing agency without registering with the regulator. The securities watchdog alleged that Coinbase has been engaging in an unregistered securities offering since 2019 through its staking-as-a-service program, which allows customers to earn profits on their crypto holdings.</p>
+<p>The SEC said that through the offering of these services, the exchange provided a &#8220;marketplace that brings together the orders for securities of multiple buyers and sellers using established&#8221;.  In the <a href="https://www.sec.gov/news/press-release/2023-102" target="_blank" rel="nofollow noopener">complaint</a>, the Commission disclosed that the exchange&#8217;s failure to comply with the securities law had deprived investors of significant protections as demanded by law.</p>
+<p>In contrast, Coinbase filed a countermotion arguing that transactions conducted on its platform do not meet the criteria for financial securities and, therefore, are not under the jurisdiction of the SEC.</p>
+<p>However, the court <a href="https://www.documentcloud.org/documents/24520350-sec-v-coinbase-lawsuit-upheld" target="_blank" rel="nofollow noopener">denied</a> the motion, ruling that some of the transactions facilitated on the exchange could qualify as securities, citing past precedents. &#8220;As explained herein, the &#8220;crypto&#8221; nomenclature may be of recent vintage, but the challenged transactions fall comfortably within the framework that courts have used to identify securities for nearly eight years,&#8221; revealed the court.</p>
+<h2> Insufficient Evidence</h2>
+<p>Judge Failla also ruled in favor of the SEC&#8217;s claim that Coinbase operates an unregistered exchange and clearing agency, noting that the agency has presented a &#8220;plausible&#8221; case against the company.</p>
+<p>&#8220;The court finds the SEC has sufficiently pleaded that Coinbase operates as an exchange, broker, and clearing agency under the federal securities laws and, through its Staking Program, engages in the unregistered offer and sale of securities,&#8221; reads the filing.</p>
+<p>Despite rejecting most of Coinbase&#8217;s attempts to dismiss the entire case, the judge found the SEC&#8217;s arguments insufficient in proving that the company functions as a &#8216;broker&#8217; by providing Wallet to customers.</p>
+<p>As a result, the court dismissed the SEC&#8217;s claim related to this part of Coinbase&#8217;s service. The court has also requested the exchange and the SEC to submit a &#8220;proposed case management plan&#8221; by April 19.</p>
+<p>Meanwhile, following the news of the court ruling, Coinbase&#8217;s chief legal officer, Paul Singh Grewal, said on X that &#8220;early motions like ours against a government agency are almost always denied. But clarity is the ultimate goal, and today&#8217;s decision continues us on that path.&#8221;</p>
+<blockquote class="twitter-tweet" data-width="474" data-dnt="true">
+<p lang="en" dir="ltr">Looking ahead, we remain confident in our legal arguments, we look forward to proving we’re right, we are eager for the opportunity to take discovery from the SEC for the first time, and we appreciate the Court’s continued consideration of our case. 5/6</p>
+<p>&mdash; paulgrewal.eth (@iampaulgrewal) <a href="https://twitter.com/iampaulgrewal/status/1772993922354069527?ref_src=twsrc%5Etfw">March 27, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>The company plans to continue fighting to prove to the SEC that its product offerings do not constitute securities.</p>
+<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/aerodrome-coinbase-base-1b-tvl/" rel="prev">next</a><p><a href="https://www.coinspeaker.com/us-court-coinbase-sec-lawsuit/">US Court Rules Coinbase Must Face SEC&#8217;s Lawsuit</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.coinspeaker.com/us-court-coinbase-sec-lawsuit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Aerodrome Propels Coinbase’s Base Layer 2 Network to $1 Billion TVL Milestone</title>
+		<link>https://www.coinspeaker.com/aerodrome-coinbase-base-1b-tvl/</link>
+					<comments>https://www.coinspeaker.com/aerodrome-coinbase-base-1b-tvl/#respond</comments>
+		
+		<dc:creator><![CDATA[staff writer]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2024 17:26:50 +0000</pubDate>
+				<category><![CDATA[Altcoin News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[aerodrome]]></category>
+		<category><![CDATA[base]]></category>
+		<category><![CDATA[coinbase]]></category>
+		<guid isPermaLink="false">https://www.coinspeaker.com/?p=293410</guid>
+
+					<description><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/aerodrome-coinbase-base-1b-tvl/">Aerodrome Propels Coinbase&#8217;s Base Layer 2 Network to $1 Billion TVL Milestone</a></p>
+<p>Aerodrome, a decentralized exchange, was instrumental in helping Coinbase's Base Layer 2 network cross $1 billion in Total Value Locked (TVL), marking an enormous milestone for the network.</p>
+<p><a href="https://www.coinspeaker.com/aerodrome-coinbase-base-1b-tvl/">Aerodrome Propels Coinbase&#8217;s Base Layer 2 Network to $1 Billion TVL Milestone</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/aerodrome-coinbase-base-1b-tvl/">Aerodrome Propels Coinbase&#8217;s Base Layer 2 Network to $1 Billion TVL Milestone</a></p>
+<p>The spike in TVL suggests that the cryptocurrency community is becoming more and more interested in and using Base. As per the latest DeFiLlama data, the total value locked on the Base Network stands at $1.062 billion as of writing. The spike in TVL suggests that the cryptocurrency community is becoming more and more interested in and using Base.</p>
+<p>Coinbase&#8217;s Base Network is an Ethereum Layer 2 blockchain created by <a href="https://www.coinspeaker.com/organizations/coinbase/" target="_blank" rel="noopener">Coinbase Global</a>, a leading cryptocurrency exchange. It made its public debut on August 9, 2023, as the inaugural blockchain launch by a publicly traded company, marking a notable milestone.</p>
+<div style="width: 979px" class="wp-caption alignnone"><img fetchpriority="high" decoding="async" src="https://www.coinspeaker.com/wp-content/uploads/2024/03/aerodrome-coinbase-base-1b-tvl-1.jpg" alt="Aerodrome Propels Coinbase's Base Layer 2 Network to $1 Billion TVL Milestone" width="969" height="560" /><p class="wp-caption-text">Photo: DefiLlama</p></div>
+<h2>Aerodrome&#8217;s Massive Contribution to Base&#8217;s TVL</h2>
+<p>Base&#8217;s TVL has been helped by <a href="https://defillama.com/protocol/aerodrome" target="_blank" rel="nofollow noopener">Aerodrome</a>, which has added $510.3 million, which is almost half of the network&#8217;s total value. Increased user action and a rise in the value of Aerodrome&#8217;s native token, Aero, serve as the reason for this substantial rise in TVL. In early February, Aerodrome’s TVL stood at only  $125 million.</p>
+<p>The team at Velodrome Finance, a decentralized exchange on OP Mainnet, strategically added Aerodrome to Base. Since it started in September 2023, this split form of Aerodrome has made it easier for a lot of swaps to happen on the Base network.</p>
+<p>Aerodrome has done well on the Base network thanks in part to Velodrome Finance&#8217;s plan to use decentralized finance rewards and vote-escrowed governance.</p>
+<h2>Base&#8217;s Rise in the Layer 2 Blockchain Ranking</h2>
+<p>Based on TVL, Coinbase&#8217;s Base Layer 2 network has quickly become the fourth most valuable Layer 2 blockchain since its mainnet start in early August 2023. It is now ranked fourth, behind Arbitrum, Optimism, and Blast. The network&#8217;s TVL has risen to over $1 billion, which shows that it is on a strong growth path.</p>
+<p>The recent rise in Base&#8217;s TVL is also partly due to the Dencun upgrade, which ushered in plenty of additional daily users and transactions. The update made the network simpler and quicker to use, which made users and devs become more invested in it.</p>
+<p>Base&#8217;s security features, such as the ability to ban wallets or halt certain transactions, are among its biggest selling points. This functionality was illustrated during the recent Munchables breach, where Base&#8217;s sequencer-level L2 filtering <a href="https://www.coinspeaker.com/muchables-nft-hacker-returns-funds/" target="_blank" rel="noopener">helped avert a $60 million loss</a>.</p>
+<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/bitcoin-etf-success-us-japan/" rel="prev">next</a><p><a href="https://www.coinspeaker.com/aerodrome-coinbase-base-1b-tvl/">Aerodrome Propels Coinbase&#8217;s Base Layer 2 Network to $1 Billion TVL Milestone</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.coinspeaker.com/aerodrome-coinbase-base-1b-tvl/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bitcoin ETF Success in US Sparks Debate among Japan’s Crypto Exchanges</title>
+		<link>https://www.coinspeaker.com/bitcoin-etf-success-us-japan/</link>
+					<comments>https://www.coinspeaker.com/bitcoin-etf-success-us-japan/#respond</comments>
+		
+		<dc:creator><![CDATA[Bena Ilyas]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2024 17:22:17 +0000</pubDate>
+				<category><![CDATA[Funds & ETFs]]></category>
+		<category><![CDATA[Market News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[bitcoin etf]]></category>
+		<category><![CDATA[bitx]]></category>
+		<category><![CDATA[btc]]></category>
+		<category><![CDATA[btc etf]]></category>
+		<category><![CDATA[btcusd]]></category>
+		<guid isPermaLink="false">https://www.coinspeaker.com/?p=293355</guid>
+
+					<description><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/bitcoin-etf-success-us-japan/">Bitcoin ETF Success in US Sparks Debate among Japan&#8217;s Crypto Exchanges</a></p>
+<p>US's success with Bitcoin ETFs challenges Japan's stricter regulations on crypto investment products.</p>
+<p><a href="https://www.coinspeaker.com/bitcoin-etf-success-us-japan/">Bitcoin ETF Success in US Sparks Debate among Japan&#8217;s Crypto Exchanges</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/bitcoin-etf-success-us-japan/">Bitcoin ETF Success in US Sparks Debate among Japan&#8217;s Crypto Exchanges</a></p>
+
+<p>The re­cent success of Bitcoin ETFs in America has surpassed Japanese crypto exchange­s, confronting them with a vexing dilemma, <a href="https://www.bloomberg.com/news/articles/2024-03-27/a-turbocharged-bitcoin-etf-is-more-popular-than-tsmc-in-korea" target="_blank" rel="nofollow noopener">according</a> to Bloomberg. While the upsurge in US inve­stment underscores cryptocurre­ncy&#8217;s growing mainstream adoption, it simultaneously reveals the constraints of Japan&#8217;s curre­nt regulatory landscape.</p>
+
+
+
+<p>The launch of spot Bitcoin ETFs on January 11th, 2024, signale­d a pivotal moment for cryptocurrencies. The­se exchange-trade­d funds directly track <a href="https://www.coinspeaker.com/coins/bitcoin/" target="_blank" rel="noopener">Bitcoin</a> price. Inflows into these­ ETFs surpassed $11.7 billion since inception, re­flecting immense de­mand. </p>
+
+
+
+<p>Even leverage­d Bitcoin ETFs like VolatilityShares&#8217; 2X Bitcoin Strategy ETF (BITX), offe­ring double the daily return of short-te­rm Bitcoin futures contracts, attracted significant investme­nt. This milestone underscore­s the growing mainstream acceptance­ of digital assets.</p>
+
+
+
+<p>BITX has gained imme­nse popularity among South Korean investors, attracting a stagge­ring net inflow of $122 million in March alone. While the­se ETFs offer potential rewards, the­ir high volatility comes with significant risk. “Like most leveraged ETFs, BITX is designed for aggressive traders that are comfortable with high levels of volatility,” said Sumit Roy, senior analyst at ETF.com. </p>
+
+
+
+
+
+<p>Despite the inherent risks, BITX has garnered significant interest, attracting a net inflow of $834 million in March alone, trailing only industry giants Fidelity and BlackRock&#8217;s spot Bitcoin ETFs. This surge in popularity reflects the growing investor demand for diversified exposure to the cryptocurrency market.</p>
+
+
+
+<h2 id="h-south-korea-embraces-bitx-as-bitcoin-etf-alternative" class="wp-block-heading">South Korea Embraces BITX as Bitcoin ETF Alternative</h2>
+
+
+
+<p>South Kore­a stands as the prince example for its widespread adoption of cryptocurrencies and appetite for increasing demand for ETFs. As spot Bitcoin ETFs remain substitute within the country, Korean inve­stors have embraced BITX as a viable­ substitute. </p>
+
+
+
+<p>Statistics from the Korea Se­curities Depository indicate that BITX has e­merged as the fifth-most acquire­d foreign security in South Korea during the­ current month. It is just behind Te­sla but more popular than Taiwan Semiconductor Manufacturing Company (<a href="https://www.coinspeaker.com/organizations/tsmc/" target="_blank" rel="noreferrer noopener">TSMC</a>).</p>
+
+
+
+<p>According to Subeen Shim, digital asset analyst at Kiwoom Securities in Seoul, the surge­ in popularity of Bitcoin futures is driven by the­ absence of domestic spot ETFs and the­ recent upswing in Bitcoin valuation. This highlights these instruments&#8217; crucial role in fulfilling investor demands, notably in re­gions with stringent regulatory frameworks.</p>
+
+
+
+<h2 id="h-japanese-exchanges-face-regulatory-hurdles" class="wp-block-heading">Japanese Exchanges Face Regulatory Hurdles</h2>
+
+
+
+<p>Japan&#8217;s financial regulator has adopte­d a careful stance towards Bitcoin-focused inve­stment products. While the U.S. marke­t embraces a diverse­ range of Bitcoin investment options, Japane­se crypto exchanges face­ limitations. As local rules still deliberating on the approval process, Japanese inve­stors are left without access to these possibly re­warding offerings.</p>
+
+
+
+<p>The contrasting regulatory stances of the US and Japan highlight the ongoing tension between fostering innovation and ensuring consumer protection within the crypto domain. The US allows more investme­nt options, but less experie­nced investors could face big price­ changes. Japan has stricter rules, giving a more­ stable space, but may slow market growth and limit choice­s for investors.</p>
+
+
+
+<p>While Bitcoin ETFs using leverage strate­gies face uncertainty re­garding longevity, their initial success in America has surely reshaped crypto investme­nt terrain. As nations like Japan drive re­gulatory positions, global crypto markets will probably face further innovation and rivalry within ETF offerings.</p>
+<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/vechain-vet-tokenization-maas/" rel="prev">next</a><p><a href="https://www.coinspeaker.com/bitcoin-etf-success-us-japan/">Bitcoin ETF Success in US Sparks Debate among Japan&#8217;s Crypto Exchanges</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.coinspeaker.com/bitcoin-etf-success-us-japan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>VeChain (VET) Joins Tokenization Scene with MaaS Launch</title>
+		<link>https://www.coinspeaker.com/vechain-vet-tokenization-maas/</link>
+					<comments>https://www.coinspeaker.com/vechain-vet-tokenization-maas/#respond</comments>
+		
+		<dc:creator><![CDATA[Godfrey Benjamin]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2024 17:16:57 +0000</pubDate>
+				<category><![CDATA[Blockchain News]]></category>
+		<category><![CDATA[Cryptocurrency News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[bet]]></category>
+		<category><![CDATA[blackrock]]></category>
+		<category><![CDATA[maas]]></category>
+		<category><![CDATA[Market-as-a-Service]]></category>
+		<category><![CDATA[vechain]]></category>
+		<category><![CDATA[vechain (vet)]]></category>
+		<guid isPermaLink="false">https://www.coinspeaker.com/?p=293386</guid>
+
+					<description><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/vechain-vet-tokenization-maas/">VeChain (VET) Joins Tokenization Scene with MaaS Launch</a></p>
+<p>The debut of VeChain's MaaS platform has aroused debate regarding the potential influence on the price of VET, in addition to its technological improvements.</p>
+<p><a href="https://www.coinspeaker.com/vechain-vet-tokenization-maas/">VeChain (VET) Joins Tokenization Scene with MaaS Launch</a></p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.coinspeaker.com">Coinspeaker</a><br />
+<a href="https://www.coinspeaker.com/vechain-vet-tokenization-maas/">VeChain (VET) Joins Tokenization Scene with MaaS Launch</a></p>
+<p>VeChain (VET), a leading blockchain platform based in San Marino, Europe has taken a bold step into the tokenization space with the launch of its digital asset tokenization platform, Market-as-a-Service (MaaS).</p>
+<h2>VeChain Partners with Gresini Racing for Maas Launch</h2>
+<p>According to the <a href="https://vechainofficial.medium.com/vechain-announces-launch-of-no-code-asset-tokenization-platform-welcomes-first-enterprise-user-8f43f7b5aadd" target="_blank" rel="nofollow noopener">announcement</a>, VeChain partnered with Gesini Racing, a prominent MotoGP championship team for the initial launch of MaaS. The full rollout of MaaS is expected in the second quarter of this year, with the potential to revolutionize the digital asset industry.</p>
+<p>MaaS is a no-code digital assets tokenization platform developed to meet the growing demand for Real-World Asset (RWA) tokenization solutions. Crucially, VeChain highlighted that the platform aims to empower businesses and individuals to easily develop, sell, and transfer digital assets.</p>
+<p>VeChain hinted that it plans to improve later versions of MaaS with the introduction of NFC functionality and the ability to create &#8220;phygitals,&#8221; or assets with both digital and real-world equivalents.</p>
+<p>Notably, VeChain&#8217;s collaboration with Gresini Racing serves as an excellent illustration of MaaS&#8217;s capacity to bridge Web3 and conventional enterprises. Gresini Racing hopes to sell digital collectibles to its large fan base through the partnership, exposing new audiences to blockchain technology through the user-friendly interface of MaaS.</p>
+<p>Jake Campton, VeChain’s Communications Lead expressed enthusiasm toward the launch of MaaS, stating:</p>
+<blockquote><p>“The launch of VeChain’s MaaS platform is yet another initiative that demonstrates our resolution to supporting seamless mass adoption of blockchain technology through easy-to-implement, no-code solutions.”</p></blockquote>
+<p>The launch of MaaS comes at the right time for VeChain as it looks towards developing tools to onboard a fast tokenizing world, with a projected $16 trillion in RWA by 2030. This timely release is consistent with the growing interest in RWA tokenization, as indicated by <a href="https://www.coinspeaker.com/organizations/blackrock/" target="_blank" rel="noopener">BlackRock Inc</a>’s (NYSE: BLK) recent <a href="https://www.coinspeaker.com/blackrock-securitize-tokenized-investment-fund/" target="_blank" rel="noopener">proposal</a> for a tokenization fund.</p>
+<p>Meanwhile, the debut of VeChain&#8217;s MaaS platform has aroused debate regarding the potential influence on the price of VET, in addition to its technological improvements. As VeChain expands its ecosystem and drives adoption through creative solutions, investors may see increasing usefulness and value in VET, potentially sparking a positive rally in its price.</p>
+<h2>VeChain’s Commitment in the Blockchain Industry</h2>
+<p>VeChain&#8217;s commitment to pioneering blockchain solutions is seen in its track record of providing breakthrough technology. VeChain has consistently pushed the envelope of blockchain usage, from product identification to provenance and sustainability tracking.</p>
+<p>Last year, SingularityNET, an Artificial Intelligence startup, collaborated with VeChain to combat climate change. At the time,  Founder and CEO of SingularityNET, Ben Goertzel stated that the firms would combine their native resources to help identify novel ways to improve carbon emission output and reduce pollution.</p>
+<p>Moreover, the release of MaaS comes after VeChain&#8217;s successful launch of VORJ in 2023, reinforcing the company&#8217;s status as a blockchain pioneer. VORJ, a complementary platform that provides no-code digital assets and smart contract deployment, demonstrates VeChain&#8217;s dedication to lowering barriers to entry in the digital asset space.<a class="infinscroll_next_page_link" style="display:none" href="https://www.coinspeaker.com/visa-digital-payments-ai-fraud/" rel="prev">next</a></p>
+<p><a href="https://www.coinspeaker.com/vechain-vet-tokenization-maas/">VeChain (VET) Joins Tokenization Scene with MaaS Launch</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.coinspeaker.com/vechain-vet-tokenization-maas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss><!-- plugin=object-cache-pro client=phpredis metric#hits=2939 metric#misses=175 metric#hit-ratio=94.4 metric#bytes=1305906 metric#prefetches=224 metric#store-reads=148 metric#store-writes=3 metric#store-hits=230 metric#store-misses=145 metric#sql-queries=24 metric#ms-total=250.97 metric#ms-cache=30.75 metric#ms-cache-avg=0.2050 metric#ms-cache-ratio=12.3 sample#redis-hits=3077758959 sample#redis-misses=1462406178 sample#redis-hit-ratio=67.8 sample#redis-ops-per-sec=420 sample#redis-evicted-keys=160395284 sample#redis-used-memory=413103968 sample#redis-used-memory-rss=460931072 sample#redis-memory-fragmentation-ratio=1.1 sample#redis-connected-clients=1 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=933595 -->

@@ -1,4 +1,4 @@
-package newsaggregator.jsonfilewriter;
+package newsaggregator.jsonwriter;
 
 import newsaggregator.post.Post;
 import org.bson.Document;
@@ -20,7 +20,7 @@ public class JSONFileWriter {
      * @param postList List các bài viết.
      * @see newsaggregator.post.Post
      */
-    public static void writeFileFromPost(List<Post> postList, String filePath) {
+    public static void writePostToJson(List<Post> postList, String filePath) {
         JSONArray jArray = new JSONArray();
         for (Post post : postList) {
             JSONObject currentPost = new JSONObject();
@@ -38,7 +38,6 @@ public class JSONFileWriter {
             currentPost.put("creation_date", post.getCreationDate());
             currentPost.put("article_summary", post.getArticleSummary());
             currentPost.put("article_detailed_content", post.getArticleDetailedContent());
-            currentPost.put("associated_tags", post.getAssociatedTags());
             currentPost.put("category", post.getCategory());
 
             jArray.put(currentPost);
@@ -53,7 +52,7 @@ public class JSONFileWriter {
             e.printStackTrace();
         }
     }
-    public static void writeFileFromDocument(List<Document> articles, String filePath) {
+    public static void writeDocumentToJson(List<Document> articles, String filePath) {
         JSONArray jArray = new JSONArray();
         for (Document article : articles) {
             jArray.put(article);

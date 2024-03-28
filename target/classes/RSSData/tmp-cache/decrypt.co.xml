@@ -1,0 +1,2232 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<rss
+  version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:snf="http://www.smartnews.be/snf"
+>
+  <channel>
+    <title>Decrypt</title>
+    <description>What&amp;#039;s new in crypto and the advent of the decentralized web.</description>
+    <language>en</language>
+    
+    <atom:link
+      href="https://decrypt.co/feed"
+      rel="self"
+      type="application/rss+xml"
+    />
+    
+    
+      
+        <link>https://decrypt.co/feed</link>
+      
+    
+    
+      <copyright>Decrypt Media</copyright>
+    
+    
+    
+    
+      <lastBuildDate>Thu, 28 Mar 2024 10:51:44 +0000</lastBuildDate>
+    
+    
+      <sy:updatePeriod>hourly</sy:updatePeriod>
+    
+    
+      <sy:updateFrequency>1</sy:updateFrequency>
+    
+    
+    
+    
+    
+      <item>
+  <title>Dogecoin Jumps 10% to Clear $0.20 for First Time Since 2021</title>
+  <link>https://decrypt.co/223829/dogecoin-20-cents-first-time-since-2021</link>
+  <pubDate>Thu, 28 Mar 2024 10:51:44 +0000</pubDate>
+  
+    <description>The dog-themed meme coin has jumped by double-digits in the past week to reclaim price levels not seen since December 2021. </description>
+  
+  <dc:creator>Stephen Graves</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223829</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/dogecoin-doge-token-digital-rendering-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category>dogecoin</category>
+    
+      <category>Markets</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2023/05/dogecoin-doge-token-digital-rendering-gID_7.jpg" height="900" width="1600"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>BlackRock&#39;s BUIDL Ethereum Fund Draws $245 Million In a Week</title>
+  <link>https://decrypt.co/223802/blackrock-buidl-ethereum-tokenized-fund-245-million</link>
+  <pubDate>Thu, 28 Mar 2024 00:21:30 +0000</pubDate>
+  
+    <description>Starting with $5 million, BlackRock&#39;s BUIDL Ethereum fund now boasts $245 million since it launched on March 20.</description>
+  
+  <dc:creator>Jason Nelson</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223802</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/blackrock-logo-usd-dollars-cash-bitcoin-etf-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category>Markets</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2023/12/blackrock-logo-usd-dollars-cash-bitcoin-etf-gID_7.jpg" height="900" width="1600"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Anthropic&#39;s Claude AI Overthrows ChatGPT on Chatbot Arena Leaderboard</title>
+  <link>https://decrypt.co/223787/anthropic-claude-ai-versus-openai-chatgpt-llm-arena-ranking</link>
+  <pubDate>Wed, 27 Mar 2024 23:55:39 +0000</pubDate>
+  
+    <description>The rankings are based on blind ratings of chatbot response quality, and Open AI had been on top for nearly a year.</description>
+  
+  <dc:creator>Jose Antonio Lanz</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223787</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/JHbntwl3RtyO023KLPmg5w-1-gID_7.png@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category>Artificial Intelligence</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2024/03/JHbntwl3RtyO023KLPmg5w-1-gID_7.png" height="720" width="1280"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Massive Bitcoin ETF Growth Will ‘Continue for Years’, Says Bitwise CIO</title>
+  <link>https://decrypt.co/223781/massive-bitcoin-etf-growth-will-continue-for-years-says-bitwise-cio</link>
+  <pubDate>Wed, 27 Mar 2024 21:09:42 +0000</pubDate>
+  
+    <description>Even amid monstrous ETF demand, experts say institutional investment in Bitcoin has barely even begun.</description>
+  
+  <dc:creator>Andrew Throuvalas</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223781</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/bitcoin-etf-application-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category>Markets</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2021/05/bitcoin-etf-application-gID_7.jpg" height="900" width="1600"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>There Are Now 11 Bitcoin ETFs Trading as One More Launches</title>
+  <link>https://decrypt.co/223776/hashdex-bitcoin-spot-etf-futures-conversion</link>
+  <pubDate>Wed, 27 Mar 2024 20:30:15 +0000</pubDate>
+  
+    <description>Originally a Bitcoin Futures ETF, Hashdex now offers direct Bitcoin market exposure starting with 5,500 BTC.</description>
+  
+  <dc:creator>Jason Nelson</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223776</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/bitcoin-etf-wall-street-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category>Markets</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2024/02/bitcoin-etf-wall-street-gID_7.jpg" height="720" width="1280"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>El Salvador Adds to Bitcoin Stash, Now Holds Nearly $400 Million in ‘Digital Gold’</title>
+  <link>https://decrypt.co/223773/el-salvador-bitcoin-holdings-391-million-dollars-5695-btc</link>
+  <pubDate>Wed, 27 Mar 2024 19:59:19 +0000</pubDate>
+  
+    <description>The tiny Central American nation is Bitcoin rich, and now the numbers are public.</description>
+  
+  <dc:creator>Mathew Di Salvo</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223773</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/el-salvador-nayib-bukele-gID_7.jpeg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category>Markets</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2022/10/el-salvador-nayib-bukele-gID_7.jpeg" height="720" width="1280"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>UK Regulator Cracks Down on Meme Coins and Crypto Influencers</title>
+  <link>https://decrypt.co/223756/british-regulator-finfluencer-disclosure-rules-meme-coins</link>
+  <pubDate>Wed, 27 Mar 2024 18:29:49 +0000</pubDate>
+  
+    <description>Memes are irresistible to some in the crypto space. But misleading claims could land influencers in jail. </description>
+  
+  <dc:creator>Mathew Di Salvo</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223756</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/fca-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category>Law and Order</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2023/09/fca-gID_7.jpg" height="720" width="1280"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>SEC Lawsuit Against Coinbase Moves Forward—How Bad Is It?</title>
+  <link>https://decrypt.co/223731/judge-sec-coinbase-lawsuit-can-proceed</link>
+  <pubDate>Wed, 27 Mar 2024 16:06:34 +0000</pubDate>
+  
+    <description>The judge found SEC arguments that Coinbase offers unregistered securities to be plausible. Another claim regarding the Coinbase Wallet was dismissed.</description>
+  
+  <dc:creator>Sander Lutz</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223731</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/brian-armstrong-gary-gensler-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category>Law and Order</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2022/08/brian-armstrong-gary-gensler-gID_7.jpg" height="720" width="1280"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Square Enix, Solana Foundation Back Elixir Games Ahead of Token Launch</title>
+  <link>https://decrypt.co/223604/square-enix-solana-foundation-back-elixir-games-token-launch</link>
+  <pubDate>Wed, 27 Mar 2024 16:01:02 +0000</pubDate>
+  
+    <description>Crypto gaming launcher Elixir Games raised $14 million from backers including Final Fantasy maker Square Enix and the Solana Foundation.</description>
+  
+  <dc:creator>Andrew Hayward</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223604</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/elixir-games-gID_7.png@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category>Gaming</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2024/03/elixir-games-gID_7.png" height="720" width="1280"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Bitcoin and Ethereum Trade Sideways as Crypto Market Cools Down</title>
+  <link>https://decrypt.co/223718/bitcoin-ethereum-steady-crypto-market-cools-down</link>
+  <pubDate>Wed, 27 Mar 2024 15:53:07 +0000</pubDate>
+  
+    <description>Bitcoin and Ethereum haven&#39;t moved much today, as they recover from previous corrections just days after reaching new all-time highs.</description>
+  
+  <dc:creator>Jose Antonio Lanz</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223718</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/bitcoin-btc-ethereum-eth-price-chart-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category></category>
+    
+      <category>Markets</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2024/02/bitcoin-btc-ethereum-eth-price-chart-gID_7.jpg" height="900" width="1600"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>FetchAI, SingularityNet and Ocean Protocol Propose Merger to Build Largest Decentralized AI Ecosystem</title>
+  <link>https://decrypt.co/223679/fetch-ai-singularitynet-ocean-protocol-merger-superintelligence-collective</link>
+  <pubDate>Wed, 27 Mar 2024 13:15:42 +0000</pubDate>
+  
+    <description>If approved, the new ASI token could rank among the 20 most capitalized cryptocurrencies in the ecosystem with a $7.5 billion fully-diluted valuation.</description>
+  
+  <dc:creator>Jose Antonio Lanz</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223679</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/ONwbpm3bQNyEfCw67j28RA-gID_7.png@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category>Coins</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2024/03/ONwbpm3bQNyEfCw67j28RA-gID_7.png" height="720" width="1280"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>&#39;Bitcoin Miner&#39; Was a Dead Game—Until It Started Paying Real BTC Earnings</title>
+  <link>https://decrypt.co/223630/bitcoin-miner-dead-game-until-paid-players-real-btc</link>
+  <pubDate>Wed, 27 Mar 2024 13:01:25 +0000</pubDate>
+  
+    <description>After three years of near-zero growth, Bitcoin Miner on iOS and Android started paying out real BTC. And then it took off.</description>
+  
+  <dc:creator>Andrew Hayward</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223630</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-miner-artwork-gID_7.png@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category>Gaming</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-miner-artwork-gID_7.png" height="1628" width="2800"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Solana Shooter &#39;Nyan Heroes&#39; Teams With G2 for Esports Push</title>
+  <link>https://decrypt.co/223594/solana-shooter-nyan-heroes-g2-esports</link>
+  <pubDate>Wed, 27 Mar 2024 13:01:17 +0000</pubDate>
+  
+    <description>G2 Esports will help Solana-based hero shooter Nyan Heroes enter the competitive gaming world, including with content and show matches.</description>
+  
+  <dc:creator>Andrew Hayward</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223594</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/nyan-heroes-artwork-gID_7.png@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category>Gaming</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2024/01/nyan-heroes-artwork-gID_7.png" height="720" width="1280"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Azuki Chooses Arbitrum for Anime-Focused Project AnimeChain</title>
+  <link>https://decrypt.co/223581/azuki-chooses-arbitrum-for-anime-focused-project-animechain</link>
+  <pubDate>Wed, 27 Mar 2024 13:01:02 +0000</pubDate>
+  
+    <description>NFT Project Azuki is partnering with Abritrum to launch a blockchain dedicated to Anime fans.</description>
+  
+  <dc:creator>Jason Nelson</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223581</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/azuki-elementals-artwork-gID_7.png@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category>NFTs</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2023/06/azuki-elementals-artwork-gID_7.png" height="720" width="1280"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Ethereum Founder Vitalik Buterin Wants Validators to Be More Decentralized</title>
+  <link>https://decrypt.co/223661/ethereum-founder-vitalik-buterin-validators-decentralized</link>
+  <pubDate>Wed, 27 Mar 2024 11:54:09 +0000</pubDate>
+  
+    <description>Ethereum founder Vitalik Buterin said the network should impose higher failure penalties on large-scale validators or staking pools.</description>
+  
+  <dc:creator>Stacy Elliott</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223661</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/ethereum-decentralization-eth-network-validators-gID_7.jpeg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category>Coins</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2024/03/ethereum-decentralization-eth-network-validators-gID_7.jpeg" height="720" width="1280"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>MixMarvel and Yeeha Games Join Forces at GDC 2024 as Their Strategic Partnership Deepens</title>
+  <link>https://decrypt.co/223673/mixmarvel-and-yeeha-games-join-forces-at-gdc-2024-as-their-strategic-partnership-deepens</link>
+  <pubDate>Wed, 27 Mar 2024 11:38:09 +0000</pubDate>
+  
+    <description>Singapore, Singapore, March 27th, 2024, GamingWire Following the successful announcement of their strategic partnership last year, MixMarvel and Yeeha Games hit the ground running at the Game Developers Conference (GDC) 2024. The duo spotlighted their ongoing partnership&#39;s strengths and the groundbreaking strides they have made in the Web3 gaming space. The Alliance of MixMarvel and [&amp;hellip;]</description>
+  
+  <dc:creator>gamingwire</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223673</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/Image2_17115318189wk4ssXoZg-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category>Press Releases - Gaming</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2024/03/Image2_17115318189wk4ssXoZg-gID_7.jpg" height="720" width="1200"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>What Is Notcoin? Behind the Telegram-Based Game and Airdrop Details</title>
+  <link>https://decrypt.co/resources/what-is-notcoin-telegram-based-game-airdrop</link>
+  <pubDate>Wed, 27 Mar 2024 11:31:02 +0000</pubDate>
+  
+    <description>Still trying to figure out what the deal is with Notcoin? As the NOT token airdrop nears, here&#39;s a look at the Telegram-based clicker game.</description>
+  
+  <dc:creator>Reza Jafery</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223640</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/gaming_litepaper-gID_7-pID_3.png@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category>Gaming</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2019/03/gaming_litepaper-gID_7-pID_3.png" height="900" width="1600"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Hackers Are Targeting Bitcoin Hot Wallets—Here&#39;s How</title>
+  <link>https://decrypt.co/223592/bitcoin-ordinals-hot-wallet-discord-phishing-hack</link>
+  <pubDate>Wed, 27 Mar 2024 11:01:02 +0000</pubDate>
+  
+    <description>Members of the Bitcoin Rock Discord server were targeted in a $311K cryptocurrency heist using a malicious clone of Magic Eden.</description>
+  
+  <dc:creator>Jason Nelson</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223592</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/hackers-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category>Law and Order</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2021/02/hackers-gID_7.jpg" height="900" width="1600"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Ethereum Game &#39;Illuvium&#39; Teases Airdrop, Q2 Release Amid $12 Million Raise</title>
+  <link>https://decrypt.co/223642/ethereum-game-illuvium-airdrop-q2-release-12-million-raise</link>
+  <pubDate>Wed, 27 Mar 2024 10:01:01 +0000</pubDate>
+  
+    <description>The interconnected Illuvium games are about to launch, with Illuvium Labs also suggesting that a token airdrop is on the horizon.</description>
+  
+  <dc:creator>Andrew Hayward</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223642</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/illuvium111111-Cropped-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category>Gaming</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2023/11/illuvium111111-Cropped-gID_7.jpg" height="810" width="1440"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Blast NFT Game Munchables Recovers $62 Million Stolen in Exploit</title>
+  <link>https://decrypt.co/223644/blast-nft-game-munchables-recovers-62-million-exploit</link>
+  <pubDate>Wed, 27 Mar 2024 09:41:19 +0000</pubDate>
+  
+    <description>Blast founder Tieshun Roquerre warned that other protocols that connect to Blast, like Juice Finance, were affected.</description>
+  
+  <dc:creator>Stacy Elliott</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223644</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/blast-apps-gID_7.jpeg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category>Gaming</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2024/02/blast-apps-gID_7.jpeg" height="1350" width="2400"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Decrypt Newsletter Service Hacked—Don&#39;t Click Those Links!</title>
+  <link>https://decrypt.co/223623/decrypt-newsletter-service-hack-phishing-scam-decrypt-airdrop</link>
+  <pubDate>Wed, 27 Mar 2024 05:29:43 +0000</pubDate>
+  
+    <description>A scam email was sent out under our name touting a fake token airdrop. Please ignore it!</description>
+  
+  <dc:creator>Ryan Kawailani Ozawa</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223623</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/Alert-Warning-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category>Our Company</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2024/03/Alert-Warning-gID_7.jpg" height="1350" width="2400"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Apple Chip Exploit That Steals Crypto? Here’s What You Need to Know</title>
+  <link>https://decrypt.co/223582/apple-chip-exploit-steals-crypto-what-you-need-know</link>
+  <pubDate>Tue, 26 Mar 2024 22:42:52 +0000</pubDate>
+  
+    <description>Apple’s Macs and iPads have a serious problem that could impact your crypto wallets. Here’s how to stay safe.</description>
+  
+  <dc:creator>Andrew Hayward</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223582</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/macbook-pro-gID_7.png@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category>Technology</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2024/03/macbook-pro-gID_7.png" height="1080" width="1920"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Saga Airdrop Is Ending—Here&#39;s Who Can Still Claim on Avalanche, Solana, and More</title>
+  <link>https://decrypt.co/223578/saga-airdrop-ending-who-can-still-claim-avalanche-solana</link>
+  <pubDate>Tue, 26 Mar 2024 21:40:00 +0000</pubDate>
+  
+    <description>Gaming-centric layer-1 network Saga is set to launch its mainnet in April, and that means the airdrop claim is nearly over. Are you eligible?</description>
+  
+  <dc:creator>Reza Jafery</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223578</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/9884c9a8-8f8c-42f9-8364-6597d4982494-Cropped-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category></category>
+    
+      <category>Coins</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2023/11/9884c9a8-8f8c-42f9-8364-6597d4982494-Cropped-gID_7.jpg" height="575" width="1024"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>USDT Maker Tether Pushes Into AI, Prioritizing ‘Transparency and Privacy’</title>
+  <link>https://decrypt.co/223563/usdt-maker-tether-pushes-into-ai-prioritizing-transparency-and-privacy</link>
+  <pubDate>Tue, 26 Mar 2024 20:45:02 +0000</pubDate>
+  
+    <description>The team behind the largest stablecoin throws its hat into artificial intelligence, leaning into the open-source approach.</description>
+  
+  <dc:creator>Jason Nelson</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223563</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/tether-usdt-coin-bitcoin-btc-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category>Artificial Intelligence</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2023/11/tether-usdt-coin-bitcoin-btc-gID_7.jpg" height="900" width="1600"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Want Better Tasting Beer? There’s an AI for That</title>
+  <link>https://decrypt.co/223564/science-taps-ai-to-make-beer-taste-better</link>
+  <pubDate>Tue, 26 Mar 2024 20:25:15 +0000</pubDate>
+  
+    <description>The common mug of grog may be an acquired taste, but scientists are tapping new tech to give the nectar of the gods a flavor upgrade.</description>
+  
+  <dc:creator>Jose Antonio Lanz</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223564</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/Hf2_5rF6T0uiwiw5XX_oBw-gID_7.png@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category>Artificial Intelligence</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2024/03/Hf2_5rF6T0uiwiw5XX_oBw-gID_7.png" height="720" width="1280"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>BlackRock&#39;s Ethereum Tokenized Fund ‘Brings Legitimacy’: Bernstein</title>
+  <link>https://decrypt.co/223559/blackrock-ethereum-fund-brings-legitimacy-alliancebernstein</link>
+  <pubDate>Tue, 26 Mar 2024 20:16:53 +0000</pubDate>
+  
+    <description>AllianceBernstein analysts said the move will help traditional investors see crypto as more than “retail casinos.”</description>
+  
+  <dc:creator>Mathew Di Salvo</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223559</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/shutterstock_1485247838-1-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category>Markets</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2021/08/shutterstock_1485247838-1-gID_7.jpg" height="900" width="1600"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>How Much Prison Time Will Sam Bankman-Fried Get? Degens Are Placing Their Bets</title>
+  <link>https://decrypt.co/223550/how-much-prison-time-sam-bankman-fried-degen-bets</link>
+  <pubDate>Tue, 26 Mar 2024 19:04:01 +0000</pubDate>
+  
+    <description>On Polymarket, users have gambled hundreds of thousands of dollars on the question regarding Sam Bankman-Fried&#39;s fate. What are the odds?</description>
+  
+  <dc:creator>Sander Lutz</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223550</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/sam-bankman-fried-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category>Law and Order</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2022/12/sam-bankman-fried-gID_7.jpg" height="720" width="1280"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>‘Nyan Heroes’ Demo Launches on Epic Games Store—How Solana Airdrop Rewards Work</title>
+  <link>https://decrypt.co/223542/nyan-heroes-demo-epic-games-store-solana-airdrop-rewards</link>
+  <pubDate>Tue, 26 Mar 2024 18:47:04 +0000</pubDate>
+  
+    <description>Overwatch-like hero shooter Nyan Heroes just launched its early access demo—and you can earn future token rewards by playing.</description>
+  
+  <dc:creator>Andrew Hayward</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223542</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/nyan-heroes-artwork-gID_7.png@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category>Gaming</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2024/03/nyan-heroes-artwork-gID_7.png" height="720" width="1280"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Obscure Stock Pumps $1,000% After Firm Touts $1.7 Billion Bitcoin Buy—Is It Legit?</title>
+  <link>https://decrypt.co/223535/nila-nilam-1-billion-bitcoin-purchase-otc-stock-pumps</link>
+  <pubDate>Tue, 26 Mar 2024 18:36:02 +0000</pubDate>
+  
+    <description>As over-the-counter NILA shares exploded, the press release disappeared from the Nasdaq website.</description>
+  
+  <dc:creator>Andrew Throuvalas</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223535</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/10/shutterstock_763382239-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category>Business</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2021/10/shutterstock_763382239-gID_7.jpg" height="900" width="1600"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>‘Fifth Richest’ Bitcoin Whale Just Moved $6 Billion in BTC</title>
+  <link>https://decrypt.co/223536/mystery-bitcoin-whale-moves-6-billion-dollars-fifth-richest</link>
+  <pubDate>Tue, 26 Mar 2024 18:14:58 +0000</pubDate>
+  
+    <description>Arkham Intelligence pointed out the massive HODLer’s movements, the latest of several big moves as Bitcoin&#39;s price climbs.</description>
+  
+  <dc:creator>Mathew Di Salvo</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223536</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/05/whales-bitcoin-market-crypto-gID_7.jpg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+      <category>Coins</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2022/05/whales-bitcoin-market-crypto-gID_7.jpg" height="538" width="1000"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>AI Tokens Surge as IOTA Launches VC Fund and Jasmy Inks Panasonic Deal</title>
+  <link>https://decrypt.co/223470/ai-tokens-iota-vc-fund-jasmy-panasonic-deal</link>
+  <pubDate>Tue, 26 Mar 2024 17:35:51 +0000</pubDate>
+  
+    <description>IoT and AI-focused cryptocurrencies are experiencing significant gains as the broader market recovers.</description>
+  
+  <dc:creator>Jose Antonio Lanz</dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/?p=223470</guid>
+  
+  
+    <enclosure url="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/ai-tokens-crypto-trading-gID_7.jpeg@png" length="1000000" type="image/png" />
+  
+  
+    
+      <category>iota</category>
+    
+      <category>Markets</category>
+    
+  
+  
+  
+  
+  
+  
+    
+      <media:thumbnail url="https://cdn.decrypt.co/wp-content/uploads/2023/11/ai-tokens-crypto-trading-gID_7.jpeg" height="711" width="1265"/>
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>ETF Outflows Continue</title>
+  <link>https://decrypt.co/videos/interviews/KGf7k2r3/etf-outflows-continue</link>
+  <pubDate>Fri, 22 Mar 2024 17:56:30 +0000</pubDate>
+  
+    <description>Despite Bitcoin&#39;s decline, several alternative cryptocurrencies remain robust. Fantom (FTM) emerges as the top-performing Layer 1 blockchain, while Coinbase introduces futures trading. Exchange-traded funds (ETFs) witness a $94 million outflow, although outflows from Grayscale Bitcoin Trust (GBTC) may decelerate. Approximately $1 billion worth of Bitcoin shorts face liquidation if prices reach $67.8k. Coinbase&#39;s premium resurfaces, marking the first occurrence since Bitcoin&#39;s all-time high. Bitcoin continues its streak with seven consecutive months of positive performance. Solana&#39;s (SOL) decentralized exchange (DEX) achieves a monthly volume of $50 billion, with revenue soaring 30-fold. OKX announces support for a new Solana token standard. Despite expectations, Layer 2 activity remains sluggish post-Dencun, according to Vitalik Buterin.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/KGf7k2r3/etf-outflows-continue</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/KGf7k2r3/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/KGf7k2r3/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Vitalik Buterin Discusses Ethereum&#39;s Dencun Upgrade and More at ETH Taipei 2024</title>
+  <link>https://decrypt.co/videos/interviews/LPwwmRJP/vitalik-buterin-discusses-ethereums-dencun-upgrade-and-more-at-eth-taipei-2024</link>
+  <pubDate>Thu, 21 Mar 2024 14:39:50 +0000</pubDate>
+  
+    <description>Ethereum creator Vitalik Buterin answers questions from Rug Radio and other media outlets at ETH Taipei 2024. He discusses the recent Dencun network upgrade and a variety of other topics. (Credit: Rug Radio/Decrypt)</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/LPwwmRJP/vitalik-buterin-discusses-ethereums-dencun-upgrade-and-more-at-eth-taipei-2024</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/LPwwmRJP/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/LPwwmRJP/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>The Weekend Madness</title>
+  <link>https://decrypt.co/videos/interviews/RGxNjELq/the-weekend-madness</link>
+  <pubDate>Tue, 19 Mar 2024 09:59:27 +0000</pubDate>
+  
+    <description>Bitcoin rebounds as users withdraw funds from exchanges. Solana breaks $200, surpassing Binance Coin to claim the 4th spot in crypto rankings. Ethereum&#39;s supply drops to a two-year low. Over $100 million raised by new coin presales in just two days. A dog NFT sells for a staggering $4.3 million. PRIME emerges as the leader in gaming coins, while NodeMonkes flips Bored Ape Yacht Club (BAYC).</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/RGxNjELq/the-weekend-madness</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/RGxNjELq/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/RGxNjELq/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>BOME Blast off</title>
+  <link>https://decrypt.co/videos/interviews/wiIrxdqG/bome-blast-off</link>
+  <pubDate>Mon, 18 Mar 2024 14:11:23 +0000</pubDate>
+  
+    <description>BTC experiences a 9% drop, resulting in $700 million liquidations, with funding and open interest hitting their lowest levels in weeks. The sell-off appears more sustained compared to previous brief dips, with most BTC downside liquidations concentrated around $66,000. ETFs witness $132 million inflows, sparking predictions of a potential liquidity crisis within six months. VanEck suggests that an ETH ETF could surpass BTC in size. Grayscale&#39;s ETH discount doubles within a week. Meanwhile, SOL&#39;s market cap reaches an all-time high amid a frenzy surrounding memecoins. Additionally, rumors circulate about a fund losing $1 billion on the BTC-MicroStrategy basis.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/wiIrxdqG/bome-blast-off</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/wiIrxdqG/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/wiIrxdqG/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>This is The Time of SOL</title>
+  <link>https://decrypt.co/videos/interviews/DIZFtR67/this-is-the-time-of-sol</link>
+  <pubDate>Thu, 14 Mar 2024 23:10:16 +0000</pubDate>
+  
+    <description>ETFs match last week’s inflows in just 3 days. ETH Dencun upgrade goes, ETH coins broadly fall. ETH L2 costs for trading decrease dramatically. SOL nears $100bn FDV as activity soars. SOL DEX volume now 3x ETH mainnet. MicroStrategy plans $500m raise to buy more BTC. Franklin Templeton releases memecoin paper. AEVO faces FUD about tokenomics.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/DIZFtR67/this-is-the-time-of-sol</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/DIZFtR67/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/DIZFtR67/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Bitcoin Hits ATH Again</title>
+  <link>https://decrypt.co/videos/interviews/a7WwOWdu/bitcoin-hits-ath-again</link>
+  <pubDate>Thu, 14 Mar 2024 20:22:30 +0000</pubDate>
+  
+    <description>Bitcoin hits a new high at $73.1k with a 2% increase, while Ethereum remains steady at $4050 and Solana sees a similar surge to $154. TON, RBN, RUNE, and QNT emerge as top gainers, capturing market attention. BTC&#39;s unprecedented rise is fueled by a record $1 billion in ETF inflows, coinciding with Ethereum&#39;s Dencun upgrade promising significant changes for Layer 2 solutions.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/a7WwOWdu/bitcoin-hits-ath-again</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/a7WwOWdu/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/a7WwOWdu/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>CPI COMES IN, BTC HOLDS 72</title>
+  <link>https://decrypt.co/videos/interviews/9A8FE6VE/cpi-comes-in-btc-holds-72</link>
+  <pubDate>Wed, 13 Mar 2024 13:28:39 +0000</pubDate>
+  
+    <description>Bitcoin (BTC) at $72k and Ethereum (ETH) at $4035, both up 1%. Solana (SOL) rises 3% to $152. Leading gains: TON, XRP, IOTA, FLOW. Bitcoin nears record high with significant ETF investments. Solana sees spike in new users. TON surges 30% with Telegram IPO rumors. Ark Invest offloads $69m in Coinbase stock. Predictions: Bitcoin could outdo gold, potentially reaching $150k. Blast platform&#39;s value hits $3bn with higher yields. Biden proposes crypto miner tax. El Salvador profits $84m from Bitcoin. Monad plans $200m raise led by Paradigm.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/9A8FE6VE/cpi-comes-in-btc-holds-72</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/9A8FE6VE/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/9A8FE6VE/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>BITCOIN HITS $72,000!</title>
+  <link>https://decrypt.co/videos/interviews/W6z0S2OZ/bitcoin-hits-72-000</link>
+  <pubDate>Tue, 12 Mar 2024 10:04:10 +0000</pubDate>
+  
+    <description>BTC hits new ATH of $72k, flips Silver market cap. Wick lower then higher causes $350m liquidations. London Stock Exchange to consider crypto ETNs. Funding again soars before ETF buying begins. Crypto saw record $2.7bn inflows last week. MicroStrategy buys another $821m of BTC.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/W6z0S2OZ/bitcoin-hits-72-000</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/W6z0S2OZ/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/W6z0S2OZ/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>BTC HITS 70K!</title>
+  <link>https://decrypt.co/videos/interviews/CoPpmqhC/btc-hits-70k</link>
+  <pubDate>Mon, 11 Mar 2024 14:25:06 +0000</pubDate>
+  
+    <description>ETF net inflows hit $472m in strong week. GBTC outflows hit $10bn, nearly overtaken by new 9. BlackRock to allow more funds to buy BTC ETFs. Rumours still of Qatar buying amid Bukele meeting.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/CoPpmqhC/btc-hits-70k</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/CoPpmqhC/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/CoPpmqhC/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Live With Raoul Pal</title>
+  <link>https://decrypt.co/videos/interviews/mDLO9pe3/live-with-raoul-pal</link>
+  <pubDate>Fri, 08 Mar 2024 12:59:55 +0000</pubDate>
+  
+    <description>SOL up 10%, Pantera raising $250m to buy from FTX. Market flat but spot buyers begin to drive volumes.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/mDLO9pe3/live-with-raoul-pal</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/mDLO9pe3/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/mDLO9pe3/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Streamlining Blockchain: Demystifying Real-Time Insights &amp; Simplifying Data Management</title>
+  <link>https://decrypt.co/videos/interviews/z4ol8A6J/streamlining-blockchain-demystifying-real-time-insights-simplifying-data-management</link>
+  <pubDate>Fri, 08 Mar 2024 09:02:13 +0000</pubDate>
+  
+    <description>Discover how to navigate and overcome the complexities of blockchain data management with QuickNode’s Streams. This webinar, guided by our seasoned experts Nick Yushkevich and Carl DiClementi, provides you with actionable insights into tackling common challenges faced by businesses in the blockchain space. From real-time data streaming that ensures timely decision-making to robust error handling mechanisms that guarantee data integrity, and comprehensive observability features that offer deep insights into your blockchain operations, we’ll cover how QuickNode’s infrastructure is tailored to enhance operational efficiency, scalability, and innovation.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/z4ol8A6J/streamlining-blockchain-demystifying-real-time-insights-simplifying-data-management</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/z4ol8A6J/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/z4ol8A6J/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>DOGS ON TOP!</title>
+  <link>https://decrypt.co/videos/interviews/jB64PVcH/dogs-on-top</link>
+  <pubDate>Tue, 05 Mar 2024 18:46:12 +0000</pubDate>
+  
+    <description>ETFs see another $562m net inflow. Fear &amp; Greed hits 90, was above for months in 2021. ETH leads majors, beta-plays take lead in altcoins. BlackRock to start buying BTC in its largest fund. MicroStrategy plans $600m capital raise to buy BTC. BTC flips market cap of Silver. WIF to be listed on Binance, rises 20%. PEPE &amp; WIF mentioned on Bloomberg. Alien Punk sells for $16m, ‘NFTs not dead’. 3 more large NFT sales for $500K.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/jB64PVcH/dogs-on-top</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/jB64PVcH/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/jB64PVcH/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Interview: How SocialFi Will Transform Crypto Farming Game &#39;Pixels&#39;</title>
+  <link>https://decrypt.co/videos/interviews/pDipznta/interview-how-socialfi-will-transform-crypto-farming-game-pixels</link>
+  <pubDate>Fri, 01 Mar 2024 15:00:00 +0000</pubDate>
+  
+    <description>Pixels founder Luke Barwikowski joins Decrypt&#39;s Andrew Hayward to discuss how the Ronin-based farming game will be transformed through the addition of guilds and changes to resource generation. They also discuss his ultimate vision for Pixels and his team. Note: This interview was recorded shortly before the PIXEL token launch.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/pDipznta/interview-how-socialfi-will-transform-crypto-farming-game-pixels</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/pDipznta/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/pDipznta/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Orangie Plays the &#39;Otherside&#39; Apes Come Home Game Event With His Bored Ape</title>
+  <link>https://decrypt.co/videos/interviews/IdyVeqvK/orangie-plays-the-otherside-apes-come-home-game-event-with-his-bored-ape</link>
+  <pubDate>Thu, 29 Feb 2024 23:03:43 +0000</pubDate>
+  
+    <description>Rug Radio creator Orangie checked out the limited-time &#34;Apes Come Home&#34; event in Otherside, the Bored Ape metaverse game, and got to use his own Ape avatar. Was it worth the $75K he spent for the NFT? Check out his impressions of the experience.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/IdyVeqvK/orangie-plays-the-otherside-apes-come-home-game-event-with-his-bored-ape</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/IdyVeqvK/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/IdyVeqvK/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>&#39;This is the Age of Creators&#39;: How DASTAN is Fixing the &#39;Broken&#39; Media Industry</title>
+  <link>https://decrypt.co/videos/interviews/UeOWvV0c/this-is-the-age-of-creators-how-dastan-is-fixing-the-broken-media-industry</link>
+  <pubDate>Thu, 29 Feb 2024 15:33:01 +0000</pubDate>
+  
+    <description>Following the launch of decentralized media publishing company DASTAN, its President Farokh Sarmad, CEO Loxley Fernandes, and COO Quinn Button, Ph. D joined Decrypt reporter Sander Lutz and The Nifty &amp; BoDoggos Founder and Partner Easy to talk about the future of media.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/UeOWvV0c/this-is-the-age-of-creators-how-dastan-is-fixing-the-broken-media-industry</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/UeOWvV0c/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/UeOWvV0c/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Inside The Mind Of a Web3 Gamer</title>
+  <link>https://decrypt.co/videos/interviews/0Wx2bcVa/inside-the-mind-of-a-web3-gamer</link>
+  <pubDate>Thu, 29 Feb 2024 13:39:26 +0000</pubDate>
+  
+    <description>Saro McKenna, Co-Founder of Alien Worlds, Linda Ang, Head of Strategy at Aelf, and Sami Chlagou, CEO of Cross the Ages joined Stephen Graves at NFT Paris to explore the profile of the Web3 gamer, the evolving landscape of Web3 gaming and the transition between Web2 and Web3 gaming.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/0Wx2bcVa/inside-the-mind-of-a-web3-gamer</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/0Wx2bcVa/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/0Wx2bcVa/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Casper Network: Opening a &#39;New World of Possibilities&#39; Beyond Enterprise Users</title>
+  <link>https://decrypt.co/videos/interviews/xz9F8Lct/casper-network-opening-a-new-world-of-possibilities-beyond-enterprise-users</link>
+  <pubDate>Tue, 27 Feb 2024 15:44:13 +0000</pubDate>
+  
+    <description>Casper Network&#39;s Director of Ecosystem Alizee Carli and Head of Content Joe Benso join Stephen Graves at NFT Paris to talk about how the Layer 1 blockchain is expanding beyond its enterprise user base to Web3-native projects.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/xz9F8Lct/casper-network-opening-a-new-world-of-possibilities-beyond-enterprise-users</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/xz9F8Lct/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/xz9F8Lct/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>VanEck Web3 Lead: Tokenized Real Estate the &#39;Holy Grail&#39;</title>
+  <link>https://decrypt.co/videos/interviews/HHwsvcei/vaneck-web3-lead-tokenized-real-estate-the-holy-grail</link>
+  <pubDate>Tue, 27 Feb 2024 13:05:02 +0000</pubDate>
+  
+    <description>VanEck&#39;s Head of NFT Community and Web3, Matt Bartlett, joined Stephen Graves at NFT Paris to discuss the launch of its new NFT platform Segment.io, and the need for regulatory clarity in the NFT space.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/HHwsvcei/vaneck-web3-lead-tokenized-real-estate-the-holy-grail</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/HHwsvcei/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/HHwsvcei/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>Orangie Plays &#39;Dookey Dash: Unclogged,&#39; the Bored Ape Game With Over $1 Million in Prizes</title>
+  <link>https://decrypt.co/videos/interviews/uY3bIt1R/orangie-plays-dookey-dash-unclogged-the-bored-ape-game-with-over-1-million-in-prizes</link>
+  <pubDate>Mon, 26 Feb 2024 22:37:55 +0000</pubDate>
+  
+    <description>Rug Radio creator Orangie shares a first look at an early version of Dookey Dash: Unclogged, the new free-to-play version of 2023&#39;s crypto gaming sensation. Yuga Labs is releasing the new version of the game this spring with over $1 million in prizes up for grabs.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/uY3bIt1R/orangie-plays-dookey-dash-unclogged-the-bored-ape-game-with-over-1-million-in-prizes</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/uY3bIt1R/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/uY3bIt1R/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+      <item>
+  <title>How Paris Saint-Germain FC Joined Chiliz as a Validator</title>
+  <link>https://decrypt.co/videos/interviews/spD1tCwb/how-paris-saint-germain-fc-joined-chiliz-as-a-validator</link>
+  <pubDate>Mon, 26 Feb 2024 15:16:27 +0000</pubDate>
+  
+    <description>Chiliz Chief Strategy Officer Max Rabinovitch joined Decrypt&#39;s Stephen Graves at NFT Paris to discuss Paris Saint-Germain FC joining its network as a validator, and how consequential Web3 adoption in sport will come from the grassroots.</description>
+  
+  <dc:creator></dc:creator>
+  
+  
+    <guid isPermaLink="false">https://decrypt.co/videos/interviews/spD1tCwb/how-paris-saint-germain-fc-joined-chiliz-as-a-validator</guid>
+  
+  
+    <enclosure url="https://cdn.jwplayer.com/v2/media/spD1tCwb/poster.jpg" length="1000000" type="image/png" />
+  
+  
+    
+      <category></category>
+    
+  
+  
+  
+  
+  
+  
+    
+    
+      <media:thumbnail url="https://cdn.jwplayer.com/v2/media/spD1tCwb/poster.jpg"/>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+</item>
+    
+  </channel>
+</rss>

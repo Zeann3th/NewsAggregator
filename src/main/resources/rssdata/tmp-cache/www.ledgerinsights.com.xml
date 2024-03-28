@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ledger Insights &#8211; blockchain for enterprise</title>
+	<atom:link href="https://www.ledgerinsights.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.ledgerinsights.com/</link>
+	<description>Blockchain for business</description>
+	<lastBuildDate>Thu, 28 Mar 2024 11:19:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Singapore is working on fund tokenization regulation, global layer 1</title>
+		<link>https://www.ledgerinsights.com/singapore-fund-tokenization-regulation-global-layer-1/</link>
+		
+		<dc:creator><![CDATA[Ledger Insights]]></dc:creator>
+		<pubDate>Thu, 28 Mar 2024 11:19:35 +0000</pubDate>
+				<category><![CDATA[Capital markets]]></category>
+		<category><![CDATA[Legal and IP]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[distributed ledger]]></category>
+		<category><![CDATA[DLT]]></category>
+		<category><![CDATA[fund tokenization]]></category>
+		<category><![CDATA[funds]]></category>
+		<category><![CDATA[GL1]]></category>
+		<category><![CDATA[global layer one]]></category>
+		<category><![CDATA[legislation]]></category>
+		<category><![CDATA[MAS]]></category>
+		<category><![CDATA[Monetary Authority of Singapore]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[Singapore]]></category>
+		<category><![CDATA[tokenization]]></category>
+		<guid isPermaLink="false">https://ledgerinsights.com/?p=33234</guid>
+
+					<description><![CDATA[<p>Yesterday, Monetary Authority of Singapore managing director Chia Der Jiun discussed tokenization during an event for asset managers. He covered some of the fund tokenization pilots that are part of Project Guardian and the MAS Global Layer 1 (GL1) initiative for tokenization. He highlighted the tokenization benefits of instant settlement and process automation, which can create efficiencies […]</p>
+<p>The post <a href="https://www.ledgerinsights.com/singapore-fund-tokenization-regulation-global-layer-1/">Singapore is working on fund tokenization regulation, global layer 1</a> appeared first on <a href="https://www.ledgerinsights.com">Ledger Insights - blockchain for enterprise</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

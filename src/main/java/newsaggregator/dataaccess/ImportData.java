@@ -37,6 +37,7 @@ public class ImportData {
             MongoCollection<Document> collection = db.getCollection("articles");
             File jsonFile = new File(filePath);
             ObjectMapper mapper = new ObjectMapper();
+//            collection.drop();
             List<Document> documents = mapper.readValue(jsonFile, new TypeReference<>() {});
             int count = 0;
             for (Document doc : documents) {
