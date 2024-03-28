@@ -18,6 +18,7 @@ public class JSONFileWriter {
     /**
      * Phương thức này dùng để viết dữ liệu từ list các bài viết vào file JSON.
      * @param postList List các bài viết.
+     * @param filePath Đường dẫn file JSON (dùng để lưu).
      * @see newsaggregator.post.Post
      */
     public static void writePostToJson(List<Post> postList, String filePath) {
@@ -52,6 +53,12 @@ public class JSONFileWriter {
             e.printStackTrace();
         }
     }
+    /**
+     * Phương thức này dùng để viết dữ liệu từ list các BSON Document vào file JSON.
+     * @param articles List các BSON Document.
+     * @param filePath Đường dẫn file JSON (dùng để lưu).
+     * @see org.bson.Document
+     */
     public static void writeDocumentToJson(List<Document> articles, String filePath) {
         JSONArray jArray = new JSONArray();
         for (Document article : articles) {

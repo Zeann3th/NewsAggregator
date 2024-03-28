@@ -19,19 +19,18 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * Lớp này dùng để nhập dữ liệu từ file JSON/CSV vào database.
- * <br> Hiện tại chỉ hỗ trợ nhập dữ liệu từ file JSON. Nhóm chúng tôi dự định sẽ hỗ trợ nhập dữ liệu từ file CSV trong tương lai.
+ * Class
+ * Lớp này dùng để nhập dữ liệu từ file JSON vào database và tạo index cho các bài báo.
  * @author Lý Hiển Long
- * @version 1.0
  */
 public class ImportData {
     /**
-     * Phương thức này dùng để nhập dữ liệu từ file JSON vào database.
-     * @param filePath Đường dẫn tới file JSON. e.g: "src/main/resources/data.json"
-     * @throws IOException Ném ra nếu có lỗi khi đọc file.
+     * Phương thức này sẽ kết nối tới database của MongoDB và đẩy dữ liệu từ file JSON lên database thông qua thư viện MongoDB-driver-sync.
+     * Bài viết sẽ được đẩy lên database `WebData`, collection `articles`.
+     * Nếu bài viết đã tồn tại trong database, nó sẽ không đẩy lên nữa.
+     * @param filePath Đường dẫn tới file JSON. e.g: "src/main/resources/data/upstream/data.json"
      */
-    public static void importJSON(String filePath) throws IOException {
-        // Nối tới database
+    public static void importJsonToDatabase(String filePath) throws IOException {
         try (MongoClient mongoClient = MongoClients.create(System.getProperty("mongodb.uri"))) {
             MongoDatabase db = mongoClient.getDatabase("WebData");
             MongoCollection<Document> collection = db.getCollection("articles");
@@ -57,6 +56,15 @@ public class ImportData {
         }
     }
 
+    /**
+     * Phương thức này sẽ tạo index cho các bài báo trong database nhằm phục vụ cho full-text search.
+     * Index sẽ được tạo ra cho mọi trường thuộc bài báo trong collection `articles`.
+     * Phương pháp tạo index:
+     * - Tạo kết nối HTTP đến MongoDB Atlas với API key được mã hóa bằng phương thức Digest.
+     * - Tạo một request POST với body là thông tin về index cần tạo (tên database, collection, tên index, lựa chọn full-text search).
+     * - Nếu response code là 200, index đã được tạo thành công.
+     * - Nếu response code là 403, đã có index với tên tương tự trong collection => bad request (không đáng lo ngại).
+     */
     public static void createSearchIndex() {
         final DigestAuthenticator authenticator =
                 new DigestAuthenticator(

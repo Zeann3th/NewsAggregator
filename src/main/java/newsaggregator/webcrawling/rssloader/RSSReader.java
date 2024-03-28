@@ -19,13 +19,12 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * Lớp RSSReader thực hiện việc đọc file XML từ các nguồn RSS được lưu trữ trong file webSources.txt
+ * và trả về một danh sách các bài báo được lưu trữ trong các file XML này
+ * @author Trần Quang Hưng
+ */
 public class RSSReader extends Crawler {
-    /**
-     * Lớp RSSReader thực hiện việc đọc file XML từ các nguồn RSS được lưu trữ trong file webSources.txt
-     * và trả về một danh sách các bài báo được lưu trữ trong các file XML này
-     * @throws Exception
-     * @author: Trần Quang Hưng
-     */
     @Override
     public void crawl() {
 //        RSSSync rssSync = new RSSSync();

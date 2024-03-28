@@ -14,7 +14,9 @@ import java.util.List;
 
 
 /**
- * Lớp này dùng để thực hiện thao tác tìm kiếm liệu trên database.
+ * Class
+ * Lớp này dùng để thực hiện các thao tác tìm kiếm trên database.
+ * @author Lý Hiển Long
  */
 public class ReadData {
     private List<Document> queryData;
@@ -34,7 +36,7 @@ public class ReadData {
      * e.g: QueryData qd = new QueryData();
      *      qd.read("dao", "desc");
      *      -> Tìm kiếm tất cả các bài viết, các trường trong bài viết có chứa từ "dao" và sắp xếp theo thứ tự mới nhất.
-     * TODO: Cần thêm chức năng AutoComplete, Tìm kiếm trường cụ thể, ...
+     * TODO: Tìm kiếm trường cụ thể, ...
      */
     public void search(String value, String sortOrder) {
         try (MongoClient mongoClient = MongoClients.create(System.getProperty("mongodb.uri"))) {
@@ -58,6 +60,11 @@ public class ReadData {
         }
     }
 
+    /**
+     * Phương thức này dùng để gợi ý người dùng khi nhập từ khóa tìm kiếm.
+     * Cần được đặt vào trong Thread khi chạy trên ứng dụng.
+     * @param value Nội dung cần tìm kiếm.
+     */
     public void autoComplete(String value) {
         try (MongoClient mongoClient = MongoClients.create(System.getProperty("mongodb.uri"))) {
             MongoDatabase db = mongoClient.getDatabase("WebData");
